@@ -1,4 +1,4 @@
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.183.90.210:50000?security=tls&sni=agedgv.ambercc.filegear-sg.me&type=ws&host=agedgv.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-121.183.90.210:50000
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.164.79.55:50000?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-121.164.79.55:50000
-vless://699f6733-5766-42f0-a05b-da23c5ee3817@210.99.119.3:50000?sni=ed.sosocn.filegear-sg.me&type=ws&host=ed.sosocn.filegear-sg.me&allowInsecure=0#🔒 VL-WS-NA 🇰🇷 KR-210.99.119.3:50000
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@222.113.39.207:50000?security=tls&sni=edmx.aimercc.filegear-sg.me&type=ws&host=edmx.aimercc.filegear-sg.me&path=/?ed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇰🇷 KR-222.113.39.207:50000
+vless://699f6733-5766-42f0-a05b-da23c5ee3817@210.99.119.3:50000?sni=ed.sosocn.filegear-sg.me&type=ws&host=ed.sosocn.filegear-sg.me&allowInsecure=0#🔒 VL-WS-NA 🇰🇷 KR-210.99.119.3:50000
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.164.79.55:50000?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-121.164.79.55:50000

@@ -1,4 +1,4 @@
-vless://4cd1bf48-c630-629e-bc93-ac271c919850@51.195.35.2:5234?security=reality&flow=xtls-rprx-vision&sni=yandex.com&type=tcp&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709#🔒 VL-TCP-RLT 🇫🇷 FR-51.195.35.2:5234
-vless://5a67b9fc-505b-7530-06ba-6527ed320c12@51.195.35.2:5234?security=tls&flow=xtls-rprx-vision-udp443&sni=yandex.com&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-51.195.35.2:5234
 vless://5a67b9fc-505b-7530-06ba-6527ed320c12@146.19.143.150:5234?security=tls&flow=xtls-rprx-vision-udp443&sni=yandex.com&fp=chrome#🔒 VL-TCP-TLS 🇪🇪 EE-146.19.143.150:5234
+vless://4cd1bf48-c630-629e-bc93-ac271c919850@51.195.35.2:5234?security=reality&flow=xtls-rprx-vision&sni=yandex.com&type=tcp&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709#🔒 VL-TCP-RLT 🇫🇷 FR-51.195.35.2:5234
 vless://4cd1bf48-c630-629e-bc93-ac271c919850@146.19.143.150:5234?security=reality&flow=xtls-rprx-vision&sni=yandex.com&type=tcp&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709#🔒 VL-TCP-RLT 🇪🇪 EE-146.19.143.150:5234
+vless://5a67b9fc-505b-7530-06ba-6527ed320c12@51.195.35.2:5234?security=tls&flow=xtls-rprx-vision-udp443&sni=yandex.com&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-51.195.35.2:5234

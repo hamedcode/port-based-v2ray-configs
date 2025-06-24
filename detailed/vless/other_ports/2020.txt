@@ -1,1 +1,2 @@
+vless://7de8f9c5-c2bf-411c-8c6c-9b9612d3d17c@95.38.140.133:2020?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.140.133:2020
 vless://bba8ce87-7e79-4195-b38e-f1573f2a5664@46.38.148.3:2020?security=none&type=tcp&host=P30afzar.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.148.3:2020

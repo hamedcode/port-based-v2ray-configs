@@ -1,4 +1,4 @@
-vless://adeee029-e9b5-4312-8d00-71be8d86a7d3@37.32.41.184:1010?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.41.184:1010
+vless://cd1b9054-d950-41f7-a61e-4496a4bf9970@87.236.38.206:1010?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.38.206:1010
 vless://f8729660-82eb-47e0-9f45-2984113316ca@185.204.171.31:1010?security=reality&sni=canva.com&type=tcp&fp=chrome&pbk=a0_d-hjj7ByzOdLnniZTHPcRIEnT9DtI1icnlrekuDM&sid=8a1fb5d015ab108c#🔒 VL-TCP-RLT 🇩🇪 DE-185.204.171.31:1010
 vless://cd1b9054-d950-41f7-a61e-4496a4bf9970@87.236.38.206:1010?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-87.236.38.206:1010
-vless://cd1b9054-d950-41f7-a61e-4496a4bf9970@87.236.38.206:1010?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.38.206:1010
+vless://adeee029-e9b5-4312-8d00-71be8d86a7d3@37.32.41.184:1010?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.41.184:1010

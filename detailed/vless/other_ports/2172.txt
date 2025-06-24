@@ -1,3 +1,3 @@
+vless://94b7bd2b-f373-4c5b-9892-5e16fde812bf@49.13.237.7:2172?security=reality&sni=www.chess.com&type=grpc&serviceName=chessgame&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I#🔒 VL-GRPC-RLT 🇩🇪 DE-49.13.237.7:2172
 vless://b12624a6-25d0-484d-8725-3eca4544d522@49.13.237.7:2172?security=tls&sni=www.chess.com&type=grpc#🔒 VL-GRPC-TLS 🇩🇪 DE-49.13.237.7:2172
 vless://94b7bd2b-f373-4c5b-9892-5e16fde812bf@157.180.41.190:2172?security=reality&sni=www.chess.com&type=grpc&serviceName=chessgame&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I#🔒 VL-GRPC-RLT 🇫🇮 FI-157.180.41.190:2172
-vless://94b7bd2b-f373-4c5b-9892-5e16fde812bf@49.13.237.7:2172?security=reality&sni=www.chess.com&type=grpc&serviceName=chessgame&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I#🔒 VL-GRPC-RLT 🇩🇪 DE-49.13.237.7:2172

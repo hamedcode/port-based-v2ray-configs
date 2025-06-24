@@ -1,2 +1,2 @@
-trojan://a348278e-71ac-499c-8069-28b1af18c372@111.250.98.104:3663?sni=tw40.453521.xyz&allowInsecure=0#🔒 TR-TCP-NA 🇹🇼 TW-111.250.98.104:3663
 trojan://a348278e-71ac-499c-8069-28b1af18c372@111.250.98.104:3663?security=tls&sni=tw40.453521.xyz&type=tcp#🔒 TR-TCP-TLS 🇹🇼 TW-111.250.98.104:3663
+trojan://a348278e-71ac-499c-8069-28b1af18c372@111.250.98.104:3663?sni=tw40.453521.xyz&allowInsecure=0#🔒 TR-TCP-NA 🇹🇼 TW-111.250.98.104:3663

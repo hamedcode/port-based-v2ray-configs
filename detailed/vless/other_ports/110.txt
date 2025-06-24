@@ -1,2 +1,2 @@
-vless://38b4dd8c-e4f9-4b13-8124-b7092c2e6045@91.107.161.47:110?security=tls&sni=cdnjs.cloudflare.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇩🇪 DE-91.107.161.47:110
 vless://d480786e-dc55-4c48-af9b-3ddf15bdd2cd@91.107.161.47:110?security=reality&sni=cdnjs.cloudflare.com&type=grpc&serviceName=Go4HFJDtQYDNh5HQII31&fp=chrome&pbk=gjpZdZmvqNvzY9cgnc0tTF9XXAvvq5Hmp37jJl2lvWY&sid=ce9fa5&alpn=h2#🔒 VL-GRPC-RLT 🇩🇪 DE-91.107.161.47:110
+vless://38b4dd8c-e4f9-4b13-8124-b7092c2e6045@91.107.161.47:110?security=tls&sni=cdnjs.cloudflare.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇩🇪 DE-91.107.161.47:110

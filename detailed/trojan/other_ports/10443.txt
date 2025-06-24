@@ -1,2 +1,2 @@
-trojan://Aimer@20.243.85.49:10443?sni=epccs.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-20.243.85.49:10443
 trojan://Aimer@156.229.164.158:10443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-156.229.164.158:10443
+trojan://Aimer@20.243.85.49:10443?sni=epccs.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-20.243.85.49:10443
