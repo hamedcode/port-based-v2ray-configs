@@ -1,20 +1,23 @@
-name: Update Configs
+name: Update Configs and Stats
 
 on:
   push:
-    branches: [ main ]
+    # این گردش کار روی هر شاخه‌ای که به آن پوش شود اجرا می‌شود
+    # شما می‌توانید آن را به شاخه‌های خاصی محدود کنید، مثلاً: branches: [ main, speed ]
+    branches-ignore: []
   schedule:
-    - cron: '0 */4 * * *'  # هر ۴ ساعت یک بار اجرا می‌شود
+    # این بخش فقط روی شاخه پیش‌فرض (main) اجرا می‌شود
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build_and_push:
+  build-and-push:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main branch
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -27,18 +30,23 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run Python script to generate all files and stats
-        id: run_script
+      - name: Run Python script to generate files
         run: python categorize_all_protocols.py
-
-      - name: Configure Git
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Commit and push changes
         run: |
-          git add .
-          # فقط در صورتی کامیت کن که تغییری وجود داشته باشد
-          git diff-index --quiet HEAD || git commit -m "📊 Update configs and stats"
-          git push origin main
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # بررسی وجود تغییرات
+          if ! git diff-index --quiet HEAD; then
+            echo "Changes found. Committing and pushing..."
+            git add .
+            git commit -m "📊 Update configs and stats"
+            
+            # دریافت نام شاخه فعلی و پوش به همان شاخه
+            # GITHUB_REF_NAME حاوی نام شاخه‌ای است که گردش کار را فعال کرده
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "No changes to commit."
+          fi
