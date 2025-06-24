@@ -1,2 +1,1 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.119.112.54:2501?path=%2F%3Fed%3D2560#🔒 VL-TCP-NA 🇳🇱 NL-188.119.112.54:2501
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@89.185.85.196:2501?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-89.185.85.196:2501

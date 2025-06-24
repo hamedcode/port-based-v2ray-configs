@@ -1,3 +1,1 @@
-vless://c68c85fb-c0ed-4152-8b8e-3d79478722ad@2.189.242.35:15632?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-2.189.242.35:15632
 vless://f7ce797e-495c-443e-9d22-705f3369d6db@87.236.208.217:15632?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.208.217:15632
-vless://f7ce797e-495c-443e-9d22-705f3369d6db@62.60.194.117:15632?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.194.117:15632

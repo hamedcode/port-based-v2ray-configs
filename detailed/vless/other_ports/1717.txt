@@ -1,2 +1,1 @@
-vless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:1717?security=none&type=grpc&serviceName=1717vless#🔒 VL-GRPC-NONE 🇮🇷 IR-85.133.215.24:1717
 vless://5d86faa0-9d3c-4f3a-adf5-79aa7d0e2e75@188.212.97.80:1717?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.97.80:1717

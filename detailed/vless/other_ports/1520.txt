@@ -1,3 +1,2 @@
-vless://94b7bd2b-f373-4c5b-9892-5e16fde812bf@157.180.41.190:1520?type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NA 🇫🇮 FI-157.180.41.190:1520
 vless://94b7bd2b-f373-4c5b-9892-5e16fde812bf@49.13.237.7:1520?type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-49.13.237.7:1520
-vless://a2220dac-08fa-4337-83ca-44d327d3da66@188.245.95.151:1520?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.95.151:1520
+vless://94b7bd2b-f373-4c5b-9892-5e16fde812bf@157.180.41.190:1520?type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NA 🇫🇮 FI-157.180.41.190:1520

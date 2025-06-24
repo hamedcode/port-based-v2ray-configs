@@ -1,2 +1,1 @@
-vless://3c650b9c-a08a-473c-a1b8-c55518c8728c@46.38.150.229:4001?security=none&type=tcp&host=eN.TwiTtER.cOM.%3A8880&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.150.229:4001
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.154.98.230:4001?security=tls&sni=az.ylka.dpdns.org&type=ws&host=az.ylka.dpdns.org&path=%2F#🔒 VL-WS-TLS 🇳🇱 NL-45.154.98.230:4001

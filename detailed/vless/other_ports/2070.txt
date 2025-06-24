@@ -1,5 +1,1 @@
 vless://125614d4-9ca7-4593-a8f7-21cb6184a7ca@81.12.33.182:2070?security=none&type=tcp&host=parsabr.com&path=%2Fapi%2Fregister%2Fnew%2Fname%2Fdav%2Fresponse%2FcmV0aXJlZCBoZWxsbyBob3cgYXJlIHlvdSB0aGlzIGlzIG15IG5ldyBoZWFkZXIgd&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.12.33.182:2070
-vless://1979b29e-f22a-43fe-a681-c29837061973@91.207.18.245:2070?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-91.207.18.245:2070
-vless://948e4b15-3e0a-5c64-e977-5d44dbed2374@5.159.49.212:2070?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-5.159.49.212:2070
-vless://617452a4-c16d-4252-a2c7-b016ddc733b1@62.60.218.252:2070?security=none&type=ws&host=aparat.com&path=/?ed%3D2560#🔒 VL-WS-NONE 🇮🇷 IR-62.60.218.252:2070
-vless://fe85f5a9-edca-41be-895b-e08428a20a49@91.92.40.78:2070?security=none&type=tcp#🔒 VL-TCP-NONE 🇸🇪 SE-91.92.40.78:2070

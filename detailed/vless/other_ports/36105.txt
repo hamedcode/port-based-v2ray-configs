@@ -1,2 +1,1 @@
-vless://5cc7aa22-1afa-4715-ace7-498e44061b77@13.36.174.171:36105?security=tls&sni=b.vahidvpn.com.tr&alpn=h3,h2,http/1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-13.36.174.171:36105
 vless://65410be0-1411-4c94-b017-0ac2d7181ca8@15.237.116.254:36105?security=tls&sni=b.vahidvpn.com.tr&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-15.237.116.254:36105

@@ -1,2 +1,1 @@
-vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:1616?security=none&type=ws&host=zula.ir&path=/#🔒 VL-WS-NONE 🇮🇷 IR-46.100.13.17:1616
 vless://10be2484-c892-4fde-8115-abefb200714c@164.132.222.7:1616?security=reality&sni=www.stackoverflow.com&type=grpc&serviceName=1616vless&fp=firefox&pbk=-zC1ediF7maAlz_fhdCQGuT1KTj-nrgELKfhfEU19RE&sid=ad76b13babd47bc2#🔒 VL-GRPC-RLT 🇫🇷 FR-164.132.222.7:1616

@@ -1,1 +1,2 @@
 vless://5d86faa0-9d3c-4f3a-adf5-79aa7d0e2e75@188.212.97.122:1743?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.97.122:1743
+vless://eac34140-ed87-4695-8f7d-c04386244209@188.212.97.122:1743?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-188.212.97.122:1743

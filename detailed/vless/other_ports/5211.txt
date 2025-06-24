@@ -1,5 +1,5 @@
-vless://3d0b7807-bac3-4335-bde5-24b3ee48cd82@5.160.35.248:5211?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.248:5211
 vless://3d0b7807-bac3-4335-bde5-24b3ee48cd82@5.160.35.249:5211?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.249:5211
-vless://3d0b7807-bac3-4335-bde5-24b3ee48cd82@5.160.35.246:5211?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.246:5211
 vless://3d0b7807-bac3-4335-bde5-24b3ee48cd82@5.160.35.73:5211?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.73:5211
 vless://3d0b7807-bac3-4335-bde5-24b3ee48cd82@5.160.35.247:5211?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.247:5211
+vless://3d0b7807-bac3-4335-bde5-24b3ee48cd82@5.160.35.248:5211?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.248:5211
+vless://3d0b7807-bac3-4335-bde5-24b3ee48cd82@5.160.35.246:5211?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.246:5211

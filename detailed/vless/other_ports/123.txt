@@ -1,3 +1,1 @@
-vless://a1c2ddb0-9e3c-4b11-acee-e358025d3e60@84.241.20.8:123?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.241.20.8:123
-vless://3b893e0b-352f-4e89-a2eb-c274b7164e63@45.138.25.134:123?security=none&type=xhttp&host=www.speedtest.net&path=/JoinBadeChannel@antimeli#🔒 VL-XHTTP-NONE 🇳🇱 NL-45.138.25.134:123
 vless://4ca3a0bd-525c-4889-b9c7-b93680dcdab9@84.241.20.8:123?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.241.20.8:123

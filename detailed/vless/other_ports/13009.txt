@@ -1,2 +1,2 @@
-vless://91ddda09-bc1c-426c-bf89-d01391cf0096@16.162.200.251:13009?security=tls&flow=xtls-rprx-vision-udp443&sni=player.live-video.net&fp=chrome#🔒 VL-TCP-TLS 🇭🇰 HK-16.162.200.251:13009
 vless://91ddda09-bc1c-426c-bf89-d01391cf0096@16.162.200.251:13009?security=reality&flow=xtls-rprx-vision&sni=player.live-video.net&type=tcp&fp=chrome&pbk=GuTuiDM9kwjNv8QL3iy_sa18NnoeJ0gtOKMSLZSw_20&sid=6ba85179e30d4fc2#🔒 VL-TCP-RLT 🇭🇰 HK-16.162.200.251:13009
+vless://91ddda09-bc1c-426c-bf89-d01391cf0096@16.162.200.251:13009?security=tls&flow=xtls-rprx-vision-udp443&sni=player.live-video.net&fp=chrome#🔒 VL-TCP-TLS 🇭🇰 HK-16.162.200.251:13009

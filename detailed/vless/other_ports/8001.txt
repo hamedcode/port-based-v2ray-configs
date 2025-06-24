@@ -1,4 +1,1 @@
-vless://96750608-cfd9-4b1c-bd7e-fc9815803a73@109.122.251.3:8001?security=reality&flow=xtls-rprx-vision&sni=hostdl.com&type=tcp&fp=randomized&pbk=4BNkudIPt7bMS-DZ2olXt3AMgJhGxPzqta9G-ES5KCU&sid=74afcbbb#🔒 VL-TCP-RLT 🇮🇷 IR-109.122.251.3:8001
-vless://1364334f-7361-4ebc-86a1-ac06e918631f@151.234.162.33:8001?security=none&type=tcp&host=cafebazaar.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-151.234.162.33:8001
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.242.145.136:8001?security=tls&sni=edccy.ambercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇭🇰 HK-47.242.145.136:8001
-vless://be34d195-0697-44b4-8a3e-07edc2f3abb7@87.247.169.211:8001?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.247.169.211:8001

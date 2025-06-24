@@ -1,6 +1,2 @@
-vless://92a02e30-73df-43ca-b6e6-c8aac4fc86a7@185.133.125.6:19100?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.133.125.6:19100
-vless://92a02e30-73df-43ca-b6e6-c8aac4fc86a7@185.133.125.10:19100?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.133.125.10:19100
-vless://92a02e30-73df-43ca-b6e6-c8aac4fc86a7@185.133.125.8:19100?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.133.125.8:19100
-vless://92a02e30-73df-43ca-b6e6-c8aac4fc86a7@185.133.125.7:19100?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.133.125.7:19100
 vless://92a02e30-73df-43ca-b6e6-c8aac4fc86a7@185.133.125.5:19100?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.133.125.5:19100
-vless://92a02e30-73df-43ca-b6e6-c8aac4fc86a7@185.133.125.4:19100?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.133.125.4:19100
+vless://92a02e30-73df-43ca-b6e6-c8aac4fc86a7@185.133.125.6:19100?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.133.125.6:19100

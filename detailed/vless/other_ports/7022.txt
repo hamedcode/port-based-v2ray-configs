@@ -1,2 +1,2 @@
-vless://ce462cc3-9983-45da-b030-728fb7b5684e@188.245.250.75:7022?security=tls&sni=refersion.com&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-188.245.250.75:7022
 vless://ce462cc3-9983-45da-b030-728fb7b5684e@188.245.250.75:7022?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=Sm0gGVH8qJHECOVhNaN2j52ayfqYcrZggyQMxiQP2Fo#🔒 VL-TCP-RLT 🇩🇪 DE-188.245.250.75:7022
+vless://ce462cc3-9983-45da-b030-728fb7b5684e@188.245.250.75:7022?security=tls&sni=refersion.com&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-188.245.250.75:7022

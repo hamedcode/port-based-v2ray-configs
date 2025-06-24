@@ -1,7 +1,1 @@
-vless://0e973d4f-fb2d-4d68-8b86-cd53dc6e7525@88.223.92.197:7964?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-88.223.92.197:7964
-vless://0e973d4f-fb2d-4d68-8b86-cd53dc6e7525@91.99.144.165:7964?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.144.165:7964
-vless://b96981a2-a6aa-44c0-b21f-88328379ec33@85.133.215.21:7964?type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-85.133.215.21:7964
-vless://44ec20e3-1c65-42d0-acb9-46d53f195e8a@188.121.117.20:7964?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.121.117.20:7964
-vless://0e973d4f-fb2d-4d68-8b86-cd53dc6e7525@91.99.148.251:7964?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.148.251:7964
-vless://0e973d4f-fb2d-4d68-8b86-cd53dc6e7525@91.99.150.157:7964?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.150.157:7964
 vless://0e973d4f-fb2d-4d68-8b86-cd53dc6e7525@91.99.150.156:7964?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.150.156:7964

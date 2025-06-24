@@ -1,7 +1,1 @@
-vless://a953e567-ce00-4c95-a96f-6e9fd55d4378@89.235.116.85:2089?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-89.235.116.85:2089
 vless://a953e567-ce00-4c95-a96f-6e9fd55d4378@78.39.9.155:2089?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-78.39.9.155:2089
-vless://ed8a84c1-6478-41fa-80c7-6d1cdcea809d@37.27.251.224:2089?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=XAsXZH4n6RP54ieBFHOfTYpJ4RUMjgsa_FhUA2kZWig&sid=b2058a43fe#🔒 VL-TCP-RLT 🇫🇮 FI-37.27.251.224:2089
-vless://22fed02d-ac38-4ae9-b415-8f99c4865d95@23.88.62.209:2089?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&sid=e3c5c005cae07eb8#🔒 VL-TCP-RLT 🇩🇪 DE-23.88.62.209:2089
-vless://76cbbc98-1adc-4017-9689-8a13969a90e3@37.27.218.238:2089?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=XAsXZH4n6RP54ieBFHOfTYpJ4RUMjgsa_FhUA2kZWig&sid=b2058a43fe#🔒 VL-TCP-RLT 🇫🇮 FI-37.27.218.238:2089
-vless://3a857328-3b53-4333-85b2-a6f2aa22ceb7@37.27.15.167:2089?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&sid=e3c5c005cae07eb8#🔒 VL-TCP-RLT 🇫🇮 FI-37.27.15.167:2089
-vless://a953e567-ce00-4c95-a96f-6e9fd55d4378@78.39.9.153:2089?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.9.153:2089

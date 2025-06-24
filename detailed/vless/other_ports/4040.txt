@@ -1,5 +1,2 @@
-vless://dcb0ea73-b52a-4751-c47a-8acf3533727a@178.239.150.221:4040?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.150.221:4040
-vless://1345e512-9045-4206-8277-28cfbc6aee04@159.69.25.11:4040?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=GqpLuqbGhZ3N1oIlSMfuLnpKCNZOoK8JWwHPmqSNxgk#🔒 VL-TCP-RLT 🇩🇪 DE-159.69.25.11:4040
 vless://31242903-b05f-4795-a845-cb434eb57c03@91.99.154.133:4040?security=reality&sni=refersion.com&type=tcp&fp=firefox&pbk=GqpLuqbGhZ3N1oIlSMfuLnpKCNZOoK8JWwHPmqSNxgk#🔒 VL-TCP-RLT 🇩🇪 DE-91.99.154.133:4040
-vless://8d85c0f1-0f93-40bc-88c8-1d98735bd159@138.124.25.215:4040?security=none&type=tcp#🔒 VL-TCP-NONE 🇸🇪 SE-138.124.25.215:4040
-vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:4040?security=none&type=ws&host=bundesregierung.de&path=/#🔒 VL-WS-NONE 🇮🇷 IR-46.100.13.17:4040
+vless://dcb0ea73-b52a-4751-c47a-8acf3533727a@178.239.150.221:4040?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.150.221:4040

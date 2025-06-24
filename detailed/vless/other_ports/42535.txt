@@ -1,3 +1,1 @@
 vless://8daf992d-bb72-42db-ba48-7fb1f7605822@45.159.148.111:42535?type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-45.159.148.111:42535
-vless://38e6d66d-89b4-4a1a-b0fc-b8e8f2b510d9@5.159.49.45:42535?type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-5.159.49.45:42535
-vless://8daf992d-bb72-42db-ba48-7fb1f7605822@45.159.148.111:42535?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.111:42535

@@ -1,3 +1,2 @@
-vless://6a0eb77b-3b63-4cdd-97df-a7890d52ade0@116.203.46.189:43802?security=none&type=tcp&host=nobitex.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-116.203.46.189:43802
-vless://6a0eb77b-3b63-4cdd-97df-a7890d52ade0@109.122.244.25:43802?security=none&type=tcp&host=nobitex.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.122.244.25:43802
 vless://6a0eb77b-3b63-4cdd-97df-a7890d52ade0@91.107.180.105:43802?security=none&type=tcp&host=nobitex.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.107.180.105:43802
+vless://6a0eb77b-3b63-4cdd-97df-a7890d52ade0@116.203.46.189:43802?security=none&type=tcp&host=nobitex.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-116.203.46.189:43802

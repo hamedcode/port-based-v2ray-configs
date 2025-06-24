@@ -1,2 +1,1 @@
 vless://beec0c14-7d74-4d03-b79f-f5e880726c28@104.168.10.27:5000?security=reality&sni=www.unpkg.com&type=tcp&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#🔒 VL-TCP-RLT 🇫🇷 FR-104.168.10.27:5000
-vless://e0b79077-43fc-4ed8-afbc-13fe2c4f2be6@178.21.161.25:5000?security=tls&sni=servers.xvon.in&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇮🇷 IR-178.21.161.25:5000

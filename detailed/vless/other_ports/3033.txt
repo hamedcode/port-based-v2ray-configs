@@ -1,3 +1,1 @@
-vless://46daebf2-b1c7-4aab-aec8-8286983777aa@185.215.228.254:3033?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-185.215.228.254:3033
 vless://6c83d07c-22b9-4cd8-9a4b-555c9e3fbe84@46.38.148.93:3033?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.148.93:3033
-vless://456a6e1f-add6-4a45-9ede-2ccafebc48ad@85.133.201.174:3033?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.201.174:3033

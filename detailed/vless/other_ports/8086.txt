@@ -1,2 +1,2 @@
-vless://f557cd4c-806f-4398-8ccb-2ae17f2f40d6@84.47.232.221:8086?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.232.221:8086
 vless://5a04dda8-7759-419d-8b74-9521371e86fd@185.14.160.130:8086?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇮🇷 IR-185.14.160.130:8086
+vless://f557cd4c-806f-4398-8ccb-2ae17f2f40d6@84.47.232.221:8086?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.232.221:8086

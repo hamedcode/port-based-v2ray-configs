@@ -1,2 +1,1 @@
 vless://34cf07e4-0c8c-425f-afe5-45c07fd49f87@133.18.104.235:33001?security=reality&flow=xtls-rprx-vision&sni=s0.awsstatic.com&type=tcp&fp=firefox&pbk=rckWtXghGii1mFHTK0UzeXYjtUsqkiQSGz0eBScn1E4#🔒 VL-TCP-RLT 🇯🇵 JP-133.18.104.235:33001
-vless://bfab9a68-5545-5270-bfdd-c9a5476ca066@84.235.237.246:33001?security=reality&sni=fr.zran.top&type=tcp&fp=chrome&pbk=lCw-J-VD2RWK0khO3ySjqdsfSV2qnVx8y91WV8AKMkw#🔒 VL-TCP-RLT 🇫🇷 FR-84.235.237.246:33001

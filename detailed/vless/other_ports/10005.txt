@@ -1,3 +1,1 @@
-vless://9e53942c-aa73-4b57-ba37-0ddc6fa53038@94.183.233.125:10005?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.183.233.125:10005
 vless://95e4f7d4-5e0a-41ac-a9d8-6746b01b0440@85.133.203.14:10005?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.203.14:10005
-vless://95e4f7d4-5e0a-41ac-a9d8-6746b01b0440@45.94.213.114:10005?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.94.213.114:10005

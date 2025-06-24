@@ -1,4 +1,2 @@
-vless://99e33694-b530-4910-a9e9-595c96b3f356@62.60.176.61:2000?type=tcp&host=Soft98.ir#🔒 VL-TCP-NA 🇮🇷 IR-62.60.176.61:2000
-vless://a0069975-5ad0-4f1c-8800-cd55a381b3b9@46.101.163.124:2000?security=reality&sni=www.unpkg.com&type=tcp&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#🔒 VL-TCP-RLT 🇩🇪 DE-46.101.163.124:2000
-vless://73ffb729-9aaf-4e4e-a661-bb220750ae58@188.245.219.248:2000?security=reality&sni=refersion.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=bNYZgBd1gGrlhIh-a7Ii8S8zGItMNgVGjcYq60J5CRs&sid=16ff2510#🔒 VL-GRPC-RLT 🇩🇪 DE-188.245.219.248:2000
 vless://3d212218-5ee2-4df8-8bf8-9eaf2474bf6e@151.234.162.213:2000?security=none&type=tcp&host=telewebion.com&path=/path&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-151.234.162.213:2000
+vless://99e33694-b530-4910-a9e9-595c96b3f356@62.60.176.61:2000?type=tcp&host=Soft98.ir#🔒 VL-TCP-NA 🇮🇷 IR-62.60.176.61:2000
