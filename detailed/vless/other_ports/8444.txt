@@ -1,2 +1,1 @@
 vless://c6f9e7ee-068e-4d2b-acbf-00ae42f6cc24@193.111.235.167:8444?type=grpc#🔒 VL-GRPC-NA 🇮🇷 IR-193.111.235.167:8444
-vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.243.49.205:8444

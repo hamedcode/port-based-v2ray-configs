@@ -1,15 +1,15 @@
-trojan://Aimer@121.131.242.29:50000?sni=epcci.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-121.131.242.29:50000
 trojan://Aimer@121.131.242.29:50000?sni=epcci.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5119
 trojan://Aimer@222.100.242.124:50000?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-222.100.242.124:50000
-trojan://Aimer@220.78.106.96:50000?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-220.78.106.96:50000
-trojan://ttfang@116.47.199.34:50000?sni=ttfang.fange.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-116.47.199.34:50000
-trojan://Aimer@222.106.126.224:50000?sni=epcci.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-222.106.126.224:50000
 trojan://Aimer@121.134.175.190:50000?sni=agepn.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-121.134.175.190:50000
+trojan://Aimer@222.106.126.224:50000?sni=epcci.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-222.106.126.224:50000
 trojan://Aimer@222.106.126.224:50000?sni=epcci.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A557
-trojan://Aimer@121.190.81.4:50000?sni=agepn.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-121.190.81.4:50000
 trojan://Aimer@210.99.119.3:50000?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-210.99.119.3:50000
+trojan://Aimer@121.131.242.29:50000?sni=epcci.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-121.131.242.29:50000
+trojan://Aimer@220.78.106.96:50000?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-220.78.106.96:50000
 trojan://Aimer@221.163.173.252:50000?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-221.163.173.252:50000
-trojan://Aimer@211.251.7.76:50000?sni=epccj.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-211.251.7.76:50000
-trojan://Aimer@121.180.184.145:50000?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-121.180.184.145:50000
+trojan://ttfang@116.47.199.34:50000?sni=ttfang.fange.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-116.47.199.34:50000
+trojan://Aimer@121.190.81.4:50000?sni=agepn.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-121.190.81.4:50000
 trojan://Aimer@118.35.88.114:50000?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-118.35.88.114:50000
 trojan://Aimer@175.214.237.120:50000?security=tls&sni=agepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-175.214.237.120:50000
+trojan://Aimer@211.251.7.76:50000?sni=epccj.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-211.251.7.76:50000
+trojan://Aimer@121.180.184.145:50000?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-121.180.184.145:50000

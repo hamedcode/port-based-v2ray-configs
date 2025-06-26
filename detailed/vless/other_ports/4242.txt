@@ -1,5 +1,5 @@
 vless://f11b459a-b505-4530-a883-59d5b8c51b64@172.233.46.109:4242?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-172.233.46.109:4242
+vless://f11b459a-b505-4530-a883-59d5b8c51b64@172.235.190.230:4242?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-172.235.190.230:4242
 vless://f11b459a-b505-4530-a883-59d5b8c51b64@172.235.173.65:4242?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-172.235.173.65:4242
 vless://f11b459a-b505-4530-a883-59d5b8c51b64@172.235.190.240:4242?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-172.235.190.240:4242
-vless://f11b459a-b505-4530-a883-59d5b8c51b64@172.235.190.230:4242?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-172.235.190.230:4242
 vless://f11b459a-b505-4530-a883-59d5b8c51b64@172.238.101.48:4242?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-172.238.101.48:4242

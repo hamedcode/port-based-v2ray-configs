@@ -1,2 +1,2 @@
-vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@45.32.233.201:63000?security=tls&sni=vkk.wxgqlfx.cn&type=ws&host=vkk.wxgqlfx.cn&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.32.233.201:63000
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@45.32.233.201:63000?security=tls&sni=vkk.wxgqlfx.cn&type=ws&host=vkk.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.32.233.201:63000
+vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@45.32.233.201:63000?security=tls&sni=vkk.wxgqlfx.cn&type=ws&host=vkk.wxgqlfx.cn&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.32.233.201:63000

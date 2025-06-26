@@ -1,2 +1,2 @@
-vless://caaf0e88-9139-48c2-b712-fcacde7a3a45@85.133.240.49:31086?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.240.49:31086
 vless://caaf0e88-9139-48c2-b712-fcacde7a3a45@85.133.240.49:31086?security=none&type=tcp&host=fast.com&headerType=http&fp=chrome#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.240.49:31086
+vless://caaf0e88-9139-48c2-b712-fcacde7a3a45@85.133.240.49:31086?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.240.49:31086

@@ -1,4 +1,4 @@
 vless://5fc10e98-78f0-4ddd-918a-b26094e7ac72@170.64.208.47:2020?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=nb0QpKJ7R_DC2jAhPjbn2ioCk4NFa0m_JJyvpH_f3nI&sid=eb576f9d4ec7fab1#🔒 VL-TCP-RLT 🇦🇺 AU-170.64.208.47:2020
 vless://33bf91b6-97a0-4695-888a-857c9a7c8834@37.32.126.118:2020?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-37.32.126.118:2020
-vless://7de8f9c5-c2bf-411c-8c6c-9b9612d3d17c@95.38.140.133:2020?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.140.133:2020
 vless://a3f9a775-78b9-488c-9f52-8a43c6259d5c@37.32.126.118:2020?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.126.118:2020
+vless://7de8f9c5-c2bf-411c-8c6c-9b9612d3d17c@95.38.140.133:2020?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.140.133:2020
