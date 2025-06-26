@@ -64,32 +64,21 @@ def fetch_all_configs_parallel(sources_dict):
     return unique_configs, source_stats, raw_total
 
 def get_config_info(link):
-    """اطلاعات کامل (شامل نوع شبکه و نام) را از لینک کانفیگ استخراج می‌کند."""
+    """اطلاعات کامل را از لینک کانفیگ استخراج می‌کند."""
     try:
         parsed_url = urlparse(link)
         protocol = parsed_url.scheme.lower()
         host = parsed_url.hostname
         port = str(parsed_url.port)
         name = unquote(parsed_url.fragment)
-        network_type = 'tcp' # Default
 
-        if protocol == "vless" or protocol == "trojan":
-            query_params = parse_qs(parsed_url.query)
-            network_type = query_params.get('type', ['tcp'])[0]
-        elif protocol == "vmess":
-            # For vmess, network type is inside the base64 part, which is more complex to parse here.
-            # We will assume 'tcp' for vmess for simplicity in this function.
-            pass
-        elif protocol == "ss":
-            protocol = "shadowsocks"
-
-        return protocol, host, port, network_type, name
+        return protocol, host, port, name
     except Exception:
-        return None, None, None, None, None
+        return None, None, None, None
 
 def test_config_connection(config_link):
     """یک کانفیگ را با تست اتصال TCP پینگ می‌کند و زمان پاسخ را برمی‌گرداند."""
-    _, host, port, _, _ = get_config_info(config_link)
+    _, host, port, _ = get_config_info(config_link)
     if not host or not port:
         return config_link, float('inf')
     
@@ -181,7 +170,7 @@ def build_readme_content(stats):
         source_stats_lines.append(f"| {left_col} | {right_col} |")
     source_stats_string = "\n".join(source_stats_lines)
     
-    test_results_links = f"""- **Top 200 (gRPC prioritized, US excluded):** `https://raw.githubusercontent.com/{GITHUB_REPO}/main/test-results/top_200_ping.txt`
+    test_results_links = f"""- **Top 200 (by Ping, US & NA excluded):** `https://raw.githubusercontent.com/{GITHUB_REPO}/main/test-results/top_200_ping.txt`
 - **Dead Configs:** `https://raw.githubusercontent.com/{GITHUB_REPO}/main/test-results/dead_configs.txt`"""
     
     final_readme = f"""# Config Collector
@@ -215,7 +204,7 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 ---
 
 ### 🧪 Test Results
-*Note: The Top 200 list prioritizes gRPC configs and excludes US-based servers for better performance in most regions.*
+*Note: The Top 200 list is sorted by the lowest ping and excludes US & NA-based servers for better performance in most regions.*
 
 {test_results_links}
 
@@ -236,36 +225,30 @@ def main():
 
     live_results, dead_configs = test_all_configs_parallel(unique_configs)
     
-    # --- *** منطق جدید برای فیلتر و مرتب‌سازی *** ---
-    print("\nFiltering and sorting live configs...")
-    grpc_configs = []
-    other_configs = []
+    # --- *** منطق جدید برای فیلتر کردن US و NA *** ---
+    print("\nFiltering out US & NA-based servers from the top list...")
+    excluded_identifiers = [' us', '.us', '-us', '_us', 'united states', '🇺🇸', ' na', '.na', '-na', '_na', 'not available']
     
-    us_identifiers = [' us', '.us', '-us', '_us', 'united states', '🇺🇸']
-    
+    filtered_live_configs = []
     for config, latency in live_results:
-        protocol, _, _, network_type, name = get_config_info(config)
+        # برای فیلتر کردن فقط به نام کانفیگ نیاز داریم
+        _, _, _, name = get_config_info(config)
         
-        # فیلتر کردن کانفیگ‌های آمریکا بر اساس نام
-        is_us = False
-        for identifier in us_identifiers:
-            if identifier in name.lower():
-                is_us = True
-                break
-        if is_us:
-            continue
-
-        # دسته‌بندی بر اساس نوع gRPC
-        if network_type == 'grpc':
-            grpc_configs.append(config)
-        else:
-            other_configs.append(config)
+        is_excluded = False
+        if name: # اطمینان از اینکه نام وجود دارد
+            for identifier in excluded_identifiers:
+                if identifier in name.lower():
+                    is_excluded = True
+                    break
+        
+        if not is_excluded:
+            filtered_live_configs.append(config)
             
-    # ساخت لیست نهایی ۲۰۰تای برتر
-    top_200_configs = (grpc_configs + other_configs)[:200]
-    print(f"Generated a top list of {len(top_200_configs)} configs (gRPC prioritized, US excluded).")
+    # ساخت لیست ۲۰۰تای برتر از کانفیگ‌های فیلتر شده
+    top_200_configs = filtered_live_configs[:200]
+    print(f"Generated a top list of {len(top_200_configs)} configs (US & NA excluded).")
 
-    # لیست کلی کانفیگ‌های فعال (شامل همه انواع و کشورها)
+    # لیست کلی کانفیگ‌های فعال (شامل همه کشورها) برای بقیه فایل‌ها استفاده می‌شود
     live_configs = [res[0] for res in live_results]
     
     print("\nWriting test result files...")
@@ -291,7 +274,7 @@ def main():
     print("\nCategorizing all working configurations...")
     categorized_by_protocol_and_port = defaultdict(lambda: defaultdict(list))
     for config_link in live_configs:
-        protocol, _, port, _, _ = get_config_info(config_link)
+        protocol, _, port, _ = get_config_info(config_link)
         if protocol and port:
             categorized_by_protocol_and_port[protocol][port].append(config_link)
 
