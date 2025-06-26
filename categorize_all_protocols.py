@@ -5,10 +5,9 @@ import os
 import re
 import socket
 import time
-import ipaddress
 import concurrent.futures
 from collections import defaultdict
-from urllib.parse import urlparse
+from urllib.parse import urlparse, parse_qs, unquote
 from datetime import datetime, timezone, timedelta
 
 # === منابع کانفیگ ===
@@ -32,117 +31,79 @@ FAMOUS_PORTS = {'80', '443', '8080', '8088', '2052', '2053', '2082', '2083', '20
 GITHUB_REPO = os.environ.get('GITHUB_REPOSITORY', 'hamed1124/port-based-v2ray-configs')
 MAX_WORKERS = 100
 CONNECTION_TIMEOUT = 3
-GEOIP_API_URL = "http://ip-api.com/json/"
 
-# === توابع اصلی (بدون تغییر) ===
-def fetch_source(name, url):
-    try:
-        print(f"--> شروع دریافت از: {name}...")
-        response = requests.get(url, timeout=120)
-        if response.status_code == 200 and response.text:
-            content = response.text.strip()
-            try:
-                if len(content) > 1000 and "://" not in content:
-                    decoded_content = base64.b64decode(content).decode('utf-8')
-                    configs = decoded_content.strip().split('\n')
-                else:
-                    configs = content.split('\n')
-                valid_configs = [line.strip() for line in configs if line.strip() and '://' in line]
-                if valid_configs:
-                    print(f"  ✅ {len(valid_configs)} کانفیگ معتبر از {name} دریافت شد.")
-                    return name, valid_configs
-            except Exception as e:
-                print(f"  ⚠️ خطا در پردازش محتوای {name}: {e}")
-    except requests.RequestException as e:
-        print(f"❌ خطا در اتصال به {name}: {e}")
-    return name, []
 
 def fetch_all_configs_parallel(sources_dict):
+    """کانفیگ‌ها را از تمام منابع به صورت موازی دریافت می‌کند."""
     raw_configs_list, source_stats = [], defaultdict(int)
     print("شروع دریافت موازی کانفیگ از تمام منابع...")
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        future_to_source = {executor.submit(fetch_source, name, url): name for name, url in sources_dict.items()}
+        future_to_source = {executor.submit(requests.get, url, timeout=120): url for url in sources_dict.values()}
+        
         for future in concurrent.futures.as_completed(future_to_source):
             try:
-                name, configs = future.result()
-                if configs:
-                    raw_configs_list.extend(configs)
-                    source_stats[name] = len(configs)
+                response = future.result()
+                if response.status_code == 200 and response.text:
+                    name = [k for k, v in sources_dict.items() if v == response.url][0]
+                    content = response.text.strip()
+                    if len(content) > 1000 and "://" not in content:
+                        content = base64.b64decode(content).decode('utf-8')
+                    
+                    configs = content.strip().split('\n')
+                    valid_configs = [line.strip() for line in configs if line.strip() and '://' in line]
+                    if valid_configs:
+                        raw_configs_list.extend(valid_configs)
+                        source_stats[name] = len(valid_configs)
+                        print(f"  ✅ {len(valid_configs)} کانفیگ معتبر از {name} دریافت شد.")
             except Exception as e:
-                source_name = future_to_source[future]
-                print(f"- خطای جدی در پردازش نتیجه {source_name}: {e}")
+                print(f"- خطایی در هنگام دریافت یا پردازش یک منبع رخ داد: {e}")
+
     raw_total = len(raw_configs_list)
     unique_configs = list(set(raw_configs_list))
     print(f"\nتعداد کل کانفیگ‌های خام دریافت شده: {raw_total}. تعداد کانفیگ‌های منحصر به فرد: {len(unique_configs)}.")
     return unique_configs, source_stats, raw_total
 
 def get_config_info(link):
+    """اطلاعات کامل (شامل نوع شبکه و نام) را از لینک کانفیگ استخراج می‌کند."""
     try:
-        protocol = link.split("://")[0].lower()
-        host, port = None, None
-        if protocol == "vless" or protocol in ["trojan", "tuic", "hysteria2", "hy2"]:
-            parsed_url = urlparse(link)
-            host = parsed_url.hostname
-            port = parsed_url.port
-            protocol = "hysteria2" if protocol in ["hy2", "hysteria2"] else protocol
+        parsed_url = urlparse(link)
+        protocol = parsed_url.scheme.lower()
+        host = parsed_url.hostname
+        port = str(parsed_url.port)
+        name = unquote(parsed_url.fragment)
+        network_type = 'tcp' # Default
+
+        if protocol == "vless" or protocol == "trojan":
+            query_params = parse_qs(parsed_url.query)
+            network_type = query_params.get('type', ['tcp'])[0]
         elif protocol == "vmess":
-            b64_part = link.replace("vmess://", "") + '=' * (-len(link.replace("vmess://", "")) % 4)
-            config_json = json.loads(base64.b64decode(b64_part).decode('utf-8'))
-            host = config_json.get('add')
-            port = config_json.get('port')
+            # For vmess, network type is inside the base64 part, which is more complex to parse here.
+            # We will assume 'tcp' for vmess for simplicity in this function.
+            pass
         elif protocol == "ss":
             protocol = "shadowsocks"
-            if '@' in (main_part := link.split('#')[0]):
-                parsed_url = urlparse(main_part)
-                host = parsed_url.hostname
-                port = parsed_url.port
-            else:
-                b64_part = main_part.replace("ss://", "") + '=' * (-len(main_part.replace("ss://", "")) % 4)
-                decoded_str = base64.b64decode(b64_part).decode('utf-8')
-                _, host_info = decoded_str.split('@')
-                host, port = host_info.split(':')
-        if host and port:
-            return protocol, host, str(port)
-        return None, None, None
+
+        return protocol, host, port, network_type, name
     except Exception:
-        return None, None, None
+        return None, None, None, None, None
 
 def test_config_connection(config_link):
-    """تست اتصال و اندازه‌گیری پینگ. در صورت موفقیت، کشور را نیز برمی‌گرداند."""
-    _, host, port = get_config_info(config_link)
+    """یک کانفیگ را با تست اتصال TCP پینگ می‌کند و زمان پاسخ را برمی‌گرداند."""
+    _, host, port, _, _ = get_config_info(config_link)
     if not host or not port:
-        return config_link, float('inf'), None
+        return config_link, float('inf')
     
     try:
-        # اگر هاست یک دامنه است، آن را به IP تبدیل کن
-        ip_addr = host
-        if not ipaddress.ip_address(host):
-             ip_addr = socket.gethostbyname(host)
-    except (ValueError, socket.gaierror):
-        ip_addr = host # اگر تبدیل نشد، از همان هاست استفاده کن
-
-    try:
         start_time = time.time()
-        with socket.create_connection((ip_addr, int(port)), timeout=CONNECTION_TIMEOUT):
+        with socket.create_connection((host, int(port)), timeout=CONNECTION_TIMEOUT):
             end_time = time.time()
             latency = (end_time - start_time) * 1000
-            
-            # دریافت اطلاعات کشور
-            country = "Unknown"
-            try:
-                res = requests.get(f"{GEOIP_API_URL}{ip_addr}", timeout=2)
-                if res.status_code == 200:
-                    country = res.json().get('countryCode', "Unknown")
-            except requests.RequestException:
-                pass # اگر سرویس GeoIP در دسترس نبود، مهم نیست
-
-            return config_link, latency, country
+            return config_link, latency
     except (socket.timeout, socket.error, OSError, ValueError):
-        return config_link, float('inf'), None
-
+        return config_link, float('inf')
 
 def test_all_configs_parallel(configs):
-    """تست موازی تمام کانفیگ‌ها و برگرداندن نتایج."""
+    """تمام کانفیگ‌ها را به صورت موازی تست می‌کند و نتایج را برمی‌گرداند."""
     print(f"\nشروع تست {len(configs)} کانفیگ منحصر به فرد...")
     all_results = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
@@ -157,28 +118,28 @@ def test_all_configs_parallel(configs):
 
             print(f"\rتست شده: {i}/{len(configs)}", end="")
 
-    # مرتب‌سازی تمام نتایج بر اساس پینگ
     all_results.sort(key=lambda x: x[1])
-
     live_results = [res for res in all_results if res[1] != float('inf')]
     dead_configs = [res[0] for res in all_results if res[1] == float('inf')]
     
     print(f"\n✅ تست کامل شد. {len(live_results)} کانفیگ فعال و {len(dead_configs)} کانفیگ غیرفعال پیدا شد.")
     return live_results, dead_configs
 
-# ... (توابع get_tehran_time و build_readme_content با کمی تغییرات) ...
 def get_tehran_time():
     tehran_tz = timezone(timedelta(hours=3, minutes=30))
     now_tehran = datetime.now(timezone.utc).astimezone(tehran_tz)
     return now_tehran.strftime("%Y-%m-%d %H:%M:%S Tehran Time")
 
 def build_readme_content(stats):
+    """محتوای کامل README را با آمار جدید می‌سازد."""
     print("\nBuilding README content...")
+    
     detailed_stats = stats.get('detailed_stats', {})
     protocol_totals = {p: sum(len(cfgs) for cfgs in data.values()) for p, data in detailed_stats.items()}
     sorted_protocols = sorted(protocol_totals.keys(), key=lambda p: protocol_totals[p], reverse=True)
     port_totals = {port: sum(len(detailed_stats.get(p, {}).get(port, [])) for p in sorted_protocols) for port in FAMOUS_PORTS}
     sorted_ports = sorted(port_totals.keys(), key=lambda p: port_totals[p], reverse=True)
+    
     stats_table_lines = []
     header = "| Protocol | " + " | ".join(sorted_ports) + " | Other Ports | Total |"
     separator = "|:---| " + " | ".join([":---:" for _ in sorted_ports]) + " |:---:|:---:|"
@@ -199,8 +160,10 @@ def build_readme_content(stats):
     footer = ["| **Total**", *[f"**{port_totals[port]}**" for port in sorted_ports], f"**{total_other_ports}**", f"**{sum(protocol_totals.values())}**"]
     stats_table_lines.append(" | ".join(footer) + " |")
     stats_table_string = "\n".join(stats_table_lines)
+    
     protocol_links_string = "\n\n".join([f"- **{proto.capitalize()}:**\n  https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/protocols/{proto}.txt" for proto in sorted_protocols])
     port_links_string = "\n\n".join([f"- **Port {port}:**\n  https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/{port}.txt" for port in sorted_ports])
+
     source_stats_lines = []
     summary_lines = [
         f"**Total Fetched (Raw):** {stats['raw_total']}",
@@ -217,8 +180,10 @@ def build_readme_content(stats):
         right_col = details_lines[i] if i < len(details_lines) else ""
         source_stats_lines.append(f"| {left_col} | {right_col} |")
     source_stats_string = "\n".join(source_stats_lines)
-    test_results_links = f"""- **Top 200 (Non-US by Ping):** `https://raw.githubusercontent.com/{GITHUB_REPO}/main/test-results/top_200_ping.txt`
+    
+    test_results_links = f"""- **Top 200 (gRPC prioritized, US excluded):** `https://raw.githubusercontent.com/{GITHUB_REPO}/main/test-results/top_200_ping.txt`
 - **Dead Configs:** `https://raw.githubusercontent.com/{GITHUB_REPO}/main/test-results/dead_configs.txt`"""
+    
     final_readme = f"""# Config Collector
 
 [![Auto-Update Status](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml/badge.svg)](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml)
@@ -250,6 +215,7 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 ---
 
 ### 🧪 Test Results
+*Note: The Top 200 list prioritizes gRPC configs and excludes US-based servers for better performance in most regions.*
 
 {test_results_links}
 
@@ -270,15 +236,36 @@ def main():
 
     live_results, dead_configs = test_all_configs_parallel(unique_configs)
     
-    # --- *** فیلتر کردن کانفیگ‌های آمریکا *** ---
-    print("\nFiltering out US-based servers from the top list...")
-    non_us_live_results = [res for res in live_results if res[2] != 'US']
-    print(f"Found {len(non_us_live_results)} non-US working configs.")
+    # --- *** منطق جدید برای فیلتر و مرتب‌سازی *** ---
+    print("\nFiltering and sorting live configs...")
+    grpc_configs = []
+    other_configs = []
     
-    # لیست ۲۰۰تای برتر از کانفیگ‌های غیرآمریکایی ساخته می‌شود
-    top_200_configs = [res[0] for res in non_us_live_results[:200]]
+    us_identifiers = [' us', '.us', '-us', '_us', 'united states', '🇺🇸']
     
-    # لیست کلی کانفیگ‌های فعال (شامل آمریکا) برای بقیه فایل‌ها استفاده می‌شود
+    for config, latency in live_results:
+        protocol, _, _, network_type, name = get_config_info(config)
+        
+        # فیلتر کردن کانفیگ‌های آمریکا بر اساس نام
+        is_us = False
+        for identifier in us_identifiers:
+            if identifier in name.lower():
+                is_us = True
+                break
+        if is_us:
+            continue
+
+        # دسته‌بندی بر اساس نوع gRPC
+        if network_type == 'grpc':
+            grpc_configs.append(config)
+        else:
+            other_configs.append(config)
+            
+    # ساخت لیست نهایی ۲۰۰تای برتر
+    top_200_configs = (grpc_configs + other_configs)[:200]
+    print(f"Generated a top list of {len(top_200_configs)} configs (gRPC prioritized, US excluded).")
+
+    # لیست کلی کانفیگ‌های فعال (شامل همه انواع و کشورها)
     live_configs = [res[0] for res in live_results]
     
     print("\nWriting test result files...")
@@ -304,7 +291,7 @@ def main():
     print("\nCategorizing all working configurations...")
     categorized_by_protocol_and_port = defaultdict(lambda: defaultdict(list))
     for config_link in live_configs:
-        protocol, _, port = get_config_info(config_link)
+        protocol, _, port, _, _ = get_config_info(config_link)
         if protocol and port:
             categorized_by_protocol_and_port[protocol][port].append(config_link)
 
@@ -348,7 +335,7 @@ def main():
     
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(final_readme_content)
-    print("✅ README.md updated successfully with GeoIP filtering.")
+    print("✅ README.md updated successfully with advanced filtering.")
 
     print("\n🎉 Project update finished successfully.")
 
