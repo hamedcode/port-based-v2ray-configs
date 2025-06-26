@@ -4,6 +4,7 @@ import json
 import os
 import re
 import socket
+import time
 import concurrent.futures
 from collections import defaultdict
 from urllib.parse import urlparse
@@ -28,7 +29,7 @@ SOURCE_REPOS = {
 # === پارامترهای دسته‌بندی و تست ===
 FAMOUS_PORTS = {'80', '443', '8080', '8088', '2052', '2053', '2082', '2083', '2086', '2087', '2095', '2096'}
 GITHUB_REPO = os.environ.get('GITHUB_REPOSITORY', 'hamed1124/port-based-v2ray-configs')
-MAX_WORKERS = 50
+MAX_WORKERS = 100
 CONNECTION_TIMEOUT = 3
 
 
@@ -106,7 +107,6 @@ def get_config_info(link):
                 _, host_info = decoded_str.split('@')
                 host, port = host_info.split(':')
         
-        # *** FIX: Ensure port is always a string ***
         if host and port:
             return protocol, host, str(port)
         return None, None, None
@@ -115,34 +115,49 @@ def get_config_info(link):
 
 
 def test_config_connection(config_link):
-    """یک کانفیگ را با تست اتصال TCP پینگ می‌کند."""
+    """
+    یک کانفیگ را با تست اتصال TCP پینگ می‌کند و زمان پاسخ را برمی‌گرداند.
+    در صورت عدم موفقیت، زمان بی‌نهایت را برمی‌گرداند.
+    """
     _, host, port = get_config_info(config_link)
     if not host or not port:
-        return None
+        return config_link, float('inf')
     
     try:
-        # Port must be an integer for socket connection
+        start_time = time.time()
         with socket.create_connection((host, int(port)), timeout=CONNECTION_TIMEOUT):
-            return config_link
+            end_time = time.time()
+            latency = (end_time - start_time) * 1000  # تبدیل به میلی‌ثانیه
+            return config_link, latency
     except (socket.timeout, socket.error, OSError, ValueError):
-        return None
+        return config_link, float('inf')
+
 
 def test_all_configs_parallel(configs):
-    """تمام کانفیگ‌ها را به صورت موازی تست می‌کند و لیست فعال‌ها را برمی‌گرداند."""
+    """تمام کانفیگ‌ها را به صورت موازی تست می‌کند و نتایج را برمی‌گرداند."""
     print(f"\nشروع تست {len(configs)} کانفیگ منحصر به فرد...")
-    live_configs = []
+    all_results = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         future_to_config = {executor.submit(test_config_connection, config): config for config in configs}
         
         for i, future in enumerate(concurrent.futures.as_completed(future_to_config), 1):
-            result = future.result()
-            if result:
-                live_configs.append(result)
-            
-            print(f"\rتست شده: {i}/{len(configs)} | فعال: {len(live_configs)}", end="")
+            try:
+                result = future.result()
+                all_results.append(result)
+            except Exception as e:
+                print(f"خطا در اجرای تست برای یک کانفیگ: {e}")
 
-    print(f"\n✅ تست کامل شد. {len(live_configs)} کانفیگ فعال پیدا شد.")
-    return live_configs
+            print(f"\rتست شده: {i}/{len(configs)}", end="")
+
+    # مرتب‌سازی تمام نتایج بر اساس پینگ
+    all_results.sort(key=lambda x: x[1])
+
+    # جداسازی کانفیگ‌های فعال و غیرفعال
+    live_configs = [config for config, latency in all_results if latency != float('inf')]
+    dead_configs = [config for config, latency in all_results if latency == float('inf')]
+    
+    print(f"\n✅ تست کامل شد. {len(live_configs)} کانفیگ فعال و {len(dead_configs)} کانفیگ غیرفعال پیدا شد.")
+    return live_configs, dead_configs
 
 
 def get_tehran_time():
@@ -155,12 +170,12 @@ def build_readme_content(stats):
     """محتوای کامل README را با آمار جدید می‌سازد."""
     print("\nBuilding README content...")
     
-    # ... (بقیه تابع بدون تغییر است و حالا باید درست کار کند) ...
     detailed_stats = stats.get('detailed_stats', {})
     protocol_totals = {p: sum(len(cfgs) for cfgs in data.values()) for p, data in detailed_stats.items()}
     sorted_protocols = sorted(protocol_totals.keys(), key=lambda p: protocol_totals[p], reverse=True)
     port_totals = {port: sum(len(detailed_stats.get(p, {}).get(port, [])) for p in sorted_protocols) for port in FAMOUS_PORTS}
     sorted_ports = sorted(port_totals.keys(), key=lambda p: port_totals[p], reverse=True)
+    
     stats_table_lines = []
     header = "| Protocol | " + " | ".join(sorted_ports) + " | Other Ports | Total |"
     separator = "|:---| " + " | ".join([":---:" for _ in sorted_ports]) + " |:---:|:---:|"
@@ -181,8 +196,11 @@ def build_readme_content(stats):
     footer = ["| **Total**", *[f"**{port_totals[port]}**" for port in sorted_ports], f"**{total_other_ports}**", f"**{sum(protocol_totals.values())}**"]
     stats_table_lines.append(" | ".join(footer) + " |")
     stats_table_string = "\n".join(stats_table_lines)
-    protocol_links_string = "\n\n".join([f"- **{proto.capitalize()}:**\n  https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/protocols/{proto}.txt" for proto in sorted_protocols])
-    port_links_string = "\n\n".join([f"- **Port {port}:**\n  https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/{port}.txt" for port in sorted_ports])
+    
+    # *** به‌روزرسانی بخش لینک‌ها برای خوانایی بیشتر ***
+    protocol_links_string = "\n".join([f"- **{proto.capitalize()}:**\n  `https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/protocols/{proto}.txt`" for proto in sorted_protocols])
+    port_links_string = "\n".join([f"- **Port {port}:**\n  `https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/{port}.txt`" for port in sorted_ports])
+
     source_stats_lines = []
     summary_lines = [
         f"**Total Fetched (Raw):** {stats['raw_total']}",
@@ -199,6 +217,11 @@ def build_readme_content(stats):
         right_col = details_lines[i] if i < len(details_lines) else ""
         source_stats_lines.append(f"| {left_col} | {right_col} |")
     source_stats_string = "\n".join(source_stats_lines)
+    
+    # *** بخش جدید برای لینک به نتایج تست ***
+    test_results_links = f"""- **Top 200 by Ping:** `https://raw.githubusercontent.com/{GITHUB_REPO}/main/test-results/top_200_ping.txt`
+- **Dead Configs:** `https://raw.githubusercontent.com/{GITHUB_REPO}/main/test-results/dead_configs.txt`"""
+    
     final_readme = f"""# Config Collector
 
 [![Auto-Update Status](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml/badge.svg)](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml)
@@ -229,6 +252,12 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ---
 
+### 🧪 Test Results
+
+{test_results_links}
+
+---
+
 ### 📚 Sources
 
 {source_stats_string}
@@ -242,10 +271,22 @@ def main():
         print("\nNo configs found. Exiting.")
         return
 
-    live_configs = test_all_configs_parallel(unique_configs)
+    live_configs, dead_configs = test_all_configs_parallel(unique_configs)
+    
+    # --- *** مرحله جدید: نوشتن فایل نتایج تست *** ---
+    print("\nWriting test result files...")
+    os.makedirs('test-results', exist_ok=True)
+    with open('test-results/dead_configs.txt', 'w', encoding='utf-8') as f:
+        f.write('\n'.join(dead_configs))
+    
+    top_200_configs = live_configs[:200]
+    with open('test-results/top_200_ping.txt', 'w', encoding='utf-8') as f:
+        f.write('\n'.join(top_200_configs))
+    print("✅ Test result files created successfully.")
+    
+    # اگر هیچ کانفیگ فعالی نبود، اسکریپت را با آمار صفر خاتمه می‌دهیم
     if not live_configs:
         print("\nNo working configs found after testing. Exiting.")
-        # اگر هیچ کانفیگ فعالی نبود، README را با آمار صفر آپدیت می‌کنیم
         stats = {
             "total_configs": 0, "raw_total": raw_total, "duplicates_removed": raw_total - len(unique_configs),
             "tested_configs": len(unique_configs), "live_configs": 0, "update_time": get_tehran_time(),
@@ -259,9 +300,8 @@ def main():
     print("\nCategorizing all working configurations...")
     categorized_by_protocol_and_port = defaultdict(lambda: defaultdict(list))
     for config_link in live_configs:
-        protocol, _, port = get_config_info(config_link) # host is not needed here
+        protocol, _, port = get_config_info(config_link)
         if protocol and port:
-            # port is now always a string
             categorized_by_protocol_and_port[protocol][port].append(config_link)
 
     print("\nWriting all subscription files based on working configs...")
