@@ -5,6 +5,7 @@ import os
 import re
 import socket
 import time
+import ipaddress
 import concurrent.futures
 from collections import defaultdict
 from urllib.parse import urlparse
@@ -31,10 +32,10 @@ FAMOUS_PORTS = {'80', '443', '8080', '8088', '2052', '2053', '2082', '2083', '20
 GITHUB_REPO = os.environ.get('GITHUB_REPOSITORY', 'hamed1124/port-based-v2ray-configs')
 MAX_WORKERS = 100
 CONNECTION_TIMEOUT = 3
+GEOIP_API_URL = "http://ip-api.com/json/"
 
-
+# === توابع اصلی (بدون تغییر) ===
 def fetch_source(name, url):
-    """منطق دریافت و پردازش یک منبع تکی را انجام می‌دهد."""
     try:
         print(f"--> شروع دریافت از: {name}...")
         response = requests.get(url, timeout=120)
@@ -46,7 +47,6 @@ def fetch_source(name, url):
                     configs = decoded_content.strip().split('\n')
                 else:
                     configs = content.split('\n')
-                
                 valid_configs = [line.strip() for line in configs if line.strip() and '://' in line]
                 if valid_configs:
                     print(f"  ✅ {len(valid_configs)} کانفیگ معتبر از {name} دریافت شد.")
@@ -57,9 +57,7 @@ def fetch_source(name, url):
         print(f"❌ خطا در اتصال به {name}: {e}")
     return name, []
 
-
 def fetch_all_configs_parallel(sources_dict):
-    """کانفیگ‌ها را از تمام منابع به صورت موازی دریافت می‌کند."""
     raw_configs_list, source_stats = [], defaultdict(int)
     print("شروع دریافت موازی کانفیگ از تمام منابع...")
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
@@ -78,13 +76,10 @@ def fetch_all_configs_parallel(sources_dict):
     print(f"\nتعداد کل کانفیگ‌های خام دریافت شده: {raw_total}. تعداد کانفیگ‌های منحصر به فرد: {len(unique_configs)}.")
     return unique_configs, source_stats, raw_total
 
-
 def get_config_info(link):
-    """آدرس، پورت و پروتکل را از لینک کانفیگ استخراج می‌کند."""
     try:
         protocol = link.split("://")[0].lower()
         host, port = None, None
-
         if protocol == "vless" or protocol in ["trojan", "tuic", "hysteria2", "hy2"]:
             parsed_url = urlparse(link)
             host = parsed_url.hostname
@@ -106,35 +101,48 @@ def get_config_info(link):
                 decoded_str = base64.b64decode(b64_part).decode('utf-8')
                 _, host_info = decoded_str.split('@')
                 host, port = host_info.split(':')
-        
         if host and port:
             return protocol, host, str(port)
         return None, None, None
     except Exception:
         return None, None, None
 
-
 def test_config_connection(config_link):
-    """
-    یک کانفیگ را با تست اتصال TCP پینگ می‌کند و زمان پاسخ را برمی‌گرداند.
-    در صورت عدم موفقیت، زمان بی‌نهایت را برمی‌گرداند.
-    """
+    """تست اتصال و اندازه‌گیری پینگ. در صورت موفقیت، کشور را نیز برمی‌گرداند."""
     _, host, port = get_config_info(config_link)
     if not host or not port:
-        return config_link, float('inf')
+        return config_link, float('inf'), None
     
     try:
+        # اگر هاست یک دامنه است، آن را به IP تبدیل کن
+        ip_addr = host
+        if not ipaddress.ip_address(host):
+             ip_addr = socket.gethostbyname(host)
+    except (ValueError, socket.gaierror):
+        ip_addr = host # اگر تبدیل نشد، از همان هاست استفاده کن
+
+    try:
         start_time = time.time()
-        with socket.create_connection((host, int(port)), timeout=CONNECTION_TIMEOUT):
+        with socket.create_connection((ip_addr, int(port)), timeout=CONNECTION_TIMEOUT):
             end_time = time.time()
-            latency = (end_time - start_time) * 1000  # تبدیل به میلی‌ثانیه
-            return config_link, latency
+            latency = (end_time - start_time) * 1000
+            
+            # دریافت اطلاعات کشور
+            country = "Unknown"
+            try:
+                res = requests.get(f"{GEOIP_API_URL}{ip_addr}", timeout=2)
+                if res.status_code == 200:
+                    country = res.json().get('countryCode', "Unknown")
+            except requests.RequestException:
+                pass # اگر سرویس GeoIP در دسترس نبود، مهم نیست
+
+            return config_link, latency, country
     except (socket.timeout, socket.error, OSError, ValueError):
-        return config_link, float('inf')
+        return config_link, float('inf'), None
 
 
 def test_all_configs_parallel(configs):
-    """تمام کانفیگ‌ها را به صورت موازی تست می‌کند و نتایج را برمی‌گرداند."""
+    """تست موازی تمام کانفیگ‌ها و برگرداندن نتایج."""
     print(f"\nشروع تست {len(configs)} کانفیگ منحصر به فرد...")
     all_results = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
@@ -152,30 +160,25 @@ def test_all_configs_parallel(configs):
     # مرتب‌سازی تمام نتایج بر اساس پینگ
     all_results.sort(key=lambda x: x[1])
 
-    # جداسازی کانفیگ‌های فعال و غیرفعال
-    live_configs = [config for config, latency in all_results if latency != float('inf')]
-    dead_configs = [config for config, latency in all_results if latency == float('inf')]
+    live_results = [res for res in all_results if res[1] != float('inf')]
+    dead_configs = [res[0] for res in all_results if res[1] == float('inf')]
     
-    print(f"\n✅ تست کامل شد. {len(live_configs)} کانفیگ فعال و {len(dead_configs)} کانفیگ غیرفعال پیدا شد.")
-    return live_configs, dead_configs
+    print(f"\n✅ تست کامل شد. {len(live_results)} کانفیگ فعال و {len(dead_configs)} کانفیگ غیرفعال پیدا شد.")
+    return live_results, dead_configs
 
-
+# ... (توابع get_tehran_time و build_readme_content با کمی تغییرات) ...
 def get_tehran_time():
     tehran_tz = timezone(timedelta(hours=3, minutes=30))
     now_tehran = datetime.now(timezone.utc).astimezone(tehran_tz)
     return now_tehran.strftime("%Y-%m-%d %H:%M:%S Tehran Time")
 
-
 def build_readme_content(stats):
-    """محتوای کامل README را با آمار جدید می‌سازد."""
     print("\nBuilding README content...")
-    
     detailed_stats = stats.get('detailed_stats', {})
     protocol_totals = {p: sum(len(cfgs) for cfgs in data.values()) for p, data in detailed_stats.items()}
     sorted_protocols = sorted(protocol_totals.keys(), key=lambda p: protocol_totals[p], reverse=True)
     port_totals = {port: sum(len(detailed_stats.get(p, {}).get(port, [])) for p in sorted_protocols) for port in FAMOUS_PORTS}
     sorted_ports = sorted(port_totals.keys(), key=lambda p: port_totals[p], reverse=True)
-    
     stats_table_lines = []
     header = "| Protocol | " + " | ".join(sorted_ports) + " | Other Ports | Total |"
     separator = "|:---| " + " | ".join([":---:" for _ in sorted_ports]) + " |:---:|:---:|"
@@ -196,11 +199,8 @@ def build_readme_content(stats):
     footer = ["| **Total**", *[f"**{port_totals[port]}**" for port in sorted_ports], f"**{total_other_ports}**", f"**{sum(protocol_totals.values())}**"]
     stats_table_lines.append(" | ".join(footer) + " |")
     stats_table_string = "\n".join(stats_table_lines)
-    
-    # *** به‌روزرسانی بخش لینک‌ها برای خوانایی بیشتر ***
-    protocol_links_string = "\n".join([f"- **{proto.capitalize()}:**\n  `https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/protocols/{proto}.txt`" for proto in sorted_protocols])
-    port_links_string = "\n".join([f"- **Port {port}:**\n  `https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/{port}.txt`" for port in sorted_ports])
-
+    protocol_links_string = "\n\n".join([f"- **{proto.capitalize()}:**\n  https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/protocols/{proto}.txt" for proto in sorted_protocols])
+    port_links_string = "\n\n".join([f"- **Port {port}:**\n  https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/{port}.txt" for port in sorted_ports])
     source_stats_lines = []
     summary_lines = [
         f"**Total Fetched (Raw):** {stats['raw_total']}",
@@ -217,11 +217,8 @@ def build_readme_content(stats):
         right_col = details_lines[i] if i < len(details_lines) else ""
         source_stats_lines.append(f"| {left_col} | {right_col} |")
     source_stats_string = "\n".join(source_stats_lines)
-    
-    # *** بخش جدید برای لینک به نتایج تست ***
-    test_results_links = f"""- **Top 200 by Ping:** `https://raw.githubusercontent.com/{GITHUB_REPO}/main/test-results/top_200_ping.txt`
+    test_results_links = f"""- **Top 200 (Non-US by Ping):** `https://raw.githubusercontent.com/{GITHUB_REPO}/main/test-results/top_200_ping.txt`
 - **Dead Configs:** `https://raw.githubusercontent.com/{GITHUB_REPO}/main/test-results/dead_configs.txt`"""
-    
     final_readme = f"""# Config Collector
 
 [![Auto-Update Status](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml/badge.svg)](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml)
@@ -271,20 +268,27 @@ def main():
         print("\nNo configs found. Exiting.")
         return
 
-    live_configs, dead_configs = test_all_configs_parallel(unique_configs)
+    live_results, dead_configs = test_all_configs_parallel(unique_configs)
     
-    # --- *** مرحله جدید: نوشتن فایل نتایج تست *** ---
+    # --- *** فیلتر کردن کانفیگ‌های آمریکا *** ---
+    print("\nFiltering out US-based servers from the top list...")
+    non_us_live_results = [res for res in live_results if res[2] != 'US']
+    print(f"Found {len(non_us_live_results)} non-US working configs.")
+    
+    # لیست ۲۰۰تای برتر از کانفیگ‌های غیرآمریکایی ساخته می‌شود
+    top_200_configs = [res[0] for res in non_us_live_results[:200]]
+    
+    # لیست کلی کانفیگ‌های فعال (شامل آمریکا) برای بقیه فایل‌ها استفاده می‌شود
+    live_configs = [res[0] for res in live_results]
+    
     print("\nWriting test result files...")
     os.makedirs('test-results', exist_ok=True)
     with open('test-results/dead_configs.txt', 'w', encoding='utf-8') as f:
         f.write('\n'.join(dead_configs))
-    
-    top_200_configs = live_configs[:200]
     with open('test-results/top_200_ping.txt', 'w', encoding='utf-8') as f:
         f.write('\n'.join(top_200_configs))
     print("✅ Test result files created successfully.")
     
-    # اگر هیچ کانفیگ فعالی نبود، اسکریپت را با آمار صفر خاتمه می‌دهیم
     if not live_configs:
         print("\nNo working configs found after testing. Exiting.")
         stats = {
@@ -344,7 +348,7 @@ def main():
     
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(final_readme_content)
-    print("✅ README.md updated successfully with test results and correct stats.")
+    print("✅ README.md updated successfully with GeoIP filtering.")
 
     print("\n🎉 Project update finished successfully.")
 
