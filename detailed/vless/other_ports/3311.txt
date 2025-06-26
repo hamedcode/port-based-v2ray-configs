@@ -1,2 +1,1 @@
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@77.221.158.149:3311?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-77.221.158.149:3311
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@217.114.40.220:3311?security=none&type=grpc#🔒 VL-GRPC-NONE 🇮🇷 IR-217.114.40.220:3311
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@213.142.134.123:3311?security=none&type=grpc#🔒 VL-GRPC-NONE 🇹🇷 TR-213.142.134.123:3311

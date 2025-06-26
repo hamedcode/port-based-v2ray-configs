@@ -1,2 +1,1 @@
-vless://167d9962-124b-4b12-8a8d-8dd32c774fd9@185.112.34.194:800?security=none&type=tcp&host=anten.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.112.34.194:800
 vless://167d9962-124b-4b12-8a8d-8dd32c774fd9@193.151.143.112:800?type=tcp&host=anten.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-193.151.143.112:800

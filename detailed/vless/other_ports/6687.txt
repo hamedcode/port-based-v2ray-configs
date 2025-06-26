@@ -1,5 +1,5 @@
 vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.248:6687?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.248:6687
 vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.249:6687?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.249:6687
 vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.247:6687?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.247:6687
-vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.246:6687?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.246:6687
 vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.73:6687?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.73:6687
+vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.246:6687?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.246:6687

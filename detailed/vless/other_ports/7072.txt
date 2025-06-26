@@ -1,1 +1,2 @@
-vless://adadcfa4-4262-4857-ac3b-5413638d68a3@151.234.162.164:7072?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-151.234.162.164:7072
+vless://adadcfa4-4262-4857-ac3b-5413638d68a3@167.99.218.28:7072?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-167.99.218.28:7072
+vless://adadcfa4-4262-4857-ac3b-5413638d68a3@151.234.162.174:7072?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-151.234.162.174:7072

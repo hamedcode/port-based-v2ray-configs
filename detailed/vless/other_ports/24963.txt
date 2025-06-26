@@ -1,0 +1,2 @@
+vless://af12cac7-9f92-4970-ac75-2cf6b2cac373@37.32.41.221:24963?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-37.32.41.221:24963
+vless://3305b7af-d589-4d29-ad1a-0e7f4b07ae50@37.32.41.221:24963?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.41.221:24963

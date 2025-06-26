@@ -1,1 +1,2 @@
 trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@157.254.38.210:20053?security=tls&sni=au.catxstar.com&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇺🇸 US-157.254.38.210:20053
+trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@157.254.38.210:20053?security=tls&type=tcp&sni=au.catxstar.com#US4

@@ -1,2 +1,1 @@
-vless://0c99937e-d464-4864-9603-7d1423132e4d@93.126.53.62:2026?type=tcp&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http&fp=chrome#🔒 VL-TCP-NA 🇮🇷 IR-93.126.53.62:2026
-vless://59359b9c-3a3c-471e-9cc9-3cc4d49b07ed@188.212.96.94:2026?security=none&type=tcp&host=myket.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.96.94:2026
+vless://59359b9c-3a3c-471e-9cc9-3cc4d49b07ed@94.101.177.33:2026?security=none&type=tcp&host=myket.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.101.177.33:2026

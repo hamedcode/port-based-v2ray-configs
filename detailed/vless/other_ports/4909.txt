@@ -1,2 +1,1 @@
 vless://e96830e4-964f-43ef-9bea-eb0e42f82c83@185.215.228.252:4909?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.215.228.252:4909
-vless://e96830e4-964f-43ef-9bea-eb0e42f82c83@46.38.149.175:4909?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.149.175:4909

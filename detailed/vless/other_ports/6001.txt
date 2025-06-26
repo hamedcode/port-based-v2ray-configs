@@ -1,1 +1,1 @@
-vless://6d1c394d-dd93-4213-a89f-ac07cd3aebcd@46.38.148.92:6001?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.148.92:6001
+vless://7086a004-5c86-4004-9196-622925c75e75@185.49.105.251:6001?security=reality&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=trf9y7T-2ZBrQoZ1R-Ii1FkCqmO3fbkXOzlGwJA86WQ#🔒 VL-TCP-RLT 🇮🇷 IR-185.49.105.251:6001

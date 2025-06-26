@@ -1,1 +1,1 @@
-vless://d3f3fd0b-7b5c-4070-d5dc-61f96641b507@185.201.49.94:58089?type=tcp&host=myket.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.201.49.94:58089
+vless://d3f3fd0b-7b5c-4070-d5dc-61f96641b507@185.201.49.94:58089?security=none&type=tcp&host=myket.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.201.49.94:58089

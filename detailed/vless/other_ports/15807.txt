@@ -1,2 +1,3 @@
+vless://0a20baac-5096-4546-ae84-7615dda18754@5.202.12.80:15807?security=none&type=tcp&host=ua.yektanet.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.12.80:15807
 vless://0a20baac-5096-4546-ae84-7615dda18754@185.124.175.36:15807?type=tcp&host=ua.yektanet.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.124.175.36:15807
 vless://2e8d0213-38fc-4742-8fe0-33f7ec6c6754@212.23.214.145:15807?security=none&type=tcp&host=ua.yektanet.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.23.214.145:15807

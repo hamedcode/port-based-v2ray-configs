@@ -1,1 +1,3 @@
-vless://e947c1b3-5eee-4007-b29e-e960c73242b3@212.80.8.132:56833?security=tls&sni=iro.goodratkhooda.info&type=tcp&alpn=http%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-212.80.8.132:56833
+vless://e947c1b3-5eee-4007-b29e-e960c73242b3@45.81.16.45:56833?security=tls&sni=iro.goodratkhooda.info&type=tcp&alpn=http%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-45.81.16.45:56833
+vless://e947c1b3-5eee-4007-b29e-e960c73242b3@45.81.16.118:56833?security=tls&sni=iro.goodratkhooda.info&type=tcp&alpn=http%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-45.81.16.118:56833
+vless://e947c1b3-5eee-4007-b29e-e960c73242b3@217.60.199.81:56833?security=tls&sni=iro.goodratkhooda.info&type=tcp&alpn=http%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇦🇪 AE-217.60.199.81:56833

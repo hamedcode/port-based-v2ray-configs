@@ -1,5 +1,1 @@
 vless://b9061294-b119-4cc4-9217-d179e435c60d@85.133.204.199:2076?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.204.199:2076
-vless://b9061294-b119-4cc4-9217-d179e435c60d@185.49.105.72:2076?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.49.105.72:2076
-vless://b9061294-b119-4cc4-9217-d179e435c60d@62.60.221.203:2076?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.221.203:2076
-vless://b9061294-b119-4cc4-9217-d179e435c60d@85.133.225.162:2076?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.225.162:2076
-vless://b9061294-b119-4cc4-9217-d179e435c60d@85.133.225.162:2076?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.225.162:2076

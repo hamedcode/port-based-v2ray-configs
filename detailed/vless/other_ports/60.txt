@@ -1,1 +1,2 @@
+vless://cb7f2367-33c8-424b-9378-18f7c1895ad9@178.239.146.154:60?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.146.154:60
 vless://058436ff-6553-4b51-80ed-e6f3daf9c2a9@178.239.146.154:60?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.146.154:60

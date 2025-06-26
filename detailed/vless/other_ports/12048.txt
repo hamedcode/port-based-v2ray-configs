@@ -1,2 +1,1 @@
-vless://ef61e76c-1f6b-411a-9610-f4111f8ace90@62.60.221.215:12048?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.221.215:12048
 vless://ef61e76c-1f6b-411a-9610-f4111f8ace90@92.114.20.23:12048?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-92.114.20.23:12048

@@ -1,1 +1,2 @@
+vless://0296a016-82c7-4d0b-8d8a-4dfb79467f1a@188.212.97.192:2070?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.97.192:2070
 vless://125614d4-9ca7-4593-a8f7-21cb6184a7ca@81.12.33.182:2070?security=none&type=tcp&host=parsabr.com&path=%2Fapi%2Fregister%2Fnew%2Fname%2Fdav%2Fresponse%2FcmV0aXJlZCBoZWxsbyBob3cgYXJlIHlvdSB0aGlzIGlzIG15IG5ldyBoZWFkZXIgd&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.12.33.182:2070

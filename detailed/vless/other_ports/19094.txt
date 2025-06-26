@@ -1,0 +1,6 @@
+vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@185.133.125.7:19094?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.133.125.7:19094
+vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@185.133.125.8:19094?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.133.125.8:19094
+vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@185.133.125.5:19094?type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.133.125.5:19094
+vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@185.133.125.4:19094?type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.133.125.4:19094
+vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@185.133.125.6:19094?type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.133.125.6:19094
+vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@185.133.125.10:19094?type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.133.125.10:19094

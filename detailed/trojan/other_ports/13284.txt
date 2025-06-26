@@ -1,2 +1,3 @@
-trojan://Aimer@45.59.187.24:13284?allowInsecure=0&sni=epmf.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@45.59.187.24:13284?security=tls&sni=epmf.ambercc.filegear-sg.me&type=ws&host=epmf.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🇺🇸 US-45.59.187.24:13284
 trojan://Aimer@45.59.187.24:13284?sni=epmf.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-45.59.187.24:13284
+trojan://Aimer@45.59.187.24:13284?allowInsecure=0&sni=epmf.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD

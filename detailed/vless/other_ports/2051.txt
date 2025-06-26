@@ -1,5 +1,1 @@
-vless://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.160.197.132:2051?security=none&type=tcp&host=snapp.taxi&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.197.132:2051
 vless://f04bc46e-015c-4604-8dcb-b499e5bc7e85@185.83.182.9:2051?type=tcp&host=myket.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.83.182.9:2051
-vless://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.182.46.67:2051?security=none&type=tcp&host=snapp.taxi&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.182.46.67:2051
-vless://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.160.197.133:2051?security=none&type=tcp&host=snapp.taxi&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.197.133:2051
-vless://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.182.46.64:2051?security=none&type=tcp&host=snapp.taxi&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.182.46.64:2051

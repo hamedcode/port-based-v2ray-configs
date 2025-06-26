@@ -1,0 +1,2 @@
+vless://cf09b553-f72c-4b1d-81c1-bdf097506988@79.127.69.121:17920?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.69.121:17920
+vless://cf09b553-f72c-4b1d-81c1-bdf097506988@185.112.32.244:17920?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.112.32.244:17920

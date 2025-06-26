@@ -1,2 +1,2 @@
-trojan://fdd1d613-f234-40f6-b63d-97517e0fc4b3@jp007.421421.xyz:20230?security=tls&sni=www.alibaba.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.138.182-0244
-trojan://7d9c7804-1f7d-43f7-b19a-fa7c2fff4569@34.221.144.66:20230?sni=421421.xyz&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-34.221.144.66:20230
+trojan://072c477b-90c1-4600-998f-1a2990542782@52.195.213.163:20230?allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-52.195.213.163:20230
+trojan://fdd1d613-f234-40f6-b63d-97517e0fc4b3@jp007.421421.xyz:20230?security=tls&sni=www.alibaba.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.138.182-0230

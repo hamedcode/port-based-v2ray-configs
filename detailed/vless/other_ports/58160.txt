@@ -1,1 +1,2 @@
+vless://fbddfd18-72a2-f649-1101-1bb8e8e9a649@178.239.157.16:58160?type=tcp&host=myket.ir%20%F0%9F%8C%90&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-178.239.157.16:58160
 vless://fbddfd18-72a2-f649-1101-1bb8e8e9a649@178.239.157.16:58160?security=none&type=tcp&host=myket.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.157.16:58160

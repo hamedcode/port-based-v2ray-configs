@@ -1,1 +1,2 @@
-vless://845c6e60-1830-4dd7-8975-5ba6faf34d73@45.94.213.19:1002?type=tcp&host=sheypoor.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-45.94.213.19:1002
+vless://2aed2b4a-a0e2-4ab6-9c46-1de220f69715@185.4.28.193:1002?security=none&type=tcp&host=skyroom.online%2C+igap.net%2C+gharar.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.4.28.193:1002
+vless://7e502a74-6229-482f-b670-8a6742f809a4@193.228.168.85:1002?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.228.168.85:1002

@@ -1,2 +1,1 @@
-vless://2ca67571-03c8-4823-b99e-406ba3beadbd@85.133.199.174:435?security=none&type=tcp&host=myket.ir%2Ccafebazaar.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.199.174:435
-vless://2ca67571-03c8-4823-b99e-406ba3beadbd@85.133.199.174:435?security=none&type=tcp&host=myket.ir,cafebazaar.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.199.174:435
+vless://2ca67571-03c8-4823-b99e-406ba3beadbd@109.94.164.118:435?security=none&type=tcp&host=myket.ir,cafebazaar.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.94.164.118:435

@@ -1,1 +1,2 @@
 vless://d94c78e8-d8bd-4cb4-8448-97c398f9a2aa@45.159.148.68:45001?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.68:45001
+vless://d94c78e8-d8bd-4cb4-8448-97c398f9a2aa@45.159.148.68:45001?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-45.159.148.68:45001

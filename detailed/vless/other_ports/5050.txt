@@ -1,3 +1,3 @@
-vless://c93fa5bd-88f6-45e5-b068-bf3d261686b8@45.159.148.66:5050?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.66:5050
-vless://b7b8d862-e736-4ded-be89-711d49d2415b@37.32.41.184:5050?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.41.184:5050
 vless://fa220dbd-8223-4ab5-a574-239885fead2b@46.38.148.45:5050?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.148.45:5050
+vless://c93fa5bd-88f6-45e5-b068-bf3d261686b8@45.159.148.66:5050?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.66:5050
+vless://86f4ee46-28d8-4607-891b-9aeb0c935365@2.188.224.34:5050?type=tcp&host=cafebazaar.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-2.188.224.34:5050

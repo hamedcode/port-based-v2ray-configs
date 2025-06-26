@@ -1,5 +1,5 @@
 vless://fb2c3a6b-5a0e-46ce-ba74-07015df7f84f@89.110.104.14:4434?security=reality&flow=xtls-rprx-vision&sni=teamdocs.su&type=tcp&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#🔒 VL-TCP-RLT 🇳🇱 NL-89.110.104.14:4434
-vless://d79676d2-fa67-4a47-9105-150ec8c42517@129.154.228.4:4434?security=tls&sni=bazar.ir&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇮🇳 IN-129.154.228.4:4434
+vless://f70ba59e-487f-4af8-8188-69b40bbdb071@88.210.9.149:4434?security=reality&flow=xtls-rprx-vision&sni=teamdocs.su&type=tcp&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#🔒 VL-TCP-RLT 🇳🇱 NL-88.210.9.149:4434
 vless://fb2c3a6b-5a0e-46ce-ba74-07015df7f84f@178.23.190.216:4434?security=reality&flow=xtls-rprx-vision&sni=teamdocs.su&type=tcp&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#🔒 VL-TCP-RLT 🇳🇱 NL-178.23.190.216:4434
 vless://5244075f-9c52-4940-a64a-eec419c4b5c9@88.210.9.149:4434?security=tls&flow=xtls-rprx-vision-udp443&sni=teamdocs.su&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-88.210.9.149:4434
-vless://f70ba59e-487f-4af8-8188-69b40bbdb071@88.210.9.149:4434?security=reality&flow=xtls-rprx-vision&sni=teamdocs.su&type=tcp&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#🔒 VL-TCP-RLT 🇳🇱 NL-88.210.9.149:4434
+vless://d79676d2-fa67-4a47-9105-150ec8c42517@129.154.228.4:4434?security=tls&sni=bazar.ir&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇮🇳 IN-129.154.228.4:4434
