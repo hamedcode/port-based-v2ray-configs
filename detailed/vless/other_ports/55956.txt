@@ -1,1 +1,2 @@
+vless://c83c3b86-6520-4813-b16e-a0d3a8a9ee2c@45.94.213.124:55956?type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-45.94.213.124:55956
 vless://c83c3b86-6520-4813-b16e-a0d3a8a9ee2c@45.159.148.76:55956?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.76:55956

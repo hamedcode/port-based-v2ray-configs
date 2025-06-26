@@ -1,1 +1,1 @@
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-179.61.219.170:22934
+vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&type=raw#🔒 VL-RAW-NONE 🇳🇱 NL-179.61.219.170:22934

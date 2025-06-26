@@ -1,1 +1,1 @@
-vless://2b0d6f26-6275-39c7-3a0b-0079866524df@217.114.40.96:7076?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-217.114.40.96:7076
+vless://2b0d6f26-6275-39c7-3a0b-0079866524df@217.114.40.96:7076?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-217.114.40.96:7076

@@ -1,2 +1,3 @@
 vless://6b306b75-e2d9-46f8-9d69-4df8554fb43f@62.60.194.247:4432?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=firefox&pbk=a-7fAwSHqMAIX6na4ztaaE8E44OrVpyV5ZAvap61UmM&sid=bab06753ce01fee4#🔒 VL-TCP-RLT 🇮🇷 IR-62.60.194.247:4432
 vless://43b7ef80-c7b0-475b-8959-2aa38d7136ba@37.32.41.237:4432?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.41.237:4432
+vless://c63dfbcc-7e7a-479b-b37f-836049be74d9@84.47.232.210:4432?security=none&type=tcp&host=www.zula.ir%2C+cdn-download1.zula.ir%2C+prnewswire.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.232.210:4432

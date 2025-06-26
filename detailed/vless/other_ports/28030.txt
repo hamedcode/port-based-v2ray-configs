@@ -1,2 +1,2 @@
-vless://49e6a7af-97c5-4c33-b749-e59d7b5eaa30@120.143.180.126:28030?security=tls&sni=mot.gike.dpdns.org&type=ws&host=mot.gike.dpdns.org#🔒 VL-WS-TLS 🇰🇷 KR-120.143.180.126:28030
 vless://49e6a7af-97c5-4c33-b749-e59d7b5eaa30@120.143.180.126:28030?security=tls&sni=mot.gike.dpdns.org&type=ws&host=mot.gike.dpdns.org&allowInsecure=0#🔒 VL-WS-TLS 🇰🇷 KR-120.143.180.126:28030
+vless://49e6a7af-97c5-4c33-b749-e59d7b5eaa30@120.143.180.126:28030?security=tls&sni=mot.gike.dpdns.org&type=ws&host=mot.gike.dpdns.org#🔒 VL-WS-TLS 🇰🇷 KR-120.143.180.126:28030

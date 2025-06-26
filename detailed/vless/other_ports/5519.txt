@@ -1,1 +1,1 @@
-vless://6b36f549-0c35-4e9c-ad55-c43a960f7704@37.202.231.199:5519?security=none&type=tcp&host=CCgIG.divarcdn.com,CCgIG.cafebazaar.com,CCgIG.sanjesh.org,CCgIG.rubika.ir,CCgIG.arvancloud.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.202.231.199:5519
+vless://6b36f549-0c35-4e9c-ad55-c43a960f7704@37.202.231.199:5519?security=none&type=tcp&host=CCgIG.divarcdn.com%2CCCgIG.cafebazaar.com%2CCCgIG.sanjesh.org%2CCCgIG.rubika.ir%2CCCgIG.arvancloud.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.202.231.199:5519

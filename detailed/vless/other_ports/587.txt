@@ -1,3 +1,4 @@
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.210.213.159:587?security=tls&sni=edccz.aimercc.filegear-sg.me&type=ws&host=edccz.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇭🇰 HK-8.210.213.159:587
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@195.26.230.120:587?sni=miku.mikuru.ip-ddns.com&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇫🇮 FI-195.26.230.120:587
+vless://948f6596-66f9-4707-aa92-3107a214ce53@138.2.49.197:587?security=tls&sni=oops.shalamshorba.dpdns.org&type=ws&host=oops.shalamshorba.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇯🇵 JP-138.2.49.197:587
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.210.213.159:587?security=tls&sni=edccz.aimercc.filegear-sg.me&type=ws&host=edccz.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇭🇰 HK-8.210.213.159:587
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@8.222.213.91:587?security=tls&sni=miku.mikuru.ip-ddns.com&type=ws&host=miku.mikuru.ip-ddns.com&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-8.222.213.91:587

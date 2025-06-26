@@ -1,3 +1,4 @@
-vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@2.59.183.233:444?security=tls&sni=hax-eu1.lzjnb.shop&type=ws&host=hax-eu1.lzjnb.shop&path=%2Ft.me%2Flzjjjjjjjjjjj#🔒 VL-WS-TLS 🇳🇱 NL-2.59.183.233:444
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@172.233.43.178:444?security=tls&sni=vkk.wxgqlfx.cn&type=ws&host=vkk.wxgqlfx.cn&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-172.233.43.178:444
+vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@2.59.183.233:444?security=tls&sni=hax-eu1.lzjnb.shop&type=ws&host=hax-eu1.lzjnb.shop&path=%2Ft.me%2Flzjjjjjjjjjjj#🔒 VL-WS-TLS 🇳🇱 NL-2.59.183.233:444
 vless://2daf6ae3-5578-4edc-90a0-b6d0543b688a@109.94.164.118:444?security=none&type=tcp&host=myket.ir,cafebazaar.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.94.164.118:444
+vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@178.209.51.115:444?security=reality&flow=xtls-rprx-vision&sni=opensuse.org&type=tcp&fp=chrome&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&sid=82b9ca5d8d39ba72#🔒 VL-TCP-RLT 🇨🇭 CH-178.209.51.115:444

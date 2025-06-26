@@ -1,1 +1,1 @@
-trojan://e2d4ffbd-d0fa-4074-b844-9e8b4e34cd4c@183.240.210.69:38021?sni=ru001.xiaoniuyun.cc&allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-183.240.210.69:38021
+trojan://be7933a0-6330-46ea-8530-b3e7b6c89938@209.209.48.19:38021?security=tls&sni=aliyun.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-209.209.48.19:38021

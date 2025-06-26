@@ -1,5 +1,5 @@
-vless://5c65ddb9-041f-4df9-8416-d0b02b10aee5@5.160.35.248:5075?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.248:5075
+vless://5c65ddb9-041f-4df9-8416-d0b02b10aee5@5.160.35.249:5075?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.249:5075
 vless://5c65ddb9-041f-4df9-8416-d0b02b10aee5@5.160.35.247:5075?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.247:5075
 vless://5c65ddb9-041f-4df9-8416-d0b02b10aee5@5.160.35.73:5075?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.73:5075
-vless://5c65ddb9-041f-4df9-8416-d0b02b10aee5@5.160.35.249:5075?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.249:5075
+vless://5c65ddb9-041f-4df9-8416-d0b02b10aee5@5.160.35.248:5075?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.248:5075
 vless://5c65ddb9-041f-4df9-8416-d0b02b10aee5@5.160.35.246:5075?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.246:5075

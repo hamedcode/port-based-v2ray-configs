@@ -1,3 +1,3 @@
-trojan://Aimer@175.215.205.40:20107?security=tls&sni=epmf.ambercc.filegear-sg.me&type=ws&host=epmf.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🇰🇷 KR-175.215.205.40:20107
 trojan://Aimer@175.215.205.40:20107?sni=epmf.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-175.215.205.40:20107
 trojan://Aimer@175.215.205.40:20107?allowInsecure=0&sni=epmf.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20_%E9%9F%A9%E5%9B%BD
+trojan://Aimer@175.215.205.40:20107?security=tls&sni=epmf.ambercc.filegear-sg.me&type=ws&host=epmf.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🇰🇷 KR-175.215.205.40:20107

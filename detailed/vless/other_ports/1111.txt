@@ -1,2 +1,2 @@
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@138.2.95.61:1111?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=/bing#🔒 VL-WS-TLS 🇸🇬 SG-138.2.95.61:1111
 vless://66342ffa-31c9-4ab4-9cf4-7126b28402ba@86.104.32.40:1111?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-86.104.32.40:1111
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@138.2.95.61:1111?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=/bing#🔒 VL-WS-TLS 🇸🇬 SG-138.2.95.61:1111

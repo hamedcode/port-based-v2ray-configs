@@ -1,3 +1,4 @@
 vless://acbab574-fbb3-48fe-948f-f2c173d5dfeb@103.167.234.110:2050?security=reality&sni=refersion.com&type=tcp&fp=firefox&pbk=sHzIKPKqTTq77wusV6qaa0bwx41ap2r_sCXjHwHl4m8&sid=3466c6b00f1201c2#🔒 VL-TCP-RLT 🇦🇱 AL-103.167.234.110:2050
 vless://39d65c38-ec68-4808-bec4-53d61289a2dd@109.122.255.200:2050?security=reality&sni=www.cloudflare.com&type=grpc&serviceName=vless&fp=chrome&pbk=067cvQC8DmfUC3-Ry5Ur8Bo5iocIuE94nvnzgVFHUE0&sid=5760bd51d1f80cbf#🔒 VL-GRPC-RLT 🇮🇷 IR-109.122.255.200:2050
+vless://22d01af5-8d00-407b-882a-aa0a2ce3045b@188.121.118.247:2050?security=none&type=http&host=uptv.ir#🔒 VL-HTTP-NONE 🇮🇷 IR-188.121.118.247:2050
 vless://6577a581-1672-4cdc-8e3d-ff2ed161e3c7@185.31.8.86:2050?security=none&type=ws&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online%2Cmyket.ir%2Ctamin.ir%2Ccafebazaar.ir&path=%2Farchive#🔒 VL-WS-NONE 🇮🇷 IR-185.31.8.86:2050

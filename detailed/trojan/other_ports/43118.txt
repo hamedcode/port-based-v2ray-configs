@@ -1,3 +1,3 @@
-trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-89.187.181.172:43118
-trojan://ypDt8RkT7J@89.187.181.179:43118?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-89.187.181.179-4959
 trojan://ypDt8RkT7J@89.187.181.179:43118?security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#🔒 TR-TCP-TLS 🇺🇸 US-89.187.181.179:43118
+trojan://ypDt8RkT7J@89.187.181.179:43118?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-89.187.181.179-4959
+trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-89.187.181.172:43118

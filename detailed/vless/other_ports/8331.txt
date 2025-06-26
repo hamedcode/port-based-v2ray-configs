@@ -1,1 +1,1 @@
-vless://d85a89f0-f90a-47a7-ba3f-7b354bd1810a@94.101.187.167:8331?security=none&type=tcp&host=zula.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.101.187.167:8331
+vless://d85a89f0-f90a-47a7-ba3f-7b354bd1810a@94.101.187.167:8331?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.101.187.167:8331

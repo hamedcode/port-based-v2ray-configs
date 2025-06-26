@@ -1,2 +1,2 @@
-vless://deaafebc-9fe2-4d46-b823-2b486c625afd@185.49.105.252:9900?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.49.105.252:9900
 vless://dee5d5e3-fe19-47ab-b0fb-d7e829d65daa@45.94.213.12:9900?security=none&type=tcp&host=uptvs.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.94.213.12:9900
+vless://deaafebc-9fe2-4d46-b823-2b486c625afd@185.49.105.252:9900?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.49.105.252:9900

@@ -1,1 +1,2 @@
 vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@151.234.162.254:1022?security=tls&sni=reverse-tunnel.maketunnelim.lat&type=ws&path=%2F%3Fed%3D2048&fp=firefox#🔒 VL-WS-TLS 🇮🇷 IR-151.234.162.254:1022
+vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@151.234.162.254:1022?security=tls&sni=reverse-tunnel.maketunnelim.lat&type=ws&fp=chrome#🔒 VL-WS-TLS 🇮🇷 IR-151.234.162.254:1022

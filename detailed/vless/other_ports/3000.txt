@@ -1,2 +1,2 @@
 vless://ce1714d2-872a-43fa-af36-46cd020afb04@185.123.100.29:3000?security=reality&sni=www.unpkg.com&type=tcp&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#🔒 VL-TCP-RLT 🇹🇷 TR-185.123.100.29:3000
-vless://736dadf2-add4-4070-adcc-191e3ad14ed7@85.133.204.58:3000?type=tcp&host=sheypoor.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-85.133.204.58:3000
+vless://736dadf2-add4-4070-adcc-191e3ad14ed7@85.133.204.58:3000?security=none&type=tcp&host=sheypoor.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.204.58:3000
