@@ -2,11 +2,11 @@ name: Update Configs and Stats
 
 on:
   push:
-    # این گردش کار روی هر شاخه‌ای که به آن پوش شود اجرا می‌شود
-    # شما می‌توانید آن را به شاخه‌های خاصی محدود کنید، مثلاً: branches: [ main, speed ]
-    branches-ignore: []
+    branches:
+      # این گردش کار فقط روی شاخه اصلی اجرا می‌شود
+      - main
   schedule:
-    # این بخش فقط روی شاخه پیش‌فرض (main) اجرا می‌شود
+    # اجرا به صورت زمان‌بندی شده، هر ۴ ساعت یک بار
     - cron: '0 */4 * * *'
   workflow_dispatch:
 
@@ -42,11 +42,8 @@ jobs:
           if ! git diff-index --quiet HEAD; then
             echo "Changes found. Committing and pushing..."
             git add .
-            git commit -m "📊 Update configs and stats"
-            
-            # دریافت نام شاخه فعلی و پوش به همان شاخه
-            # GITHUB_REF_NAME حاوی نام شاخه‌ای است که گردش کار را فعال کرده
-            git push origin HEAD:${{ github.ref_name }}
+            git commit -m "📊 Update configs, stats and test results"
+            git push origin main
           else
             echo "No changes to commit."
           fi
