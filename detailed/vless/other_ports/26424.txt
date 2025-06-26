@@ -1,2 +1,2 @@
-vless://d157e3e3-cb2a-4fcf-9cff-6a4fe0b3f33b@89.44.242.110:26424?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.44.242.110:26424
 vless://d157e3e3-cb2a-4fcf-9cff-6a4fe0b3f33b@89.44.242.110:26424?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-89.44.242.110:26424
+vless://d157e3e3-cb2a-4fcf-9cff-6a4fe0b3f33b@89.44.242.110:26424?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.44.242.110:26424

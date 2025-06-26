@@ -1,2 +1,2 @@
-vless://2bf38ece-21ad-406b-82c8-ebc151f8aac4@193.111.235.223:50894?security=none&type=tcp&host=app.snapp.taxi&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.111.235.223:50894
 vless://2bf38ece-21ad-406b-82c8-ebc151f8aac4@193.111.235.187:50894?security=none&type=tcp&host=app.snapp.taxi&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.111.235.187:50894
+vless://2bf38ece-21ad-406b-82c8-ebc151f8aac4@193.111.235.223:50894?security=none&type=tcp&host=app.snapp.taxi&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.111.235.223:50894

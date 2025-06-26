@@ -1,3 +1,2 @@
-vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@78.157.38.252:24989?type=tcp&host=exo.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-78.157.38.252:24989
-vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?type=tcp&host=exo.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-5.160.109.9:24989
 vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?security=none&type=tcp&host=exo.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.109.9:24989
+vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?type=tcp&host=exo.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-5.160.109.9:24989

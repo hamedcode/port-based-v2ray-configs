@@ -8,17 +8,17 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-06-26 12:06:36 Tehran Time
+**Last Updated:** 2025-06-26 12:20:05 Tehran Time
 
-**Total Unique Configurations (Working):** 18430
+**Total Unique Configurations (Working):** 18442
 
 | Protocol | 443 | 80 | 2096 | 2053 | 2087 | 8080 | 2083 | 2052 | 2095 | 2086 | 2082 | 8088 | Other Ports | Total |
 |:---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|:---:|
-| Vless | 5100 | 1630 | 455 | 265 | 286 | 249 | 200 | 165 | 124 | 101 | 98 | 10 | 5302 | **13985** |
-| Trojan | 1986 | 24 | 137 | 183 | 133 | 7 | 142 | 0 | 0 | 0 | 0 | 0 | 540 | **3152** |
-| Shadowsocks | 267 | 9 | 0 | 0 | 0 | 160 | 0 | 0 | 0 | 0 | 0 | 0 | 855 | **1291** |
+| Vless | 5107 | 1632 | 454 | 267 | 285 | 249 | 200 | 166 | 123 | 100 | 98 | 10 | 5309 | **14000** |
+| Trojan | 1986 | 24 | 137 | 183 | 133 | 7 | 142 | 0 | 0 | 0 | 0 | 0 | 537 | **3149** |
+| Ss | 268 | 9 | 0 | 0 | 0 | 160 | 0 | 0 | 0 | 0 | 0 | 0 | 854 | **1291** |
 | Hysteria2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | **2** |
-| **Total** | **7353** | **1663** | **592** | **448** | **419** | **416** | **342** | **165** | **124** | **101** | **98** | **10** | **6699** | **18430** |
+| **Total** | **7361** | **1665** | **591** | **450** | **418** | **416** | **342** | **166** | **123** | **100** | **98** | **10** | **6702** | **18442** |
 
 ---
 
@@ -32,8 +32,8 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 - **Trojan:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/trojan.txt
 
-- **Shadowsocks:**
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/shadowsocks.txt
+- **Ss:**
+  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/ss.txt
 
 - **Hysteria2:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/hysteria2.txt
@@ -79,9 +79,9 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 ---
 
 ### 🧪 Test Results
-*Note: The Top 200 list prioritizes gRPC configs and excludes US-based servers for better performance in most regions.*
+*Note: The Top 200 list is sorted by the lowest ping and excludes US & NA-based servers for better performance in most regions.*
 
-- **Top 200 (gRPC prioritized, US excluded):** `https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/test-results/top_200_ping.txt`
+- **Top 200 (by Ping, US & NA excluded):** `https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/test-results/top_200_ping.txt`
 - **Dead Configs:** `https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/test-results/dead_configs.txt`
 
 ---
@@ -94,4 +94,4 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 | **Duplicates Removed:** 31841 | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 17509 configs |
 | --- | **[soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector):** 16405 configs |
 | **Unique Configs Tested:** 27550 | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 5001 configs |
-| **Working Configs Found:** 18430 |  |
+| **Working Configs Found:** 18442 |  |

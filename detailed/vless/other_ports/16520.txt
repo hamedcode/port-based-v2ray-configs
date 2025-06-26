@@ -1,2 +1,3 @@
 vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@94.183.233.203:16520?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-94.183.233.203:16520
+vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@78.39.62.238:16520?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.62.238:16520
 vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@94.183.233.38:16520?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-94.183.233.38:16520

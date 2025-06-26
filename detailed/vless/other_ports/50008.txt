@@ -1,2 +1,2 @@
-vless://8c67b1b8-3802-4327-bbb6-195c9fdd270f@89.47.197.25:50008?security=none&type=tcp&host=uptvs.com%2F%3F%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.47.197.25:50008
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@59.25.160.141:50008?security=tls&sni=miku.mikuru.ip-ddns.com&type=ws&host=miku.mikuru.ip-ddns.com&allowInsecure=1#🔒 VL-WS-TLS 🇰🇷 KR-59.25.160.141:50008
+vless://8c67b1b8-3802-4327-bbb6-195c9fdd270f@89.47.197.25:50008?security=none&type=tcp&host=uptvs.com%2F%3F%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.47.197.25:50008
