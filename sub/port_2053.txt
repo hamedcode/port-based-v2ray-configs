@@ -1,21 +1,18 @@
-trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053?type=ws&sni=t.hongkong6.qzz.io&path=/&host=t.hongkong6.qzz.io#US4
-trojan://Aimer@176.124.223.40:2053?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A58
-trojan://Aimer@162.159.44.230:2053?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US10
-trojan://Aimer@46.254.93.211:2053?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A513
-trojan://Aimer@77.232.140.114:2053?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A530
-trojan://Aimer@27.50.49.37:2053?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A535
-trojan://Aimer@199.34.228.50:2053?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US23
-trojan://Aimer@77.232.140.114:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0158
-trojan://Aimer@176.124.223.40:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0160
-trojan://Aimer@46.254.93.211:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0163
-trojan://Aimer@27.50.49.37:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#SG_speednode_0173
-trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053?allowInsecure=0&sni=t.hongkong6.qzz.io&type=ws&host=t.hongkong6.qzz.io&path=/#US_speednode_0259
-trojan://Aimer@162.159.44.230:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0261
-trojan://Aimer@199.34.228.50:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0272
+trojan://Aimer@77.232.140.114:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@167.68.4.199:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US3
+trojan://Aimer@154.197.64.166:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A517
+trojan://Aimer@154.197.64.155:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A522
+trojan://Aimer@154.219.5.242:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US15
+trojan://Aimer@77.232.140.114:2053?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0207
+trojan://Aimer@154.197.64.166:2053?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#SC_speednode_0219
+trojan://Aimer@154.197.64.155:2053?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#SC_speednode_0220
+trojan://Aimer@167.68.4.199:2053?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0337
+trojan://Aimer@154.219.5.242:2053?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0352
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqqvmhtztle%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%40ParsiV2ray%20%D9%BE%D8%B1%20%D8%B3%D8%B1%D8%B9%D8%AA
 trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053/?type=ws&host=t.hongkong6.qzz.io&path=/?ed=2560&security=tls&sni=t.hongkong6.qzz.io&fp=chrome#Trojan
 trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053?path=/?ed=2560&security=tls&host=t.hongkong6.qzz.io&fp=chrome&type=ws&sni=t.hongkong6.qzz.io#@AblNet7 🇨🇦
 trojan://2KtkEp9IDe@79.137.195.203:2053?type=ws&path=/TELEGRAM_BYA_CHANEL_RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS?ed=2048&host=joker.ahang-alpha.ir&security=none#All🇩🇪@Rk_VPS
+trojan://Aimer@167.68.4.7:2053?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @@singbox1 🇺🇸
 trojan://Aimer@167.68.4.7:2053?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇺🇸
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
 trojan://bpb-trojan@104.18.34.21:2053?security=tls&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV&path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&host=bpb-worker-panel1-e4p.pages.dev#@Hope_Net-join-us-on-Telegram
@@ -83,9 +80,11 @@ vless://7343f4bf-7a48-4f68-db27-6570cf21aeea@tify-binex-join.espikernajafi.ir:20
 vless://74e96ccd-d0c2-45f9-8dd4-486b6a93fa5b@91.107.170.231:2053/?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#@ZedBaz_vpn
 vless://74e96ccd-d0c2-45f9-8dd4-486b6a93fa5b@91.107.170.231:2053/?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#@ZedBaz_vpn  ➖➖➖➖➖➖➖➖ ⭐ | @ZedBaz_vpn
 vless://74e96ccd-d0c2-45f9-8dd4-486b6a93fa5b@91.107.170.231:2053?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#Channel-@vmesskhodam
+vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2053?mode=gun&security=reality&encryption=none&pbk=Q8kXSdOSxx-00IrhBu-0WbgFCZNhokvYpiUFFNVsfGo&fp=chrome&spx=/&type=grpc&serviceName=www.nvidia.com&sni=www.nvidia.com&sid=ac8c7f8b46a42c02#Channel id: %@singbox1 🇨🇭
 vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2053?mode=gun&security=reality&encryption=none&pbk=Q8kXSdOSxx-00IrhBu-0WbgFCZNhokvYpiUFFNVsfGo&fp=chrome&spx=/&type=grpc&serviceName=www.nvidia.com&sni=www.nvidia.com&sid=ac8c7f8b46a42c02#Channel id: @ShadowProxy66 🇨🇭
 vless://877be3a0-91d0-496c-a224-4413dd6fcc6b@fr.lalegan.shop:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=wizard&sni=marzban.negintel.xyz#🔹️ gRPC Connection 🇫🇷
 vless://8fba1e9e-9d0b-480f-9d41-b796647eacef@51.75.169.41:2053?mode=gun&security=reality&encryption=none&authority=&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&fp=chrome&type=grpc&serviceName=2053vless&sni=sourceforge.net&sid=5640288dca4f8519#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
+vless://904a7d68-bd97-4158-9069-27cbab888a43@gbenglandsercder.selenarahmani.blog:2053?security=reality&type=grpc&headerType=&serviceName=t.me/entryNET&authority=&mode=gun&sni=aider.chat&fp=chrome&pbk=b-17bBrxypH7jYoyReMbsfR2usUAV9FKmFNVBsofhRw&sid=9d50102196b6bf35&spx=/sdccvf450#Telegram:@config_proxy 🔥
 vless://9953991f-eebe-4140-ce8b-e824adc87436@binex.tv.sedanor.ir:2053?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=chess.com&security=none#BinexTify 🌟-qg0dbhlxv
 vless://9aee985c-4f96-41ad-c2d4-c601f0f2aa4f@binex.tv.sedanor.ir:2053?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=&encryption=none&host=chess.com&type=ws#BinexTify 🌟-iswwwdrv3
 vless://a1b2c3d4-e5f6-1234-7890-abcdef012345@104.20.158.25:2053?type=ws&encryption=none&host=proxy.aslivpn.ir&path=/Telegram@Hiddify&security=tls&sni=proxy.aslivpn.ir&fp=chrome#@CaV2ray ⚡️
@@ -96,8 +95,12 @@ vless://addbd8bc-dcf1-4a24-9eef-25639a32b47b@104.18.26.90:2053?path=/latest?ed=2
 vless://ae48f95d-9b6a-454b-849b-2ecf7922487b@v3.fandogh4.ir:2053?encryption=none&security=tls&sni=dash.beginnertopro.ir&alpn=h2,http/1.1&fp=chrome&type=ws&host=dash.beginnertopro.ir&path=/C7OSXPN9yV234T1Y?ed=2560#@CaV2ray ⚡️
 vless://ae48f95d-9b6a-454b-849b-2ecf7922487b@v3.fandogh4.ir:2053?path=/C7OSXPN9yV234T1Y?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=dash.beginnertopro.ir&fp=chrome&type=ws&sni=dash.beginnertopro.ir#🔐@ai_duet
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=sub.divib.dynv6.net&type=ws&sni=sub.divib.dynv6.net#IR-@Tunder_vpn
+vless://c752abdc-4cef-42e9-8180-569256930f7d@104.17.147.22:2053?path=/?TELEGRAM_JKVPN_JKVPN_JKVPN_JKVPN_JKVPN&security=tls&encryption=none&host=dl1-fr1-cdn.easy-upload.org&type=ws&sni=dl1-fr1-cdn.easy-upload.org#[🇨🇦]t.me/ConfigsHub
+vless://c752abdc-4cef-42e9-8180-569256930f7d@104.17.148.22:2053?path=/?TELEGRAM_JKVPN_JKVPN_JKVPN_JKVPN_JKVPN&security=tls&encryption=none&host=dl1-fr1-cdn.easy-upload.org&type=ws&sni=dl1-fr1-cdn.easy-upload.org#Telegram:@config_proxy 🔥
+vless://c752abdc-4cef-42e9-8180-569256930f7d@104.17.148.22:2053?path=/?TELEGRAM_JKVPN_JKVPN_JKVPN_JKVPN_JKVPN&security=tls&encryption=none&host=dl1-fr1-cdn.easy-upload.org&type=ws&sni=dl1-fr1-cdn.easy-upload.org#[🇨🇦]t.me/ConfigsHub
 vless://c752abdc-4cef-42e9-8180-569256930f7d@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#@v2ray313 کانالمون 🤯
 vless://c752abdc-4cef-42e9-8180-569256930f7d@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
+vless://c752abdc-4cef-42e9-8180-569256930f7d@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-fr1-cdn.easy-upload.org&type=ws&sni=dl1-fr1-cdn.easy-upload.org#Telegram:@config_proxy 🔥
 vless://c752abdc-4cef-42e9-8180-569256930f7d@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#@v2ray313 کانالمون 💓
 vless://c89702e7-5f23-4a2a-c8bf-def49f2569bc@79.137.195.203:2053?type=grpc&serviceName=TELEGRAM_BYA_CHANEL_RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS&authority=&security=reality&pbk=IPR6XroDHSuKCurhGY58yo7Fb4IWlAO_b_7d_7RXnlw&fp=chrome&sni=www.microsoft.com&sid=&spx=/Copy-az-chahnnel-RK_VPS#ᴬᴸᴸ³🇩🇪➣@RK_VPS
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#@V2rayNG3
@@ -109,7 +112,6 @@ vless://d475df47-2b3b-4488-9c8c-146dabbb7f9e@91.107.170.231:2053/?type=tcp&path=
 vless://d8e9f0a1-b2c3-8901-4567-789abcdef012@188.215.101.196:2053?type=ws&encryption=none&host=iran.aslivpn.ir&path=/@Filter_breaker&security=tls&sni=iran.aslivpn.ir&fp=chrome#@CaV2ray ⚡️
 vless://ddd218af-f7e4-42ab-8f7e-e9eed53bd7d6@hetzner1.legacystore.top:2053?security=reality&encryption=none&pbk=BYvlcW26K2NRpxeqc1bnCU00ksoLiSNxK64lZ7DZLBw&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f36a8eb73bf631fc#Telegram : @Alfa_v2ray_ng 🔥
 vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=&encryption=none&headerType=none&type=tcp#AZADIV2RAYY
-vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://e5f6a7b8-c9d0-5678-1234-ef0123456789@51.82.89.185:2053?type=tcp&encryption=none&sni=fast.com&fp=chrome&security=reality&pbk=JKL9876543210fedcba9876543210fed#@CaV2ray ⚡️
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#@V2ray1_Ng
@@ -124,7 +126,6 @@ vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.30.77:2053?path=/?ed=2048@HiB
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.208.95:2053?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#@v2ray313 کانالمون ♥
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.8.211.142:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#Telegram : @Alfa_v2ray_ng 🔥
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.8.211.142:2053?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#@v2ray313 کانالمون 💌
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.8.211.142:2053?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.238:2053?path=/&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#@Tunder_vpn
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.238:2053?path=/&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#@V2ray1_Ng
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.238:2053?path=/&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@

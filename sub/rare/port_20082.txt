@@ -1,3 +1,1 @@
-trojan://Aimer@107.173.111.232:20082?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US16
-trojan://Aimer@107.173.111.232:20082?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0266
 trojan://Aimer@107.173.111.232:20082?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US-107.173.111.232-0805
