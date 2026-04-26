@@ -1,2 +1,1 @@
-trojan://1234567890@220.125.207.242:25565?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vless://1c45e98c-8a4a-45e7-acc5-3a3cc962f463@144.31.220.136:25565?encryption=none&fp=chrome&pbk=n00VSaVEImUfNI-8882Ecum-Er2KIHLg32Y-MWQGeh8&security=reality&sni=hypixel.net&type=grpc#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://1c45e98c-8a4a-45e7-acc5-3a3cc962f463@142.132.146.241:25565?security=reality&encryption=none&sni=hypixel.net&fp=chrome&pbk=n00VSaVEImUfNI-8882Ecum-Er2KIHLg32Y-MWQGeh8&type=grpc&path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
