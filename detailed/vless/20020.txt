@@ -1,5 +1,4 @@
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020/?type=tcp&encryption=none&flow=#@icv2ray
-vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#@GozargahAzad|🇮🇷
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=&encryption=none&headerType=none&type=tcp#@ghalagyann
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=&encryption=none&headerType=none&type=tcp#@icv2ray
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=&encryption=none&headerType=none&type=tcp#Telegram:  @RezZonez.⁵
@@ -16,7 +15,6 @@ vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&en
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#@filtershekan_channel
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#@i10VPN - Psiphon 30
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
-vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#NormanV2ray-140
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#Psiphon--@V2rayAlpha-8
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#Telegram : @SocksProxy 🍃
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#Telegram | @Config0plus🚀
