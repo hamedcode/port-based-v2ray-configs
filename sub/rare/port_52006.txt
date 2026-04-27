@@ -1,1 +1,2 @@
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.197.3:52006?security=tls&type=tcp&sni=cluster-russia-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&encryption=none#v2ray_dalghak
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&security=tls&encryption=none&sni=cluster-russia-1.firstvideocdn.ru&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F

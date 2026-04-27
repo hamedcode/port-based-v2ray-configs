@@ -1,0 +1,2 @@
+vless://f38d6075-96d6-4b7e-bab6-5f6144b59a3e@185.208.79.246:5782?security=none&encryption=none&headerType=none&type=tcp#telegram: @hupivpn
+vless://f38d6075-96d6-4b7e-bab6-5f6144b59a3e@185.208.79.246:5782?type=tcp&encryption=none&security=none#TTT
