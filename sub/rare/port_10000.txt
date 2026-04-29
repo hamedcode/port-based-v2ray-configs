@@ -1,3 +1,1 @@
-trojan://1234567890@220.84.186.84:10000?allowInsecure=1&sni=kfm-bn0.pages.dev#%E9%9F%93%E5%9C%8B%5Cr
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENDWlpVVS5UT1AiLCJhZGQiOiJuZS1jYmU0azd2ei5uZXVyaXguc2JzIiwicG9ydCI6IjEwMDAwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjdmNjIwMjU3LTUwYjMtNGVkNi1hYzZlLTZjNmU4MGIyMzdhZiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJuZS1jYmU0azd2ei5uZXVyaXguc2JzIiwidGxzIjoidGxzIn0=
 trojan://1234567890@220.84.186.84:10000?sni=kfm-bn0.pages.dev#%E6%9C%AA%E7%9F%A518
