@@ -1,2 +1,1 @@
-vless://d3a03a6e-0b68-43c0-af15-2ffc42ed7d55@94.101.177.20:17345?encryption=none&type=tcp&headerType=none#@icv2ray
 vless://d3a03a6e-0b68-43c0-af15-2ffc42ed7d55@94.101.177.20:17345?security=&encryption=none&headerType=none&type=tcp#@icv2ray
