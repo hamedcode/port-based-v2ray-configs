@@ -1,6 +1,0 @@
-vless://167c7316-d6d4-4d28-83c4-dd420b429918@cdn.fillpower.ir:2042?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn.fillpower.ir#TROWER_NEWS
-vless://167c7316-d6d4-4d28-83c4-dd420b429918@ircell1.fillpower.ir:2042?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn.fillpower.ir#TROWER_NEWS
-vless://167c7316-d6d4-4d28-83c4-dd420b429918@ircell2.fillpower.ir:2042?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn.fillpower.ir#TROWER_NEWS
-vless://167c7316-d6d4-4d28-83c4-dd420b429918@mona.fillpower.ir:2042?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn.fillpower.ir#TROWER_NEWS
-vless://167c7316-d6d4-4d28-83c4-dd420b429918@x28.fillpower.ir:2042?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn.fillpower.ir#TROWER_NEWS
-vless://c7c063b6-7818-4096-ad75-e96a62d45f59@mona.fillpower.ir:2042?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=cdn.fillpower.ir#filembad-290

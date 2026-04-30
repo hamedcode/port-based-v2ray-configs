@@ -1,1 +1,2 @@
+vless://db607fd6-6921-41a2-a4f4-9671659d3311@45.139.10.60:29209?type=tcp&encryption=none&security=none#Bored-qe7bfn15
 vless://f40607fd-b279-4358-b207-52026a86d988@45.139.10.60:29209?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
