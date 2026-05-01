@@ -1,9 +1,5 @@
 vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#@Zed_NetMeli
-vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#@i10VPN - Psiphon 35
-vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#@v2rayRoom
 vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#@vpnbaz | ترکیبی
 vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#Psiphon-@V2rayAlpha--7
-vless://ae0d71fb-5121-4b78-adbc-753dbe2cd1a8@th.gostargate.top:49961?encryption=none&type=tcp&headerType=http#https://t.me/Configir98
 vless://ae0d71fb-5121-4b78-adbc-753dbe2cd1a8@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#Telegram : @SocksProxy 🍃
 vless://ae0d71fb-5121-4b78-adbc-753dbe2cd1a8@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#Telegram+:+@v2rayRoom
-vless://ae0d71fb-5121-4b78-adbc-753dbe2cd1a8@th.gostargate.top:49961?encryption=none&type=tcp&headerType=http
