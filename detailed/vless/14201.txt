@@ -1,2 +1,1 @@
 vless://bb7df973-31dc-4215-8d5f-00978b2e51ac@iri.hosmci.ir:14201?type=ws&security=tls&host=de.hosmci.ir&sni=de.hosmci.ir&path=/upload/?ed=2560&fp=chrome&alpn=h2,http/1.1#@HDDIFY
-vless://37759d01-34c1-49f8-bf94-27c7f2567bcd@iri.hosmci.ir:14201?path=/upload/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.hosmci.ir&fp=chrome&type=ws&allowInsecure=0&sni=de.hosmci.ir#@electvpn0
