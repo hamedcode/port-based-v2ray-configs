@@ -3,6 +3,6 @@ vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=no
 vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#@i10VPN - Psiphon 35
 vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#@v2rayRoom
 vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#@vpnbaz | ترکیبی
-vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#NetMeli9-157
 vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#Psiphon-@V2rayAlpha--7
 vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#netazadi
+vless://ae0d71fb-5121-4b78-adbc-753dbe2cd1a8@th.gostargate.top:49961?encryption=none&type=tcp&headerType=http#@techbod

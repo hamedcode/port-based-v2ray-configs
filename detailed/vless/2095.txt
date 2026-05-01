@@ -15,13 +15,9 @@ vless://270bb251-06a8-4066-8a92-f0d1bd06150a@185.143.233.235:2095?path=/&securit
 vless://4afe244e-5553-44c8-8216-e3ef33ac9765@abr.superip.ir:2095?path=/API/superip&security=&encryption=none&host=cd.phill-up.ir&type=ws#Psiphon--@V2rayAlpha-45
 vless://5535619d-9ba2-492d-996e-8c88a3572e28@abr.superip.ir:2095?path=/API/superip&security=&encryption=none&host=cd.phill-up.ir&type=ws#Psiphon--@V2rayAlpha-47
 vless://674ca7fe-204c-4d75-9710-a1a13b3b8bc5@arvancloud.ir:2095?path=/stream&security=none&encryption=none&host=hosting.linuweb.ir&type=ws#@v2npv 🚀 اتصال رایگان
-vless://b1fbc7b5-e6a1-4472-8700-21a7fe79bd2f@cdn.mizbanertebatfarda.ir:2095?encryption=none&type=ws&path=/&host=cdn.mizbanertebatfarda.ir#@icv2ray
 vless://b1fbc7b5-e6a1-4472-8700-21a7fe79bd2f@cdn.mizbanertebatfarda.ir:2095?path=/&security=none&encryption=none&host=cdn.mizbanertebatfarda.ir&type=ws#Psiphon-@V2rayAlpha--7
-vless://b84c936f-4ef8-4972-bbe9-7766feb0caeb@185.143.233.235:2095?security=none&type=ws&headerType=&path=/&host=Dev.artarona.ir#@electvpn0
-vless://b84c936f-4ef8-4972-bbe9-7766feb0caeb@185.143.233.235:2095?security=none&type=ws&headerType=&path=/&host=Ml.artarona.ir#@electvpn0
 vless://ba98a6d4-24e7-46d9-8f5e-89ace2e7987c@abr.superip.ir:2095?path=/API/superip&security=none&encryption=none&host=cd.phill-up.ir&type=ws#@appsooner کانال تلگرام 🕊️
 vless://cc7337c7-4b37-4abe-b6ad-f3f6cf1e21dd@cdn.mizbanertebatfarda.ir:2095?path=/&security=none&encryption=none&host=cdn.mizbanertebatfarda.ir&type=ws#Psiphon--@V2rayAlpha-19
-vless://d704d735-b8d1-473f-bebc-01270e55d8d7@cdn.mizbanertebatfarda.ir:2095?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&encryption=none&host=&type=ws#@GozargahAzad|🇮🇷
 vless://e0fe708e-21d8-4050-903b-931f90e4e941@emg2.mohimobileservice.ir:2095?path=/samfw&security=none&encryption=none&type=ws#Psiphon-@V2rayAlpha--12
 vless://e387d5d7-58aa-4cb7-aa5c-bce96428e757@abr.superip.ir:2095?path=/API/superip&security=&encryption=none&host=cd.phill-up.ir&type=ws#Psiphon--@V2rayAlpha-42
 vless://fac92b37-e521-490e-9ce7-0657df05d25f@arvancloud.ir:2095?encryption=none&type=ws&path=/stream&host=hosting.linuweb.ir#@@lldalall
@@ -55,5 +51,7 @@ vless://telegram-id-ArV2ray@www.speedtest.net:2095?path=/telegram-ArV2ry%2Cteleg
 vless://telegram-id-ArV2ray@www.speedtest.net:2095?path=/telegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=w.www.speedtest.net.debian.org.dnschecker.tech&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2logy%20%232
 vless://telegram-id-ArV2ray@www.speedtest.net:2095?path=/telegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=8.www.zula.ir.ftp.debian.org.bahrane.ir.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2logy%20%233
 vless://bm.boulvarmoein.shop@bm.boulvarmoein.shop:2095?path=%2FTelegram%40v2rayng_76%3D%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=bm.boulvarmoein.shop&type=ws&sni=bm.boulvarmoein.shop#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%28Aruba%20Networks%29
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.69:2095?encryption=none&host=cnmfangbinxingnmsl.cnm-fangbinxing--nmsl.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20458386
-vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.150.254:2095?encryption=none&host=iioo.iioou.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20755189
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.150.254:2095?encryption=none&host=iioo.iioou.workers.dev&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.69:2095?encryption=none&host=cnmfangbinxingnmsl.cnm-fangbinxing--nmsl.workers.dev&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.69:2095?encryption=none&host=cnmfangbinxingnmsl.cnm-fangbinxing--nmsl.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20931753
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.150.254:2095?encryption=none&host=iioo.iioou.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20447166
