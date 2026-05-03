@@ -5,32 +5,20 @@ trojan://7575@173.245.59.243:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ng
 trojan://ZJU29smXwp@172.67.191.189:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#@v2rayconfigamir 9335
 trojan://ZJU29smXwp@172.67.68.87:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=Web2.teama.tk#@v2rayconfigamir 9073
 trojan://ZJU29smXwp@45.85.118.0:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#@v2rayconfigamir 2198
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.15.17.129:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL-31.15.17.129-0851
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.91.134.91:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B9%F0%9F%87%ADTH-45.91.134.91-0856
-trojan://8r%3C%5B9%27l6hAO%238ZQi@109.71.11.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%BARU-109.71.11.98-0857
-trojan://8r%3C%5B9%27l6hAO%238ZQi@82.97.249.34:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%BARU-82.97.249.34-0859
-trojan://8r%3C%5B9%27l6hAO%238ZQi@176.125.240.147:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AASE-176.125.240.147-0866
-trojan://8r%3C%5B9%27l6hAO%238ZQi@38.180.194.222:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AE%F0%9F%87%B9IT-38.180.194.222-0867
-trojan://8r%3C%5B9%27l6hAO%238ZQi@38.180.143.51:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A6%F0%9F%87%B9AT-38.180.143.51-0869
-trojan://8r%3C%5B9%27l6hAO%238ZQi@146.19.84.236:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B1%F0%9F%87%BBLV-146.19.84.236-0871
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.102.156.144:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A6%F0%9F%87%B9AT-46.102.156.144-0880
-trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.199-0892
-trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.199-0894
-trojan://8r%3C%5B9%27l6hAO%238ZQi@23.173.104.208:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A8%F0%9F%87%A6CA-23.173.104.208-1740
-trojan://8r%3C%5B9%27l6hAO%238ZQi@43.245.227.108:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AC%F0%9F%87%A7GB-43.245.227.108-1745
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.172.115-2280
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@49.212.221.47:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-49.212.221.47-2293
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.177.129-2413
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.167.100.203:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.167.100.203-2419
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.177.129-2422
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.145.107-2459
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-209.9.201.67-2489
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.172.128-2535
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-209.9.201.67-2562
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-119.193.20.250-2609
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.172.115-2671
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.172.128-2700
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-219.94.250.108-2721
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.74.146-2772
+trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.199-1671
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.172.15-2225
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@49.212.221.47:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-49.212.221.47-2238
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-209.9.201.105-2358
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.167.100.203:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.167.100.203-2364
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-209.9.201.105-2367
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.145.107-2404
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.173.249-2434
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.172.35-2480
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.173.249-2507
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-119.193.20.250-2554
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.172.15-2616
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.172.35-2645
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-219.94.250.108-2666
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.74.146-2717
 trojan://Go5e2nKM8T@188.42.88.144:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN[همراه اول]
 trojan://Go5e2nKM8U-v2rayNG_VPNN@45.85.119.0:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN⚙ ایرانسل
