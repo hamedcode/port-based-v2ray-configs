@@ -1,2 +1,0 @@
-vless://04a0dd1a-e72b-44f3-a69b-ec9919d4f74d@iri.hosmci.ir:41473?encryption=none&type=ws&security=tls&path=/upload/?ed=2560&host=ir.hosmci.ir&sni=ir.hosmci.ir&alpn=h2,http/1.1,h3&fp=chrome&allowInsecure=1#t.me/ConfigFori  -  Config 24957
-vless://04a0dd1a-e72b-44f3-a69b-ec9919d4f74d@iri.hosmci.ir:41473?path=/upload/?ed=2560&security=tls&encryption=none&insecure=0&host=ir.hosmci.ir&fp=chrome&type=ws&allowInsecure=0&sni=ir.hosmci.ir#t.me/ConfigFori  -  Config 24954
