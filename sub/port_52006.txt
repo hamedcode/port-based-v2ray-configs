@@ -1,6 +1,7 @@
-vless://75807638-6f19-0190-ae08-38492ee85c88@cl-oth-1.edgeflux.ru:52006?allowInsecure=1&sni=cl-oth-1.edgeflux.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#v2ray_dalghak
 vless://75807638-6f19-03e8-ae08-38492ee85c88@178.72.181.18:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#%F0%9F%A7%BF81@oneclickvpnkeys
 vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.162.50:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision-udp443&sni=cluster-europe-1.firstvideocdn.ru#v2ray_dalghak
+vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#%F0%9F%8E%8887@oneclickvpnkeys
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@cl-eu-1.edgeflux.ru:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#%F0%9F%8E%88@oneclickvpnkeys
+vless://75807638-6f19-01f4-ae08-38492ee85c88@82.202.197.68:52006?security=tls&encryption=none&echfq=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#v2ray_dalghak
 vless://5a3294ff-2ee6-48dc-b010-80e907e9ec02@158.160.235.238:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=6a608eaf9117#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20631254
 vless://5a3294ff-2ee6-48dc-b010-80e907e9ec02@158.160.255.183:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=6a608eaf9117#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20925456
