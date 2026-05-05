@@ -1,7 +1,6 @@
 vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=&encryption=none&headerType=none&type=tcp#@ProxyV2IR
 vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=&encryption=none&headerType=none&type=tcp#@UnNurmal
 vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=&encryption=none&headerType=none&type=tcp#@byiroh
-vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=&encryption=none&headerType=none&type=tcp#@vipconfingg
 vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=none&encryption=none&headerType=none&type=tcp#@filtershekan_channel
 vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
 vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=none&encryption=none&headerType=none&type=tcp#FastNetTools
