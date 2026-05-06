@@ -1,5 +1,0 @@
-vless://75807638-6f19-0190-ae08-38492ee85c88@87.228.92.133:52006/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-oth-1.edgeflux.ru#[46230] - Telegram : @V2All
-vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.70:52006/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&fp=chrome#[46229] - Telegram : @V2All
-vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.92.150:52006/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-de-1.edgeflux.ru&fp=chrome#[46233] - Telegram : @V2All
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.162.50:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision-udp443&sni=cluster-europe-1.firstvideocdn.ru#v2ray_dalghak
-vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls#v2ray_dalghak
