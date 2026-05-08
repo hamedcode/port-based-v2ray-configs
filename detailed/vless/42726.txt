@@ -1,9 +1,5 @@
-vless://26f485f2-f62b-4cb3-9f74-7dcdbf41e9df@nullnetwork.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#@TROWER_NEWS
-vless://26f485f2-f62b-4cb3-9f74-7dcdbf41e9df@nullnetwork.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#filembad-84
 vless://3e8188ac-7148-4abb-ac4d-11fdfcbc40d4@nullnetwork.mashhad-gsm.ir:42726?encryption=none&type=tcp&headerType=none#@techbod
 vless://5b0f6b05-1ba5-4a6b-8a6d-c71da96c1c54@nullnetwork.mashhad-gsm.ir:42726?encryption=none&type=tcp&headerType=none#@techbod
-vless://5c22635b-78fd-46cb-83fc-1337530cbaff@packetnet.mashhad-gsm.ir:42726?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=none#@GozargahAzad|🇮🇷
-vless://5c22635b-78fd-46cb-83fc-1337530cbaff@packetnet.mashhad-gsm.ir:42726?type=tcp&security=none#@filembad
 vless://624eda9f-0c12-423d-a46b-6fc601d926ba@nullnetwork.mashhad-gsm.ir:42726?encryption=none&type=tcp&headerType=none#@techbod
 vless://7d15ec73-97be-4254-ba75-fcdaf58e81e2@nullnetwork.mashhad-gsm.ir:42726?encryption=none&type=tcp&headerType=none#@techbod
 vless://7e0b651a-4f7c-4b15-8e2c-611f87e53b90@nullnetwork.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#🔮Psiphon--@V2rayAlpha-5
@@ -11,4 +7,6 @@ vless://7e0b651a-4f7c-4b15-8e2c-611f87e53b90@nullnetwork.mashhad-gsm.ir:42726?ty
 vless://7e2b8371-7c45-46e3-b71a-d8bb5a609fb5@nullnetwork.mashhad-gsm.ir:42726?encryption=none&type=tcp&headerType=none#@techbod
 vless://9693932b-d765-4c6c-ad04-46bd9ff74544@packetnet.mashhad-gsm.ir:42726?type=tcp&security=none#@ProxyV2IR
 vless://bcfe5585-23d2-436f-8f8f-afd684882ee3@nullnetwork.mashhad-gsm.ir:42726?encryption=none&type=tcp&headerType=none#@techbod
+vless://f0029f92-69a0-4b27-bf74-4e5416e04bd6@nullnetwork.mashhad-gsm.ir:42726?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#@GozargahAzad|🇮🇷
+vless://f0029f92-69a0-4b27-bf74-4e5416e04bd6@nullnetwork.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#@filembad
 vless://fc749ed4-e8e2-4650-b62e-7a360a43ead1@nullnetwork.mashhad-gsm.ir:42726?encryption=none&type=tcp&headerType=none#@electvpn0
