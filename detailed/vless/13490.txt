@@ -1,0 +1,2 @@
+vless://94c8c3a4-354c-4a3f-81b5-64221ce82311@213.233.184.133:13490?encryption=none&type=grpc&serviceName=TEX#@vipconfingg
+vless://94c8c3a4-354c-4a3f-81b5-64221ce82311@213.233.184.133:13490?type=grpc&encryption=none&serviceName=TEX&authority=&security=none#@techbod
