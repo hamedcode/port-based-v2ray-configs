@@ -1,0 +1,5 @@
+vless://5ebb47d7-ecd1-42a8-b620-38c5bafe1ab6@185.164.73.133:16657?security=none&encryption=none&headerType=none&type=tcp#@filembad
+vless://5ebb47d7-ecd1-42a8-b620-38c5bafe1ab6@185.164.73.133:16657?security=none&encryption=none&headerType=none&type=tcp#@filtershekan_channel
+vless://5ebb47d7-ecd1-42a8-b620-38c5bafe1ab6@185.164.73.133:16657?security=none&encryption=none&headerType=none&type=tcp#@saministamm
+vless://5ebb47d7-ecd1-42a8-b620-38c5bafe1ab6@185.164.73.133:16657?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz | ترکیبی
+vless://5ebb47d7-ecd1-42a8-b620-38c5bafe1ab6@185.164.73.133:16657?security=none&encryption=none&headerType=none&type=tcp@saministamm
