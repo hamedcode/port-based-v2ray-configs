@@ -1,3 +1,1 @@
-vless://10bbaacf-488a-4dcf-9dbb-177d1a06b4c2@91.219.227.189:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20676210
-vless://10bbaacf-488a-4dcf-9dbb-177d1a06b4c2@91.219.227.200:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20561139
-vless://10bbaacf-488a-4dcf-9dbb-177d1a06b4c2@95.163.211.240:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20286742
+vless://e3bef281-40e6-4e5d-9e25-b1d861e6c043@217.60.238.167:8083?security=&encryption=none&headerType=http&type=tcp#canfingV2rayNG-322
