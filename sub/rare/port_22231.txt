@@ -1,2 +1,3 @@
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#🐹1@oneclickvpnkeys
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#@FastNetTools🟡
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL

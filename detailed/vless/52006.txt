@@ -1,3 +1,0 @@
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.23:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-ru-1.edgeflux.ru&type=tcp#%F0%9F%AB%9F99@oneclickvpnkeys
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.29:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-ru-1.edgeflux.ru&type=tcp#%F0%9F%AB%9F98@oneclickvpnkeys
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.28:52006/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-ru-2.edgeflux.ru#v2ray_dalghak
