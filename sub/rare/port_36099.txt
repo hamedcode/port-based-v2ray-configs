@@ -1,0 +1,3 @@
+vless://5d202c0b-f85d-4767-a259-352dc442fe8b@joker.preghost.ir:36099?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=joker.preghost.ir&fp=chrome&mode=auto&alpn=h2,http/1.1&extra={  "xPaddingBytes" : "100-1000"}#@filembad
+vless://5d202c0b-f85d-4767-a259-352dc442fe8b@joker.preghost.ir:36099?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=joker.preghost.ir&fp=chrome&mode=auto&alpn=h2,http/1.1&extra={  "xPaddingBytes" : "100-1000"}#@techbod
+vless://5f7e51d9-ea04-4c18-9dc5-9d21853dfc11@joker.preghost.ir:36099?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=joker.preghost.ir#@techbod
