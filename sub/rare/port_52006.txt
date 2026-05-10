@@ -1,4 +1,4 @@
+vless://75807638-6f19-01f4-ae08-38492ee85c88@82.202.197.68:52006?security=tls&encryption=none&echfq=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#v2ray_dalghak
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.132:52006?security=tls&sni=cluster-de-1.firstvideocdn.ru&insecure=1&fp=chrome&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#@v2rayconfigamir 8112
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.87:52006?security=tls&sni=cluster-de-2.firstvideocdn.ru&insecure=1&fp=chrome&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#@v2rayconfigamir 2569
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.98:52006?security=tls&sni=cluster-de-2.firstvideocdn.ru&insecure=1&fp=chrome&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#@v2rayconfigamir 3592
-vless://75807638-6f19-01f4-ae08-38492ee85c88@82.202.197.68:52006?security=tls&encryption=none&echfq=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#v2ray_dalghak
