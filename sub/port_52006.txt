@@ -2,10 +2,6 @@ vless://75807638-6f19-0190-ae08-38492ee85c88@178.72.162.160:52006?encryption=non
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.40:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-3.firstvideocdn.ru&type=tcp#🍬91@oneclickvpnkeys
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.69:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&type=tcp#🍬43@oneclickvpnkeys
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.38:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-ru-1.edgeflux.ru&type=tcp#🍬92@oneclickvpnkeys
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.72:52006?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&security=tls#@GozargahAzad|🇷🇺
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.72:52006?sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&security=tls#@filembad
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.72:52006?sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&security=tls#[51502] - Telegram : @V2All
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.72:52006?sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&security=tls#t.me/ConfigFori  -  Config 64761
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.132:52006?security=tls&sni=cluster-de-1.firstvideocdn.ru&insecure=1&fp=chrome&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#@v2rayconfigamir 8112
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.87:52006?security=tls&sni=cluster-de-2.firstvideocdn.ru&insecure=1&fp=chrome&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#@v2rayconfigamir 2569
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.98:52006?security=tls&sni=cluster-de-2.firstvideocdn.ru&insecure=1&fp=chrome&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#@v2rayconfigamir 3592
@@ -13,6 +9,9 @@ vless://75807638-6f19-0190-ae08-38492ee85c88@178.72.162.160:52006?encryption=non
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.40:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-3.firstvideocdn.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.69:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://75807638-6f19-01f4-ae08-38492ee85c88@82.202.197.68:52006?security=tls&encryption=none&echfq=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#v2ray_dalghak
+vless://75807638-6f19-0190-ae08-38492ee85c88@178.72.162.160:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-other-1.firstvideocdn.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.40:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-3.firstvideocdn.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.69:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://75807638-6f19-0190-ae08-38492ee85c88@178.72.162.160:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-other-1.firstvideocdn.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20415479
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.40:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-3.firstvideocdn.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20578804
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.69:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20980808
