@@ -1,2 +1,3 @@
 vless://7d0120c5-c8a4-4653-8015-94660e50b864@packetnet.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#@canfigiop
+vless://9693932b-d765-4c6c-ad04-46bd9ff74544@packetnet.mashhad-gsm.ir:42726?type=tcp&security=none#[52419] - Telegram : @V2All
 vless://fc749ed4-e8e2-4650-b62e-7a360a43ead1@nullnetwork.mashhad-gsm.ir:42726?encryption=none&type=tcp&headerType=none#@electvpn0
