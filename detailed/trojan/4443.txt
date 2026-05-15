@@ -1,1 +1,2 @@
-trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls#%F0%9F%87%B2%F0%9F%87%A9MD-103.231.73.181-4522
+trojan://strong-secret-pass-777@45.12.134.57:4443?allowInsecure=1#v2ray_dalghak
+trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls#%F0%9F%87%B2%F0%9F%87%A9MD-103.231.73.181-4513

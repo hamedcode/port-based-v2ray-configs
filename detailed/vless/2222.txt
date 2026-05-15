@@ -1,2 +1,1 @@
 vless://04738fc0-2279-4e80-a641-5e99485a1367@185.221.239.67:2222?encryption=none&type=tcp&headerType=none#@vasl_bashim
-vless://04738fc0-2279-4e80-a641-5e99485a1367@185.221.239.67:2222?security=none&encryption=none&headerType=none&type=tcp#3 https://t.me/ConfigX2ray
