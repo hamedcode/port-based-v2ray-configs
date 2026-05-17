@@ -1,2 +1,1 @@
 vless://9255b4d1-17e0-42d8-ae5d-36feda9beba0@mahan.babayagas.site:28461?alpn=h2,http/1.1&authority=&encryption=none&fp=chrome&security=tls&serviceName=aparat-stream&sni=mahan.babayagas.site&type=grpc#@config_free2
-vless://9255b4d1-17e0-42d8-ae5d-36feda9beba0@mahan.babayagas.site:28461?alpn=h2,http/1.1&authority=&encryption=none&fp=chrome&security=tls&serviceName=aparat-stream&sni=mahan.babayagas.site&type=grpc#@v2rayng_vpn403
