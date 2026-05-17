@@ -1,2 +1,2 @@
 vless://f118f2ae-d298-46f6-b4cf-7f5032922c9d@out.pixserver.ir:17107?security=none&encryption=none&headerType=none&type=tcp#@V2ray_confiig
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:17107?security=tls&sni=hnm.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-1010
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:17107?security=tls&sni=hnm.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-76.223.54.146-1010
