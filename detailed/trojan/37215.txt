@@ -1,1 +1,2 @@
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@222.98.185.243:37215?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD21
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@222.98.185.243:37215?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws&Host=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-222.98.185.243-0781
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@222.98.185.243:37215?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%252Ftrj-ws&Host=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-222.98.185.243-0806

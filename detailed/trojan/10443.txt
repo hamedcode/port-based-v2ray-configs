@@ -1,2 +1,2 @@
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@59.21.203.65:10443?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD11
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@211.227.98.59:10443?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD24
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@59.21.203.65:10443?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws&Host=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-59.21.203.65-0758
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@211.227.98.59:10443?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws&Host=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-211.227.98.59-0773

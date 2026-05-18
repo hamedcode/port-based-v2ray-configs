@@ -1,1 +1,1 @@
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@219.103.68.164:20770?sni=vpn1.rnmcnm.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@219.103.68.164:20770?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws&Host=vpn1.rnmcnm.com#%F0%9F%87%AF%F0%9F%87%B5JP-219.103.68.164-0769

@@ -1,2 +1,1 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@175.197.237.36:10912?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-175.197.237.36-0791
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@218.150.34.228:10912?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD5
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@218.150.34.228:10912?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws&Host=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-218.150.34.228-0756
