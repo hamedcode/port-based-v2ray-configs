@@ -1,5 +1,6 @@
-trojan://telegram-id-directvpn@13.38.225.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20141864
-trojan://telegram-id-directvpn@15.236.132.94:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20625773
-trojan://telegram-id-directvpn@15.237.54.100:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20808668
-trojan://telegram-id-directvpn@3.64.141.142:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20542756
-trojan://telegram-id-directvpn@63.182.26.197:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20349689
+trojan://telegram-id-directvpn@63.184.236.74:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[57224] - Telegram : @V2All
+trojan://telegram-id-directvpn@13.38.225.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20136065
+trojan://telegram-id-directvpn@15.236.132.94:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20369039
+trojan://telegram-id-directvpn@15.237.54.100:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20194841
+trojan://telegram-id-directvpn@3.64.141.142:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20333359
+trojan://telegram-id-directvpn@63.182.26.197:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20710387
