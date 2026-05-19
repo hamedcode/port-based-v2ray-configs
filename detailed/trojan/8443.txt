@@ -64,6 +64,6 @@ trojan://162534@138.124.86.149:8443?security=tls&sni=cchh2.pages.dev&insecure=1&
 trojan://162534@138.124.86.149:8443?security=tls&sni=cchh2.pages.dev&type=ws&path=/#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 trojan://162534@213.21.222.70:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 trojan://162534@213.21.222.70:8443?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=%2F#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://trojan@104.26.12.31:8443?path=/&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20274695
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20451437
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20473028
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20514571
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20512501
+trojan://trojan@172.67.75.172:8443?path=/&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20307191
