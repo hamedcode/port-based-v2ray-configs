@@ -1,17 +1,16 @@
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=&encryption=none&headerType=none&type=tcp#@V2ray_confiig
-vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=&encryption=none&headerType=none&type=tcp#@filembad
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=&encryption=none&headerType=none&type=tcp#@icv2ray
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=&encryption=none&headerType=none&type=tcp#@v2rayng_vpn403
+vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=&encryption=none&headerType=none&type=tcp#filembad-256
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=none&encryption=none&headerType=none&type=tcp#@filtershekan_channel
-vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?type=tcp&security=none#@subioir
-vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#@GozargahAzad|🇮🇷
+vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=none&encryption=none&host=games.p30dwonloads.ir&headerType=none&type=tcp#@filembad
+vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=none&encryption=none&host=games.p30dwonloads.ir&headerType=none&type=tcp#https://t.me/Configir98
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=&encryption=none&headerType=none&type=tcp#@V2ray_confiig
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=&encryption=none&headerType=none&type=tcp#@Vpn_jet7
-vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=&encryption=none&headerType=none&type=tcp#@filembad
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=&encryption=none&headerType=none&type=tcp#@icv2ray
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=&encryption=none&headerType=none&type=tcp#@v2rayng_vpn403
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=none&encryption=none&headerType=none&type=tcp#@filtershekan_channel
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
-vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=none&encryption=none&headerType=none&type=tcp#NormanV2ray-278
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=none&encryption=none&headerType=none&type=tcp#روبیکا  روبیکا  🔵⚪️@confihub
+vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?type=tcp&security=none#@subioir
