@@ -1,0 +1,2 @@
+vless://99c0fa90-0360-45ce-b0bd-29b0d42274b4@185.208.79.130:10663?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@filembad
+vless://99c0fa90-0360-45ce-b0bd-29b0d42274b4@185.208.79.130:10663?mode=gun&security=none&encryption=none&type=grpc#@filembad

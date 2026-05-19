@@ -1,7 +1,0 @@
-vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?encryption=none&type=tcp&headerType=none#@config_free2 28a
-vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?encryption=none&type=tcp&headerType=none#@electvpn0
-vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?encryption=none&type=tcp&headerType=none#@lldalall
-vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?encryption=none&type=tcp&headerType=none#@techbod
-vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@aloconfig_com
-vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?security=none&encryption=none&headerType=none&type=tcp#@filtershekan_channel
-vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?security=none&encryption=none&headerType=none&type=tcp#🔵⚪️@confihub-psiphon²¹²
