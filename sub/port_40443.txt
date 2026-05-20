@@ -1,6 +1,8 @@
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@Pirimod
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@filembad
+trojan://humanity@127.0.0.1:40443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@filembad
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=JoinProxyVPN11.calmloud.com#@ProxyVPN11
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@filembad
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=JoinProxyVPN11.ignitelimit.com#@ProxyVPN11 📀
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=ProxyVPN11.multiplydose.com&type=ws&allowInsecure=1&sni=JoinProxyVPN11.multiplydose.com#@ProxyVPN11
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#@iicenet
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=JoinProxyVPN11.gossipglove.com#@ProxyVPN11 📱
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=JoinProxyVPN11.multiplydose.com#@ProxyVPN11 🥷
@@ -8,15 +10,93 @@ trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrom
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#@xsfilterrnet
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#IR_NETLIFY
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#@iicenet
+trojan://humanity@188.121.104.44:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🇮🇷26287 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@188.121.105.201:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🇮🇷26288 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@188.121.105.201:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@filembad
+trojan://humanity@188.121.105.201:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#https://t.me/Pirimod
+trojan://humanity@188.121.110.4:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🇮🇷26289 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@188.121.111.4:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🇮🇷26290 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@188.121.123.148:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🇮🇷26291 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@188.121.124.134:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🇮🇷26292 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@193.151.145.252:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@filembad
+trojan://humanity@193.151.145.252:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#https://t.me/Pirimod
+trojan://humanity@193.151.145.252:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26329 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@193.151.149.115:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@filembad
+trojan://humanity@193.151.152.206:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@filembad
+trojan://humanity@193.151.152.206:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#https://t.me/Pirimod
+trojan://humanity@193.151.152.206:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26325 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@193.151.152.73:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@Hiddify_Nexttt 👈✅️ کانال تلگرامی ما
+trojan://humanity@193.151.152.73:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@filembad
+trojan://humanity@193.151.152.73:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@i10VPN - Psiphon 84
+trojan://humanity@193.151.152.73:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@iicenet
+trojan://humanity@193.151.152.73:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@iicenet ⚠️ نکته: ⌛ ممکنه چند لحظه
+trojan://humanity@193.151.152.73:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#https://t.me/Pirimod
+trojan://humanity@193.151.152.73:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26259 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.15.100:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#🇮🇷26318 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.15.223:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇮🇷26319 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.15.40:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇮🇷26311 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.20.152:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#🇮🇷26315 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.20.16:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#🇮🇷26317 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.20.221:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#🇮🇷26335 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.20.59:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇮🇷26316 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.22.10:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇮🇷26336 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.22.122:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇮🇷26338 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.22.83:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#🇮🇷26337 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.23.174:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇮🇷26340 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.23.230:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#🇮🇷26341 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.23.72:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#🇮🇷26339 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.6.200:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#🇮🇷26314 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.6.222:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇮🇷26269 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.7.232:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#🇮🇷26312 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@2.144.7.80:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇮🇷26313 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@37.152.185.46:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=/assignment#🇮🇷26343 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@37.152.186.182:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=/assignment#🇮🇷26344 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@37.32.11.121:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🇮🇷26293 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@37.32.11.121:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@filembad
+trojan://humanity@37.32.11.121:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#https://t.me/Pirimod
+trojan://humanity@37.32.9.230:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@filembad
+trojan://humanity@37.32.9.230:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#https://t.me/Pirimod
+trojan://humanity@37.32.9.230:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26331 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@85.198.11.172:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26244 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@85.198.20.177:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26332 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@85.198.9.204:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@filembad
+trojan://humanity@85.198.9.204:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#https://t.me/Pirimod
+trojan://humanity@85.198.9.204:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26326 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@87.107.104.140:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=/assignment#🇮🇷26342 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@94.101.177.118:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=/assignment#🇮🇷26345 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@95.38.163.199:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@filembad
+trojan://humanity@95.38.163.199:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#https://t.me/Pirimod
+trojan://humanity@95.38.163.199:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26328 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@95.38.165.189:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@filembad
+trojan://humanity@95.38.165.189:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#https://t.me/Pirimod
+trojan://humanity@95.38.165.189:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26330 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@95.38.165.31:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷26251 | ⚡️Telegram = t.me/SOSkeyNET
+vless://0f4d41cf-0be1-4fcc-ac41-53b843ba0752@127.0.0.1:40443?path=/ @ProxyVPN11&security=tls&encryption=none&insecure=0&host=H7-83W.pAgeS.deV&type=ws&allowInsecure=0&sni=H7-83W.pAgeS.deV#@ProxyVPN11
 vless://13ebfdbb-8548-4468-905a-2d2265ae7cae@127.0.0.1:40443?path=/wss?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=thisisverytemp.bananalegends.com&fp=chrome&type=ws&allowInsecure=1&sni=JoinProxyVPN11.bananalegends.com#@ProxyVPN11 🕶️
 vless://14c44521-e28f-4561-a12c-337d8cc44d87@127.0.0.1:40443?type=xhttp&encryption=none&path=/TiMbErSaW&host=amphetamine.yhbj.store&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=amphetamine.yhbj.store#@V2ray_confiig
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@127.0.0.1:40443?path=/ @ProxyVPN11&security=tls&encryption=none&insecure=0&host=rAyAn-007.pArViN.DpDnS.OrG&type=ws&allowInsecure=0&sni=rAyAn-007.pArViN.DpDnS.OrG#@ProxyVPN11
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@127.0.0.1:40443?path=/ @ProxyVPN11&security=tls&encryption=none&insecure=1&host=rAyAn-007.pArViN.DpDnS.OrG&type=ws&allowInsecure=1&sni=rAyAn-007.pArViN.DpDnS.OrG#@ProxyVPN11
+vless://2088ef0d-4d2c-43b3-874b-b6a03531c81b@127.0.0.1:40443?path=/eyJqdW5rIjoiVVpPeXNodUFQMHNVcU12aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&encryption=none&insecure=0&host=r.mediashoppp.sbs&type=ws&allowInsecure=0&sni=ProxyVPN11.meDiASHOPPp.sbS#@ProxyVPN11
+vless://25efc727-e853-49ba-9609-3c20009d0e7a@127.0.0.1:40443?path=/ @ProxyVPN11&security=none&encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&type=ws#@ProxyVPN11
+vless://380de414-8a0c-431b-bf20-6651c55208df@127.0.0.1:40443?mode=auto&path=/GoOgLe&security=tls&encryption=none&insecure=0&host=tom.dnstt.space&fp=chrome&type=xhttp&allowInsecure=0&sni=tom.dnstt.space#filembad-126
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&type=ws&host=sni.111000.indevs.in&path=/#@filembad
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/?=#@Pirimod
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/?=#@filembad
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=ProxyVPN11.111000.indevs.in#@ProxyVPN11
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/?Telegram @ProxyVPN11 =&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#🥏 @ProxyVPN11
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/?Telegramً @ProxyVPN11&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🥏 @ProxyVPN11
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/?https://t.me/ProxyVPN11🇨🇳=&security=tls&encryption=none&insecure=1&host=sni.latonyamadeline.ndjp.net&type=ws&allowInsecure=1&sni=sni.latonyamadeline.ndjp.net#🥏 @ProxyVPN11
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.114.40.14:40443?encryption=none&type=ws&security=tls&path=/&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#🇮🇷26068 | ⚡️Telegram = t.me/SOSkeyNET
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.234.39.232:40443?encryption=none&type=ws&security=tls&path=/&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#🇮🇷26069 | ⚡️Telegram = t.me/SOSkeyNET
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.234.39.92:40443?encryption=none&type=ws&security=tls&path=/&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#NormanV2ray-132
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.239.3.8:40443?path=/&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇮🇷26231 | ⚡️Telegram = t.me/SOSkeyNET
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.239.3.8:40443?path=/&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇮🇷26232 | ⚡️Telegram = t.me/SOSkeyNET
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.114.40.14:40443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@Pirimod
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.114.40.14:40443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@filembad
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.114.40.14:40443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Telegram | @ProxyEliteVPN
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.234.39.232:40443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@Iranvasll
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.234.39.232:40443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@Iranvasll   Tarkib Vasl✅  @Iranvasll
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@127.0.0.1:40443?path=/&security=tls&encryption=none&insecure=1&host=qyi.fqjd663.ggff.net&type=ws&allowInsecure=1&sni=qyi.fqjd663.ggff.net#@filembad
 vless://9863e1a5-f83b-4608-bed8-122d0a54b6d5@127.0.0.1:40443?type=xhttp&encryption=none&path=/KtBrKmKh&host=interim.yhbj.store&mode=auto&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=interim.yhbj.store#@V2ray_confiig
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#@Pirimld
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#@filembad
 vless://cbf524f0-4d7c-4173-aafb-e9f0608b3192@127.0.0.1:40443?type=xhttp&encryption=none&path=/Goorbeh&host=focalin.yhbj.store&mode=auto&security=tls&fp=&alpn=h2,http/1.1,h3&sni=focalin.yhbj.store#@V2ray_confiig
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@127.0.0.1:40443?path=/ @ProxyVPN11&security=tls&encryption=none&insecure=1&host=2-eox.pages.dev&type=ws&allowInsecure=1&sni=2-eox.pages.dev#🥏 @ProxyVPN11
 vless://d6fc6edf-3543-406e-8b5a-42f43871c261@127.0.0.1:40443?encryption=none&security=tls&sni=boneless.sabz-sitentg-noavaran.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=boneless.sabz-sitentg-noavaran.com&path=/Telegram-DeamNet#@v2rayconfigamir 1908

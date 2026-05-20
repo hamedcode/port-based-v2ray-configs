@@ -1,1 +1,2 @@
 vless://9c5d1bf0-d58b-4001-9e7c-0c1fa314068c@216.23.108.4:55301?security=reality&type=tcp&sni=download.windowsupdate.com&fp=qq&flow=xtls-rprx-vision&sid=4bcbc85d&pbk=7BS-JUFgYVaWrwwyDSiVq_YDoG36w8cRd4U8HvEg-F0&encryption=none#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://9c5d1bf0-d58b-4001-9e7c-0c1fa314068c@216.23.108.4:55301?security=reality&type=tcp&allowInsecure=1&sni=download.windowsupdate.com&fp=qq&flow=xtls-rprx-vision&sid=4bcbc85d&pbk=7BS-JUFgYVaWrwwyDSiVq_YDoG36w8cRd4U8HvEg-F0#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
