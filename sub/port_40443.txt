@@ -1,4 +1,5 @@
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@Pirimod
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@filembad
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=JoinProxyVPN11.ignitelimit.com#@ProxyVPN11 📀
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#@iicenet
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=JoinProxyVPN11.gossipglove.com#@ProxyVPN11 📱
@@ -7,20 +8,15 @@ trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrom
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#@xsfilterrnet
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#IR_NETLIFY
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#@iicenet
-vless://0fc911d6-c772-47ed-ba50-e5a4560680d9@Nuremberg2-sv.FaraSorat.Net:40443?path=/pV67LRFs428xHke56mDQ&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Nuremberg2p.FaraSorat.net&fp=chrome&type=ws&allowInsecure=0&sni=Test-92910313.FaraSorat.Net#🇮🇷26017 | ⚡️Telegram = t.me/SOSkeyNET
 vless://13ebfdbb-8548-4468-905a-2d2265ae7cae@127.0.0.1:40443?path=/wss?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=thisisverytemp.bananalegends.com&fp=chrome&type=ws&allowInsecure=1&sni=JoinProxyVPN11.bananalegends.com#@ProxyVPN11 🕶️
 vless://14c44521-e28f-4561-a12c-337d8cc44d87@127.0.0.1:40443?type=xhttp&encryption=none&path=/TiMbErSaW&host=amphetamine.yhbj.store&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=amphetamine.yhbj.store#@V2ray_confiig
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/?Telegram @ProxyVPN11 =&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#🥏 @ProxyVPN11
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/?Telegramً @ProxyVPN11&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🥏 @ProxyVPN11
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/?https://t.me/ProxyVPN11🇨🇳=&security=tls&encryption=none&insecure=1&host=sni.latonyamadeline.ndjp.net&type=ws&allowInsecure=1&sni=sni.latonyamadeline.ndjp.net#🥏 @ProxyVPN11
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.114.40.14:40443?encryption=none&type=ws&security=tls&path=/&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#🇮🇷26068 | ⚡️Telegram = t.me/SOSkeyNET
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.114.40.14:40443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@filembad
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.234.39.232:40443?encryption=none&type=ws&security=tls&path=/&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#🇮🇷26069 | ⚡️Telegram = t.me/SOSkeyNET
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.234.39.92:40443?encryption=none&type=ws&security=tls&path=/&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#NormanV2ray-132
 vless://9863e1a5-f83b-4608-bed8-122d0a54b6d5@127.0.0.1:40443?type=xhttp&encryption=none&path=/KtBrKmKh&host=interim.yhbj.store&mode=auto&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=interim.yhbj.store#@V2ray_confiig
 vless://cbf524f0-4d7c-4173-aafb-e9f0608b3192@127.0.0.1:40443?type=xhttp&encryption=none&path=/Goorbeh&host=focalin.yhbj.store&mode=auto&security=tls&fp=&alpn=h2,http/1.1,h3&sni=focalin.yhbj.store#@V2ray_confiig
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@127.0.0.1:40443?path=/ @ProxyVPN11&security=tls&encryption=none&insecure=1&host=2-eox.pages.dev&type=ws&allowInsecure=1&sni=2-eox.pages.dev#🥏 @ProxyVPN11
 vless://d6fc6edf-3543-406e-8b5a-42f43871c261@127.0.0.1:40443?encryption=none&security=tls&sni=boneless.sabz-sitentg-noavaran.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=boneless.sabz-sitentg-noavaran.com&path=/Telegram-DeamNet#@v2rayconfigamir 1908
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@filembad
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#@filembad
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#filembad-159
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.239.104.213:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇮🇷25986 | ⚡️Telegram = t.me/SOSkeyNET

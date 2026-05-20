@@ -1,4 +1,5 @@
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@Pirimod
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@filembad
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=JoinProxyVPN11.ignitelimit.com#@ProxyVPN11 📀
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#@iicenet
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=JoinProxyVPN11.gossipglove.com#@ProxyVPN11 📱
@@ -7,5 +8,3 @@ trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrom
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#@xsfilterrnet
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#IR_NETLIFY
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#@iicenet
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@filembad
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#@filembad
