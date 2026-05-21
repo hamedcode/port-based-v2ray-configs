@@ -1,2 +1,3 @@
+vless://93f2debc-acbb-4129-ab27-b90eb7c0d787@178.239.151.29:9443?type=tcp&encryption=none&security=none#@icv2ray
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@62.50.146.35:9443?mode=multi&security=reality&encryption=none&type=grpc&flow=&pbk=GdCtxJAti3DA8oTu9KkFHjCz1yRGGZB_4NZIBuQxc28&sid=abc5168218c8749c&sni=raw.githubusercontent.com&servername=raw.githubusercontent.com&spx=%2F&fp=chrome&serviceName=www.apple.com%3A443#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@2.27.23.139:9443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sni=rutube.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@2.27.23.139:9443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sni=rutube.ru&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
