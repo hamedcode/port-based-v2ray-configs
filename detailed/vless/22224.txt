@@ -5,4 +5,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.233.114:22224?encryption=non
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.153.245:22224?encryption=none&security=tls&sni=trojan.burgerip.co.uk&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=trojan.burgerip.co.uk&path=%2Ftelegram-channel-vlessconfig#a_089
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.221.203:22224?encryption=none&security=tls&sni=trojan.burgerip.co.uk&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=trojan.burgerip.co.uk&path=%2Ftelegram-channel-vlessconfig#a_145
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.53.84:22224?encryption=none&security=tls&sni=trojan.burgerip.co.uk&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=trojan.burgerip.co.uk&path=%2Ftelegram-channel-vlessconfig#a_159
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.182.67:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[60944] - Telegram : @V2All
