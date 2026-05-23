@@ -1,3 +1,2 @@
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=&encryption=none&headerType=none&type=tcp#@V2ray_confiig
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=none&encryption=none&headerType=none&type=tcp#https://t.me/v2rayRoom
-vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=none&type=tcp#filembad-280

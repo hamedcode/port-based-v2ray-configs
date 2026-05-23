@@ -5,10 +5,9 @@ trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=JoinProxyVPN11.multiplydose.com#@ProxyVPN11 🥷
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#@GrizzlyVPN
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#@xsfilterrnet
-trojan://humanity@2.144.2.245:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#
 trojan://humanity@2.144.2.247:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🦉@FreeConfigForYou
 trojan://humanity@2.144.22.10:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#@icv2ray
-trojan://humanity@85.198.20.177:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@speedtunnel
+trojan://humanity@85.198.20.177:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷27971 | ⚡️Telegram = t.me/SOSkeyNET
 vless://0f4d41cf-0be1-4fcc-ac41-53b843ba0752@127.0.0.1:40443?path=/ @ProxyVPN11&security=tls&encryption=none&insecure=0&host=H7-83W.pAgeS.deV&type=ws&allowInsecure=0&sni=H7-83W.pAgeS.deV#@ProxyVPN11
 vless://13ebfdbb-8548-4468-905a-2d2265ae7cae@127.0.0.1:40443?path=/wss?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=thisisverytemp.bananalegends.com&fp=chrome&type=ws&allowInsecure=1&sni=JoinProxyVPN11.bananalegends.com#@ProxyVPN11 🕶️
 vless://14c44521-e28f-4561-a12c-337d8cc44d87@127.0.0.1:40443?type=xhttp&encryption=none&path=/TiMbErSaW&host=amphetamine.yhbj.store&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=amphetamine.yhbj.store#@V2ray_confiig
