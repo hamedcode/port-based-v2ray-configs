@@ -1,6 +1,5 @@
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@185.175.47.238:4443?encryption=none&security=none&type=tcp#🪲45@oneclickvpnkeys
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&security=none&type=tcp#🪲24@oneclickvpnkeys
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&security=none&type=tcp#🪲20@oneclickvpnkeys
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&type=tcp&security=none#v2rayng_vpn403
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@pl4.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JvO2yPOHJwYFTKlHKmOzTrWjOhMBVQrTwK8zJi4i7Gg&security=reality&sni=pl4.frostmotiveseed.net&type=tcp#🪲79@oneclickvpnkeys
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@pl5.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_u-WNsUzOCB-54zOAh2prbQZqXGJgJfzl6lAZDx4Bw4&security=reality&sni=pl5.frostmotiveseed.net&type=tcp#🪲67@oneclickvpnkeys
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru2.alexanderoff.ru:4443?encryption=none&security=none&type=tcp#🪲69@oneclickvpnkeys
@@ -8,8 +7,6 @@ vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?encryption
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru7.alexanderoff.ru:4443?encryption=none&security=none&type=tcp#🪲37@oneclickvpnkeys
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@sp.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WdIX2dBCU2C9IgHXeIpJqckDAKBx1D9E4Sa4oL3uYA4&security=reality&sni=sp.frostmotiveseed.net&type=tcp#🪲73@oneclickvpnkeys
 vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=6670#%40V2ray_confiig`
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&security=none&type=tcp#%F0%9F%AA%B224@oneclickvpnkeys
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&security=none&type=tcp#%F0%9F%AA%B220@oneclickvpnkeys
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru7.alexanderoff.ru:4443?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
