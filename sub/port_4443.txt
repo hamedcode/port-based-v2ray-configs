@@ -1,7 +1,6 @@
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@185.175.47.238:4443?encryption=none&security=none&type=tcp#🪲45@oneclickvpnkeys
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&security=none&type=tcp#🪲24@oneclickvpnkeys
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&security=none&type=tcp#🪲20@oneclickvpnkeys
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@pl4.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JvO2yPOHJwYFTKlHKmOzTrWjOhMBVQrTwK8zJi4i7Gg&security=reality&sni=pl4.frostmotiveseed.net&type=tcp#[63584] - Telegram : @V2All
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@pl4.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JvO2yPOHJwYFTKlHKmOzTrWjOhMBVQrTwK8zJi4i7Gg&security=reality&sni=pl4.frostmotiveseed.net&type=tcp#🪲79@oneclickvpnkeys
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@pl5.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_u-WNsUzOCB-54zOAh2prbQZqXGJgJfzl6lAZDx4Bw4&security=reality&sni=pl5.frostmotiveseed.net&type=tcp#🪲67@oneclickvpnkeys
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru2.alexanderoff.ru:4443?encryption=none&security=none&type=tcp#🪲69@oneclickvpnkeys
@@ -9,7 +8,8 @@ vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?encryption
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru7.alexanderoff.ru:4443?encryption=none&security=none&type=tcp#🪲37@oneclickvpnkeys
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@sp.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WdIX2dBCU2C9IgHXeIpJqckDAKBx1D9E4Sa4oL3uYA4&security=reality&sni=sp.frostmotiveseed.net&type=tcp#🪲73@oneclickvpnkeys
 vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=6670#%40V2ray_confiig`
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?encryption=none&security=none&type=tcp#%F0%9F%AA%B266@oneclickvpnkeys
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru7.alexanderoff.ru:4443?encryption=none&security=none&type=tcp#%F0%9F%AA%B237@oneclickvpnkeys
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&security=none&type=tcp#%F0%9F%AA%B224@oneclickvpnkeys
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@pl4.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JvO2yPOHJwYFTKlHKmOzTrWjOhMBVQrTwK8zJi4i7Gg&security=reality&sni=pl4.frostmotiveseed.net&type=tcp#[63584] - Telegram : @V2All
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://281d153a-2fae-4725-84ed-602fb3627ca6@89.23.123.59:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20372193
 vless://3f426ef7-a809-4d46-921c-cc80b6cee4e0@176.122.27.101:4443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&security=reality&pbk=dDKeHqeOtJPi7u_10W4orYrd0Kq-ndCD_F96nbB2Bjo&sid=84ba23f147ad7a15#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20399199
