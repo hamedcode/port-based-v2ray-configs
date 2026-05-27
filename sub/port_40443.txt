@@ -1,5 +1,3 @@
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🧿 @ProxyVPN11
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#🧿 @ProxyVPN11
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#@GrizzlyVPN
 trojan://humanity@188.121.125.106:40443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#@canfigiop
 trojan://humanity@188.213.197.186:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🦉@FreeConfigForYou
@@ -8,8 +6,7 @@ trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=w
 trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#@icv2ray
 trojan://humanity@79.127.37.45:40443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#@icv2ray
 trojan://humanity@95.38.180.26:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🦉@FreeConfigForYou
-trojan://humanity@95.38.189.135:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🦉@FreeConfigForYou
-trojan://humanity@95.38.189.135:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🦉@FreeConfigForYou  با سایفون ترکیب کنید اول در v2ray
+trojan://humanity@95.38.189.135:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷32049 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.185.72.85:40443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ترکیبیConfixio@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.206.93.154:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@InfoTech_VK25
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.206.93.154:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 93
@@ -27,7 +24,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.121.124.223:40443?path=/&securi
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.121.124.223:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 92
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.121.124.243:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@🦉@FreeConfigForYou
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.196.237:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 98
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.196.237:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.197.52:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@InfoTech_VK27
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.197.52:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 91
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.198.130:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🦉@FreeConfigForYou
@@ -38,14 +34,7 @@ vless://@deamnet-@deamnet-@deamnet@127.0.0.1:40443?encryption=none&security=tls&
 vless://@deamnet-@deamnet-@deamnet@127.0.0.1:40443?encryption=none&security=tls&sni=actually-road.bn-chanll.cf&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=actually-road.bn-chanll.cf&path=/deamnet#@v2rayconfigamir 3138
 vless://@deamnet-@deamnet-@deamnet@127.0.0.1:40443?encryption=none&security=tls&sni=yandex.samen12.at.eu.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=yandex.samen12.at.eu.org&path=/deamnet#@DeamNet
 vless://@deamnet-@deamnet-@deamnet@127.0.0.1:40443?encryption=none&security=tls&sni=yandex.samen12.at.eu.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=yandex.samen12.at.eu.org&path=/deamnet#@v2rayconfigamir 8553
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@127.0.0.1:40443?path=/129.150.35.29=587&security=tls&encryption=none&insecure=1&host=apexbhao1.qzz.io&type=ws&allowInsecure=1&sni=JoinProxyVPN11.apexbhao1.qzz.io#🧿 @ProxyVPN11
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@127.0.0.1:40443?path=/13.250.131.37=443&security=tls&encryption=none&insecure=1&host=afrcloud2.c01.kr&type=ws&allowInsecure=1&sni=JoinProxyVPN11.afrcloud2.c01.kr#🧿 @ProxyVPN11
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@127.0.0.1:40443?path=/139.99.124.165=443&security=tls&encryption=none&insecure=1&host=afrcloud2.c01.kr&type=ws&allowInsecure=1&sni=JoinProxyVPN11.afrcloud2.c01.kr#🧿 @ProxyVPN11
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@127.0.0.1:40443?path=/156.244.1.250=8443&security=tls&encryption=none&insecure=1&host=gzjx.dpdns.org&type=ws&allowInsecure=1&sni=JoinProxyVPN11.gzjx.dpdns.org#🧿 @ProxyVPN11
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@127.0.0.1:40443?path=/188.166.249.31=443&security=tls&encryption=none&insecure=1&host=afrcloud4.c01.kr&type=ws&allowInsecure=1&sni=JoinProxyVPN11.afrcloud4.c01.kr#🧿 @ProxyVPN11
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@127.0.0.1:40443?path=/43.218.77.16=443&security=tls&encryption=none&insecure=1&host=afrcloud2.c01.kr&type=ws&allowInsecure=1&sni=JoinProxyVPN11.afrcloud2.c01.kr#🧿 @ProxyVPN11
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@127.0.0.1:40443?path=/68.183.227.216=443&security=tls&encryption=none&insecure=1&host=afrcloud2.c01.kr&type=ws&allowInsecure=1&sni=JoinProxyVPN11.afrcloud2.c01.kr#🧿 @ProxyVPN11
-trojan://humanity@95.38.189.135:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@95.38.180.158:40443?path=/168.138.171.70=23280&security=tls&encryption=none&insecure=0&host=aquilacalyx.qzz.io&type=ws&allowInsecure=0&sni=aquilacalyx.qzz.io#@@FreeConffning
 trojan://humanity@2.144.22.10:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20679602
 trojan://humanity@95.38.189.135:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20450837
 trojan://humanity@2.144.7.209:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20181554
