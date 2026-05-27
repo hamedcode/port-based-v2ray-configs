@@ -10,7 +10,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.226.117.9:40443?path=/&security
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.226.119.190:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@InfoTech_VK24
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.226.119.190:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 94
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.239.0.141:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🦉@FreeConfigForYou
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.8.174.166:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#Vpn_jet7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.121.124.223:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@InfoTech_VK26
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.121.124.223:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 92
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.121.124.243:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@🦉@FreeConfigForYou
