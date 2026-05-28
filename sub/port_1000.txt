@@ -3,5 +3,4 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encr
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://b50e741b-c80f-4e3c-b55d-ab9480603dc3@tlsapi.abrdata.com.tr:1000?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=aparat-stream&allowInsecure=0&sni=tlsapi.abrdata.com.tr#🇮🇷33518 | ⚡️Telegram = t.me/SOSkeyNET
-vless://b50e741b-c80f-4e3c-b55d-ab9480603dc3@tlsapi.abrdata.com.tr:1000?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=aparat-stream&allowInsecure=0&sni=tlsapi.abrdata.com.tr#🔵@chillguy_vpn
+vless://b50e741b-c80f-4e3c-b55d-ab9480603dc3@tlsapi.abrdata.com.tr:1000?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=aparat-stream&allowInsecure=0&sni=tlsapi.abrdata.com.tr#filembad-189
