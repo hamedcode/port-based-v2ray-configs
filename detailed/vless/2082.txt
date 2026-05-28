@@ -9,5 +9,5 @@ vless://f172c28c-14f7-408b-b41e-838f4f32a15f@185.143.234.122:2082?path=/&securit
 vless://0ecb2769-9d3c-4ed3-9ffd-88a96f90f30a@abr.superip.ir:2082?path=/API/superip&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=brand.bi6x.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40nofilter_v2rayng%20%231
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20445835
-vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20912607
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20516334
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20359591
