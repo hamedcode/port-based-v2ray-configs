@@ -1,53 +1,41 @@
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#@GrizzlyVPN
-trojan://humanity@128.65.185.146:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mux=&path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&muxConcurrency=-1&sni=www.ignitelimit.com#@GozargahAzad|🇮🇷
-trojan://humanity@128.65.185.146:40443?mux=&path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&muxConcurrency=-1&sni=www.ignitelimit.com#@filembad
-trojan://humanity@128.65.185.146:40443?mux=&path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&muxConcurrency=-1&sni=www.ignitelimit.com#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:89.16ms
-trojan://humanity@128.65.185.146:40443?mux=&path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&muxConcurrency=-1&sni=www.ignitelimit.com#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:92.88ms
-trojan://humanity@128.65.185.146:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷32270 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@128.65.185.146:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷32271 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@188.121.125.106:40443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#@canfigiop
-trojan://humanity@188.213.197.186:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🦉@FreeConfigForYou
 trojan://humanity@2.144.23.72:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=@Black_Star_Vpn
 trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#@icv2ray
-trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#NormanV2ray-27
 trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#@icv2ray
-trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#NormanV2ray-28
 trojan://humanity@79.127.37.45:40443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#@icv2ray
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.185.72.85:40443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ترکیبیConfixio@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.206.93.154:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@InfoTech_VK25
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.206.93.154:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 93
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.208.175.247:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🦉@FreeConfigForYou
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.226.117.245:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 97
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.226.117.77:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🦉@FreeConfigForYou
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.226.117.9:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@InfoTech_VK23
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.226.117.9:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 95
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.226.117.9:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🦉@FreeConfigForYou
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.226.119.190:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@InfoTech_VK24
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.226.119.190:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 94
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.239.0.141:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🦉@FreeConfigForYou
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.121.124.223:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@InfoTech_VK26
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.121.124.223:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 92
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.121.124.243:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@🦉@FreeConfigForYou
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.196.237:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 98
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.197.52:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@InfoTech_VK27
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.197.52:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 91
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.198.130:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🦉@FreeConfigForYou
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.198.78:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🦉@FreeConfigForYou
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.152.187.76:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🦉@FreeConfigForYou
 vless://7f708445-b4a5-4b33-8dce-e1adb2ed3b92@95.38.166.85:40443?encryption=none&type=xhttp&security=tls&path=/34809/cfxhtp&host=nl-srv.z3df1lter.uk&mode=auto&sni=nl-srv.z3df1lter.uk&alpn=h3,h2&fp=chrome&allowInsecure=0#@icv2ray
+vless://7f708445-b4a5-4b33-8dce-e1adb2ed3b92@95.38.166.85:40443?security=tls&sni=nl-srv.z3df1lter.uk&type=xhttp&host=nl-srv.z3df1lter.uk&path=/34809/cfxhtp&fp=chrome&alpn=h3,h2&allowInsecure=0#🇮🇷33353 | ⚡️Telegram = t.me/SOSkeyNET
 vless://@deamnet-@deamnet-@deamnet@127.0.0.1:40443?encryption=none&security=tls&sni=actually-road.bn-chanll.cf&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=actually-road.bn-chanll.cf&path=/deamnet#@DeamNet
-vless://@deamnet-@deamnet-@deamnet@127.0.0.1:40443?encryption=none&security=tls&sni=actually-road.bn-chanll.cf&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=actually-road.bn-chanll.cf&path=/deamnet#@v2rayconfigamir 3138
 vless://@deamnet-@deamnet-@deamnet@127.0.0.1:40443?encryption=none&security=tls&sni=yandex.samen12.at.eu.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=yandex.samen12.at.eu.org&path=/deamnet#@DeamNet
-vless://@deamnet-@deamnet-@deamnet@127.0.0.1:40443?encryption=none&security=tls&sni=yandex.samen12.at.eu.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=yandex.samen12.at.eu.org&path=/deamnet#@v2rayconfigamir 8553
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@95.38.180.158:40443?path=/168.138.171.70=23280&security=tls&encryption=none&insecure=0&host=aquilacalyx.qzz.io&type=ws&allowInsecure=0&sni=aquilacalyx.qzz.io#@@FreeConffning
-trojan://humanity@95.38.189.135:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20652735
-trojan://humanity@185.231.112.217:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20829037
-trojan://humanity@79.127.37.45:40443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20356834
-trojan://humanity@85.198.11.172:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20251920
-trojan://humanity@128.65.185.146:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20130680
-trojan://humanity@188.121.125.106:40443?security=tls&sni=www.calmloud.com&type=ws&host=www.calmloud.com&path=/assignment&fp=chrome&alpn=http/1.1&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20273421
-trojan://humanity@188.213.197.186:40443?security=tls&sni=www.calmloud.com&type=ws&host=www.calmloud.com&path=/assignment&fp=chrome&alpn=http/1.1&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20698093
-trojan://humanity@2.144.22.10:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20762674
-trojan://humanity@2.144.23.72:40443?security=tls&sni=@Black_Star_Vpn&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20116921
-trojan://humanity@2.144.4.208:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20630889
-trojan://humanity@95.38.180.26:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20856523
+vless://b1f8283d-36f5-4ff9-8ad8-e6d733a18fa0@127.0.0.1:40443?security=tls&type=ws&host=darkness427spoof.pages.dev&fp=chrome&sni=darkness427spoof.pages.dev&path=/&encryption=none#@Configwireguard - 1
+trojan://humanity@2.144.23.72:40443?security=tls&sni=@Black_Star_Vpn&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=0#🇮🇷33259 | ⚡️Telegram = t.me/SOSkeyNET
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.185.72.85:40443?security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/&allowInsecure=0#🇮🇷33253 | ⚡️Telegram = t.me/SOSkeyNET
+vless://7f708445-b4a5-4b33-8dce-e1adb2ed3b92@95.38.166.85:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=nl-srv.z3df1lter.uk&type=xhttp&host=nl-srv.z3df1lter.uk&path=/34809/cfxhtp&fp=chrome&alpn=h3,h2&allowInsecure=0#@GozargahAzad|🇮🇷
+trojan://humanity@2.144.22.10:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20714950
+trojan://humanity@185.231.112.217:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20243260
+trojan://humanity@79.127.37.45:40443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20715075
+trojan://humanity@188.213.197.186:40443?security=tls&sni=www.calmloud.com&type=ws&host=www.calmloud.com&path=/assignment&fp=chrome&alpn=http/1.1&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20315531
+trojan://humanity@128.65.185.146:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20482601
+trojan://humanity@188.121.125.106:40443?security=tls&sni=www.calmloud.com&type=ws&host=www.calmloud.com&path=/assignment&fp=chrome&alpn=http/1.1&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20484077
+trojan://humanity@2.144.23.72:40443?security=tls&sni=@Black_Star_Vpn&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20144420
+trojan://humanity@2.144.4.208:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20519901
+trojan://humanity@85.198.11.172:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20393957
+trojan://humanity@95.38.180.26:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20220091
+trojan://humanity@95.38.189.135:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20395055
