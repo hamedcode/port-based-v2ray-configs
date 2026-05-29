@@ -10,5 +10,3 @@ trojan://mitivpn@104.18.32.47:2096?path=%2F%3Fed%3D2048&security=tls&alpn=http%2
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=/tr&amp%3Bsecurity=tls&amp%3Bhost=Koma-YT.PAGeS.Dev&amp%3Btype=ws&amp%3Bsni=Koma-YT.PAGeS.Dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40red2ray%20%231
 trojan://mitivpn@104.18.32.47:2096?security=tls&sni=www.app-cloud.ir#%F0%9F%8F%81RELAY-104.18.32.47-1527
 trojan://mitivpn@104.18.32.47:2096?security=tls&type=ws&sni=www.app-cloud.ir&path=/?ed=2048#%E6%9C%AA%E7%9F%A54
-trojan://mitivpn@104.18.32.47:2096?path=/?ed=2048&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=www.app-cloud.ir#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20258582
-trojan://mitivpn@104.18.32.47:2096?type=ws&security=tls&path=/?ed=2048&sni=www.app-cloud.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20467763
