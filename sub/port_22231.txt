@@ -15,7 +15,7 @@ vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?allowInsecure=0
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&type=tcp&security=tls&headerType=none&sni=r1.mizulina.top&fp=edge&allowInsecure=0&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&type=tcp&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20766551
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20921235
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20735132
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20374586
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20787445
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20230794
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20100195
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20534541
