@@ -1,0 +1,2 @@
+vless://6f2a99c7-d29b-44d1-aadc-b9f3b382233c@95.179.245.139:56190?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp#@v2rayNGcloud
+vless://c64b0bbc-f72a-4b7e-a824-784d17eb7132@95.179.245.139:56190?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp#@v2rayNGcloud

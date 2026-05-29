@@ -1,3 +1,4 @@
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.1.238:666?path=/proxy&security=tls&encryption=none&insecure=1&host=43.164.1.238&type=ws&allowInsecure=1&sni=43.164.1.238#🔵 @config_free2
 vless://@IR_NETLIFY@194.59.183.234:666?encryption=none&security=none&type=tcp&headerType=none#@IR_NETLIFY
 vless://@IR_NETLIFY@194.59.183.234:666?encryption=none&security=none&type=tcp&headerType=none#@IR_NETLIFY  https://t.me/proxy?server=194.59.183.234&port=8082&secret=ee53e26c78ba47dba45ff320a8d5e78b747777772e636c6f7564666c6172652e636f6d
 vless://@xniceshop@tr.xniceping.ir:666?security=&encryption=none&headerType=&type=tcp#outline_it
