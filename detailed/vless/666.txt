@@ -1,8 +1,6 @@
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.1.238:666?encryption=none&type=ws&security=tls&path=/proxy&host=43.164.1.238&sni=43.164.1.238&allowInsecure=1#🇹🇭 Thailand Bangkok | ⏱1526ms | ⚡317KB/s | @NamazVPN
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.1.238:666?path=/proxy&security=tls&encryption=none&insecure=1&host=43.164.1.238&type=ws&allowInsecure=1&sni=43.164.1.238#🔵 @config_free2
-vless://@IR_NETLIFY@194.59.183.234:666?encryption=none&security=none&type=tcp&headerType=none#@IR_NETLIFY
-vless://@IR_NETLIFY@194.59.183.234:666?encryption=none&security=none&type=tcp&headerType=none#@IR_NETLIFY  https://t.me/proxy?server=194.59.183.234&port=8082&secret=ee53e26c78ba47dba45ff320a8d5e78b747777772e636c6f7564666c6172652e636f6d
+vless://@IR_NETLIFY@194.59.183.234:666?type=tcp&encryption=none&security=none#@IR_NETLIFY
+vless://@IR_NETLIFY@89.22.236.213:666?type=tcp&encryption=none&security=none#@IR_NETLIFY
 vless://@xniceshop@tr.xniceping.ir:666?security=&encryption=none&headerType=&type=tcp#outline_it
-vless://dc731beb-57fc-4e8b-9d16-21165f92c153@104.253.74.211:666?security=none&encryption=none&headerType=none&type=tcp#🇺🇸38904 | ⚡️Telegram = t.me/SOSkeyNET
 vless://%40xniceshop@tr.xniceping.ir:666?amp%3Bencryption=none&amp%3Btype=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20VLESS%20%7C%20%40outline_ir%20%231
+vless://dc731beb-57fc-4e8b-9d16-21165f92c153@104.253.74.211:666?security=none&encryption=none&headerType=none&type=tcp#🇺🇸38904 | ⚡️Telegram = t.me/SOSkeyNET
 vless://@IR_NETLIFY@194.59.183.234:666?security=none&type=tcp&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
