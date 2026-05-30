@@ -1,6 +1,3 @@
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#@GrizzlyVPN
+trojan://humanity@2.144.15.223:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#https://t.me/v2raynplus |🇮🇷
 trojan://humanity@2.144.23.72:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=@Black_Star_Vpn
-trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#NormanV2ray-23
-trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#🇮🇷37246 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#NormanV2ray-24
-trojan://mobttltkypqlos76@127.0.0.1:40443?alpn=h2,http/1.1&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=cdn.gov2.cc.cd&mode=auto&path=/超级秘密路径&security=tls&sni=cdn.gov2.cc.cd&type=xhttp&x_padding_bytes=100-1000#🏠37264 | ⚡️Telegram = t.me/SOSkeyNET
