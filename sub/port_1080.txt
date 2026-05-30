@@ -4,6 +4,5 @@ vless://2ec4b4e9-27fb-40ec-8f14-63ad20f53994@95.179.245.139:1080?security=none&e
 vless://8a6d385f-3bf8-4320-8740-b0800bc949da@number1.api50951.ir:1080?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=api.api50951.ir&allowInsecure=0&sni=api.api50951.ir#V2rayng_Fast
 vless://2ec4b4e9-27fb-40ec-8f14-63ad20f53994@95.179.245.139:1080?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2ray_configs_pool%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpySXZ6TkNCUF90NW9kU1c0RGlNTER3@91.107.189.98:1080#%F0%9F%87%A9%F0%9F%87%AADE-91.107.189.98-7538
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbFp2eU9KS1ZJTlNvcEtCNkk2c1Rn@198.105.115.100:1080#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbFp2eU9KS1ZJTlNvcEtCNkk2c1Rn@198.105.115.100:1080#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20494354
-vless://2ec4b4e9-27fb-40ec-8f14-63ad20f53994@95.179.245.139:1080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20654433
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbFp2eU9KS1ZJTlNvcEtCNkk2c1Rn@198.105.115.100:1080#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://2ec4b4e9-27fb-40ec-8f14-63ad20f53994@95.179.245.139:1080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20295738
