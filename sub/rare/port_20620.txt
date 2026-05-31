@@ -1,2 +1,2 @@
-vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620?encryption=none&security=none&type=tcp#@canfigiop
 vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620?security=none&encryption=none&headerType=none&type=tcp#TEL;FATHER_VPN¹²
+vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620?encryption=none&security=none&type=tcp#@canfigiop
