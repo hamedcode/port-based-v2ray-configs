@@ -7,7 +7,6 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.79:3389#%F0%9F%87%BA%F0%9F%8
 trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.196-2011
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@85.208.108.60:3389#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.60-2013
 trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.155-2206
-trojan://3febb05ea76a940f@60.249.3.125:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.125-2235
 trojan://8b475d9e868e43e0@211.72.35.157:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.157-2247
 trojan://b84d16a244460e09@211.72.35.152:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.152-2254
 trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.158-2289
@@ -35,6 +34,7 @@ trojan://cd39f62aed7b90f6@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%AC
 trojan://6f0a9d0fa39d65fa@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-5312
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.107.226.146:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.146-5353
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.19:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-5397
+trojan://3febb05ea76a940f@60.249.3.125:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.125-2235
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.52:3389#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.52-5543
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.82:3389#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-5547
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.18:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.18-5569
@@ -67,13 +67,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.61:3389#%F0%9F%87%AC%F0%9F%
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.99:3389#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.99-6343
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.74:3389#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-6346
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.107.226.48:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-6350
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.62.62:3389#🇺🇸40004 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.62.68:3389#🇺🇸40006 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.59:3389#🇺🇸40012 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.79:3389#🇺🇸40017 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.82:3389#🇺🇸40020 | ⚡️Telegram = t.me/SOSkeyNET
-vless://88b0b142-88e1-422d-84fb-ad8a762a9e11@172.65.158.241:3389?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#🇳🇱 t.me/Natrixo AA
-vless://88b0b142-88e1-422d-84fb-ad8a762a9e11@172.65.158.241:3389?encryption=none&type=tcp&headerType=none#@chillguy_vpn
-vless://88b0b142-88e1-422d-84fb-ad8a762a9e11@172.65.158.241:3389?encryption=none&type=tcp&headerType=none#🇨🇦40029 | ⚡️Telegram = t.me/SOSkeyNET
-vless://88b0b142-88e1-422d-84fb-ad8a762a9e11@172.65.158.241:3389?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
-vless://88b0b142-88e1-422d-84fb-ad8a762a9e11@172.65.158.241:3389?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn

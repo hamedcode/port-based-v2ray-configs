@@ -1,2 +1,0 @@
-vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@95.143.188.155:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=http/1.1#kurdconfig
-vless://b875f568-3fe3-07d0-9d0f-d5f748b3f7dd@178.72.162.185:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=http/1.1#kurdconfig
