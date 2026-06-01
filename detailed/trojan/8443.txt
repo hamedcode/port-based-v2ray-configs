@@ -96,10 +96,7 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.224-2723
 trojan://8f3a2b1c9d4e5f6a7b8c9d0e1f2a3b4c@link.honghongai.top:8443?security=tls&sni=link.honghongai.top#%F0%9F%87%BA%F0%9F%87%B8US-202.91.33.175-0149
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-7936
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@104.143.0.117:8443?allowInsecure=0&sni=vpn.rnmcnm.com&ws=1&wspath=%252Ftrojan#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20Versaweb
+trojan://433e785b-2077-47f7-a43d-985f63dd18d1@104.143.0.117:8443?allowInsecure=1&sni=vpn.rnmcnm.com&ws=1&wspath=%2Ftrojan#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20Versaweb
 trojan://433e785b-2077-47f7-a43d-985f63dd18d1@104.143.0.117:8443?sni=vpn.rnmcnm.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12
 trojan://Go5e2nKO8U@45.85.119.179:8443?path=JoinUs@v2rayNG_VPNN&security=tls&host=cc.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2ray_arوصل شدیدحمایت یادتون نره ♥️سروررایگان 👇👇@v2ray_arسرور فروشی👇👇@oorg_ar
-trojan://ShabrangVPN@165.215.250.11:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=shabrang.varfeno.sbs&fp=chrome&type=ws&allowInsecure=0&sni=shabrang.varfeno.sbs#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://ShabrangVPN@165.215.250.129:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=shabrang.varfeno.sbs&fp=chrome&type=ws&allowInsecure=0&sni=shabrang.varfeno.sbs#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://ShabrangVPN@165.215.250.16:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=shabrang.varfeno.sbs&fp=chrome&type=ws&allowInsecure=0&sni=shabrang.varfeno.sbs#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@104.143.0.117:8443?allow_insecure=1&allowInsecure=1&insecure=1&path=%2Ftrojan&security=tls&sni=vpn.rnmcnm.com&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://433e785b-2077-47f7-a43d-985f63dd18d1@104.143.0.117:8443?allow_insecure=1&allowInsecure=1&insecure=1&path=/trojan&security=tls&sni=vpn.rnmcnm.com&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
