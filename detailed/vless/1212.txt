@@ -1,4 +1,1 @@
 vless://b0f0160f-0d3c-4252-88a1-d10725af131f@213.142.133.4:1212?security=none&encryption=none&headerType=http&type=tcp#TEL;FATHER_VPN¹⁴
-vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@s2.iran-ahwaz.ir:1212?encryption=none&security=none&type=tcp&headerType=http&path=/#VpnFardad
-vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@s3.iran-ahwaz.ir:1212?encryption=none&security=none&type=tcp&headerType=http&path=/#VpnFardad
-vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@s4.iran-ahwaz.ir:1212?encryption=none&security=none&type=tcp&headerType=http&path=/#VpnFardad
