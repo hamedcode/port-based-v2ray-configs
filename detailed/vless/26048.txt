@@ -3,4 +3,7 @@ vless://20afe519-9ef3-4c70-a2cf-5336b1125090@195.133.2.45:26048?security=none&en
 vless://20afe519-9ef3-4c70-a2cf-5336b1125090@195.133.2.45:26048?security=none&encryption=none&host=@ProxyVPN11&headerType=none&type=tcp#🌾 @ProxyVPN11
 vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?encryption=none&security=none&type=tcp#🐤61@oneclickvpnkeys
 vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?type=tcp&encryption=none&security=none@kurdconfig
+vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?type=tcp&encryption=none&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?security=none&type=raw&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20591209
+vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20366544

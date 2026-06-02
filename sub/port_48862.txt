@@ -1,7 +1,8 @@
 vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?security=none&encryption=none&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&type=tcp#@FreeConffning
 vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?#%3E%3E%40v2nodes%3A%3ADE
-vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20195805
-vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20586769
-vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?security=none&type=raw&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20876505
-vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?security=none&type=tcp&packetEncoding=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20158533
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20184275
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20694786
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?security=none&type=raw&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20619672
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20511894
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?security=none&type=tcp&packetEncoding=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20535630

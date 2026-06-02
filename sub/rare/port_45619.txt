@@ -1,3 +1,3 @@
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45619?security=tls&sni=fr.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8US-155.117.198.87-4567
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45619?security=tls&sni=fr.01.naiun.bilibili.com&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20552188
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.82:45619?sni=fr.01.naiun.bilibili.com&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20899224
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45619?security=tls&sni=fr.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8US-155.117.198.83-4576
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:45619?security=tls&sni=fr.01.naiun.bilibili.com&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20449590
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45619?sni=fr.01.naiun.bilibili.com&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20268732

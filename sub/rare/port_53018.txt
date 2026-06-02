@@ -1,1 +1,2 @@
 vless://03a4e924-722b-4fdb-8e3f-fdc4b02fced3@thissitejust.redirectme.net:53018?encryption=none&flow=xtls-rprx-vision&security=tls&sni=thissitejust.redirectme.net&fp=random&insecure=0&allowInsecure=0&type=tcp&headerType=none#qol_219
+trojan://d84665c37878196ecf983cf6910e3b44@18.163.33.60:53018?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20558667
