@@ -30,14 +30,4 @@ vless://c142dd91-b36b-430b-b0d7-8c9c2a073a1e@www.speedtest.net:2086?path=/Telegr
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.199.19:2086?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=TdWwPlBs61.kOmAtSo.oRg&amp%3Btype=httpupgrade#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40iran_access%20%233
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2086?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=TdWwPlBs61.kOmAtSo.oRg&amp%3Btype=httpupgrade#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40iran_access%20%235
 vless://b9337be1-f245-47a2-9002-a10199bf39a1@104.25.254.176:2086?path=/eyJqdW5rIjoiamduaWNveEJJYTYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=red-dust-83d8.vinko9092.workers.dev&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40netmellianti%20%231
-vless://05c42a4d-c59e-4b18-bf34-af3f486c426d@snapp.ir:2086?encryption=none&type=ws&host=irang.apirealstate.ir#kurdconfig
-vless://307bef47-19ad-417b-884c-4b50220462d5@home.solidnet.ir:2086?encryption=none&type=tcp&headerType=http&host=soft98.ir&path=/&security=none#@InvoProxy
-vless://59d727ec-03b4-4cd7-b9ab-667a659ef87d@snappfood.ir:2086?encryption=none&type=ws&path=/&host=melli.santelacu.ir#NormanV2ray-172
-vless://74816983-e4d9-46e5-a0e6-11f55d361e1e@arvancloud.ir:2086?type=ws&encryption=none&path=/code&host=xtco.jorvnora.ir&security=none#🇮🇷26637 | ⚡️Telegram = t.me/SOSkeyNET
-vless://7876de6f-0bcf-456c-9519-9cf73c6f55ac@Varzesh3.com:2086/?type=ws&encryption=none&path=/&host=www.downloadmirorubuntu.org.tr&security=none#V2rayng_Fast
-vless://c52e6f61-afed-4b3c-9db1-6d9f79ed4d70@un3.gymplusplus.com:2086?path=/&security=none&encryption=none&type=ws#NormanV2ray-283
-vless://c64f41a6-2f5e-47bb-a76f-939f919f8b43@www.speedtest.net:2086?path=/&security=none&encryption=none&host=beh1.salonemojallal.ir&type=httpupgrade#@meliproxyy
-vless://de989f46-ce7c-4d94-9c58-5ccd80e8d7a1@104.17.150.76:2086?path=/&security=none&encryption=none&host=war2.unlimiteddev-service2881.ir&type=ws#@vpnbaz 🍁
-vless://f4646c9c-f9ff-4d32-ac53-5d9ac34d5dfd@snapp.ir:2086/?type=ws&encryption=none&path=/js&host=dl5.maxsteation.ir&security=none#@on_proxy1
-vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?encryption=none&security=none&type=ws&host=iioo.iioou.workers.dev&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20528240
-vless://8de40603-7364-4b29-86fd-b5b2364d5fc4@104.253.43.213:2086?security=none&type=ws&path=/video&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20821527
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?encryption=none&security=none&type=ws&host=iioo.iioou.workers.dev&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20567906

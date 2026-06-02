@@ -2,4 +2,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.185.72.85:40443?path=/&security
 vless://@deamnet-@deamnet-@deamnet@127.0.0.1:40443?encryption=none&security=tls&sni=actually-road.bn-chanll.cf&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=actually-road.bn-chanll.cf&path=/deamnet#@DeamNet
 vless://@deamnet-@deamnet-@deamnet@127.0.0.1:40443?encryption=none&security=tls&sni=yandex.samen12.at.eu.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=yandex.samen12.at.eu.org&path=/deamnet#@DeamNet
 vless://a79c9f71-5936-4fa8-b908-b2ec78896371@185.113.57.41:40443?mode=auto&path=/?ed=2560/v2ray&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=g1kkfje.pizzaomer.org#V2rayng_Fast
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?encryption=none&security=tls&sni=y6-3cj.PAgES.DEV&insecure=0&allowInsecure=0&type=ws&host=y6-3cj.PAgES.DEV&path=/#LoopLine_Ir-253
