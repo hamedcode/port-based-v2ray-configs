@@ -1,8 +1,8 @@
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-193.124.46.134-0476
-trojan://tunnel-ljlcf@193.124.46.134:8441?sni=creativecommons.org&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20879534
-trojan://tunnel-ljlcf@193.124.46.134:8441?sni=creativecommons.org&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20686691
-trojan://tunnel-ljlcf@193.124.46.134:8441?sni=tr-1.stunnel.cc&type=raw&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20920913
-trojan://tunnel-ljlcf@193.124.46.134:8441?sni=tr-1.stunnel.cc&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20412132
-trojan://tunnel-ljlcf@193.124.46.134:8441?sni=193.124.46.134&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20450316
-trojan://tunnel-ljlcf@193.124.46.134:8441?sni=creativecommons.org&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20145538
-trojan://tunnel-ljlcf@193.124.46.134:8441?sni=tr-1.stunnel.cc&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20258819
+trojan://tunnel-ljlcf@193.124.46.134:8441?sni=193.124.46.134&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20854198
+trojan://tunnel-ljlcf@193.124.46.134:8441?sni=creativecommons.org&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20357045
+trojan://tunnel-ljlcf@193.124.46.134:8441?sni=tr-1.stunnel.cc&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20229420
+trojan://tunnel-ljlcf@193.124.46.134:8441?sni=creativecommons.org&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20619835
+trojan://tunnel-ljlcf@193.124.46.134:8441?sni=creativecommons.org&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20515846
+trojan://tunnel-ljlcf@193.124.46.134:8441?sni=tr-1.stunnel.cc&type=raw&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20241362
+trojan://tunnel-ljlcf@193.124.46.134:8441?sni=tr-1.stunnel.cc&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20734075

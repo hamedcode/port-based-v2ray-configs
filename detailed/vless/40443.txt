@@ -1,2 +1,1 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.185.72.85:40443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ترکیبیConfixio@
-vless://a79c9f71-5936-4fa8-b908-b2ec78896371@185.113.57.41:40443?mode=auto&path=/?ed=2560/v2ray&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=g1kkfje.pizzaomer.org#V2rayng_Fast

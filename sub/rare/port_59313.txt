@@ -1,0 +1,1 @@
+vless://6f1b344d-dc40-47cd-a10a-3fca83f0b394@cdn.mrtechboy.qzz.io:59313?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cdn.mrtechboy.qzz.io&fp=chrome&type=httpupgrade&allowInsecure=0&sni=cdn.mrtechboy.qzz.io#@vmesskhodam
