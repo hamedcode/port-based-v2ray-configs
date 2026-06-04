@@ -2,7 +2,7 @@ vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?allowInsecure=
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=node1.nanonet.host&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=node1.nanonet.host#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?sni=node1.nanonet.host&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=node1.nanonet.host&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20427808
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=node1.nanonet.host&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20944060
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=node1.nanonet.host&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20868751
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&type=tcp&sni=node1.nanonet.host&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20743549
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=node1.nanonet.host&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20222295
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=node1.nanonet.host&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20443129
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=node1.nanonet.host&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20745434
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&type=tcp&sni=node1.nanonet.host&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20575301
