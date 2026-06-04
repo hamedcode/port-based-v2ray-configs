@@ -1,8 +1,8 @@
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-64.94.95.118-4660
-trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20190412
-trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20687858
-trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20917936
-trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20684801
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20363984
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20891223
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?sni=64.94.95.118&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20434186
+trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20246782
+trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20167289
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?sni=64.94.95.118&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20521261
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20483847
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20456687
+trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20266592
+trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20442297

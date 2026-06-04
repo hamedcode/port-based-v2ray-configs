@@ -1,7 +1,7 @@
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:48697?security=tls&sni=gh.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8US-155.117.198.86-4678
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AC%F0%9F%87%AD_GH_%E5%8A%A0%E7%BA%B3
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:48697?sni=gh.01.naiun.bilibili.com#%F0%9F%87%AC%F0%9F%87%ADGH%E5%8A%A0%E7%BA%B3
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:48697?security=tls&sni=gh.01.naiun.bilibili.com&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20649079
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:48697?security=tls&sni=gh.01.naiun.bilibili.com&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20570612
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:48697?security=tls&sni=gh.01.naiun.bilibili.com&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20428016
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:48697?sni=gh.01.naiun.bilibili.com&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20491164
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:48697?security=tls&sni=gh.01.naiun.bilibili.com&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20998758
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:48697?security=tls&sni=gh.01.naiun.bilibili.com&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20118797
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:48697?security=tls&sni=gh.01.naiun.bilibili.com&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20755184
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:48697?sni=gh.01.naiun.bilibili.com&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20306851
