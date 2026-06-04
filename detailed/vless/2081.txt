@@ -1,1 +1,4 @@
+vless://2b177faa-b9f9-40fe-8a14-d10269254df4@95.182.90.38:2081?encryption=none&type=ws&path=/#🇱🇻 Latvia Riga | ⏱540ms | ⚡421KB/s | @NamazVPN
+vless://2b177faa-b9f9-40fe-8a14-d10269254df4@95.182.90.38:2081?path=/&security=none&encryption=none&type=ws#🇱🇻 Latvia Riga | ⏱499ms | ⚡406KB/s | @NamazVPN
+vless://2b177faa-b9f9-40fe-8a14-d10269254df4@95.182.90.38:2081?path=/&security=none&encryption=none&type=ws#🇷🇺48417 | ⚡️Telegram = t.me/SOSkeyNET
 vless://885d8e08-49f5-4b8f-b9cd-63d743f1c54d@v2tr.imesaagetext.ir:2081?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=client.imesaagetext.ir#Telegram : @V2ynpv
