@@ -1,0 +1,4 @@
+vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#@VPsave
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@kz-1.bexum.fun:5443?security=tls&sni=kz-1.bexum.fun#%F0%9F%87%B0%F0%9F%87%BFKZ-188.130.238.158-1614
+vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20718774
+vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&type=tcp&sni=max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20483023

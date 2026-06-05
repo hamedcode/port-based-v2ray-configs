@@ -1,0 +1,2 @@
+vless://f6860c67-5613-43f7-b549-221d9d27cb3c@198.251.79.150:40561?security=reality&encryption=none&pbk=Cr0bd4W4tCkntHQyZReu9uoRHgMnNJLdo5PRvsl0kAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=62b6b234#@v2reya88 | @confinghub2
+vless://f6860c67-5613-43f7-b549-221d9d27cb3c@198.251.79.150:40561?type=tcp&encryption=none&security=reality&pbk=Cr0bd4W4tCkntHQyZReu9uoRHgMnNJLdo5PRvsl0kAY&fp=chrome&sni=www.icloud.com&sid=62b6b234&flow=xtls-rprx-vision#@v2reya88 | @confinghub2
