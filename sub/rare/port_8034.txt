@@ -1,2 +1,1 @@
 vless://a5a05c8f-f06f-4d8a-9894-d4fbd106e3b0@moitx.novincalaxy.lol:8034?security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.fctaHZuh8ykKm_5qTB4Jd7xF1k8yZR05dXp4XwfmlSM&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#V2RFA
-vless://a5a05c8f-f06f-4d8a-9894-d4fbd106e3b0@moitx.novincalaxy.lol:8034?security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.fctaHZuh8ykKm_5qTB4Jd7xF1k8yZR05dXp4XwfmlSM&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#V2rayng_Fast

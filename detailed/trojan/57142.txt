@@ -1,8 +1,8 @@
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-64.94.95.118-4657
-trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20393007
-trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20299675
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20305734
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20642677
-trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20434010
-trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20439587
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?sni=64.94.95.118&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20288382
+trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20484941
+trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20284546
+trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20117336
+trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20785704
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20698052
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20319230
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?sni=64.94.95.118&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20261667

@@ -3,6 +3,6 @@ vless://monacoVPN@83.228.228.44:22?type=tcp&encryption=none&path=/@monacoVPN@mon
 trojan://40c89b10235c40321e7a3cef82b53a03@trs16.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.127.215.49-2256
 trojan://40c89b10235c40321e7a3cef82b53a03@trs17.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.127.203.108-2274
 trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-2605
-vless://8a38623a-3e7f-5598-bdc9-894cbad4c5b6@83.228.228.44:22?security=none&type=tcp&headerType=http&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20471745
-vless://monacoVPN@172.65.111.43:22?security=none&type=tcp&headerType=http&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20942568
-vless://monacoVPN@83.228.228.44:22?security=none&type=tcp&headerType=http&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20479627
+vless://8a38623a-3e7f-5598-bdc9-894cbad4c5b6@83.228.228.44:22?security=none&type=tcp&headerType=http&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20290851
+vless://monacoVPN@172.65.111.43:22?security=none&type=tcp&headerType=http&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20575309
+vless://monacoVPN@83.228.228.44:22?security=none&type=tcp&headerType=http&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20443498
