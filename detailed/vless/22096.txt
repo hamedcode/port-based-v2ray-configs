@@ -1,3 +1,3 @@
 vless://1cb6f6ef-c398-4193-9f66-8de17f9bd004@185.189.58.195:22096?encryption=none&type=ws&host=185.189.58.195&path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=185.189.58.195#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://1cb6f6ef-c398-4193-9f66-8de17f9bd004@185.189.58.195:22096?security=tls&type=ws&path=/ws&alpn=h2,http/1.1&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20656744
-vless://1cb6f6ef-c398-4193-9f66-8de17f9bd004@185.189.58.195:22096?security=tls&type=ws&path=/ws&host=185.189.58.195&alpn=h2,http/1.1&sni=185.189.58.195&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20695540
+vless://1cb6f6ef-c398-4193-9f66-8de17f9bd004@185.189.58.195:22096?security=tls&type=ws&path=/ws&alpn=h2,http/1.1&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20423692
+vless://1cb6f6ef-c398-4193-9f66-8de17f9bd004@185.189.58.195:22096?security=tls&type=ws&path=/ws&host=185.189.58.195&alpn=h2,http/1.1&sni=185.189.58.195&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20936844

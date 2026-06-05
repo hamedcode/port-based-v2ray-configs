@@ -1,2 +1,2 @@
 vless://d497a244-9f20-fc6c-b303-8d01a528f53e@172.65.150.143:3389?mode=packet-up&path=/ed&security=none&encryption=none&host=workers.dev&type=xhttp&sni=global.fastly.com#🕊 @Fear_Config
-vless://d497a244-9f20-fc6c-b303-8d01a528f53e@172.65.150.143:3389?mode=packet-up&path=/ed&security=none&encryption=none&host=workers.dev&type=xhttp&sni=global.fastly.com#рҹ•Ҡ @Fear_Config
+vless://d497a244-9f20-fc6c-b303-8d01a528f53e@172.65.150.143:3389?security=none&type=xhttp&path=/ed&mode=packet-up&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20872944

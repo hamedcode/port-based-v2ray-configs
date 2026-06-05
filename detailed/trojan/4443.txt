@@ -1,0 +1,2 @@
+trojan://strong-secret-pass-777@2.56.172.83:4443?sni=2.56.172.83&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20810447
+trojan://strong-secret-pass-777@2.56.172.83:4443?sni=2.56.172.83&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20318856
