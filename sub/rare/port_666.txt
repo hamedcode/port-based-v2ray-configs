@@ -1,4 +1,0 @@
-vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@89.22.236.213:666?security=none&type=tcp&encryption=none#@VPsave
-vless://@IR_NETLIFY@194.59.183.234:666?type=tcp&encryption=none&security=none#@IR_NETLIFY
-vless://@IR_NETLIFY@89.22.236.213:666?type=tcp&encryption=none&security=none#@IR_NETLIFY
-vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
