@@ -185,11 +185,8 @@ vmess://ewogICAgImFkZCI6ICIxNDEuMTAxLjExNS4xMDQiLAogICAgImFpZCI6IDAsCiAgICAiaG9z
 vless://bm.boulvarmoein.shop@bm.boulvarmoein.shop:2095?path=%2FTelegram%40v2rayng_76%3D%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=bm.boulvarmoein.shop&type=ws&sni=bm.boulvarmoein.shop#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%28Aruba%20Networks%29
 vmess://eyJhZGQiOiJ1c3Noc2FiYS4xMTQ1MTQ3ODIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXNzaHNhIiwicG9ydCI6MjA5NSwicHMiOiLnvo7lm73opb/pg6jlnKPkvZXloZ4xIHwgMXhfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
 vmess://eyJhZGQiOiJ1c3Noc2FiYS4xMTQ1MTQ3ODIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXNzaHNhIiwicG9ydCI6MjA5NSwicHMiOiLnvo7lm73opb/pg6jlnKPkvZXloZ4xIHwgMXhfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-vless://6682035b-8de0-4603-9e8a-b496857897b2@172.67.220.199:2095?path=%2F&security=none&encryption=none&host=n5.asmdns.net&type=ws#%3E%3E%40v2ray1_ng%3A%3ADE
-vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.150.254:2095?encryption=none&security=none&type=ws&host=iioo.iioou.workers.dev&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20220780
-vless://6682035b-8de0-4603-9e8a-b496857897b2@172.67.220.199:2095?path=%2F&security=none&encryption=none&host=n5.asmdns.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20426047
-vless://6682035b-8de0-4603-9e8a-b496857897b2@172.67.220.199:2095?path=/&security=none&encryption=none&host=n5.asmdns.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20426100
-vless://b146c1b7-feab-4b07-b0a8-bcb65b2289e4@185.143.235.201:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=/rat#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20318931
-vless://b8c88c2b-f016-4bca-b306-9ff4968c24aa@185.143.234.122:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=/rat#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20806896
-vless://62af51a4-d37e-40eb-8e86-469210815d3d@185.143.234.234:2095?encryption=none&security=none&type=ws&host=nl.fastwarx.shop&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20174910
-vless://b146c1b7-feab-4b07-b0a8-bcb65b2289e4@185.143.232.201:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=/rat#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20167010
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.150.254:2095?encryption=none&security=none&type=ws&host=iioo.iioou.workers.dev&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20662710
+vless://b146c1b7-feab-4b07-b0a8-bcb65b2289e4@185.143.235.201:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=/rat#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20787209
+vless://b8c88c2b-f016-4bca-b306-9ff4968c24aa@185.143.234.122:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=/rat#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20509271
+vless://b146c1b7-feab-4b07-b0a8-bcb65b2289e4@185.143.232.201:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=/rat#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20734916
+vless://62af51a4-d37e-40eb-8e86-469210815d3d@185.143.234.234:2095?encryption=none&security=none&type=ws&host=nl.fastwarx.shop&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20682730
