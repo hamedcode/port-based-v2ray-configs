@@ -1,9 +1,0 @@
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-64.94.95.118-4702
-vmess://eyJhZGQiOiI3Ny45MC42MC4yOSIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiIzYjQ3NTkzNC1jYjJhLTRkOTYtYjI2MC01ZTUwY2NhNWQ0MzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6NTcxNDIsInBzIjoi4p2MQmF5ZXJuLUdldEFGcmVlTm9kZSIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9
-trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20909790
-trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20190142
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?sni=64.94.95.118&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20286316
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20686388
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20897306
-trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20884769
-trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20972719
