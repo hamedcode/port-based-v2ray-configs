@@ -22,21 +22,5 @@ vless://a218d810-736c-4941-af36-36ab482c2144@95.38.164.158:2026?path=/Tel:@Gap_I
 vless://fdfa6120-6f97-4153-ac3d-979d9ecae058@193.151.141.36:2026?type=tcp&amp%3Bencryption=none&amp%3Bsecurity=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ang%20%231
 vless://c9c416ed-8a72-4572-8bd6-12292dee8dfd@[::ffff:c197:8d24]:2026?security=none&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Btype=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ang%20%232
 vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3AXX
-vless://03192830-2b81-4e18-a7f3-cb77d4377325@poiala.portalcode.ir:2026?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#рқҗғрқҗҖрқҗӢрқҗ“рқҗҺрқҗҚ рқҗҸрқҗҲрқҗҚрқҗҶ
-vless://47d617e3-49e2-45c8-afd7-96267960a726@95.38.164.158:2026?path=/Tel:@Gap_Ip&security=&encryption=none&type=httpupgrade#Hayacan Yok рҹҺҜ-cox8ewjy-9.99GBрҹ“Ҡ
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#@GozargahAzad|рҹҮ®рҹҮ·
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&encryption=none&headerType=none&type=tcp#@NoxTunnel hamrah 3
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&encryption=none&headerType=none&type=tcp#@appsooner Ъ©Ш§ЩҶШ§Щ„ ШӘЩ„ЪҜШұШ§Щ… рҹ•ҠпёҸ
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&encryption=none&headerType=none&type=tcp#@hi_proxy_iran :рҹ‘ҲЪ©Ш§ЩҶШ§Щ„ ШӘЩ„ЪҜШұШ§Щ…
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&encryption=none&headerType=none&type=tcp#@v2rayngzendegimamadрҹ•ҠпёҸ
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&encryption=none&headerType=none&type=tcp#ЩҮЩ…ШұШ§ЩҮ Ш§ЩҲЩ„Join вһЈ рҹ‘ү@vasl_vpn_raiganрҹ‘Ҳ
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&encryption=none&headerType=none&type=tcp#рҹ‘үрҹҶ”@v2ray_configs_poolрҹ“ЎрҹҮ®рҹҮ·В®пёҸIranВ©пёҸTehran (District 6)рҹ…ҝпёҸping:122.62ms
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&encryption=none&headerType=none&type=tcp#рҹ”ө@chillguy_vpn
-vless://5bdba6b0-11be-4aaa-a011-5f26390d0b5e@dm3we.portalcode.ir:2026?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#рҹҘ№Join вһЈ рҹ‘ү@vasl_vpn_raiganрҹ‘Ҳ
-vless://6685326e-f61d-4d7a-8a28-20604d5c382a@116.203.121.227:2026?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp# рҹӨқJoin вһЈ рҹ‘ү@vasl_vpn_raiganрҹ‘Ҳ
-vless://6685326e-f61d-4d7a-8a28-20604d5c382a@116.203.121.227:2026?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Join вһЈ рҹ‘ү@vasl_vpn_raiganрҹ‘Ҳ
-vless://6685326e-f61d-4d7a-8a28-20604d5c382a@116.203.121.227:2026?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#ЪҶЩҶЩ„ Ш№Ш¶ЩҲ ШҙЩҲ @v2ra_config
-vless://a218d810-736c-4941-af36-36ab482c2144@95.38.164.158:2026?path=/Tel:@Gap_Ip&security=none&encryption=none&type=httpupgrade#Hayacan Yok рҹҺҜ-@Gap_Ip
-vless://a218d810-736c-4941-af36-36ab482c2144@95.38.164.158:2026?path=/Tel:@Gap_Ip&security=none&encryption=none&type=httpupgrade#Hayacan Yok рҹҺҜ-@Gap_Ip    ШӘЩ…Ш§Щ… ШҙШҜ
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@77.237.85.198:2026?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20498273
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@77.237.85.198:2026?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20485092
+vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@77.237.85.198:2026?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20178115
+vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@77.237.85.198:2026?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20320987
