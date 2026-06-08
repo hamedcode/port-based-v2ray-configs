@@ -1,6 +1,6 @@
-vless://045acec8-7d9e-4793-9917-c909a4a70887@1.1.1.1:1000?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#kurdconfig
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.130.42:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
+vless://045acec8-7d9e-4793-9917-c909a4a70887@1.1.1.1:1000?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#kurdconfig
