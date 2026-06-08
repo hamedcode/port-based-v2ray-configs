@@ -1,37 +1,21 @@
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#TEL;Father_vpn
-vless://22e456e0-6538-4fb7-9c1a-70fb50514251@51.250.45.152:9443?security=reality&encryption=none&pbk=Le9PPFU9i84RoMbwcw1aKVG5qDMWsmO2bczmjSN1Fkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2ed7a557b4ebab2f#@V2VODKA_AрЯЗЈрЯЗЇ
-vless://701138ae-5ed1-49e6-92cb-f6e16cc72cad@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#рЯЗЇрЯЗЄUS-рЯЪА@V2Ray_Hub1200
+vless://22e456e0-6538-4fb7-9c1a-70fb50514251@51.250.45.152:9443?security=reality&encryption=none&pbk=Le9PPFU9i84RoMbwcw1aKVG5qDMWsmO2bczmjSN1Fkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2ed7a557b4ebab2f#@V2VODKA_A🇷🇺
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?encryption=none&host=&path=/pourya&security=none&type=ws#kurdconfig
-vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=&encryption=none&type=ws#@config_NG
+vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#🔵@chillguy_vpn
 vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=&encryption=none&type=ws#@vmesskhodam
-vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=&encryption=none&type=ws#[73808] - Telegram : @V2All
-vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=&encryption=none&type=ws#вЪ°@V2ray_official
+vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=&encryption=none&type=ws#⚡@V2ray_official
 vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#@vmesskhodam
 vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#V2dogs_n
-vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#[73786] - Telegram : @V2All
-vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#рЯЗЇрЯЗЄ55697 | вЪ°пЄПTelegram = t.me/SOSkeyNET
-vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#рЯЗЇрЯЗЄ55698 | вЪ°пЄПTelegram = t.me/SOSkeyNET
-vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#рЯЗЇрЯЗЄUS-рЯЪА@VPNine1
-vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#рЯФµ@chillguy_vpn
 vless://b54d36d1-43c3-4b8f-a5f8-cf6504db0562@144.31.135.162:9443?security=reality&encryption=none&pbk=MbYR2O0XBSeG74gGYpFIofXsILcf5lG2gc36GyURBXQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=0199436dd359351b#SPEED @Rez1vpn
-vless://b54d36d1-43c3-4b8f-a5f8-cf6504db0562@144.31.135.162:9443?security=reality&encryption=none&pbk=MbYR2O0XBSeG74gGYpFIofXsILcf5lG2gc36GyURBXQ&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=0199436dd359351b#рЯМЊ @ProxyVPN11
-vless://cbd01f93-751b-4b18-ac36-7e2c772837c9@89.223.69.242:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000#рЯЗЈрЯЗЇRU-рЯЪА@VPNine1
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@bero-3.bexum.fun:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://a7fba015-a571-4996-bead-acc8f10c9c5f@77.110.127.191:9443?path=/pourya&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40red2ray%20%231
-vless://22e456e0-6538-4fb7-9c1a-70fb50514251@51.250.45.152:9443?security=reality&encryption=none&pbk=Le9PPFU9i84RoMbwcw1aKVG5qDMWsmO2bczmjSN1Fkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2ed7a557b4ebab2f#@V2VODKA_A🇷🇺
-vless://701138ae-5ed1-49e6-92cb-f6e16cc72cad@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#🇺🇸US-🚀@V2Ray_Hub1200
-vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=&encryption=none&type=ws#⚡@V2ray_official
-vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#🇺🇸55697 | ⚡️Telegram = t.me/SOSkeyNET
-vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#🇺🇸55698 | ⚡️Telegram = t.me/SOSkeyNET
-vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#🇺🇸US-🚀@VPNine1
-vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#🔵@chillguy_vpn
 vless://b54d36d1-43c3-4b8f-a5f8-cf6504db0562@144.31.135.162:9443?security=reality&encryption=none&pbk=MbYR2O0XBSeG74gGYpFIofXsILcf5lG2gc36GyURBXQ&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=0199436dd359351b#🌾 @ProxyVPN11
-vless://cbd01f93-751b-4b18-ac36-7e2c772837c9@89.223.69.242:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000#🇷🇺RU-🚀@VPNine1
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@bero-3.bexum.fun:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://b54d36d1-43c3-4b8f-a5f8-cf6504db0562@144.31.233.236:9443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=MbYR2O0XBSeG74gGYpFIofXsILcf5lG2gc36GyURBXQ&security=reality&sid=0199436dd359351b&sni=apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@bero-3.bexum.fun:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?encryption=none&type=ws&host=fr.connfull.org&path=%2Fstream&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bero-3.bexum.fun#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=loadtest.dev.urent.ru&pbk=aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q&sid=689def22fcb54e86#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20646058
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=loadtest.dev.urent.ru&pbk=aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q&sid=689def22fcb54e86#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20737344
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20829674
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20146830
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20921228
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20612420
+vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=loadtest.dev.urent.ru&pbk=aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q&sid=689def22fcb54e86#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20106194
+vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=loadtest.dev.urent.ru&pbk=aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q&sid=689def22fcb54e86#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20342742
