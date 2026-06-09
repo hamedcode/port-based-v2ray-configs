@@ -1,8 +1,9 @@
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?security=tls&headerType=none&type=tcp&sni=gj1.sonofthewinds.com#@Vibe_Zoone|@MojeVazheh|@Radixvpn|@ForiMarketGp
-trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?security=tls&headerType=none&type=tcp&sni=gj1.sonofthewinds.com#@filembad
-trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gj1.sonofthewinds.com#@filembad
+trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?security=tls&headerType=none&type=tcp&sni=gj1.sonofthewinds.com#filembad-21
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gj1.sonofthewinds.com#kurdconfig
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?sni=gj1.sonofthewinds.com#v2ray_configs_pools
-trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?sni=gj1.sonofthewinds.com#🇯🇵JP_@WangCai_8
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?security=tls&sni=gj1.sonofthewinds.com#%F0%9F%87%BA%F0%9F%87%B8US-144.225.78.8-0451
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?security=tls&headerType=none&type=tcp&sni=gj1.sonofthewinds.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
+trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?security=tls&headerType=none&type=tcp&sni=gj1.sonofthewinds.com#@filembad
+trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gj1.sonofthewinds.com#@filembad
+trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?sni=gj1.sonofthewinds.com#🇯🇵JP_@WangCai_8
