@@ -1,2 +1,1 @@
-vless://21dcbc8a-3632-403c-bfe4-2eadd101dbee@185.158.175.158:11237?security=tls&sni=ahmadi.gambron.info&type=tcp&host=bwm.com&headerType=http&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
 vless://21dcbc8a-3632-403c-bfe4-2eadd101dbee@185.158.175.158:11237?security=tls&sni=ahmadi.gambron.info&type=tcp&host=bwm.com&headerType=http&alpn=h3,h2,http/1.1#@v2ray_configs_pools-join-us-on-Telegram
