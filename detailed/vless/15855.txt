@@ -8,5 +8,5 @@ vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&security
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&type=ws&host=45.148.31.0&path=%2F&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&security=none&encryption=none&host=45.148.31.0&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&security=&encryption=none&host=45.148.31.0&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20319152
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&encryption=none&host=45.148.31.0&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20316434
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&security=&encryption=none&host=45.148.31.0&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20186116
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&encryption=none&host=45.148.31.0&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20673958
