@@ -1,5 +1,7 @@
-ss://bm9uZTphYWFiY2NiLWFjYmEtY2JhYS1jYWJkLWNjY2JhYWFhY2JiYg==@127.0.0.1:1080#@v2ray_configs_pools
+ss://bm9uZTphYWJiYWNjLWJhY2EtYmFhYy1iZGNhLWJhYWNiYmNhY2FjYg==@127.0.0.1:1080#@Hope_Net
+ss://bm9uZTphYWJiYWNjLWJhY2EtYmFhYy1iZGNhLWJhYWNiYmNhY2FjYg==@127.0.0.1:1080#@v2ray_configs_pools
+trojan://aaabbcc-acab-aabc-acbd-aabbcccaabcb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://abcacba-caba-bcaa-abcd-baabccabacbc@127.0.0.1:1080?security=tls&type=tcp#@v2ray_configs_pools-join-us-on-Telegram
-vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFiYWFiY2MtYmFhYy1hY2JhLWNhZGItY2FhY2FjYWNiYmJiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vless://aabbacc-baca-baac-bdca-baacbbcacacb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpySXZ6TkNCUF90NW9kU1c0RGlNTER3@91.107.189.98:1080#%F0%9F%87%A9%F0%9F%87%AADE-91.107.189.98-7395
-trojan://aacbacb-baac-caab-cdba-caccbabaabbc@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20178514
+trojan://aacbacb-baac-caab-cdba-caccbabaabbc@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20147153
