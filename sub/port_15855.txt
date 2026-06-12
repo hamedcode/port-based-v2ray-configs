@@ -5,5 +5,5 @@ vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?security=&encrypt
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&encryption=none&path=/&host=join---appsoonervpn---join---appsoonervpn---join---appsoonervpn---join---appsoonervpn&fp=chrome&alpn=http/1.1&headerType=none&allowInsecure=1#@v2rayconfigamir 6327
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&security=&encryption=none&host=45.148.31.0&type=ws#%3E%3E%40configV2rayNG%3A%3AXX
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&security=none&type=ws&host=join---appsoonervpn---join---appsoonervpn---join---appsoonervpn---join---appsoonervpn&path=/#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&security=&encryption=none&host=45.148.31.0&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20478513
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&encryption=none&host=45.148.31.0&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20357334
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&security=&encryption=none&host=45.148.31.0&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20379094
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&encryption=none&host=45.148.31.0&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20298607
