@@ -1,1 +1,0 @@
-trojan://SoftNetConnect@77.110.126.179:35311?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&allowInsecure=1#@ReleaseNet

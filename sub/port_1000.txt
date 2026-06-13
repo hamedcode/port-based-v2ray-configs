@@ -3,4 +3,5 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encr
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://090f7ec2-4b69-4d35-9fc4-4aa35ac29e48@vip.gxnetshop.ir:1000?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-54
+vless://32f1b878-3b34-4070-863e-055a3cc714bc@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇦🇺69123 | ⚡️Telegram = t.me/SOSkeyNET
+vless://6c09488f-5d0c-47de-b953-6e0af3ed4c33@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇦🇺69108 | ⚡️Telegram = t.me/SOSkeyNET
