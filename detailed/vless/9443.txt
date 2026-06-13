@@ -1,7 +1,6 @@
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#TEL;Father_vpn
 vless://24e39f73-ce06-4052-b631-7efd2589f2ba@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#@ReleaseNet
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#⚕️81@oneclickvpnkeys
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bero-3.bexum.fun#@hex_proxy ¹
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bero-3.bexum.fun&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?encryption=none&type=ws&path=/pourya&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در

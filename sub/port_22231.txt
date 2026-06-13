@@ -10,12 +10,10 @@ vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?encryption=none&
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#⚕️9@oneclickvpnkeys
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#🐤18@oneclickvpnkeys
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#🐤18@v2ray_configs_pools
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#@filembad
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#@FarazV2ray
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#🇩🇪@vmesskhodam
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#@Kia_Net
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&security=tls&type=tcp&flow=xtls-rprx-vision#🔵@chillguy_vpn
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔵@chillguy_vpn
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇷🇺RU-🚀@VPNine1
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%3E%3E%40v2nodes%3A%3ANL
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
