@@ -1,4 +1,2 @@
 vless://0473fc53-8b55-4182-8db0-3dfee0955c01@test.kidvpnlocal.dpdns.org:110?mode=multi&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=mygrpc&allowInsecure=0&sni=test.kidvpnlocal.dpdns.org#@config_NG
-vless://0473fc53-8b55-4182-8db0-3dfee0955c01@test.kidvpnlocal.dpdns.org:110?mode=multi&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=mygrpc&allowInsecure=0&sni=test.kidvpnlocal.dpdns.org#kurdconfig
-vless://0473fc53-8b55-4182-8db0-3dfee0955c01@test.kidvpnlocal.dpdns.org:110?type=grpc&encryption=none&serviceName=mygrpc&mode=multi&security=tls&fp=chrome&alpn=h2,http/1.1&sni=test.kidvpnlocal.dpdns.org#kurdconfig
 vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security=none&encryption=none&headerType=none&type=tcp#@KAFING_2
