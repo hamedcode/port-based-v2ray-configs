@@ -1,6 +1,5 @@
-vless://1a6b9b6e-0724-49b0-9bb6-e8cdb27e28b9@62.220.122.178:441?security=&encryption=none&headerType=&type=tcp#@meliproxyy
-vless://8165d12c-27da-4276-85d5-e9d5fe656f6a@62.220.122.180:441?security=&encryption=none&headerType=&type=tcp#@meliproxyy
-vless://c88507c7-d57c-4baf-bc71-e118a6ee4ea2@62.220.122.147:441?security=&encryption=none&headerType=&type=tcp#@meliproxyy
+vless://c88507c7-d57c-4baf-bc71-e118a6ee4ea2@62.220.122.147:441?encryption=none&type=tcp&headerType=none&security=none#🔵@chillguy_vpn
+vless://c88507c7-d57c-4baf-bc71-e118a6ee4ea2@62.220.122.147:441?security=&encryption=none&type=tcp#kurdconfig
 vless://c88507c7-d57c-4baf-bc71-e118a6ee4ea2@62.220.122.147:441?security=none&encryption=none&headerType=none&type=tcp#@freenettir
 vless://c88507c7-d57c-4baf-bc71-e118a6ee4ea2@62.220.122.147:441?security=none&encryption=none&headerType=none&type=tcp#@hi_proxy_iran :👈کانال تلگرام
 vless://c88507c7-d57c-4baf-bc71-e118a6ee4ea2@62.220.122.147:441?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
