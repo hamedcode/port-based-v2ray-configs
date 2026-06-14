@@ -1,1 +1,1 @@
-vless://ZoRoVPN@203.202.232.11:36068?encryption=none&type=ws&host=Play.google.com&path=%2FZoRoVpn&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://ZoRoVPN@203.202.232.11:36068?path=/ZoRoVpn&security=none&encryption=none&host=Play.google.com&type=ws#@hex_proxy ²

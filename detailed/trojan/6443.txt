@@ -1,0 +1,1 @@
+trojan://humanity@130.61.50.75:6443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calm#V2EFA
