@@ -1,0 +1,2 @@
+vless://13429c1e-e2d8-4ed7-96cc-44a89f375152@89.125.151.133:20630?encryption=none&headerType=http&host=google.com&path=/&security=none&type=tcp#@Ap_Ir6
+vless://13429c1e-e2d8-4ed7-96cc-44a89f375152@89.125.151.133:20630?security=none&encryption=none&host=google.com&headerType=http&type=tcp#@vmesskhodam
