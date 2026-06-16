@@ -1,2 +1,1 @@
 trojan://humanity@130.61.50.75:6443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calm#V2EFA
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:6443?mode=auto&amp%3Bpath=/&amp%3Bsecurity=reality&amp%3Bencryption=none&amp%3Bpbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&amp%3Bfp=qq&amp%3Btype=xhttp&amp%3Bsni=avatars.mds.yandex.net&amp%3Bsid=844352756c1fabba#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
