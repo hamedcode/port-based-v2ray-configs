@@ -3,4 +3,3 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encr
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://d5cca7ad-4774-43cb-8bc7-fc8b8f41e0b0@tr-ip.gameirani.com:1000?mode=auto&security=reality&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=U_FHpsV9I3BUjqxpmZ80tEje4E98_152hRTT9gUdAEg&host=www.icloud.com&fp=chrome&type=xhttp&sni=www.icloud.com&sid=4ab20592a3e82179#🇩🇪73682 | ⚡️Telegram = t.me/SOSkeyNET
