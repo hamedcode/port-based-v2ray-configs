@@ -1,0 +1,2 @@
+vless://a779be7f-e4fe-4d7e-8454-a7df232bf79f@31.14.115.162:8082?alpn=h2,http/1.1&encryption=none&fp=chrome&host=de.iran158.site&path=/speed&security=tls&sni=de.iran158.site&type=ws#@filembad
+vless://a779be7f-e4fe-4d7e-8454-a7df232bf79f@afra.iran158.site:8082?path=/speed&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.iran158.site&fp=chrome&type=ws&allowInsecure=0&sni=de.iran158.site#@filembad
