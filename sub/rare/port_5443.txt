@@ -1,2 +1,3 @@
 vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&flow=xtls-rprx-vision#@v2rayconfigamir 2888
+vless://e0acb844-9b6d-4c3a-8a11-d9263e923b10@afra.iran158.site:5443?path=/speed&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=afra.iran158.site&fp=chrome&type=ws&allowInsecure=0&sni=afra.iran158.site#filembad-483
 vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
