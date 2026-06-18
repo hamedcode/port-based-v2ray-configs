@@ -1,1 +1,2 @@
 vless://0b694f0a-48c3-4394-8862-a1b7cd1a184e@18.171.164.29:32073?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@KAFING_2
+vless://3786e67a-41eb-4b92-b31e-417e89493b93@96.47.230.5:32073?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=video.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
