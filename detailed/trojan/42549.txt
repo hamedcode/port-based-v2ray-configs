@@ -5,4 +5,3 @@ trojan://SoftNetConnect@194.5.193.150:42549?type=tcp&security=tls&sni=www.speedt
 trojan://SoftNetConnect@194.5.193.58:42549?allowInsecure=1&fp=chrome&sni=www.speedtest.net#🧢4@oneclickvpnkeys
 trojan://SoftNetConnect@194.5.193.58:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#🇹🇷@FreakConfig
 trojan://SoftNetConnect@194.5.193.58:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&insecure=1&allowInsecure=1#[78845] - Telegram : @V2All
-trojan://SoftNetConnect@194.5.193.58:42549?allowInsecure=1&fp=chrome&sni=www.speedtest.net#[78799] - Telegram : @V2All
