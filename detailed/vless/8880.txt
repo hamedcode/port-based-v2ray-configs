@@ -1,5 +1,5 @@
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%40iguanaVPN%204
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?encryption=none&security=none&type=grpc#%F0%9F%96%B2%EF%B8%8F68@oneclickvpnkeys
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%40iguanaVPN
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.129:8880?encryption=none&security=none&type=grpc#%F0%9F%9A%9826@oneclickvpnkeys
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?encryption=none&security=none&type=grpc#%F0%9F%90%A462@oneclickvpnkeys
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#
@@ -9,18 +9,18 @@ vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path
 vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=&encryption=none&host=cdn-pro5.postshup.ir&type=httpupgrade#⚡@V2ray_official
 vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=none&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️404🌐🆕️
 vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=none&encryption=none&host=cdn-pro3.postshup.ir&type=httpupgrade#@prrofile_purple  ♥️👈 تلگرام
+vless://1ffcdfd3-eebb-476e-af29-ddddc8d74fa8@rafeaftabsokhtegi.com:8880?security=&encryption=none&headerType=&type=tcp#🇦🇺AU-🚀@VPNine1
+vless://1ffcdfd3-eebb-476e-af29-ddddc8d74fa8@rafeaftabsokhtegi.com:8880?security=&encryption=none&headerType=&type=tcp#🇩🇪76221 | ⚡️Telegram = t.me/SOSkeyNET
+vless://1ffcdfd3-eebb-476e-af29-ddddc8d74fa8@rafeaftabsokhtegi.com:8880?security=&encryption=none&headerType=&type=tcp#🔵@chillguy_vpn
+vless://1ffcdfd3-eebb-476e-af29-ddddc8d74fa8@rafeaftabsokhtegi.com:8880?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://21cca0e5-ad76-40fb-a5ee-5cea6531be11@g22.vitavip5.online:8880?path=/api/update&security=none&encryption=none&host=g22.vitavip5.online&type=ws#🦉@FreeConfigForYou
 vless://2f33d154-1106-4944-9e59-c27ae239e30d@91.107.166.66:8880?security=reality&encryption=none&pbk=1P6G12_CsCrgTmgSw92S3XMU-bukSAWVWdAqMiiChVU&headerType=none&fp=chrome&spx=/aF2MtQFvuK7cY8o&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=0c82#TEL;Father_vpn
 vless://305efa16-8240-4727-bafd-bfb361a9023b@104.19.148.24:8880?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=7955d2654162ad43.de.cdnless.com&mode=auto&extra={"xmux":{"hKeepAlivePeriod":5}}#🇨🇦76129 | ⚡️Telegram = t.me/SOSkeyNET
-vless://305efa16-8240-4727-bafd-bfb361a9023b@104.19.148.24:8880?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=7955d2654162ad43.de.cdnless.com&mode=auto&extra={"xmux":{"hKeepAlivePeriod":5}}#🚀@VPNine1
 vless://305efa16-8240-4727-bafd-bfb361a9023b@162.251.82.187:8880?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=1566f1851ea9ebab.de.cdnless.com&mode=auto&extra={"xmux":{"hKeepAlivePeriod":5}}#🇺🇸76124 | ⚡️Telegram = t.me/SOSkeyNET
 vless://305efa16-8240-4727-bafd-bfb361a9023b@162.251.82.187:8880?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=1566f1851ea9ebab.de.cdnless.com&mode=auto&extra={"xmux":{"hKeepAlivePeriod":5}}#🇺🇸US-🚀@VPNine1
 vless://305efa16-8240-4727-bafd-bfb361a9023b@de2.cdnless.com:8880?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=8243acbc1c660bda.de.cdnless.com&mode=auto&extra={"xmux":{"hKeepAlivePeriod":5}}#🇨🇦76126 | ⚡️Telegram = t.me/SOSkeyNET
-vless://305efa16-8240-4727-bafd-bfb361a9023b@de2.cdnless.com:8880?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=8243acbc1c660bda.de.cdnless.com&mode=auto&extra={"xmux":{"hKeepAlivePeriod":5}}#🚀@VPNine1
 vless://305efa16-8240-4727-bafd-bfb361a9023b@tr1.cdnless.com:8880?encryption=none&security=none&type=xhttp&headerType=none&path=/&mode=auto&extra={"xmux":{"hKeepAlivePeriod":5}}#🇨🇦76127 | ⚡️Telegram = t.me/SOSkeyNET
 vless://305efa16-8240-4727-bafd-bfb361a9023b@tr1.cdnless.com:8880?encryption=none&security=none&type=xhttp&headerType=none&path=/&mode=auto&extra={"xmux":{"hKeepAlivePeriod":5}}#🚀@VPNine1
-vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=/&security=&encryption=none&host=azsv1.drpingservice.com&type=ws#@filembad
-vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=/&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#@filembad
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=/&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#🔵@chillguy_vpn
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@server1.azparadox.ir:8880?path=/&security=&encryption=none&host=azsv1.drpingservice.com&type=ws#@bored_vpn
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@server1.azparadox.ir:8880?path=/&security=&encryption=none&host=azsv1.drpingservice.com&type=ws#telegram @mtmvpn
@@ -29,9 +29,10 @@ vless://30fcec7f-164b-465c-87f4-b93784a6056b@server1.azparadox.ir:8880?path=/&se
 vless://4085e7cf-989e-4f92-a9c6-891b4b6e8daa@104.20.6.134:8880?type=httpupgrade&encryption=none&path=/join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH&host=armenia.chatgpt.com.siasia.ir&security=none#@proSSH
 vless://46d71764-e77f-469b-b6f7-83ec086d46cc@sv3.azparadox.ir:8880?path=/&security=&encryption=none&host=azsv3.ir5ive.ir&type=ws#@v2reya88 | @confinghub2
 vless://46d71764-e77f-469b-b6f7-83ec086d46cc@sv3.azparadox.ir:8880?path=/&security=&encryption=none&host=azsv3.ir5ive.ir&type=ws#🇮🇷76195 | ⚡️Telegram = t.me/SOSkeyNET
+vless://46d71764-e77f-469b-b6f7-83ec086d46cc@sv3.azparadox.ir:8880?path=/&security=&encryption=none&host=azsv3.ir5ive.ir&type=ws#🇮🇷IR-🚀@VPNine1
 vless://528defd1-2a24-43bd-b45d-874367c6f4f5@anten.ir:8880?path=/&security=none&encryption=none&host=iran.shopdn.ir&type=ws#@WETCONFIG
-vless://546bd638-8aeb-0f83-9a31-8be7c5ce814a@ffdownload.dlc-bazigame.ir:8880?path=/?ed=2082&security=none&encryption=none&host=cdn-nl1.akssoldier.top&type=httpupgrade#@filembad
 vless://546bd638-8aeb-0f83-9a31-8be7c5ce814a@ffdownload.dlc-bazigame.ir:8880?path=/?ed=2082&security=none&encryption=none&host=cdn-nl1.akssoldier.top&type=httpupgrade#🇨🇦76199 | ⚡️Telegram = t.me/SOSkeyNET
+vless://546bd638-8aeb-0f83-9a31-8be7c5ce814a@ffdownload.dlc-bazigame.ir:8880?path=/?ed=2082&security=none&encryption=none&host=cdn-nl1.akssoldier.top&type=httpupgrade#🚀@VPNine1
 vless://556d2515-b565-4519-9ad0-9ad6f792b6c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=prossh.octarpmta.ir&type=httpupgrade#Swiss(@proSSH)
 vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.5.46:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=/?@V2rayBaaz&note=@FreeOnlineVPN#🇲🇩 - MD - @FreeOnlineVPN
 vless://5b575077-e5c6-49ac-808c-1cd3326f7e2f@45.130.125.160:8880?mode=auto&path=/HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG?ed=1024&security=none&encryption=none&host=belkharevaslshodim.fars-daxter.ir&type=xhttp#@HqV2rayNG
@@ -41,9 +42,9 @@ vless://662f3d60-5a99-4a4f-8d9b-70fb6cd4f5d8@varzesh3.com:8880/?type=ws&encrypti
 vless://6f4478b4-a854-4b08-bfc8-fb750010bfa8@ps.topmarket1.ir:8880?path=/DL?ed=2053&security=none&encryption=none&host=ps.topmarket1.ir&type=ws#@internet_azad_2026
 vless://71152717-dc50-4fee-a13d-c6656b51e341@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=none&encryption=none&host=cdn-pro5.postshup.ir&type=httpupgrade#@TEHRANARGO
 vless://71152717-dc50-4fee-a13d-c6656b51e341@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=none&encryption=none&host=cdn-pro5.postshup.ir&type=httpupgrade#telegram @mtmvpn
-vless://8dc7722c-2767-2eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#@filembad
 vless://8dc7722c-2767-2eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#@v2reya88 | @confinghub2
 vless://8dc7722c-2767-2eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#🇮🇹76197 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8dc7722c-2767-2eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#🇮🇹IT-🚀@VPNine1
 vless://8dc7722c-2767-2eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#🔵@chillguy_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=none&encryption=none&type=grpc#@Net2ray Server🚀 1
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 @GozargahVPN
@@ -54,17 +55,14 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&secur
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?mode=gun&security=none&encryption=none&type=grpc#Channel id: @internet_azad_2026 🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#@iguanaVPN 1🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?encryption=none&security=none&type=grpc#🫐77@oneclickvpnkeys
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#@FarazV2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=&encryption=none&type=grpc#@filembad
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=&encryption=none&type=grpc#🔵@chillguy_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?mode=gun&security=none&encryption=none&authority=@v2rayNplus@v2rayNplus@v2rayNplus&type=grpc#https://t.me/v2raynplus |🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?mode=gun&security=none&encryption=none&authority=@v2rayNplus@v2rayNplus@v2rayNplus&type=grpc#telegram:@fastkanfig
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.76:8880?encryption=none&security=none&type=grpc#🏟️65@oneclickvpnkeys
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.76:8880?mode=gun&security=none&encryption=none&type=grpc#@v2reya88 | @confinghub2
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.76:8880?mode=gun&security=none&encryption=none&type=grpc#[78594] - Telegram : @V2All
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.76:8880?mode=gun&security=none&encryption=none&type=grpc#برای اتصال دائمی جوین شو⛩️ TelegramID ⌲Express_freevpn 🪩
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.76:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹@FreakConfig
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
@@ -72,8 +70,11 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&secur
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=none&encryption=none&type=grpc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join Telegram:@vppn2_bot🟣
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#@v2rayngzendegimamad🕊️
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@gco1.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#Channel id: @internet_azad_2026
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@gco1.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸76227 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@gco1.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US-🚀@VPNine1
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@gco1.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🔵@chillguy_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=&encryption=none&authority=BIA_Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY&type=grpc#@icv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#@filembad
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@FREE_VPn02
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@V2raySup0 | 🚀
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@v2reya88 | @confinghub2
@@ -84,6 +85,10 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?mode=gun&se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@iguanaVPN [2]
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@internet_azad_2026
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Channel id: @internet_azad_2026 🇮🇹
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#Channel id: @internet_azad_2026
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹76223 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹IT-🚀@VPNine1
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🔵@chillguy_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@v2rayNplus |🐾
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#🔥 @free_conf_iran 🔥 14
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?encryption=none&type=grpc#@hi_proxy_iran :👈کانال تلگرام
@@ -91,7 +96,6 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?encryption=
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus-v2rayNplus-v2rayNplus&type=grpc#TEL;Father_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?encryption=none&type=grpc&mode=gun#@meliproxyy
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#@filembad
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#🛸@V2ray_official
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@iguanaVPN 2
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@iguanaVPN 7
@@ -110,9 +114,7 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@FarazV2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@appsooner کانال تلگرام 🕊️
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@iguanaVPN 5
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@v2reya88 | @confinghub2
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#MiX--@V2rayAlpha--32
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#[78591] - Telegram : @V2All
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#برای اتصال دائمی جوین شو⛩️ TelegramID ⌲Express_freevpn 🪩
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#☑➜چنلمون: Express_freevpn@
@@ -128,10 +130,12 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?mode=gun&se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?security=&encryption=none&type=grpc#@icv2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca18.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@iguanaVPN [5]
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?encryption=none&type=grpc&mode=gun#@meliproxyy
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?encryption=none&type=grpc&mode=gun#🔵@chillguy_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#@icv2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@iguanaVPN [2]
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@kia_net
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@vmesskhodam
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?encryption=none&type=grpc&mode=gun
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@FarazV2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@RzChanel1 🩷
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@iguanaVPN [7]
@@ -147,12 +151,10 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.myfymain.com:8880?mode=gun&se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#☑➜چنلمون: Express_freevpn@
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca24.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@internet_azad_2026
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca24.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#FREE_VPN02
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca24.myfymain.com:8880?security=&encryption=none&type=grpc#🇮🇹76082 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#@Leecher56
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#@bored_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#@confiig_hub
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#@icv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#[78573] - Telegram : @V2All
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#🇮🇹IT-🚀@VPNine1
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#🔵@chillguy_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=/v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplusv2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#https://t.me/v2rayNplus |🇮🇹
@@ -161,7 +163,6 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Channel id: @internet_azad_2026 🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca28.myfymain.com:8880?encryption=none&type=grpc&mode=gun#@meliproxyy
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca28.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=@v2rayNplus@v2rayNplus@v2rayNplus&type=grpc#https://t.me/v2raynplus |🇮🇹
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca29.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@v2reya88 | @confinghub2
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca29.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹76183 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca29.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#🔵@chillguy_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca29.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در
@@ -173,15 +174,16 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc#@tootffarangi🍓²WiFi
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc#🔵@chillguy_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=sca30.mysilipdir.com#@hex_proxy ⁴
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?encryption=none&security=none&type=grpc#🫐89@oneclickvpnkeys
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?encryption=none&type=grpc&mode=gun#@meliproxyy
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?encryption=none&type=grpc&mode=gun#🇮🇹76283 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?encryption=none&type=grpc&mode=gun#🔵@chillguy_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@FarazV2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@iguanaVPN [1]
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#@icv2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@V2raySup0 🚀
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹76059 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@V2dogs_n 🇧🇷
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@filembad
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#MiX--@V2rayAlpha--9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=&type=grpc#@Ap_Ir6
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@FarazV2ray
@@ -206,7 +208,6 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?mode=gun&se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@FarazV2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@iguanaVPN
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#برای اتصال دائمی جوین شو⛩️ TelegramID ⌲Express_freevpn 🪩
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Join+Telegram:@Farah_VPN 🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?security=&encryption=none&type=grpc#@Vpn_jet7
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#⚡@V2ray_official
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@ReleaseNet
@@ -230,6 +231,7 @@ vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&securi
 vless://c5cd917e-a1a5-4018-b019-5a9987e69ddb@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=&encryption=none&host=cdn-pro5.postshup.ir&type=httpupgrade#🛸@V2ray_official
 vless://d0df7edd-2208-45a1-8947-0b8da6ed9a9b@104.19.148.24:8880?encryption=none&security=none&type=xhttp&host=aa2b8d685208c4f5.us.cdnless.com&path=/&mode=auto&extra={"xmux":{"hKeepAlivePeriod":5}}#@Daily_Configs
 vless://d0df7edd-2208-45a1-8947-0b8da6ed9a9b@104.19.148.24:8880?encryption=none&security=none&type=xhttp&host=aa2b8d685208c4f5.us.cdnless.com&path=/&mode=auto&extra={"xmux":{"hKeepAlivePeriod":5}}#@meliproxyy
+vless://d0df7edd-2208-45a1-8947-0b8da6ed9a9b@104.19.148.24:8880?encryption=none&security=none&type=xhttp&host=aa2b8d685208c4f5.us.cdnless.com&path=/&mode=auto&extra={"xmux":{"hKeepAlivePeriod":5}}#[78685] - Telegram : @V2All
 vless://d232ff60-0f45-418d-8eae-a03982d9a7cf@172.67.183.103:8880?security=none&allowInsecure=0&encryption=none&type=ws&host=g1.nybaz.space&path=/#@Netzone_ir
 vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=/&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#@ReleaseNet
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@141.101.113.247:8880?security=tls&sni=ex.sue.x10.mx&type=ws&path=/Telegram🇨🇳&host=ex.sue.x10.mx&packetEncoding=xudp&encryption=none#
@@ -249,10 +251,6 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime61.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&host=openai.com&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🔵@chillguy_vpn
-vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.190.49:8880?security=reality&encryption=none&pbk=1P6G12_CsCrgTmgSw92S3XMU-bukSAWVWdAqMiiChVU&headerType=none&fp=random&spx=%2FSsL7SaVXVXCodik&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=90bca3#%F0%9F%87%A9%F0%9F%87%AADE-%F0%9F%9A%80%40V2Ray_Hub1200
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.116:8880?encryption=none&type=grpc&mode=gun#%40SeyyedProjects-1
-vless://6f4478b4-a854-4b08-bfc8-fb750010bfa8@ps.topmarket1.ir:8880?path=%2FDL%3Fed%3D2053&security=none&encryption=none&type=ws#@v2reya88
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.131:8880?mode=gun&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=grpc#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20VLESS%20%7C%20%40filtershekan_channel%20%231
 vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=up.sourceforge.sbs&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40goldenshiinevpn%20%233
 vless://64abd4e7-59ad-4a74-e3df-cd5d87cc105a@www.speedtest.net:8880?path=/%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN%3Fed%3D8880&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=www.lockey-website.ir&amp%3Btype=httpupgrade#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40lockey_vpn%20%233
@@ -262,7 +260,10 @@ vless://7be30ab7-2077-4115-f6cb-125226afd3c9@www.speedtest.net:8880?path=/%40LOC
 vless://f8d2a4a1-5ccb-49dc-a1fb-36904313c2e4@185.146.173.200:8880?path=/-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=www.speedtest.net.B.lightning-6.LiVE.&amp%3Btype=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20%40minovpnch%20%231
 vless://8bc175f4-798e-49a7-ad13-ba258f0c6ffe@190.93.247.155:8880?path=/%40LIGHTNING6%2C+%40LIGHTNING6&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=liV2rayd.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40nepo_v2ray%20%233
 vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=azsv3.ir5ive.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40nofiltering2%20%233
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=grpc#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20VLESS%20%7C%20%40v2rayngconfiig%20%231
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=grpc#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20VLESS%20%7C%20%40selinc%20%231
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&amp%3Bencryption=none&amp%3Btype=grpc#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&amp%3Bencryption=none&amp%3Btype=grpc#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%232
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=grpc#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20VLESS%20%7C%20%40vmesskhodam%20%231
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=grpc&amp%3Bsni=sca30.mysilipdir.com#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20VLESS%20%7C%20%40vpn_ioss%20%231
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%A6%85%20United%20States
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B2%20ProxyCloud%20USA%20%F0%9F%91%91
@@ -281,99 +282,99 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20X
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://4ff5d96d-0460-4b10-abd6-a6df5d384531@online.4zkaban.xyz:8880?path=%2FAzkaban_Online&security=none&encryption=none&host=Azkaban-Online-01.azkaban-09.buzz&type=ws#%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست شده با ایرانسل سرعت گاد ✅ری اکشن ندید خاموش میکنم🫠♥️ JOIN @v2rayn_server
-vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&host=openai.com&path=%2Fvless&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.116:8880?encryption=none&type=grpc&mode=gun#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=sca30.mysilipdir.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.116:8880?encryption=none&type=grpc&mode=gun#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime61.workers.dev&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.76:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca28.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca24.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.myfymain.com:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca24.myfymain.com:8880/?type=grpc&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?encryption=none&type=grpc&mode=gun#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880/?type=grpc&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880/?type=grpc&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?encryption=none&type=grpc&mode=gun#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.myfymain.com:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca28.myfymain.com:8880?encryption=none&type=grpc&mode=gun#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&type=ws&host=openai.com&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://8dc7722c-2767-2eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?encryption=none&type=grpc&security=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-3eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?encryption=none&type=grpc&security=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.116:8880?encryption=none&type=grpc&security=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-3eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?encryption=none&type=grpc&security=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?encryption=none&type=grpc&mode=gun#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?Telegram=@armindone,@armindone,@armindone,@armindone&mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?encryption=none&type=grpc&mode=gun#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?encryption=none&type=grpc&mode=gun#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.myfymain.com:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca18.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.myfymain.com:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?encryption=none&type=grpc&mode=gun#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=none&encryption=none&type=grpc&brand=@Arvand_soul#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?mode=gun&security=none&encryption=none&authority=@v2rayNplus@v2rayNplus@v2rayNplus&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc&brand=@Arvand_soul#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus-v2rayNplus-v2rayNplus&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca28.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=@v2rayNplus@v2rayNplus@v2rayNplus&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=sca30.mysilipdir.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.131:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?encryption=none&type=grpc&mode=gun#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus-v2rayNplus-v2rayNplus&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?Telegram=@armindone,@armindone,@armindone,@armindone&mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca29.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc&brand=@Arvand_soul#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?encryption=none&type=grpc&mode=gun#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.129:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca18.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.myfymain.com:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc&brand=@Arvand_soul#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime61.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B2%20ShatakVPN%20310386
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime61.workers.dev&path=/&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B2%20ShatakVPN%20373133
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20783238
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20329994
-vless://6f4478b4-a854-4b08-bfc8-fb750010bfa8@185.143.234.235:8880?encryption=none&security=none&type=ws&host=ps.topmarket1.ir&path=/DL?ed=2053#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20402067
-vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&host=openai.com&path=%2Fvless&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20974506
-vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&host=openai.com&path=/vless&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20688159
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20234892
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.1:8880?mode=gun&encryption=none&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20102757
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.1:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20833035
-vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20260351
-vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20264260
-vless://6f4478b4-a854-4b08-bfc8-fb750010bfa8@193.176.240.129:8880?path=/DL?ed=2053&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20669228
-vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.190.49:8880?security=reality&encryption=none&pbk=1P6G12_CsCrgTmgSw92S3XMU-bukSAWVWdAqMiiChVU&headerType=none&fp=random&spx=/SsL7SaVXVXCodik&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=90bca3#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20693400
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=/v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplusv2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?encryption=none&type=grpc&mode=gun#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?encryption=none&type=grpc&mode=gun#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime61.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B2%20ShatakVPN%20512662
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime61.workers.dev&path=/&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B2%20ShatakVPN%20423363
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20409022
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20373302
+vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&host=openai.com&path=%2Fvless&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20670933
+vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&host=openai.com&path=/vless&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20166173
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.1:8880?mode=gun&encryption=none&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20623747
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.1:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20395500
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20257619
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20794931
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20306564
+vless://6f4478b4-a854-4b08-bfc8-fb750010bfa8@193.176.240.129:8880?path=/DL?ed=2053&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20745651
+vless://6f4478b4-a854-4b08-bfc8-fb750010bfa8@185.143.234.235:8880?encryption=none&security=none&type=ws&host=ps.topmarket1.ir&path=/DL?ed=2053#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20933795
+vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.190.49:8880?security=reality&encryption=none&pbk=1P6G12_CsCrgTmgSw92S3XMU-bukSAWVWdAqMiiChVU&headerType=none&fp=random&spx=/SsL7SaVXVXCodik&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=90bca3#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20216894
