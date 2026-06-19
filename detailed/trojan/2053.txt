@@ -20,13 +20,11 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.74.146-2702
 trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?allowInsecure=1&sni=vpn5.rnmcnm.com#%E4%BA%9E%E5%A4%AA%E5%9C%B0%E5%8D%80%E4%B8%A8yoyapai.com%5Cr
 trojan://Aimer@167.68.4.199:2053?allowInsecure=1&sni=epge.muarua.filegear-sg.me#%E7%BE%8E%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
-trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?sni=vpn5.rnmcnm.com#%E6%9C%AA%E7%9F%A514
-trojan://Aimer@167.68.4.199:2053?sni=epge.muarua.filegear-sg.me#%E6%9C%AA%E7%9F%A571
+trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?sni=vpn5.rnmcnm.com#%E6%9C%AA%E7%9F%A539
+trojan://Aimer@167.68.4.199:2053?sni=epge.muarua.filegear-sg.me#%E6%9C%AA%E7%9F%A573
 trojan://Go5e2nKM8T@188.42.88.144:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN[همراه اول]
 trojan://Go5e2nKM8U-v2rayNG_VPNN@45.85.119.0:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN⚙ ایرانسل
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.4.159:2053?path=%2F&security=tls&insecure=0&type=ws&allowInsecure=0&sni=hhcm.hhxaf.cc.cd#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.136.14.61:2053?type=ws&headerType=none&security=tls&encryption=none&sni=tjsp.hhxaf.cc.cd&path=%2F&host=tjsp.hhxaf.cc.cd&insecure=0#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.136.14.61:2053?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20161069
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.4.159:2053?path=%2F&security=tls&insecure=0&type=ws&allowInsecure=0&sni=hhcm.hhxaf.cc.cd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20630777
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.4.159:2053?path=/&security=tls&insecure=0&type=ws&allowInsecure=0&sni=hhcm.hhxaf.cc.cd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20668023
+trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20474174
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.4.159:2053?path=%2F&security=tls&insecure=0&type=ws&allowInsecure=0&sni=hhcm.hhxaf.cc.cd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20382243
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.4.159:2053?path=/&security=tls&insecure=0&type=ws&allowInsecure=0&sni=hhcm.hhxaf.cc.cd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20488834

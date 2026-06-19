@@ -8,11 +8,3 @@ vless://0970ff22-ef41-4dce-b05c-0ba0d1f73e67@finland.nonpath.ir:42542?encryption
 vless://0970ff22-ef41-4dce-b05c-0ba0d1f73e67@i.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20199ms
 vless://0970ff22-ef41-4dce-b05c-0ba0d1f73e67@ips.list.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20114ms
 vless://0970ff22-ef41-4dce-b05c-0ba0d1f73e67@s1.gmax12.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20126ms
-vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@am.nonpath.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇷FR-🚀@VPNine1
-vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@du.mobileemdad.top:42542?security=&encryption=none&host=du.mobileemdad.top&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
-vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@dubai.gmax12.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷TR-🚀@VPNine1
-vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@i.nonpath.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇦🇪AE-🚀@VPNine1
-vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@ips.list.nonpath.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
-vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@s1.gmax12.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇮🇹IT-🚀@VPNine1
-vless://7882f715-8868-41eb-9703-1d30e67f46db@dubai.gmax12.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷TR-🚀@VPNine1
-vless://7882f715-8868-41eb-9703-1d30e67f46db@dubai.gmax12.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🔵@chillguy_vpn
