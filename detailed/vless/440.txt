@@ -8,4 +8,3 @@ vless://35495e54-3b92-4835-9f51-6cba41bacb5e@3.78.39.35:440?type=tcp&encryption=
 vless://85cd2659-7cef-4b2b-9206-f88d31bbcbc9@64.176.68.88:440?security=&encryption=none&headerType=none&type=tcp#Channel id: @ShadowProxy66 🇵🇱
 vless://f0371638-9e80-402e-8432-9b6616287568@64.225.109.156:440?security=&encryption=none&headerType=none&type=tcp#🦉@FreeConfigForYou
 vless://f0371638-9e80-402e-8432-9b6616287568@64.226.117.204:440?security=none&encryption=none&headerType=none&type=tcp#@iguanaVPN 9
-vless://130d76a1-e640-483e-aab7-472b29504db0@70.34.254.242:440?security=&encryption=none&headerType=none&type=tcp
