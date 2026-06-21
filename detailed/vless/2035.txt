@@ -1,1 +1,4 @@
 vless://4a459930-c09e-4813-87ad-40e169bcd01b@46.8.238.55:2035?type=tcp&encryption=none&path=/&host=play.google.com&headerType=http&security=none#🇫🇮 @rayhub_ir 0621-1
+vless://4a459930-c09e-4813-87ad-40e169bcd01b@46.8.238.55:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AFI
+vless://4a459930-c09e-4813-87ad-40e169bcd01b@46.8.238.55:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20468100
+vless://4a459930-c09e-4813-87ad-40e169bcd01b@46.8.238.55:2035?encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20468124
