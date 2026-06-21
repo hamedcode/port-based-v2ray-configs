@@ -39,10 +39,9 @@ vless://a35cbb36-a069-46ec-aaaa-834f9f55f187@free1.ziroxcompany.ir:8080?security
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@194.182.77.110:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray
 vless://ab49fcf9-f38a-4936-96a3-5143a6a085e9@snapp.ir:8080?path=/cdn&security=none&encryption=none&host=vip.mrblueteam.ir&type=ws#@Shh_Proxy-New³
 vless://ab49fcf9-f38a-4936-96a3-5143a6a085e9@snapp.ir:8080?path=/cdn&security=none&encryption=none&host=vip.mrblueteam.ir&type=ws#@svscoonfig
-vless://b87fba64-95a9-48c3-b22b-b8521de348f6@free04.tunnely.ru:8080?encryption=none&type=ws&path=/ws/&security=none#[80161] - Telegram : @V2All
+vless://b72bae22-90e8-4e4d-937d-5d8ab27b91be@185.143.233.122:8080?path=?ed=2560&security=none&encryption=none&host=f2.neuralix.ir&type=ws#@NetZone_ir
 vless://be32aec6-9dde-4365-b574-2e0023462084@141.11.45.214:8080?path=/&security=none&encryption=none&host=net.hostingdata.ir&type=ws#Brayirani
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=/&security=none&encryption=none&type=ws#@Brayirani •☕ | عضو شید قطع نشید.
-vless://c420ee7d-a567-46d2-8571-c78ac0c87428@bmi.ir:8080?security=none&type=ws&headerType=&path=/&host=arv1.wzpower.ir#🇮🇷IR-🚀@VPNine1
 vless://c77d5867-7528-4062-8370-700eaf351560@se1.textin.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2raybaaz ³
 vless://c77d5867-7528-4062-8370-700eaf351560@se1.textin.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2raybaaz ¹
 vless://c77d5867-7528-4062-8370-700eaf351560@usa2.nomac.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2raybaaz ²
@@ -100,9 +99,9 @@ vless://ab868c6c-c22a-419b-e24e-a52c98d4115b@acv-79.privetpack.site:8080?path=%2
 vless://80c53045-4447-45b9-e1fc-b3027191ecf2@amo.amirnew.fun:8080/?type=ws&security=none&path=%2F#%40shadowlinkserverr
 vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&host=progressiya-vpn.online&path=/dda12c57317ed12178061db1b799ebd2&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://a9411912-a9ed-4ef2-b36a-92987cd63bf1@204.168.185.202:8080?security=reality&type=tcp&sni=www.sony.com&fp=chrome&sid=a8e50a0a&pbk=bhoenokqHQgYh_tgKKyGmqz6vNUrXlD1NQvk0rxu-js&encryption=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://a9411912-a9ed-4ef2-b36a-92987cd63bf1@204.168.185.202:8080?security=reality&type=tcp&sni=www.sony.com&fp=chrome&sid=a8e50a0a&pbk=bhoenokqHQgYh_tgKKyGmqz6vNUrXlD1NQvk0rxu-js&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&type=ws&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://a35cbb36-a069-46ec-aaaa-834f9f55f187@104.194.142.122:8080?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=0&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=0&sni=free.ziroxcompany.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20507486
-vless://a35cbb36-a069-46ec-aaaa-834f9f55f187@104.194.142.122:8080?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=0&fp=chrome&type=grpc&serviceName=/dashboard&allowInsecure=0&sni=free.ziroxcompany.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20277898
-vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20168324
-vless://4fd37e00-979f-48e4-9bb6-c23e1271d19c@109.237.98.81:8080?encryption=none&type=xhttp&security=reality&path=/&extra=null&fp=firefox&sni=api-maps.yandex.ru&pbk=QPIGKqqN_iEsm-7Wh-SGXKI77Srub_yvqIfq3dUU_SM&sid=7d1d#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20250061
+vless://a35cbb36-a069-46ec-aaaa-834f9f55f187@104.194.142.122:8080?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=0&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=0&sni=free.ziroxcompany.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20588333
+vless://a35cbb36-a069-46ec-aaaa-834f9f55f187@104.194.142.122:8080?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=0&fp=chrome&type=grpc&serviceName=/dashboard&allowInsecure=0&sni=free.ziroxcompany.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20590615
+vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20267090
+vless://4fd37e00-979f-48e4-9bb6-c23e1271d19c@109.237.98.81:8080?encryption=none&type=xhttp&security=reality&path=/&extra=null&fp=firefox&sni=api-maps.yandex.ru&pbk=QPIGKqqN_iEsm-7Wh-SGXKI77Srub_yvqIfq3dUU_SM&sid=7d1d#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20485827
