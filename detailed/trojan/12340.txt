@@ -1,4 +1,4 @@
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s2.hazz.win:12340?security=tls#%F0%9F%8F%81RELAY-104.21.24.68-4079
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s4.hazz.win:12340?security=tls#%F0%9F%8F%81RELAY-104.21.24.68-4110
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s1.hazz.win:12340?security=tls&sni=edge.apple.com#%F0%9F%8F%81RELAY-104.21.24.68-4149
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340?security=tls#%F0%9F%8F%81RELAY-172.67.217.89-4194
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s2.hazz.win:12340?security=tls#%F0%9F%8F%81RELAY-172.67.217.89-0054
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340?security=tls#%F0%9F%8F%81RELAY-104.21.24.68-0053
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s4.hazz.win:12340?security=tls#%F0%9F%8F%81RELAY-172.67.217.89-0052
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s1.hazz.win:12340?security=tls&sni=edge.apple.com#%F0%9F%8F%81RELAY-172.67.217.89-4112
