@@ -2,11 +2,7 @@ vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:15482?encryption=none&se
 vless://8a53834d-435a-496c-bcc3-a66088e5b926@riga1.ns.asriranfun.ir:15482?encryption=none&security=none&type=tcp&headerType=http#Channel : @ Daily_Configs
 vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:15482?security=&encryption=none&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3ALV
 vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:15482?security=&encryption=none&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3ALV
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:15482?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#🇱🇻LV-🚀@VPNine1
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:15482?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#🔵@chillguy_vpn
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:15482?security=none&encryption=none&headerType=http&type=tcp#🇱🇻LV-🚀@VPNine1
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:15482?security=none&encryption=none&headerType=http&type=tcp#🔵@chillguy_vpn
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:15482?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20115281
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:15482?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20543122
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:15482?encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20927192
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@riga1.ns.asriranfun.ir:15482?encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20938634
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:15482?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20636738
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:15482?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20140911
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:15482?encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20217502
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@riga1.ns.asriranfun.ir:15482?encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20425061
