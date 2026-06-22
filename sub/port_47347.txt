@@ -2,8 +2,7 @@ vless://7f9ef902-2164-4c4e-b4bd-140d13cdba6e@ryanserver.ir:47347?security=none&e
 vless://9fe30293-cd0f-427a-bfb3-34708e984f73@ryanserver.ir:47347?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2rayng_fast%3A%3AUS
 vless://dd49c7c5-d8f3-4171-9d55-2368cc283eb8@ryanserver.ir:47347?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://dd49c7c5-d8f3-4171-9d55-2368cc283eb8@ryanserver.ir:47347?encryption=none&type=tcp&headerType=none&security=none#🔵@chillguy_vpn
-vless://dd49c7c5-d8f3-4171-9d55-2368cc283eb8@45.61.148.12:47347?type=tcp&security=none&encryption=none#🇺🇸US-🚀@VPNine1
-vless://9fe30293-cd0f-427a-bfb3-34708e984f73@45.61.148.12:47347?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20243247
-vless://9fe30293-cd0f-427a-bfb3-34708e984f73@45.61.148.12:47347?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20772459
-vless://dd49c7c5-d8f3-4171-9d55-2368cc283eb8@45.61.148.12:47347?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20924595
-vless://dd49c7c5-d8f3-4171-9d55-2368cc283eb8@45.61.148.12:47347?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20327794
+vless://9fe30293-cd0f-427a-bfb3-34708e984f73@45.61.148.12:47347?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20185567
+vless://9fe30293-cd0f-427a-bfb3-34708e984f73@45.61.148.12:47347?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20209054
+vless://dd49c7c5-d8f3-4171-9d55-2368cc283eb8@45.61.148.12:47347?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20898122
+vless://dd49c7c5-d8f3-4171-9d55-2368cc283eb8@45.61.148.12:47347?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20942074
