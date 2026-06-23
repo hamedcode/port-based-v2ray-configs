@@ -1,3 +1,3 @@
-vless://f8df86ac-0aa5-03e8-856e-1612546e0c3e@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2,http/1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20581353
-vless://f8df86ac-0aa5-0bb8-856e-1612546e0c3e@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2,http/1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20731845
-vless://f8df86ac-0aa5-2328-856e-1612546e0c3e@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2,http/1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20505095
+vless://ef8b116c-fd55-03e8-a4e0-21f859206bcb@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2,http/1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20911589
+vless://ef8b116c-fd55-0bb8-a4e0-21f859206bcb@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2,http/1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20936219
+vless://ef8b116c-fd55-2328-a4e0-21f859206bcb@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2,http/1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20910579

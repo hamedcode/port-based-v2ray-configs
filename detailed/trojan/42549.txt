@@ -10,5 +10,4 @@ trojan://SoftNetConnect@37.156.44.157:42549?security=tls&insecure=1&headerType=n
 trojan://SoftNetConnect@37.156.44.157:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&insecure=1&allowInsecure=1#@FREE_VPN02 (4🇨🇭⚡)
 trojan://SoftNetConnect@37.156.45.237:42549?allowInsecure=1&sni=www.speedtest.net#⛵33@oneclickvpnkeys
 trojan://SoftNetConnect@37.156.45.237:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#@ReleaseNet
-trojan://SoftNetConnect@37.156.45.237:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#🇨🇭 @rayhub_ir 0621-13
 trojan://SoftNetConnect@83.228.224.161:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.224.161-1615
