@@ -1,1 +1,1 @@
-vless://970ffe5a-2c53-4b94-af3f-c95ddd417c1c@112.121.184.10:26057?security=reality&type=tcp&sni=videos.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=e4fb5619&pbk=ipkmPcrX6VD4_cB3kS4DigWSP9FcU6TPXpkWM5m-jEw&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://970ffe5a-2c53-4b94-af3f-c95ddd417c1c@112.121.184.10:26057?security=reality&encryption=none&pbk=ipkmPcrX6VD4_cB3kS4DigWSP9FcU6TPXpkWM5m-jEw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=videos.apple.com&sid=e4fb5619#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
