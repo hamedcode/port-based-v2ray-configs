@@ -1,7 +1,3 @@
-trojan://8d105878309ac3ef@c68b799.pd.gladns.com:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.144.61-0082
-trojan://8d105878309ac3ef@c68b799.pa.gladns.com:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.144.61-0081
-trojan://8d105878309ac3ef@c68b799.pc.gladns.com:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.144.61-0080
-trojan://9029864a78d29a43@60.249.3.229:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.229-0237
 trojan://8d105878309ac3ef@c68b799.pd.gladns.com:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.144.61-0173
 trojan://8d105878309ac3ef@c68b799.pa.gladns.com:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.144.61-0174
 trojan://8d105878309ac3ef@c68b799.pc.gladns.com:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.144.61-0175

@@ -2,13 +2,12 @@ vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp&headerType=none#@W570W
 trojan://trojan@152.53.45.251:8888?security=tls&amp%3Bsni=jflsjlaf.pages.dev&amp%3Btype=ws&amp%3Bhost=jflsjlaf.pages.dev&amp%3Bpath=/#%F0%9F%87%A6%F0%9F%87%B9%20AT%20%7C%20TROJAN%20%7C%20%40mpproxy%20%231
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3AFR
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@85.208.108.20:8888#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.20-0050
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@85.208.108.20:8888#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.20-0195
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&type=tcp&headerType=none#Join%20%E2%9E%A0%20%40MoOon_forsin%2010
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Join%20Telegram%20%40ir2ray_free%F0%9F%87%AB%F0%9F%87%B7`
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=&encryption=none&headerType=none&fp=firefox&type=tcp#%40BESTIIVPNBOT%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%F0%9F%92%B2
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp#98.%F0%9F%87%AB%F0%9F%87%B7%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%7C%20%40LimeVPNFREE
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp&headerType=none#%40W570W
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@85.208.108.20:8888#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.20-0195
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:8888#%F0%9F%87%A9%F0%9F%87%AADE-145.239.1.100-0278
 vmess://ewogICAgImFkZCI6ICI1NC4xODAuOTYuNjciLAogICAgImFpZCI6IDEsCiAgICAiaG9zdCI6ICI1NC4xODAuOTYuNjciLAogICAgImlkIjogImFlNzQ4NmY5LWQ3YjctNGYyNi05N2EwLWRjNWIwOTNkZmE4OSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4ODg4LAogICAgInBzIjogIvCfh7Dwn4e3S1ItNTQuMTgwLjk2LjY3LTEwOTgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:8888#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-1975
