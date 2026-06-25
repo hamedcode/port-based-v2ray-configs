@@ -1,1 +1,2 @@
+vless://6e25f7b4-efce-425a-af98-3f310623bfa2@65.109.182.211:8044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@hex_proxy ³
 vless://bccf8088-a6bb-42d5-9f3f-f646dcdcc62f@javad.iranpuls.ir:8044?security=reality&encryption=mlkem768x25519plus.native.0rtt._-g736h_tiLWb_ViyOjcSJhWhA5qby7NZgnUmc3wfTA&pbk=bgnKEd0Y79hmiRgAiJCBSK56BqNYnWhT6w8EAmDjRXs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Yahoo.com&sid=0ff34b4a964a5389#@v2raybaaz ³
