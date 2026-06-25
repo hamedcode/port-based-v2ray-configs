@@ -9,5 +9,5 @@ trojan://SoftNetConnect@37.156.44.50:42549?security=tls&insecure=1&headerType=no
 trojan://SoftNetConnect@37.156.44.50:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#@tootffarangi🍓-2
 trojan://SoftNetConnect@37.156.44.6:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#☑➜چنلمون: Express_freevpn@
 trojan://SoftNetConnect@37.156.45.237:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#@ReleaseNet
-trojan://SoftNetConnect@83.228.224.161:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.224.161-0506
-trojan://SoftNetConnect@37.156.44.6:42549?security=tls&sni=www.speedtest.net&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20230000
+trojan://SoftNetConnect@83.228.224.161:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.224.161-0625
+trojan://SoftNetConnect@37.156.44.6:42549?security=tls&sni=www.speedtest.net&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20219270
