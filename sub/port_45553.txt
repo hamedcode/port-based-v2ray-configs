@@ -3,4 +3,4 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:45553?security=tls&s
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:45553?security=tls&sni=ch.01.naiun.bilibili.com#%F0%9F%87%B8%F0%9F%87%ACSG-188.253.12.94-6098
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45553?security=tls&sni=ch.01.naiun.bilibili.com#%F0%9F%87%AD%F0%9F%87%B0HK-103.177.136.41-6122
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7-%3E%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45553?sni=ch.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%ADCH%E7%91%9E%E5%A3%AB
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:45553?sni=ch.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A72
