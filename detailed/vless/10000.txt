@@ -5,6 +5,6 @@ vless://d26598cf-2cdf-4219-80d0-94646dff160d@207.174.133.173:10000?encryption=no
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?type=tcp&headerType=none&security=none&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20627418
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@14.137.238.156:10000?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20666842
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@14.137.238.157:10000?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20888269
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20602387
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@14.137.238.157:10000?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20275639

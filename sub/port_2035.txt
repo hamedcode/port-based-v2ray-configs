@@ -4,7 +4,6 @@ vless://Telegram:TurboConfigs@31.56.206.13:2035?security=&encryption=none&host=p
 vless://Telegram:TurboConfigs@31.56.206.13:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@TEHRANARGO💥
 vless://Telegram:TurboConfigs@31.56.206.13:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@ReleaseNet
 vless://Telegram:TurboConfigs@45.74.159.218:2035?encryption=none&type=tcp&headerType=http&path=/&host=play.google.com#@W570W - 2
-vless://Telegram:TurboConfigs@45.74.159.218:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Vpn_jet7
 vless://Telegram:TurboConfigs@45.74.159.218:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Channel : @Daily_Configs
 vless://Telegram:X_RAY_VPN1@45.74.159.218:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@ReleaseNet
 vless://X_RAY_VPN1@31.56.206.13:2035?encryption=none&type=tcp#@vpng3 [18]
