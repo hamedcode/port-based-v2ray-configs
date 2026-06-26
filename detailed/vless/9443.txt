@@ -1,6 +1,5 @@
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#TEL;Father_vpn
 vless://24e39f73-ce06-4052-b631-7efd2589f2ba@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠@Mcv2rayNG  25GB ♻️  𝗝𝗼𝗶𝗻 ➠@Mcv2rayNG
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bero-3.bexum.fun#@FarazV2ray
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bero-3.bexum.fun#@hopev2ray🌸
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@212.69.86.220:9443?security=reality&encryption=none&pbk=2MnLp2jBmP-bPYRHf3VY3wyGMwIYIAizXCB7UxgYVGc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=estonianode.dostupnet.ru&sid=7c16c340cde3ed39#@one_shop_official
@@ -13,17 +12,14 @@ vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@bero-3.bexum.fun:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?encryption=none&path=%2Fpourya&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=bero-3.bexum.fun&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#q___107
-vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@212.69.86.220:9443?encryption=none&type=tcp&security=reality&headerType=none&sni=estonianode.dostupnet.ru&insecure=1&allowInsecure=1&pbk=2MnLp2jBmP-bPYRHf3VY3wyGMwIYIAizXCB7UxgYVGc&sid=7c16c340cde3ed39&flow=xtls-rprx-vision#🆔soskeynet%20🔒%20VL-TCP-%20🇫🇷%20FR%20155ms
-vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@germnode.dostupnet.ru:9443?encryption=none&type=tcp&security=reality&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=germnode.dostupnet.ru&fp=firefox&insecure=1&allowInsecure=1&pbk=ydtP6Nv3EqKvbnCYoozfIk5q7ihoNWQsdd8UPqGFu2M&sid=ffaa1a2421f17932&flow=xtls-rprx-vision#🆔configfa%20🔒%20VL-TCP-%20❔%20XX%20415ms
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bero-3.bexum.fun#🆔v2ray1_ng%20🔒%20VL-TCP-N/A%20❔%20XX%20206ms
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@bero-3.bexum.fun:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?encryption=none&path=%2Fpourya&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?encryption=none&type=ws&path=%2Fpourya&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bero-3.bexum.fun#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20604526
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20520167
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20901457
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20320911
-vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?encryption=none&path=%2Fpourya&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20463283
-vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?encryption=none&path=/pourya&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20346700
+vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?encryption=none&type=ws&path=%2Fpourya&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20436323
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20230138
+vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?encryption=none&path=%2Fpourya&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20899686
+vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?encryption=none&path=/pourya&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20832189
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20199453
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20372446
