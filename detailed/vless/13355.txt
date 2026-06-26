@@ -19,6 +19,7 @@ vless://fc6ad77f-eef3-486c-8ddc-f9316a3862d5@57.131.18.123:13355?security=&encry
 vless://fc6ad77f-eef3-486c-8ddc-f9316a3862d5@57.131.18.123:13355?security=none&encryption=none&headerType=none&type=tcp#@SylphNet | 2026-06-26 04:04
 vless://fc6ad77f-eef3-486c-8ddc-f9316a3862d5@57.131.18.123:13355?security=none&encryption=none&headerType=none&type=tcp#[🇮🇹]@NetliVPN
 vless://d7d95e1b-0c38-4553-82e4-6002f472fcd5@57.131.18.123:13355?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AIT
+vless://d7d95e1b-0c38-4553-82e4-6002f472fcd5@57.131.18.123:13355?encryption=none&amp%3Btype=tcp&amp%3BheaderType=none#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
 vless://5bb8d502-bcc7-4320-8c42-1a6429978f80@57.131.18.123:13355?encryption=none&security=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇮🇹%20IT%20260ms
 vless://f891f25a-1e1d-49dc-b8f4-d1c02c18f1f6@57.131.18.123:13355?encryption=none&security=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇮🇹%20IT%20265ms
 vless://05aeebd2-6031-4729-81e0-ebdf20c75f56@57.131.18.123:13355?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20261ms
