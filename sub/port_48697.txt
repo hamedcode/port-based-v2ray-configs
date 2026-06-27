@@ -1,5 +1,8 @@
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:48697?security=tls&sni=gh.01.naiun.bilibili.com#%F0%9F%87%AD%F0%9F%87%B0HK-103.177.136.41-6121
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:48697?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=gh.01.naiun.bilibili.com#🇸🇬@FreakConfig
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:48697?security=tls&sni=gh.01.naiun.bilibili.com#%F0%9F%87%AD%F0%9F%87%B0HK-103.177.136.42-0468
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:48697?security=tls&sni=gh.01.naiun.bilibili.com#%F0%9F%87%AD%F0%9F%87%B0HK-103.177.136.45-0469
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:48697?security=tls&sni=gh.01.naiun.bilibili.com#%F0%9F%87%AD%F0%9F%87%B0HK-103.177.136.41-6156
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:48697?sni=gh.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A79
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:48697?sni=gh.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A710
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:48697?sni=gh.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:48697?sni=gh.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A78
