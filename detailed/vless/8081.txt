@@ -1,1 +1,2 @@
+vless://3a0e37f7-b83b-4db2-838a-b93bd5ed7a39@80.249.112.235:8081?encryption=mlkem768x25519plus.native.0rtt.BcBXsL1S8mZsNZGovADooXdMgHAi56vwLb6DlCF0phU&type=tcp&headerType=none#ProxyMtpVPN-246
 vless://52b06c93-5a5e-487a-9e1a-b48f3d6f3768@irani.datammr.ir:8081?path=/&security=none&encryption=none&host=play.google.com&type=ws#@one_shop_official
