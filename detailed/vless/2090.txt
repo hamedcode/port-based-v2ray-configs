@@ -5,5 +5,5 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&e
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http&path=%2F#🆔configfa%20🔓%20VL-TCP-N/A%20🇱🇻%20LV%20180ms
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp&headerType=http#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20203ms
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp&headerType=http#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20179ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.252.127.253:2090?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20339869
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.252.127.253:2090?encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20975026
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.236.239:2090?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20486511
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.204.248:2090?encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20699814

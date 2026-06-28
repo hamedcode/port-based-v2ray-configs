@@ -3,4 +3,4 @@ trojan://333967de4411e1e833244ba4becc20bf@18.166.209.37:3743?security=tls&sni=ww
 trojan://a844e75e40134ee742e80ced8509b310@13.158.46.252:3743?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-13.158.46.252-0671
 trojan://ba5b6f1d3a9da87096165da523fb4375@95.40.43.133:3743?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-95.40.43.133-0722
 trojan://230012981ba34c12fec11deca0379005@54.46.30.217:3743?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-trojan://230012981ba34c12fec11deca0379005@54.46.30.217:3743?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC7
+trojan://230012981ba34c12fec11deca0379005@54.46.30.217:3743?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
