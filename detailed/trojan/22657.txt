@@ -1,9 +1,7 @@
-trojan://BxceQaOe@54.46.109.132:22657?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#@outline_ir
-trojan://BxceQaOe@54.46.109.132:22657?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#@vmess_ir
 trojan://BxceQaOe@54.46.109.132:22657?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-54.46.109.132-0588
 trojan://BxceQaOe@16.162.121.169:22657?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.121.169-0665
 trojan://BxceQaOe@18.166.177.233:22657?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-18.166.177.233-0677
 trojan://BxceQaOe@43.199.44.33:22657?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-43.199.44.33-0727
 trojan://BxceQaOe@16.163.142.40:22657?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-16.163.142.40-2139
 trojan://BxceQaOe@16.163.142.40:22657?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
-trojan://BxceQaOe@54.46.109.132:22657?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD20
+trojan://BxceQaOe@16.163.142.40:22657?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
