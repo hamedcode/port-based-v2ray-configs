@@ -1,5 +1,5 @@
 vless://monacoVPN@172.65.111.43:22?security=none&encryption=none&headerType=http&type=tcp#@outline_ir
-vless://monacoVPN@172.65.111.43:22?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40outline_ir%20%232%20%5Bfast%5D
+vless://monacoVPN@172.65.111.43:22?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40outline_ir%20%231%20%5Bfast%5D
 trojan://40c89b10235c40321e7a3cef82b53a03@trs16.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.127.215.49-3948
 trojan://40c89b10235c40321e7a3cef82b53a03@trs17.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.127.203.108-3966
 trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-4297

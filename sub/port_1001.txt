@@ -11,3 +11,4 @@ vless://75f89edc-9d8d-4314-8530-dfa9c76e406b@3.71.8.174:1001?security=none&encry
 vless://75f89edc-9d8d-4314-8530-dfa9c76e406b@3.71.8.174:1001?security=none&type=tcp&headerType=&path=&host=#@NewsDarya (event6_8252568496) [VLESS - tcp]
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@91.107.169.16:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#@KAFING_2
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@sky2.hupcloud.com:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#@KAFING_2
+ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
