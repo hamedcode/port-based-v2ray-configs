@@ -1,3 +1,2 @@
 vless://4a4b4059-55af-4760-92e4-910b9bd24dd8@143.110.163.93:20309?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
 vless://4a4b4059-55af-4760-92e4-910b9bd24dd8@143.110.163.93:20309?type=tcp&encryption=none&security=none#@configprxy
-vless://4a4b4059-55af-4760-92e4-910b9bd24dd8@143.110.163.93:20309?type=tcp&encryption=none&security=none#@meliproxyy
