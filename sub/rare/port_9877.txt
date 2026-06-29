@@ -1,2 +1,1 @@
 vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@85.208.85.235:9877?encryption=none&security=reality&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#@Daily_Configs
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@85.208.85.235:9877?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#🆔v2ray1_ng%20🔒%20VL-GRPC-%20❔%20XX%20down

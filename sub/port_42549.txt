@@ -7,6 +7,6 @@ trojan://SoftNetConnect@37.156.44.50:42549?security=tls&headerType=none&fp=chrom
 trojan://SoftNetConnect@37.156.44.50:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#@ReleaseNet
 trojan://SoftNetConnect@37.156.45.237:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#@ReleaseNet
 trojan://SoftNetConnect@83.228.250.119:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&insecure=1&allowInsecure=1#@MoOon_proxy (4🇨🇭⚡)
-trojan://SoftNetConnect@37.156.44.215:42549?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-37.156.44.215-0090
-trojan://SoftNetConnect@83.228.226.164:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.226.164-0642
-trojan://SoftNetConnect@83.228.224.161:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.224.161-0720
+trojan://SoftNetConnect@37.156.44.215:42549?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-37.156.44.215-0196
+trojan://SoftNetConnect@83.228.226.164:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.226.164-0628
+trojan://SoftNetConnect@83.228.224.161:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.224.161-0757
