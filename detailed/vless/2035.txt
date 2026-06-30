@@ -23,7 +23,6 @@ vless://76420ede-08de-4869-abeb-ad2d11729386@DaSHBoard.mobileatlass.ir:2035?secu
 vless://Telegram:TurboConfigs@31.56.206.13:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@ReleaseNet
 vless://Telegram:X_RAY_VPN1@45.74.159.218:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@ReleaseNet
 vless://X_RAY_VPN1@31.56.206.13:2035?encryption=none&type=tcp#@vpng3 [18]
-vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40flyv2ray%20%232%20%5Bfast%5D
 vless://1c405762-61d8-4654-abf0-1ab168a237eb@91.107.253.64:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://1c405762-61d8-4654-abf0-1ab168a237eb@91.107.253.64:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://1c405762-61d8-4654-abf0-1ab168a237eb@91.107.253.64:2035?security=none&type=tcp&headerType=http&host=play.google.com&encryption=none#EPODONIOS
@@ -37,4 +36,4 @@ vless://76420ede-08de-4869-abeb-ad2d11729386@DaSHBoard.mobileatlass.ir:2035?secu
 vless://Telegram:TurboConfigs@31.56.206.13:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://Telegram:X_RAY_VPN1@45.74.159.218:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://X_RAY_VPN1@31.56.206.13:2035?encryption=none&type=tcp#EPODONIOS
-vless://1c405762-61d8-4654-abf0-1ab168a237eb@91.107.253.64:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20744087
+vless://1c405762-61d8-4654-abf0-1ab168a237eb@91.107.253.64:2035?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20563885

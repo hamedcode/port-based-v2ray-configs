@@ -32,7 +32,7 @@ trojan://Mitivpn@151.101.242.172:80?path=/ed=mitivpn&security=none&host=4-4-3-mi
 trojan://Mitivpn@151.101.242.172:80?type=ws&security=none&path=/ed=mitivpn&host=4-4-3-mitivpn.global.ssl.fastly.net#EPODONIOS
 trojan://Mitivpn@151.101.242.172:80?path=%2Fed%3Dmitivpn&security=none&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws#EPODONIOS
 trojan://Mitivpn@146.75.116.190:80?path=%2F%3Fhttps%3A%2F%2Ft.me%2Fapp_bedal%F0%9F%87%A8%F0%9F%87%B3&security=none&host=3-mitivpn.global.ssl.fastly.net&type=ws#EPODONIOS
-trojan://Mitivpn@151.101.242.172:80?path=%2Fed%3Dmitivpn&security=none&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20182086
-trojan://Mitivpn@151.101.242.172:80?path=/ed=mitivpn&security=none&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20231312
-trojan://Mitivpn@146.75.116.190:80?path=%2F%3Fhttps%3A%2F%2Ft.me%2Fapp_bedal%F0%9F%87%A8%F0%9F%87%B3&security=none&host=3-mitivpn.global.ssl.fastly.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20648923
-trojan://Mitivpn@146.75.116.190:80?path=/?https://t.me/app_bedal🇨🇳&security=none&host=3-mitivpn.global.ssl.fastly.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20167356
+trojan://Mitivpn@151.101.242.172:80?path=%2Fed%3Dmitivpn&security=none&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20602872
+trojan://Mitivpn@151.101.242.172:80?path=/ed=mitivpn&security=none&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20210060
+trojan://Mitivpn@146.75.116.190:80?path=%2F%3Fhttps%3A%2F%2Ft.me%2Fapp_bedal%F0%9F%87%A8%F0%9F%87%B3&security=none&host=3-mitivpn.global.ssl.fastly.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20960089
+trojan://Mitivpn@146.75.116.190:80?path=/?https://t.me/app_bedal🇨🇳&security=none&host=3-mitivpn.global.ssl.fastly.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20289766
