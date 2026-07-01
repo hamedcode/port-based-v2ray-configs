@@ -11,3 +11,4 @@ vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?security=tls&enc
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#EPODONIOS
 vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@212.69.86.220:9443?security=reality&encryption=none&pbk=2MnLp2jBmP-bPYRHf3VY3wyGMwIYIAizXCB7UxgYVGc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=estonianode.dostupnet.ru&sid=7c16c340cde3ed39#EPODONIOS
 vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@germnode.dostupnet.ru:9443?security=reality&encryption=none&pbk=ydtP6Nv3EqKvbnCYoozfIk5q7ihoNWQsdd8UPqGFu2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germnode.dostupnet.ru&sid=ffaa1a2421f17932#EPODONIOS
+vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?path=%2Fpourya&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8

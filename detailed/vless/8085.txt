@@ -1,8 +1,10 @@
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?encryption=none&type=tcp&headerType=http&host=telewebion.com#@meliproxyy
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?encryption=none&type=tcp&headerType=http&path=/&host=telewebion.com#@meliproxyy
+vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=http&type=tcp#Proxy_Se7en
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayNplus |🇬🇧
-vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40red2ray%20%231%20%5Bfast%5D
+vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%3E%3E%40ip_cf%3A%3AGB
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?encryption=none&type=tcp&headerType=http&host=telewebion.com#EPODONIOS
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?encryption=none&type=tcp&headerType=http&path=/&host=telewebion.com#EPODONIOS
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#EPODONIOS
-vless://4a836d89-0655-4c77-9702-b47219afaa5d@217.61.20.226:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20875330
+vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#EPODONIOS
+vless://4a836d89-0655-4c77-9702-b47219afaa5d@217.61.20.226:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20588486
