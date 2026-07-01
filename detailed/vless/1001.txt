@@ -1,6 +1,5 @@
 vless://04b56386-958f-471c-8836-d6044604975a@3.71.8.174:1001?encryption=none&security=none&type=tcp&headerType=none#Channel : @Daily_Configs
 vless://04b56386-958f-471c-8836-d6044604975a@3.71.8.174:1001?security=&encryption=none&headerType=none&type=tcp#@icv2ray
-vless://75f89edc-9d8d-4314-8530-dfa9c76e406b@3.71.8.174:1001?security=none&encryption=none&headerType=none&type=tcp#V2rayng_Fast
 vless://75f89edc-9d8d-4314-8530-dfa9c76e406b@3.71.8.174:1001?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@91.107.169.16:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#@KAFING_2
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@sky2.hupcloud.com:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#@KAFING_2
