@@ -29,4 +29,5 @@ vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@germnode.dostupnet.ru:9443?security
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&sni=de-1.hysteria.ltd#EPODONIOS
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@72.11.146.119:9443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&type=ws&host=vpn47.cc.cd&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://59e25c2a-af27-4bcc-b81f-46874da3c020@2.26.84.76:9443?encryption=none&security=reality&sni=img.perekrestok.ru&fp=firefox&pbk=ckM63wg41bRvhR2Kiq_bYkcQFEslrLzr2mZNd57LSnM&sid=55a228293af24d&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?path=%2Fpourya&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://59e25c2a-af27-4bcc-b81f-46874da3c020@nr.cnkstore.ru:9443?encryption=none&fp=&pbk=ckM63wg41bRvhR2Kiq_bYkcQFEslrLzr2mZNd57LSnM&security=reality&sid=55a228293af24d&sni=img.perekrestok.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
