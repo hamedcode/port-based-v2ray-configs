@@ -1,4 +1,2 @@
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:46424?security=tls&sni=de.01.naiun.bilibili.com&insecure=1&allowInsecure=1&type=tcp&headerType=none@NebulaVPNx
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:46424?security=tls&sni=de.01.naiun.bilibili.com#%F0%9F%87%AD%F0%9F%87%B0HK-103.177.136.45-0867
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:46424?security=tls&sni=de.01.naiun.bilibili.com#%F0%9F%87%AD%F0%9F%87%B0HK-103.177.136.42-2503
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:46424?security=tls&sni=de.01.naiun.bilibili.com&insecure=1&allowInsecure=1&type=tcp&headerType=none@NebulaVPNx#EPODONIOS

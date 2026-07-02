@@ -1,5 +1,4 @@
 vless://12057eb0-5b11-47ed-b34b-0c8646b99864@cf.parsdev.eu:2052?path=/?ed=2056&security=none&encryption=none&host=xc.dl5movis.ir&type=httpupgrade#چنل عضو شو @v2ra_config
-vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#canfingV2rayNG-129
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s1.nakosgol.com&type=xhttp&note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=s1.nakosgol.com&path=/pabloping&security=none&note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s1.nakosgol.com&type=xhttp#@KAFING_2
@@ -8,8 +7,10 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&pa
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s4.nakosgol.com&type=xhttp&note=@FreeOnlineVPN#🇨🇦 - CA - @FreeOnlineVPN
 vless://25ecd682-7fb9-4bc4-bdbf-c7b97aceb990@opt.walking-with-death.site:2052?security=reality&encryption=none&pbk=qM-k-WxqBUQWzHS4qBN1Wngc-c_jvaNhPzDiw87JpT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=c6a7dfed3c99d035#Tel-@ProxyMtAlpha🤪 5
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://40135845-27fd-45e2-8616-44e92d149a50@cctvhikvision.center:2052?path=/api&security=none&encryption=none&host=sg.sogand.qzz.io&type=ws#@vmess_ir
+vless://40135845-27fd-45e2-8616-44e92d149a50@cctvhikvision.center:2052?path=/api&security=none&encryption=none&host=sg.sogand.qzz.io&type=ws#[85231] - Telegram : @V2All
+vless://40135845-27fd-45e2-8616-44e92d149a50@undef.network:2052?path=/api&security=none&encryption=none&host=sg.sogand.qzz.io&type=ws#@outline_ir
 vless://5e6a66e9-a250-465d-adb5-0b7bd692f48a@77.83.203.137:2052?encryption=none&security=none&type=httpupgrade&host=icloud.com&path=/phpMyAdmin?q=一位處女在孫先生的農場工作。#Channel : @Daily_Configs
-vless://5e6a66e9-a250-465d-adb5-0b7bd692f48a@77.83.203.137:2052?path=/phpMyAdmin?q=一位處女在孫先生的農場工作。&security=none&encryption=none&host=icloud.com&type=httpupgrade#kurdconfig
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=bastona.aroonsid.ir#🇹🇷| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=buligh.aroonsid.ir#🇧🇬| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=latvia.aroonsid.ir#🇱🇻| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
@@ -17,10 +18,12 @@ vless://62b430d5-c08e-4c0b-820a-e0c3466be01a@check.hafezsportclub.ir:2052?path=/
 vless://62b430d5-c08e-4c0b-820a-e0c3466be01a@check.hafezsportclub.ir:2052?path=/api-v1?ed=2560&security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws#Proxy_Se7en
 vless://6b904a9f-e4e3-4dae-bdc5-eb0a7b1ceeb8@92.60.74.227:2052?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=sdfdwed.caspinxp.com&mode=auto#@NetFlowTools
 vless://7b81a350-89c3-47da-a3a9-5f2b65313d03@snapp.ir:2052?path=/api/auth&security=none&encryption=none&host=api5.iraniandex.ir&type=httpupgrade#TEL;Father_vpn
+vless://80c72c9e-ea8f-4116-ad32-a394f4701c4b@cdn-fi.alobaleping.top:2052?type=ws&encryption=none&path=/cdn-fi.alobaleping.top&host=cdn-fi.alobaleping.top&security=none#🇮🇷IR-🚀@VPNine1
 vless://949139db-dcd3-4da9-a510-6bf22d1f5cb6@varzesh3.com:2052?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#Brayirani
 vless://95e62125-f4af-4688-a9e1-7e6d9cd8d862@undef.network:2052?path=/api-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#@appsooner کانال تلگرام 🕊️
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?encryption=none&security=none&type=ws&path=/#@FREE_VPN02
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=&encryption=none&type=ws#@TEHRANARGO丨چنل تلگرام
+vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=&encryption=none&type=ws#t.me/ConfigFori  -  Config 84626
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@Soul737
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=none&encryption=none&type=ws#Channel : @Daily_Configs
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=none&encryption=none&type=ws#FREE_VPN02
@@ -28,15 +31,9 @@ vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?encryption
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?encryption=none&type=httpupgrade&path=/graphql&host=hosbia.amki.IR.#@vpng3 [28]
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?path=/graphql&security=none&encryption=none&host=hosbia.amki.IR.&type=httpupgrade#@V2raySup0 🚀
 vless://d3efb5a7-ed80-4cf3-a09c-8e0db55b9872@undef.network:2052?path=/api-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#@V2raySup0🛍️
-vless://d5618e70-9fd7-4b3a-a05f-8095697bd0da@cctvhikvision.center:2052?path=/api-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#@outline_ir
-vless://d5618e70-9fd7-4b3a-a05f-8095697bd0da@freesocks.work:2052?path=/api-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#@vmess_ir
-vless://d5618e70-9fd7-4b3a-a05f-8095697bd0da@hikvision-plus.com:2052?path=/api-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#@vmess_ir
 vless://d80e27b6-1dee-466a-8b18-8f64bfd66a60@104.24.17.48:2052?path=/&security=none&encryption=none&host=vxpor.positivsis.website&type=ws#amirhoseinvalian
 vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=/&security=none&encryption=none&host=p1.razstar.ir&type=ws#@NetZone_ir
-vless://f16ff15f-61db-4e37-ba2c-2f8620998e8b@cdn-ams.veilora.net:2052?security=none&type=ws&encryption=none&path=/#@meliproxyy
-vless://f16ff15f-61db-4e37-ba2c-2f8620998e8b@cdn-waw.veilora.net:2052?security=none&type=ws&encryption=none&path=/#@meliproxyy
 vmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIiLCJwcyI6IkB2MnJheW5nemVuZGVnaW1hbWFk8J+Viu+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vless://f6585f2f-e738-4f10-bf5b-273b02724597@undef.network:2052?path=%2Fapi-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#%F0%9F%92%9E`
 vless://7b81a350-89c3-47da-a3a9-5f2b65313d03@snapp.ir:2052?path=/api/auth&security=none&encryption=none&host=api5.iraniandex.ir&type=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40father_vpn%20%231%20%5Bfast%5D
 vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40kurdvpn1%20%231%20%5Bfast%5D
 vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40kurdvpn1%20%232%20%5Bfast%5D
@@ -57,7 +54,6 @@ vmess://ewogICAgImFkZCI6ICIxMDQuMTYuNjEuOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0Ijog
 vmess://ewogICAgImFkZCI6ICIxMDQuMTguMjUuOTIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJteXNhbjIuamFxdWF5MjIud29ya2Vycy5kZXYiLAogICAgImlkIjogImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDUyLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTguMjUuOTItODc2MiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICJsb2wucHMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJteXNhbjIuamFxdWF5MjIud29ya2Vycy5kZXYiLAogICAgImlkIjogImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hZnJobXMxNnYuYmVzdHhyYXkuYnV6ei9saW5rd3MiLAogICAgInBvcnQiOiAyMDUyLAogICAgInBzIjogIvCfh7jwn4esU0ctNDMuMTc0LjE5Ni4yMC04NzkzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vless://12057eb0-5b11-47ed-b34b-0c8646b99864@cf.parsdev.eu:2052?path=/?ed=2056&security=none&encryption=none&host=xc.dl5movis.ir&type=httpupgrade#EPODONIOS
-vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#EPODONIOS
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s1.nakosgol.com&type=xhttp&note=@FreeOnlineVPN#EPODONIOS
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=s1.nakosgol.com&path=/pabloping&security=none&note=@FreeOnlineVPN#EPODONIOS
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s1.nakosgol.com&type=xhttp#EPODONIOS
@@ -84,13 +80,7 @@ vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?encryption
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?encryption=none&type=httpupgrade&path=/graphql&host=hosbia.amki.IR.#EPODONIOS
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?path=/graphql&security=none&encryption=none&host=hosbia.amki.IR.&type=httpupgrade#EPODONIOS
 vless://d3efb5a7-ed80-4cf3-a09c-8e0db55b9872@undef.network:2052?path=/api-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#EPODONIOS
-vless://d5618e70-9fd7-4b3a-a05f-8095697bd0da@cctvhikvision.center:2052?path=/api-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#EPODONIOS
-vless://d5618e70-9fd7-4b3a-a05f-8095697bd0da@freesocks.work:2052?path=/api-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#EPODONIOS
-vless://d5618e70-9fd7-4b3a-a05f-8095697bd0da@hikvision-plus.com:2052?path=/api-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#EPODONIOS
 vless://d80e27b6-1dee-466a-8b18-8f64bfd66a60@104.24.17.48:2052?path=/&security=none&encryption=none&host=vxpor.positivsis.website&type=ws#EPODONIOS
 vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=/&security=none&encryption=none&host=p1.razstar.ir&type=ws#EPODONIOS
-vless://f16ff15f-61db-4e37-ba2c-2f8620998e8b@cdn-ams.veilora.net:2052?security=none&type=ws&encryption=none&path=/#EPODONIOS
-vless://f16ff15f-61db-4e37-ba2c-2f8620998e8b@cdn-waw.veilora.net:2052?security=none&type=ws&encryption=none&path=/#EPODONIOS
 vmess://eyJhZGQiOiAiNTEuMTk1LjIzNS43MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTllMjhmNzgtYzMxYi00NjEzLTlkOWYtMWU2NzMyYTMxZjQ2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDUyIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
-vless://f6585f2f-e738-4f10-bf5b-273b02724597@undef.network:2052?path=%2Fapi-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#EPODONIOS
-vless://d5618e70-9fd7-4b3a-a05f-8095697bd0da@104.21.93.52:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=/api-v1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20684903
+vless://d5618e70-9fd7-4b3a-a05f-8095697bd0da@104.21.93.52:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=/api-v1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20192563

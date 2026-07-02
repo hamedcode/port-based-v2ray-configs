@@ -7,9 +7,8 @@ vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=&encr
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?encryption=none&security=none&type=tcp#EPODONIOS
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?encryption=none&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?path=%2f#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20568353
-vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20982570
-vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20230963
+vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20817247
+vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20231847
+vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20630785
