@@ -14,6 +14,6 @@ vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&h
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@79.124.7.236:444?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&type=ws&host=vpn47.cc.cd&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@2.59.183.233:444?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&type=ws&host=vpn47.cc.cd&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&type=ws&host=play.google.com&path=%2FA2&security=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&host=play.google.com&path=%2FA2&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20332626
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&host=play.google.com&path=/A2&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20516981
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?path=%2FA2&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20839026
+vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&host=play.google.com&path=%2FA2&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20449065
+vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&host=play.google.com&path=/A2&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20206858
+vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?path=%2FA2&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20979703
