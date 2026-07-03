@@ -26,7 +26,6 @@ vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=n
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=none&encryption=none&type=ws#FREE_VPN02
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?encryption=none&type=httpupgrade&path=/graphql&host=CAdaba.amki.IR.#@vpng3 [23]
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?encryption=none&type=httpupgrade&path=/graphql&host=hosbia.amki.IR.#@vpng3 [28]
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?path=/graphql&security=none&encryption=none&host=hosbia.amki.IR.&type=httpupgrade#@V2raySup0 🚀
 vless://d3efb5a7-ed80-4cf3-a09c-8e0db55b9872@undef.network:2052?path=/api-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#@V2raySup0🛍️
 vless://d80e27b6-1dee-466a-8b18-8f64bfd66a60@104.24.17.48:2052?path=/&security=none&encryption=none&host=vxpor.positivsis.website&type=ws#amirhoseinvalian
 vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=/&security=none&encryption=none&host=p1.razstar.ir&type=ws#@NetZone_ir
@@ -77,7 +76,6 @@ vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=n
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=none&encryption=none&type=ws#EPODONIOS
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?encryption=none&type=httpupgrade&path=/graphql&host=CAdaba.amki.IR.#EPODONIOS
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?encryption=none&type=httpupgrade&path=/graphql&host=hosbia.amki.IR.#EPODONIOS
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?path=/graphql&security=none&encryption=none&host=hosbia.amki.IR.&type=httpupgrade#EPODONIOS
 vless://d3efb5a7-ed80-4cf3-a09c-8e0db55b9872@undef.network:2052?path=/api-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#EPODONIOS
 vless://d80e27b6-1dee-466a-8b18-8f64bfd66a60@104.24.17.48:2052?path=/&security=none&encryption=none&host=vxpor.positivsis.website&type=ws#EPODONIOS
 vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=/&security=none&encryption=none&host=p1.razstar.ir&type=ws#EPODONIOS
