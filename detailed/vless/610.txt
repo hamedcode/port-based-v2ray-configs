@@ -6,4 +6,5 @@ vless://e39491dd-33f2-4544-9890-19f12da7cdd4@93.127.160.203:610?security=none&en
 vless://16e7c88d-3967-484a-ba2a-1c5ba1d74f62@150.241.94.88:610?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e39491dd-33f2-4544-9890-19f12da7cdd4@93.127.160.203:610?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e39491dd-33f2-4544-9890-19f12da7cdd4@93.127.160.203:610?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://16e7c88d-3967-484a-ba2a-1c5ba1d74f62@150.241.94.88:610?encryption=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20175102
+vless://16e7c88d-3967-484a-ba2a-1c5ba1d74f62@31.76.28.90:610?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20754027
+vless://16e7c88d-3967-484a-ba2a-1c5ba1d74f62@150.241.94.88:610?encryption=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20480505
