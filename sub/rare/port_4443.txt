@@ -1,1 +1,2 @@
-trojan://Greggg0-vpnjantit.com@hu2.vpnjantit.com:4443?sni=hu2.vpnjantit.com&peer=hu2.vpnjantit.com&security=tls#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
+trojan://Greggg0-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20804844
+trojan://Greggg0-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20884555
