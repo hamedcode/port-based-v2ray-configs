@@ -21,5 +21,12 @@ trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?security=tls&sni=
 trojan://4COPE----AZ--KANAL---JKVPN-----@179.237.74.47:80?security=none&host=promotion.yahoo.com&headerType=http&type=tcp#EPODONIOS
 trojan://4COPE----AZ--KANAL---RK_VPS-----@179.237.74.47:80?security=none&host=promotion.yahoo.com&headerType=http&type=tcp#EPODONIOS
 trojan://MITIVPN@151.101.1.194:80?path=/ed&security=none&host=mitivpn--3.global.ssl.fastly.net&type=ws#EPODONIOS
+trojan://MiTiVPN@109.176.239.3:80?path=/MiTiVPN=NL&security=none&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&host=Nl.App-Cloud.ir&type=ws#EPODONIOS
+trojan://MiTiVPN@198.12.144.3:80?path=/MiTiVPN=NL&security=none&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&host=Nl.App-Cloud.ir&type=ws#EPODONIOS
+trojan://MiTiVPN@199.232.217.242:80#EPODONIOS
+trojan://MiTiVPN@209.94.90.3:80?path=/MiTiVPN=NL&security=none&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&host=Nl.App-Cloud.ir&type=ws#EPODONIOS
+trojan://MiTiVPN@212.183.88.3:80?path=/MiTiVPN=NL&security=none&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&host=Nl.App-Cloud.ir&type=ws#EPODONIOS
+trojan://MiTiVPN@50.62.194.3:80?path=/MiTiVPN=NL&security=none&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&host=Nl.App-Cloud.ir&type=ws#EPODONIOS
 trojan://Mitivpn@151.101.0.0:80?type=ws&security=none&path=@SylphNet&host=@SylphNet#EPODONIOS
+trojan://Mitivpn@151.101.0.0:80?type=ws&security=none&path=@VPNine1&host=@VPNine1#EPODONIOS
 trojan://Mitivpn@151.101.242.172:80?path=/ed=mitivpn&security=none&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws#EPODONIOS
