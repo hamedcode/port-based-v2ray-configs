@@ -1,8 +1,5 @@
 vless://49898ce0-8865-493c-ae42-01a7bdd81057@GerGame2.soltankabos.ir:34821?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#https://t.me/v2rayNplus |🇩🇪
-vless://a11034cc-25a5-4004-8e50-a865b3fb91c6@GerGame2.soltankabos.ir:34821?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#https://t.me/AarazV2ray
 vless://a11034cc-25a5-4004-8e50-a865b3fb91c6@gergame2.soltankabos.ir:34821?encryption=none&type=tcp&headerType=http&host=play.google.com#@configprxy
 vless://a11034cc-25a5-4004-8e50-a865b3fb91c6@gergame2.soltankabos.ir:34821?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
-vless://a11034cc-25a5-4004-8e50-a865b3fb91c6@gergame2.soltankabos.ir:34821?encryption=none&type=tcp&headerType=http&host=play.google.com#https://t.me/AarazV2ray
 vless://49898ce0-8865-493c-ae42-01a7bdd81057@GerGame2.soltankabos.ir:34821?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://a11034cc-25a5-4004-8e50-a865b3fb91c6@GerGame2.soltankabos.ir:34821?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#EPODONIOS
 vless://a11034cc-25a5-4004-8e50-a865b3fb91c6@gergame2.soltankabos.ir:34821?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
