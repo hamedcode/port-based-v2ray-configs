@@ -1,4 +1,3 @@
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp#@CUSTOMVPNSERVER
-vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@85.234.65.130:6000?encryption=none&security=reality&sni=telekom.com&pbk=F6D_xS9iNp_eeQsHkFpUiLgFsGOH62Q1RFrY4qo5_X4&sid=bc03731d6e4c2f7f&type=tcp&headerType=none#@Daily_Configs
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
 vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@85.234.65.130:6000?encryption=none&security=reality&sni=telekom.com&pbk=F6D_xS9iNp_eeQsHkFpUiLgFsGOH62Q1RFrY4qo5_X4&sid=bc03731d6e4c2f7f&type=tcp&headerType=none#EPODONIOS

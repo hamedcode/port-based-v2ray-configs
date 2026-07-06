@@ -1,6 +1,5 @@
 vless://2ef51dd8-c839-479e-ab89-0c48c0eabdb4@net2.ma-rdd.co.uk:8441?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇩🇪]@NetliVPN
 vless://3146d86d-70e9-4a9f-b3c9-9835538885df@net2.ma-rdd.co.uk:8441?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@V2ray_confiig
-vless://3146d86d-70e9-4a9f-b3c9-9835538885df@net2.ma-rdd.co.uk:8441?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇩🇪]@NetliVPN
 vless://4044e843-eda4-4e6a-88d4-3495cbe77f1f@net2.ma-rdd.co.uk:8441?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇩🇪]@NetliVPN
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-193.124.46.134-0211
 vless://2ef51dd8-c839-479e-ab89-0c48c0eabdb4@net2.ma-rdd.co.uk:8441?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
