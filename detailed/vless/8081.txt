@@ -1,4 +1,2 @@
 vless://374b72ec-3ead-4762-b6a3-7ae165943d03@31.14.123.177:8081?encryption=none&security=tls&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=img.mygymmate.ir&fp=chrome&alpn=h2,http/1.1#@Ap_Ir6
-vless://52b06c93-5a5e-487a-9e1a-b48f3d6f3768@irani.datammr.ir:8081?path=/&security=none&encryption=none&host=play.google.com&type=ws#@one_shop_official
 vless://374b72ec-3ead-4762-b6a3-7ae165943d03@31.14.123.177:8081?encryption=none&security=tls&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=img.mygymmate.ir&fp=chrome&alpn=h2,http/1.1#EPODONIOS
-vless://52b06c93-5a5e-487a-9e1a-b48f3d6f3768@irani.datammr.ir:8081?path=/&security=none&encryption=none&host=play.google.com&type=ws#EPODONIOS

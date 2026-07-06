@@ -1,7 +1,7 @@
 trojan://SoftNetConnect@83.228.228.243:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#@V2ray_confiig
 trojan://SoftNetConnect@83.228.251.119:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#Proxy_Se7en
-trojan://SoftNetConnect@83.228.226.164:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.226.164-0615
-trojan://SoftNetConnect@83.228.224.161:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.224.161-0802
-trojan://SoftNetConnect@37.156.44.215:42549?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-37.156.44.215-2211
+trojan://SoftNetConnect@83.228.226.164:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.226.164-0667
+trojan://SoftNetConnect@83.228.224.161:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.224.161-0854
+trojan://SoftNetConnect@37.156.44.215:42549?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-37.156.44.215-2263
 trojan://SoftNetConnect@83.228.228.243:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#EPODONIOS
 trojan://SoftNetConnect@83.228.251.119:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#EPODONIOS
