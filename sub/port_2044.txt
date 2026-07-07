@@ -45,9 +45,10 @@ vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@185.246.131.170:2044?security=none&
 vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI#EPODONIOS
 vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#EPODONIOS
 vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com/?BIA_TELEGRAM@v2ray_configs_pools&headerType=http&type=tcp#EPODONIOS
 vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#EPODONIOS
-vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@185.246.131.170:2044?security=none&encryption=none&host=play.google.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20918085
-vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@185.246.131.170:2044?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20962563
-vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@185.246.131.170:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20741697
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@185.246.131.170:2044?security=none&encryption=none&host=play.google.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20579685
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@185.246.131.170:2044?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20915127
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@185.246.131.170:2044?security=none&encryption=none&host=play.google.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20650514

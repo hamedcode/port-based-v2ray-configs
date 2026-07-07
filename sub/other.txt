@@ -25,7 +25,3 @@ trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=/tr#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
-vmess://4b6265ba-7b13-4d4d-b378-12a373ec58cf@8.213.234.2:1080?encryption=auto&security=none&type=tcp#🕹️16@oneclickvpnkeys
-vmess://4bd2af9a-67a3-4e1a-8eef-c443ec86e80b@c722s3.portablesubmarines.com:16025?encryption=auto&security=none&type=tcp#🕹️42@oneclickvpnkeys
-vmess://4bd2af9a-67a3-4e1a-8eef-c443ec86e80b@c722s4.portablesubmarines.com:16025?encryption=auto&security=none&type=tcp#🕹️40@oneclickvpnkeys
-vmess://4bd2af9a-67a3-4e1a-8eef-c443ec86e80b@c722s5.portablesubmarines.com:16025?encryption=auto&security=none&type=tcp#🕹️27@oneclickvpnkeys
