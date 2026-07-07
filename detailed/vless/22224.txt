@@ -3,4 +3,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.87.247:22224?path=/telegram-c
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.149.14:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#🔵@chillguy_vpn
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.87.247:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#EPODONIOS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.149.14:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#EPODONIOS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.149.14:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#EPODONIOS
