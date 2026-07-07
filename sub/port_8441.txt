@@ -1,8 +1,6 @@
-vless://2bd77137-b1c4-4165-a8ab-1eb3a312b28a@net2.ma-rdd.co.uk:8441?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#@filembad
 vless://3146d86d-70e9-4a9f-b3c9-9835538885df@net2.ma-rdd.co.uk:8441?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@V2ray_confiig
 vless://cf3a3d81-ee0c-4329-85e2-694b770cca95@net2.ma-rdd.co.uk:8441?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#@V2ray_confiig
-vless://cf3a3d81-ee0c-4329-85e2-694b770cca95@net2.ma-rdd.co.uk:8441?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇫🇮FI-🚀@VPNine1
-trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-193.124.46.134-0295
-vless://2bd77137-b1c4-4165-a8ab-1eb3a312b28a@net2.ma-rdd.co.uk:8441?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-193.124.46.134-0234
 vless://3146d86d-70e9-4a9f-b3c9-9835538885df@net2.ma-rdd.co.uk:8441?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://cf3a3d81-ee0c-4329-85e2-694b770cca95@net2.ma-rdd.co.uk:8441?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#EPODONIOS
