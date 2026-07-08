@@ -1,14 +1,15 @@
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#@hex_proxy ³
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.142:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#@@v2ray_configs_pools丨چنل تلگرام
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%3E%3E%40configV2rayNG%3A%3AGB
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&serviceName=vless#%3E%3E%40v2nodes%3A%3AGB
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.142:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.142:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&serviceName=vless#EPODONIOS
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.135:2085?security=&encryption=none&type=grpc&serviceName=vless#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?security=&encryption=none&type=grpc&serviceName=vless#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&serviceName=vless#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.135:2085?security=&encryption=none&type=grpc&serviceName=vless#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&serviceName=vless#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&serviceName=vless#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20612894
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&serviceName=vless#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20397901
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20666111
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20847144
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20900336
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&serviceName=vless#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20349347
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&serviceName=vless#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20191585
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20435670

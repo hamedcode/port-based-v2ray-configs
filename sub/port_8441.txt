@@ -1,6 +1,7 @@
-vless://3146d86d-70e9-4a9f-b3c9-9835538885df@net2.ma-rdd.co.uk:8441?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@V2ray_confiig
+vless://9b8a334b-e4e1-424c-99b4-4fd203ffb571@65.109.209.71:8441?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇫🇮
+vless://9b8a334b-e4e1-424c-99b4-4fd203ffb571@65.109.209.71:8441?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🔵@chillguy_vpn
 vless://cf3a3d81-ee0c-4329-85e2-694b770cca95@net2.ma-rdd.co.uk:8441?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#@V2ray_confiig
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-193.124.46.134-0234
-vless://3146d86d-70e9-4a9f-b3c9-9835538885df@net2.ma-rdd.co.uk:8441?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+vless://9b8a334b-e4e1-424c-99b4-4fd203ffb571@65.109.209.71:8441?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
 vless://cf3a3d81-ee0c-4329-85e2-694b770cca95@net2.ma-rdd.co.uk:8441?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#EPODONIOS
