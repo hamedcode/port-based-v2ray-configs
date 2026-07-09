@@ -16,7 +16,9 @@ vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&s
 vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@france-2.hysteria.ltd:9443?encryption=none&fp=chrome&path=/ws&security=tls&sni=france-2.hysteria.ltd&type=ws#EPODONIOS
 vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@ws-2.hysteria.ltd:9443?encryption=none&fp=chrome&path=/ws&security=tls&sni=ws-2.hysteria.ltd&type=ws#EPODONIOS
 vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@ws-2.hysteria.ltd:9443?path=/ws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ws-2.hysteria.ltd#EPODONIOS
+vless://57c77d07-bec3-4bf7-9b72-70ece40450f6@switzen.topupaxme.icu:9443?encryption=none&fp=chrome&path=/ws&security=tls&sni=switzen.topupaxme.icu&type=ws#EPODONIOS
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bero-3.bexum.fun#EPODONIOS
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#EPODONIOS
 vless://980381ac-09a7-43a1-a531-0a379f3b7367@80.90.185.66:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&type=tcp&headerType=none#EPODONIOS
 vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@212.69.86.220:9443?security=reality&encryption=none&pbk=2MnLp2jBmP-bPYRHf3VY3wyGMwIYIAizXCB7UxgYVGc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=estonianode.dostupnet.ru&sid=7c16c340cde3ed39#EPODONIOS
+vless://3483aa7a-8a7d-4561-8f77-4fbf7a0b1033@5.188.115.226:9443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ns&fp=firefox&sni=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20612699

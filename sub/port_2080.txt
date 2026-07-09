@@ -5,5 +5,6 @@ vless://cadf29f1-2036-43e6-b560-23a71715ad42@DE.theatak.com:2080?encryption=none
 vless://cadf29f1-2036-43e6-b560-23a71715ad42@FI.theatak.com:2080?encryption=none&security=none&type=tcp&headerType=http&path=/&host=fi.theatak.com#@filembad
 vless://cadf29f1-2036-43e6-b560-23a71715ad42@FI.theatak.com:2080?encryption=none&security=none&type=tcp&headerType=http&path=/&host=fi.theatak.com#🔵@chillguy_vpn
 vless://051154dd-2eac-4f84-8d20-e253ada6eac8@DE.theatak.com:2080?security=&encryption=none&host=de.theatak.com&headerType=http&type=tcp#EPODONIOS
-vless://051154dd-2eac-4f84-8d20-e253ada6eac8@FI.theatak.com:2080?security=none&encryption=none&host=fi.theatak.com&headerType=http&type=tcp#EPODONIOS
 vless://051154dd-2eac-4f84-8d20-e253ada6eac8@FI.theatak.com:2080?security=none&encryption=none&host=fi.theatak.com&headerType=http&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#EPODONIOS
+vless://cadf29f1-2036-43e6-b560-23a71715ad42@DE.theatak.com:2080?encryption=none&security=none&type=tcp&headerType=http&path=/&host=de.theatak.com#EPODONIOS
+vless://cadf29f1-2036-43e6-b560-23a71715ad42@FI.theatak.com:2080?encryption=none&security=none&type=tcp&headerType=http&path=/&host=fi.theatak.com#EPODONIOS
