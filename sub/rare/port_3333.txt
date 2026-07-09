@@ -1,4 +1,2 @@
 vless://ee4bdede-a6cf-4931-a6cf-7ee4792ee76e@1conf.top:3333?security=none&encryption=none&headerType=http&type=tcp#Arshiavpn12
-ss://chacha20-ietf-poly1305:a10ApuevPmzwX6m_h7hz81ikSZy-NLvS@IRAN.COM:3333#EPODONIOS
-ss://chacha20-ietf-poly1305:a10ApuevPmzwX6m_h7hz81ikSZy-NLvS@iran.com:3333#EPODONIOS
 vless://ee4bdede-a6cf-4931-a6cf-7ee4792ee76e@1conf.top:3333?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
