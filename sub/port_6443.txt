@@ -6,3 +6,4 @@ vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@nl-ws-33.hysteria.ltd:6443?path=/ws
 trojan://SqJydYxsuCEX9RpFUXcbK7GLeZ-baJe4@cnn-2.hysteria.ltd:6443#EPODONIOS
 vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@nl-ws-33.hysteria.ltd:6443?encryption=none&fp=chrome&path=/ws&security=tls&sni=nl-ws-33.hysteria.ltd&type=ws#EPODONIOS
 vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@nl-ws-33.hysteria.ltd:6443?path=/ws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=nl-ws-33.hysteria.ltd#EPODONIOS
+vless://6d4d70ed-de4d-4938-af65-72e1cef81cf3@185.17.0.39:6443?security=reality&encryption=none&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=ce2491dd#EPODONIOS
