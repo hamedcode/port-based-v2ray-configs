@@ -4,3 +4,4 @@ vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@nl-ws-33.hysteria.ltd:6443?path=/ws
 trojan://SqJydYxsuCEX9RpFUXcbK7GLeZ-baJe4@cnn-2.hysteria.ltd:6443#EPODONIOS
 vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@nl-ws-33.hysteria.ltd:6443?encryption=none&fp=chrome&path=/ws&security=tls&sni=nl-ws-33.hysteria.ltd&type=ws#EPODONIOS
 vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@nl-ws-33.hysteria.ltd:6443?path=/ws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=nl-ws-33.hysteria.ltd#EPODONIOS
+vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@46.8.208.49:6443?encryption=none&type=ws&security=tls&path=/ws&sni=slc-tst.hysteria.ltd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20327486
