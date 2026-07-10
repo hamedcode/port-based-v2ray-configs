@@ -1,6 +1,10 @@
-trojan://4e4910ec52552e36aa43a870a179da83@43.199.32.140:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-43.199.32.140-0753
-trojan://82c038b55e40ca2613b76bb98c7f6d1f@43.199.41.146:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-43.199.41.146-0766
-trojan://a844e75e40134ee742e80ced8509b310@95.40.80.58:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-95.40.80.58-0818
-trojan://2009158055b4d37156cee7082c50ffde@57.183.13.23:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-57.183.13.23-0839
-trojan://ba5b6f1d3a9da87096165da523fb4375@16.163.95.104:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-16.163.95.104-0850
-trojan://ba5b6f1d3a9da87096165da523fb4375@16.162.120.149:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.120.149-0851
+trojan://bb839d14960b7a4fb1e95a3aef990528@95.40.50.224:6357?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#[🇭🇰]@NetliVPN
+trojan://bb839d14960b7a4fb1e95a3aef990528@95.40.50.224:6357?security=tls&sni=www.nintendogames.net&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇭🇰HK-🚀@VPNine1
+trojan://4e4910ec52552e36aa43a870a179da83@43.199.32.140:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-43.199.32.140-0754
+trojan://82c038b55e40ca2613b76bb98c7f6d1f@43.199.41.146:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-43.199.41.146-0767
+trojan://a844e75e40134ee742e80ced8509b310@95.40.80.58:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-95.40.80.58-0819
+trojan://2009158055b4d37156cee7082c50ffde@57.183.13.23:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-57.183.13.23-0840
+trojan://ba5b6f1d3a9da87096165da523fb4375@16.163.95.104:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-16.163.95.104-0851
+trojan://ba5b6f1d3a9da87096165da523fb4375@16.162.120.149:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.120.149-0852
+trojan://bb839d14960b7a4fb1e95a3aef990528@95.40.50.224:6357?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#EPODONIOS
+trojan://bb839d14960b7a4fb1e95a3aef990528@95.40.50.224:6357?security=tls&sni=www.nintendogames.net&insecure=1&allowInsecure=1&type=tcp&headerType=none#EPODONIOS
