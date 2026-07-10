@@ -1,11 +1,8 @@
-trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
-trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn   @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=/tr#@SheriffNet
-trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#‌
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#@v2rayngzendegimamad🕊️
+vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#🐞34@oneclickvpnkeys
 vmess://3935c2dc-dbb0-43f7-b367-fe89abe87fdf@173.249.209.146:20086?encryption=auto&path=/&security=none&type=ws#💡98@oneclickvpnkeys
-vmess://a25cbf11
 vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=google.com&path=/vmess/&security=none&type=ws#🐞30@oneclickvpnkeys
 vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=google.com&path=/vmess/&security=none&type=ws#🐞30@v2ray_configs_pools
 vmess://d9c36b55-447a-4484-882b-d799f5301681@phoenix0202.zgjok.com:443?encryption=auto&host=phoenix0202.zgjok.com&path=/d9c36b55-447a-4484-882b-d799f5301681&security=tls&sni=phoenix0202.zgjok.com&type=ws#🎍72@oneclickvpnkeys
@@ -14,8 +11,6 @@ vmess://f0841ef6-a703-4248-9c69-efed21a38e65@31.77.149.99:110?encryption=auto&se
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto&security=none&type=tcp#💡80@oneclickvpnkeys
 trojan://8r<[9'l6hAO#8ZQi@138.2.23.80:21044?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5JP-138.2.23.80-6314
 trojan://8r<[9'l6hAO#8ZQi@64.176.36.61:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-64.176.36.61-6315
-trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=/tr#EPODONIOS
-trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS

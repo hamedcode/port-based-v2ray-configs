@@ -19,4 +19,3 @@ trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?security=tls&sni=
 trojan://4COPE----AZ--KANAL---RK_VPS-----@179.237.74.47:80?security=none&host=promotion.yahoo.com&headerType=http&type=tcp#EPODONIOS
 trojan://Mitivpn@151.101.0.0:80?type=ws&security=none&path=@SylphNet&host=@SylphNet#EPODONIOS
 trojan://b65cbe72-59e2-4011-a22b-760621b5921f@65.109.129.120:80?security=tls&headerType=none&type=tcp&sni=fl.configasli.xyz#EPODONIOS
-trojan://b65cbe72-59e2-4011-a22b-760621b5921f@65.109.129.120:80?security=tls&headerType=none&type=tcp&sni=fl.configasli.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20589872
