@@ -21,3 +21,6 @@ vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?security=tls&enc
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#EPODONIOS
 vless://980381ac-09a7-43a1-a531-0a379f3b7367@80.90.185.66:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&type=tcp&headerType=none#EPODONIOS
 vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@212.69.86.220:9443?security=reality&encryption=none&pbk=2MnLp2jBmP-bPYRHf3VY3wyGMwIYIAizXCB7UxgYVGc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=estonianode.dostupnet.ru&sid=7c16c340cde3ed39#EPODONIOS
+trojan://CFvS99VcEv82u3XFr36EPbumLPadKXT6@nl.cloudgamings.org:9443?security=tls&allowinsecure=0&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@sw-5.hysteria.ltd:9443?&security=tls&fp=qq&sni=sw-5.hysteria.ltd&type=ws&headerType=none&host=sw-5.hysteria.ltd&path=%2Fws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@sw-5.hysteria.ltd:9443?encryption=none&type=ws&host=sw-5.hysteria.ltd&path=%2Fws&security=tls&fp=qq&sni=sw-5.hysteria.ltd#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD

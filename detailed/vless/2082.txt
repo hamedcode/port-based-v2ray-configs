@@ -13,4 +13,4 @@ vless://5859e7c5-c61a-4d16-b56e-8fc6321ba59a@188.114.96.66:2082?type=ws&encrypti
 vless://78bdce0c-46e3-4cac-84a5-1320569c3790@cdn1.portalcode.ir:2082?encryption=none&security=none&type=httpupgrade&headerType=none&path=/&host=lpoz.worldcups.mom#EPODONIOS
 vless://78bdce0c-46e3-4cac-84a5-1320569c3790@cdn2.portalcode.ir:2082?encryption=none&security=none&type=httpupgrade&headerType=none&path=/&host=fna.worldcups.mom#EPODONIOS
 vless://febc7c0d-1c70-4fb6-9326-51da52efc483@zeus-panel-g75bgi.zeus-1e8zqa.workers.dev:2082?encryption=none&path=/&security=none&type=ws#EPODONIOS
-vless://febc7c0d-1c70-4fb6-9326-51da52efc483@zeus-panel-g75bgi.zeus-1e8zqa.workers.dev:2082?security=none&type=ws&path=%2F&host=zeus-panel-g75bgi.zeus-1e8zqa.workers.dev&sni=zeus-panel-g75bgi.zeus-1e8zqa.workers.dev&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://e11664a1-39e9-4dd8-a432-b712ec423262@104.19.1.100:2082?encryption=none&type=ws&host=tianshu.kevqwkt451.workers.dev&path=%2F%3Fed%3D2560&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
