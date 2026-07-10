@@ -3,3 +3,4 @@ trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&in
 trojan://CFvS99VcEv82u3XFr36EPbumLPadKXT6@nl.cloudgamings.org:9443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-117.55.203.247-0503
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#EPODONIOS
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#EPODONIOS
+trojan://CFvS99VcEv82u3XFr36EPbumLPadKXT6@trojan-tcp-tls-test.hysteria.ltd:9443?security=tls&allowinsecure=0&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
