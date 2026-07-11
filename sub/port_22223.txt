@@ -1,11 +1,9 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.111.185:22223?encryption=none&security=none&type=tcp#[91484] - Telegram : @V2All
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.111.185:22223?encryption=none&security=none&type=tcp#🇫🇷FR-🚀@VPNine1
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22223?encryption=none&security=none&type=tcp#🇫🇷FR-🚀@VPNine1
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22223?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40red2ray%20%233%20%5Bmedium%5D
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22223?encryption=none&security=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22223?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.95.138:22223?encryption=none&security=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.88.158:22223?security=none&encryption=none&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20789664
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.34.17:22223?encryption=none&path=/#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20102429
-trojan://telegram-id-directvpn@13.39.153.213:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20456270
-trojan://telegram-id-directvpn@35.157.167.148:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20722954
-trojan://telegram-id-directvpn@51.102.191.76:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20429517
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22223?encryption=none&security=none&type=tcp#EPODONIOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22223?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.88.158:22223?security=none&encryption=none&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20631997
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.34.17:22223?encryption=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20302425
+trojan://telegram-id-directvpn@35.157.167.148:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20543658
+trojan://telegram-id-directvpn@51.102.191.76:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20101303

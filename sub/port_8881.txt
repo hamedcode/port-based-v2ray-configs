@@ -1,7 +1,3 @@
-vless://f5e6a36c-964b-4171-9202-a1940dd62289@138.124.78.160:8881?encryption=none&security=none&type=tcp&headerType=none#🇫🇷FR-🚀@VPNine1
-vless://f5e6a36c-964b-4171-9202-a1940dd62289@178.236.255.201:8881?encryption=none&security=none&type=tcp&headerType=none#🇳🇱NL-🚀@VPNine1
-vless://f5e6a36c-964b-4171-9202-a1940dd62289@85.192.24.177:8881?encryption=none&security=none&type=tcp&headerType=none#🇩🇪DE-🚀@VPNine1
-vless://f5e6a36c-964b-4171-9202-a1940dd62289@85.192.30.27:8881?encryption=none&security=none&type=tcp&headerType=none#🇷🇺RU-🚀@VPNine1
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@193.108.117.24:8881#%F0%9F%87%A9%F0%9F%87%AADE-193.108.117.24-0098
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.21:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0080
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@172.99.190.87:8881#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.87-0059
@@ -33,9 +29,5 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@172.99.190.61:8881#%F0%9F%87%AC%F0%9F%
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.86.135.36:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7779
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.102:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.102-7856
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.191:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.191-7879
-vless://f5e6a36c-964b-4171-9202-a1940dd62289@138.124.78.160:8881?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-vless://f5e6a36c-964b-4171-9202-a1940dd62289@178.236.255.201:8881?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-vless://f5e6a36c-964b-4171-9202-a1940dd62289@85.192.24.177:8881?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-vless://f5e6a36c-964b-4171-9202-a1940dd62289@85.192.30.27:8881?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@193.108.117.24:8881#EPODONIOS
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.21:8881#EPODONIOS
