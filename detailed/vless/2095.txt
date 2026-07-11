@@ -69,9 +69,8 @@ vless://f2dbb505-c695-4543-9b2f-ceb426b63b48@172.67.222.117:2095?encryption=none
 vless://fd8d03ff-2bc1-4d25-8521-264a64f3b790@zeus-panel-exqnx0.ahmad-7761376.workers.dev:2095?path=/ZEUS_PANEL_BOT&security=none&encryption=none&host=zeus-panel-exqnx0.ahmad-7761376.workers.dev&fp=chrome&type=ws&sni=zeus-panel-exqnx0.ahmad-7761376.workers.dev#EPODONIOS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&host=download.pusytroller.gq&path=%2F&security=none&type=ws#EPODONIOS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.187:2095?encryption=none&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=%2F&security=none&type=ws#EPODONIOS
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?host=download.pusytroller.gq&encryption=none&path=/&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&host=download.pusytroller.gq&path=/&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.187:2095?encryption=none&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&host=download.pusytroller.gq&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.186.184:2095?encryption=none&type=ws&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?security=none&type=ws&path=/&host=cnmfangbinxing-nmsl.cnmfangbinxing-0.workers.dev&packetEncoding=none&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.21.94:2095/?type=ws&encryption=none&flow=&host=cnmfangbinxing-nmsl.cnmfangbinxing-0.workers.dev&path=%2F#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?&fp=randomized&sni=cnmfangbinxing.cnmfangbinxing-s.workers.dev&type=ws&headerType=none&host=cnmfangbinxing.cnmfangbinxing-s.workers.dev&path=%2F#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
@@ -81,8 +80,8 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@openai.com:2095/?type=ws&encryption
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.20.94:2095/?type=ws&encryption=none&flow=&host=cnmfangbinxing-nmsl.cnmfangbinxing-0.workers.dev&path=%2F#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@openai.com:2095?encryption=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxing-1.workers.dev&fp=randomized#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@ns.cloudflare.com:2095?security=none&type=ws&path=%2Ffp%3Drandomized&host=cnmfangbinxing.cnmfangbinxing-s.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.cnmfangbinxing-s.workers.dev#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?encryption=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxing-1.workers.dev&fp=randomized#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?&fp=randomized&sni=cnmfangbinxing.cnmfangbinxing-s.workers.dev&type=ws&headerType=none&host=cnmfangbinxing.cnmfangbinxing-s.workers.dev&path=%2F#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?encryption=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxing-1.workers.dev&fp=randomized#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.66.177:2095?encryption=none&security=none&type=ws&host=cnmfangbinxingnmsl.cnm-fangbinxingnmsl-250.workers.dev&path=%2F#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@ns.cloudflare.com:2095?encryption=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxing-1.workers.dev&fp=randomized#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?&fp=randomized&sni=cnmfangbinxing.cnmfangbinxing-s.workers.dev&type=ws&headerType=none&host=cnmfangbinxing.cnmfangbinxing-s.workers.dev&path=%2F#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
@@ -96,5 +95,7 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?security=none&ty
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cdnjs.com:2095?encryption=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxing-1.workers.dev&fp=randomized#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?encryption=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxing-1.workers.dev&fp=randomized#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&path=%2Ffp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.187:2095?encryption=none&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20474418
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.187:2095?encryption=none&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20536634
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.187:2095?encryption=none&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20300777
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.187:2095?encryption=none&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20325462
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&host=download.pusytroller.gq&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20347364
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&host=download.pusytroller.gq&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20577671

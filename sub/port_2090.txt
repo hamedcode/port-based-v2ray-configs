@@ -33,7 +33,7 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=no
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=fn.fifapes.monster&headerType=http&type=tcp#@V2raySaman
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=fn.fifapes.monster&headerType=http&type=tcp#Tel-@Alpha_V2rayip🐴 1
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&headerType=http&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20VLESS%20%7C%20%40mtproxy22_v2ray%20%231%20%5Bfast%5D
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40mtproxy22_v2ray%20%233%20%5Bfast%5D
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@45.39.255.244:2090?security=none&encryption=none&host=/?&headerType=http&type=tcp#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http&host=/?#EPODONIOS
@@ -45,9 +45,9 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=no
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&headerType=http&type=tcp#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=fn.fifapes.monster&headerType=http&type=tcp#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&headerType=http&security=none&type=tcp#EPODONIOS
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.96.250:2090?encryption=none&headerType=http&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20183701
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.253.74.84:2090?security=none&encryption=none&type=tcp&headerType=http&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20170948
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@109.248.163.190:2090?security=none&encryption=none&type=tcp&headerType=http&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20860640
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@188.130.154.94:2090?security=none&encryption=none&type=tcp&headerType=http&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20103307
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.129:2090?security=none&encryption=none&type=tcp&headerType=http&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20102032
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.196.119:2090?encryption=none&headerType=http&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20571427
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@45.39.255.77:2090?encryption=none&headerType=http&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20858988
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.98.231:2090?encryption=none&headerType=http&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20413716
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.253.74.84:2090?security=none&encryption=none&type=tcp&headerType=http&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20822445
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@109.248.163.190:2090?security=none&encryption=none&type=tcp&headerType=http&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20261495
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@188.130.154.94:2090?security=none&encryption=none&type=tcp&headerType=http&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20287220
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.129:2090?security=none&encryption=none&type=tcp&headerType=http&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20833011
