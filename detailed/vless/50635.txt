@@ -1,0 +1,1 @@
+vless://f73acaea-1bda-41e2-8614-8d9ce865557a@207.57.135.122:50635?encryption=none&flow=xtls-rprx-vision&security=tls&sni=aws.amazon.com&mux=false&packetEncoding=none#qol_50
