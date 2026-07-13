@@ -1,5 +1,6 @@
 vless://4cb9c4f3-2639-4612-bdb3-ae0c8f5d3aac@s4.cnavippanel.com:8090?security=none&encryption=none&host=www.icloud.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.193:8090?path=/ws&security=none&encryption=none&host=rukr.speedload.ru&type=ws#🇳🇱[@OpenVpnUser] vless-NL
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@62.84.98.106:8090?&type=ws&headerType=none&host=rukr.speedload.ru&path=/ws#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.144:8090?encryption=none&security=none&type=ws&host=rukr.speedload.ru&path=/ws#hope of freedom - @anotherme_night
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.30:8090?encryption=none&host=rukr.speedload.ru&path=/ws&security=none&type=ws#🪯36@oneclickvpnkeys
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.220:8090?encryption=none&type=ws&host=rukr.speedload.ru&path=/ws&security=none#%3E%3E%40ISVvpn%3A%3ANL
@@ -7,19 +8,19 @@ vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@109.107.173.97:8090?encryption=none
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.30:8090?encryption=none&host=rukr.speedload.ru&path=%2Fws&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://4cb9c4f3-2639-4612-bdb3-ae0c8f5d3aac@s4.cnavippanel.com:8090?security=none&encryption=none&host=www.icloud.com&headerType=http&type=tcp#EPODONIOS
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.193:8090?path=/ws&security=none&encryption=none&host=rukr.speedload.ru&type=ws#EPODONIOS
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@62.84.98.106:8090?&type=ws&headerType=none&host=rukr.speedload.ru&path=/ws#EPODONIOS
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.144:8090?encryption=none&security=none&type=ws&host=rukr.speedload.ru&path=/ws#EPODONIOS
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.30:8090?encryption=none&host=rukr.speedload.ru&path=/ws&security=none&type=ws#EPODONIOS
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.220:8090?encryption=none&type=ws&host=rukr.speedload.ru&path=/ws&security=none#EPODONIOS
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@109.107.173.97:8090?encryption=none&type=ws&host=rukr.speedload.ru&path=/ws&security=none#EPODONIOS
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.30:8090?encryption=none&host=rukr.speedload.ru&path=%2Fws&security=none&type=ws#EPODONIOS
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.30:8090?&packet-encoding=xudp&type=ws&headerType=none&host=rukr.speedload.ru&path=/ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.220:8090?path=%2Fws&security=none&encryption=none&host=rukr.speedload.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.220:8090?encryption=none&type=ws&host=rukr.speedload.ru&path=/ws&security=none#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@109.107.173.97:8090?encryption=none&type=ws&host=rukr.speedload.ru&path=/ws&security=none#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@109.107.173.97:8090?path=%2Fws&security=none&encryption=none&host=rukr.speedload.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.220:8090?path=/ws&security=none&encryption=none&host=rukr.speedload.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.220:8090?encryption=none&type=ws&host=rukr.speedload.ru&path=/ws&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@62.84.98.106:8090?type=ws&host=rukr.speedload.ru&path=/ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.220:8090?encryption=none&type=ws&host=rukr.speedload.ru&path=/ws&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20783675
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@109.107.173.97:8090?encryption=none&type=ws&host=rukr.speedload.ru&path=/ws&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20587987
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@109.107.173.97:8090?encryption=none&type=ws&host=rukr.speedload.ru&path=/ws&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20670966
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.220:8090?encryption=none&type=ws&host=rukr.speedload.ru&path=/ws&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20700518
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@109.107.173.97:8090?path=/ws&security=none&encryption=none&host=rukr.speedload.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.193:8090?path=/ws&security=none&encryption=none&host=rukr.speedload.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.220:8090?encryption=none&type=ws&host=rukr.speedload.ru&path=/ws&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20816563
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.167.220:8090?encryption=none&type=ws&host=rukr.speedload.ru&path=/ws&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20205258
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@109.107.173.97:8090?encryption=none&type=ws&host=rukr.speedload.ru&path=/ws&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20277913
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.30:8090?encryption=none&host=rukr.speedload.ru&path=%2Fws&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20809535
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@109.107.173.97:8090?encryption=none&type=ws&host=rukr.speedload.ru&path=/ws&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20583166
