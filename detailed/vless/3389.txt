@@ -13,5 +13,3 @@ vless://e6e2eec6-dcd0-4b65-a75b-6945fb827dec@d-e-e.pagess.ir:3389?security=&encr
 vless://e6e2eec6-dcd0-4b65-a75b-6945fb827dec@gb.f6r.ir:3389?security=&encryption=none&host=gb.f6r.ir&headerType=http&type=tcp#EPODONIOS
 vless://e6e2eec6-dcd0-4b65-a75b-6945fb827dec@nlj.maqror.ir:3389?security=&encryption=none&host=nlj.maqror.ir&headerType=http&type=tcp#EPODONIOS
 vless://e6e2eec6-dcd0-4b65-a75b-6945fb827dec@s---w.pagess.ir:3389?security=&encryption=none&host=s---w.pagess.ir&headerType=http&type=tcp#EPODONIOS
-vless://e6e2eec6-dcd0-4b65-a75b-6945fb827dec@172.65.135.149:3389?encryption=none&host=nlj.maqror.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20671806
-vless://e6e2eec6-dcd0-4b65-a75b-6945fb827dec@81.27.106.194:3389?encryption=none&host=s---w.pagess.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20323955

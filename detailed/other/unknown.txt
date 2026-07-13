@@ -7,6 +7,6 @@ vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?encryption=auto
 vmess://eyJhZGQiOiI2OS44NC4xODIuNDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLnp1bGEudXBsYW9kLW11c2ljLmlyLiIsImlkIjoiZjg5NzU4NzEtYTdhMC00OTA2LTg4MzUtYTIzYzEyNThjYTFlIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9#Proxy_Se7en
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?encryption=auto&security=none&type=tcp#1🟢@oneclickvpnkeys
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#🟢95@oneclickvpnkeys
-trojan://8r<[9'l6hAO#8ZQi@64.176.36.61:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-64.176.36.61-6360
+trojan://8r<[9'l6hAO#8ZQi@64.176.36.61:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-64.176.36.61-6304
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
