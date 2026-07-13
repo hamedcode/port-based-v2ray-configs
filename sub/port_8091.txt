@@ -44,6 +44,4 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.14:8091#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.7:8091#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.7-7983
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.58:8091#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.58-7986
 vless://6f2583a1-ec33-491e-a141-3a18e830f2fc@service.erisrtg.ir:8091?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://6f2583a1-ec33-491e-a141-3a18e830f2fc@service.erisrtg.ir:8091?security=none&type=tcp&headerType=&path=&host=#EPODONIOS
-vless://6f2583a1-ec33-491e-a141-3a18e830f2fc@soskeynets.erisrtg.ir:8091?security=none&type=tcp&headerType=&path=&host=#EPODONIOS
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.107.226.146:8091#EPODONIOS

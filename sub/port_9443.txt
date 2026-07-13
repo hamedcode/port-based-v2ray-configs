@@ -2,7 +2,6 @@ trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&insecu
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#@V2raySup0🚀
 vless://18167dd6-2c24-4f6b-a416-64bac693127a@194.55.239.155:9443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=JlV0EIbJqWvCUEgDPULH3VZZ9zzBTufAfXErlddMG2s&sid=e75f556eef8f096f#@configprxy
 vless://18167dd6-2c24-4f6b-a416-64bac693127a@194.55.239.155:9443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=JlV0EIbJqWvCUEgDPULH3VZZ9zzBTufAfXErlddMG2s&sid=e75f556eef8f096f#@meliproxyy
-vless://18167dd6-2c24-4f6b-a416-64bac693127a@194.55.239.155:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=JlV0EIbJqWvCUEgDPULH3VZZ9zzBTufAfXErlddMG2s&sid=e75f556eef8f096f&type=tcp&headerType=none#🔵@chillguy_vpn
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#TEL;Father_vpn
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://980381ac-09a7-43a1-a531-0a379f3b7367@80.90.185.66:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&type=tcp&headerType=none#hope of freedom - @anotherme_night
@@ -10,9 +9,6 @@ trojan://CFvS99VcEv82u3XFr36EPbumLPadKXT6@trojan-tcp-tls-test.hysteria.ltd:9443?
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#EPODONIOS
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#EPODONIOS
 vless://18167dd6-2c24-4f6b-a416-64bac693127a@194.55.239.155:9443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=JlV0EIbJqWvCUEgDPULH3VZZ9zzBTufAfXErlddMG2s&sid=e75f556eef8f096f#EPODONIOS
-vless://18167dd6-2c24-4f6b-a416-64bac693127a@194.55.239.155:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=JlV0EIbJqWvCUEgDPULH3VZZ9zzBTufAfXErlddMG2s&sid=e75f556eef8f096f&type=tcp&headerType=none#EPODONIOS
-vless://18167dd6-2c24-4f6b-a416-64bac693127a@194.55.239.155:9443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=JlV0EIbJqWvCUEgDPULH3VZZ9zzBTufAfXErlddMG2s&sid=e75f556eef8f096f#EPODONIOS
-vless://18167dd6-2c24-4f6b-a416-64bac693127a@194.55.239.155:9443?security=reality&encryption=none&pbk=JlV0EIbJqWvCUEgDPULH3VZZ9zzBTufAfXErlddMG2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e75f556eef8f096f#EPODONIOS
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#EPODONIOS
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#EPODONIOS
 vless://980381ac-09a7-43a1-a531-0a379f3b7367@80.90.185.66:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&type=tcp&headerType=none#EPODONIOS

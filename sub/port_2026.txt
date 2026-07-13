@@ -5,4 +5,3 @@ vless://a218d810-736c-4941-af36-36ab482c2144@95.38.164.158:2026?path=/Tel:@Gap_I
 vless://47d617e3-49e2-45c8-afd7-96267960a726@95.38.164.158:2026?path=/Tel:@Gap_Ip&security=&encryption=none&type=httpupgrade#EPODONIOS
 vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://a218d810-736c-4941-af36-36ab482c2144@95.38.164.158:2026?path=/Tel:@Gap_Ip&security=none&encryption=none&type=httpupgrade#EPODONIOS
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@nate.plytob.ir:2026?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a#EPODONIOS

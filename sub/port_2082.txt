@@ -1,7 +1,6 @@
 vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?path=/path&security=none&encryption=none&host=cdn.linoxa.ir&type=ws#@NetZone_ir
 vless://2d68a0c9-3578-4006-87dd-c3a7ee4c0de1@104.21.28.47:2082?host=cheap.fluxora.ir&security=none&encryption=none&mode=auto&path=/cheap-cf-xhttp?ed=2048&type=xhttp#v2ray_configs_pools
 vless://5859e7c5-c61a-4d16-b56e-8fc6321ba59a@188.114.96.66:2082?type=ws&encryption=none&path=/@FreeOnlineVPN?ed=1024&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&security=none&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
-vless://5da0ef6a-eb08-4a7c-a982-b68d3a04b0a8@run.gigicalla.ir:2082?encryption=none&security=none&type=tcp#🇳🇱109539 | ⚡️Telegram = t.me/SOSkeyNET
 vless://5da0ef6a-eb08-4a7c-a982-b68d3a04b0a8@run.gigicalla.ir:2082?encryption=none&security=none&type=tcp#🎡66@oneclickvpnkeys
 vless://5da0ef6a-eb08-4a7c-a982-b68d3a04b0a8@run.gigicalla.ir:2082?encryption=none&security=none&type=tcp#🎡66@v2ray_configs_pools
 vmess://eyJhZGQiOiAiMTA0LjE2LjY4LjM4IiwgImFpZCI6IDAsICJob3N0IjogInNub3d5LXJpdmVyLWY0OTcudHVya2V5cy1yYWRmb3JkLndvcmtlcnMuZGV2IiwgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZ2x3ZWlkZi5zYnMvbGlua3dzIiwgInBvcnQiOiAyMDgyLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
@@ -27,7 +26,5 @@ vmess://ewogICAgImFkZCI6ICIxMDQuMjQuMjA2LjExNSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?path=/path&security=none&encryption=none&host=cdn.linoxa.ir&type=ws#EPODONIOS
 vless://2d68a0c9-3578-4006-87dd-c3a7ee4c0de1@104.21.28.47:2082?host=cheap.fluxora.ir&security=none&encryption=none&mode=auto&path=/cheap-cf-xhttp?ed=2048&type=xhttp#EPODONIOS
 vless://5859e7c5-c61a-4d16-b56e-8fc6321ba59a@188.114.96.66:2082?type=ws&encryption=none&path=/@FreeOnlineVPN?ed=1024&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&security=none&note=@FreeOnlineVPN#EPODONIOS
-vless://5da0ef6a-eb08-4a7c-a982-b68d3a04b0a8@run.gigicalla.ir:2082/?type=tcp&encryption=none&flow=#EPODONIOS
 vless://5da0ef6a-eb08-4a7c-a982-b68d3a04b0a8@run.gigicalla.ir:2082?encryption=none&security=none&type=tcp#EPODONIOS
-vless://6f6f6eb7-eab8-4033-b0ac-0316aa7c1612@voidlatency-ahmi11.void-rl0mr5.workers.dev:2082?path=/&security=none&encryption=none&insecure=0&host=voidlatency-ahmi11.void-rl0mr5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=voidlatency-ahmi11.void-rl0mr5.workers.dev#EPODONIOS
 vmess://eyJhZGQiOiAiMTA0LjE2LjY4LjM4IiwgImFpZCI6IDAsICJob3N0IjogInNub3d5LXJpdmVyLWY0OTcudHVya2V5cy1yYWRmb3JkLndvcmtlcnMuZGV2IiwgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZ2x3ZWlkZi5zYnMvbGlua3dzIiwgInBvcnQiOiAyMDgyLCAicHMiOiAiRVBPRE9OSU9TIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
