@@ -59,7 +59,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.108.90:22223?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.108.90:22223?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.108.90:22223?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.108.111:22223?security=&encryption=none&headerType=&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20392342
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.240.8:22223?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20731083
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22223#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20595045
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22223?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20387504

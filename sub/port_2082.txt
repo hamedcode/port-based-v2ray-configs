@@ -29,3 +29,4 @@ vless://5859e7c5-c61a-4d16-b56e-8fc6321ba59a@188.114.96.66:2082?type=ws&encrypti
 vless://5da0ef6a-eb08-4a7c-a982-b68d3a04b0a8@run.gigicalla.ir:2082?encryption=none&security=none&type=tcp#EPODONIOS
 vmess://eyJhZGQiOiAiMTA0LjE2LjY4LjM4IiwgImFpZCI6IDAsICJob3N0IjogInNub3d5LXJpdmVyLWY0OTcudHVya2V5cy1yYWRmb3JkLndvcmtlcnMuZGV2IiwgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZ2x3ZWlkZi5zYnMvbGlua3dzIiwgInBvcnQiOiAyMDgyLCAicHMiOiAiRVBPRE9OSU9TIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 vless://5da0ef6a-eb08-4a7c-a982-b68d3a04b0a8@run.gigicalla.ir:2082?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://e11664a1-39e9-4dd8-a432-b712ec423262@104.19.1.100:2082?encryption=none&type=ws&host=tianshu.kevqwkt451.workers.dev&path=%2F%3Fed%3D2560&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
