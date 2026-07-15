@@ -1,3 +1,2 @@
 vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@65.109.245.160:8441?security=none&encryption=none&host=10.30.89.17&headerType=http&type=tcp#Channel : @Daily_Configs
-vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@65.109.245.160:8441?security=&encryption=none&host=10.30.89.17&headerType=http&type=tcp#EPODONIOS
 vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@65.109.245.160:8441?security=none&encryption=none&host=10.30.89.17&headerType=http&type=tcp#EPODONIOS
