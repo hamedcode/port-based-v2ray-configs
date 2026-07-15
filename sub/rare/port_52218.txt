@@ -1,0 +1,2 @@
+vless://de206da0-2cf1-47aa-b41d-2a0138b0f98c@ap.whome.life:52218?security=tls&type=ws&path=%2Fappt&alpn=http%2F1.1&allowInsecure=1&sni=ap.whome.life&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://de206da0-2cf1-47aa-b41d-2a0138b0f98c@ap.whome.life:52218?encryption=none&type=ws&path=%2Fappt&security=tls&fp=chrome&sni=ap.whome.life#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
