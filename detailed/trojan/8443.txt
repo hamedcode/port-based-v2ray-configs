@@ -28,3 +28,5 @@ trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=s
 trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#EPODONIOS
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#EPODONIOS
 trojan://MITIVPN@104.18.45.104:8443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=DD-E&security=tls&alpn=h2,http/1.1&insecure=1&host=De1-uv-3.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=de-o-po.aPp-cLoud.IR#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://fe7a63ba-fe21-4f22-87b4-ce4021f18b66@104.17.209.42:8443?security=tls&sni=nova-river-vault-be97.nova-a0cc78.workers.dev&fp=chrome&type=ws&host=nova-river-vault-be97.nova-a0cc78.workers.dev&path=/?u=SubUser#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20284672
+trojan://fe7a63ba-fe21-4f22-87b4-ce4021f18b66@172.66.1.178:8443?security=tls&sni=nova-river-vault-be97.nova-a0cc78.workers.dev&fp=chrome&type=ws&host=nova-river-vault-be97.nova-a0cc78.workers.dev&path=/?u=SubUser#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20910477

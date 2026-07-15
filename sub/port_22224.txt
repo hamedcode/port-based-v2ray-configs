@@ -37,10 +37,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.9.102:22224?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22224?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.9.102:22224?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22224?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.179.29.71:22224?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.9.102:22224?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.9.102:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20219662
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.9.102:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20574855
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20715250
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20462702
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.46.17:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20964015
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.46.17:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20498696
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.9.102:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20932493
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20723054
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.9.102:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20446920
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20665509
