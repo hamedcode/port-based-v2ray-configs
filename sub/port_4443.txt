@@ -1,8 +1,5 @@
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?encryption=none&security=none&type=grpc#%F0%9F%9F%A224@v2ray_configs_pools
 vless://0537e5d5-8d2f-4f82-b660-ebf94062f67e@2.26.87.101:4443?encryption=none&security=reality&sni=eh.vk.com&fp=chrome&pbk=cPnEvtfmLBeYzbYYklKblkllFRzRzCd0KgFM-19fSDM&sid=c9&type=tcp&headerType=none#%5B393ms%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20FI%20%F0%9F%87%AB%F0%9F%87%AE%20%40vlesstrojan%5D%20t.me%2Frjsxrd
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?encryption=none&security=none&type=grpc#EPODONIOS
-trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=safari#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
-trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.131.194:4443?encryption=none&security=none&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20901967
-vless://79c0b5fc-a2c4-47bf-a32d-52b478f90c7b@176.109.85.77:4443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=muzgrape.space&pbk=5M0khPdwiXYhayuP4i76J1am-q85Sno7vGnqEnZ1ngI&sid=ccaa#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20754841
+vless://049d043a-f580-4c67-a0d8-826db45ac9a6@176.109.85.77:4443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=muzgrape.space&pbk=5M0khPdwiXYhayuP4i76J1am-q85Sno7vGnqEnZ1ngI&sid=ccaa#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20894323
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?encryption=none&security=none&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20801772

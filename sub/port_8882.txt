@@ -39,5 +39,5 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.93.62:8882?security=none&encr
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp#EPODONIOS
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.93.195:8882?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20271254
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.176.174:8882?encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20108593
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.113.24:8882?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20307792
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.26.117:8882?encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20498046
