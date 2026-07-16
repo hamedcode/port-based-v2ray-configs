@@ -4,11 +4,9 @@ vless://d4aad26f-70b6-4411-8517-17f7b4281886@tn.tmn141246.ru:2200?path=%2Fv1&sec
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#EPODONIOS
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@tn.tmn141246.ru:2200?path=/v1&security=&encryption=none&host=rzd.ru&type=ws&sni=tn.tmn141246.ru#EPODONIOS
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@tn.tmn141246.ru:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws&sni=tn.tmn141246.ru#EPODONIOS
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@tn.tmn141246.ru:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws&sni=tn.tmn141246.ru#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@tn.tmn141246.ru:2200?encryption=none&type=ws&host=rzd.ru&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@tn.tmn141246.ru:2200?encryption=none&type=ws&host=rzd.ru&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?encryption=none&type=ws&host=rzd.ru&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@89.127.217.127:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20400268
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.101:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20349366
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=/v1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20989351
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@130.17.2.27:2200?path=/v1&encryption=none&host=rzd.ru&type=ws&sni=tn.tmn141246.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20266079
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@217.177.74.196:2200?path=/v1&encryption=none&host=rzd.ru&type=ws&sni=tn.tmn141246.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20412362
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=/v1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20168697
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.101:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20495757
