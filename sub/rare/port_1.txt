@@ -1,3 +1,2 @@
 vless://8c1d69b6-4980-41b4-bd55-44e186897a87@5.35.18.193:1?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²¹²
-vless://50414e45-4c5f-5a45-5553-6108e4344f1d@0.0.0.0:1?encryption=none&security=none&type=ws&host=zeus-panel-c1icwu.zeus-4k9nf1.workers.dev&path=/stream/PANEL_ZEUS/50414e45#EPODONIOS
 vless://8c1d69b6-4980-41b4-bd55-44e186897a87@5.35.18.193:1?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
