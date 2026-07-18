@@ -3,3 +3,9 @@ trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome&sni=
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-146.70.90.197-5932
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1#EPODONIOS
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome&sni=www.vk.com#EPODONIOS
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20721829
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20138651
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?sni=146.70.90.198&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20743898
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls&sni=146.70.90.197&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20577393
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20981391
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20836861
