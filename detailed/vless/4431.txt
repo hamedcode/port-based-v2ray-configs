@@ -1,3 +1,4 @@
 vless://146b1fe6-92f9-47cf-9fd4-f8fa1fa9feb7@178.83.45.51:4431?security=reality&encryption=none&pbk=oLuqJsj4z6m_kns9ETrsIPA8fDrysonWXEsmn3931kY&headerType=&fp=chrome&spx=/18728e40fcda084&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=1e#mxgrid-join(@mxgrid)free
 vless://765e6bb1-72b4-460a-a5aa-0277d75b1b07@116.202.3.108:4431?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Germany¹
 vless://146b1fe6-92f9-47cf-9fd4-f8fa1fa9feb7@178.83.45.51:4431?security=reality&encryption=none&pbk=oLuqJsj4z6m_kns9ETrsIPA8fDrysonWXEsmn3931kY&headerType=&fp=chrome&spx=/18728e40fcda084&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=1e#EPODONIOS
+vless://765e6bb1-72b4-460a-a5aa-0277d75b1b07@116.202.3.108:4431?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
