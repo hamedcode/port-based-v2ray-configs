@@ -26,3 +26,4 @@ vless://01675f3b-e863-44ba-bd69-d0509aaf067c@sv9.nonpath.ir:42542?encryption=non
 vless://07a406e8-eb18-4cee-b843-74a9f8dada72@dubai.lunaparkmaku.com:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://4f5a379d-45e5-49e3-9f0e-d1303ddc9628@sv3.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://4f5a379d-45e5-49e3-9f0e-d1303ddc9628@sv3.nonpath.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+vless://254551f6-ec28-4938-ad0e-0aa4aa1965ec@96.47.230.145:42542?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode

@@ -23,9 +23,9 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=no
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=fn.fifapes.monster&headerType=http&type=tcp#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#EPODONIOS
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.236.225:2090?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20342215
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@45.38.228.154:2090?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20744012
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.205.195:2090?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20949954
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.64.65:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20819618
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.116.76:2090?encryption=none&host=fn.fifapes.monster&headerType=none&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20586650
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.225.88:2090?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20839150
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.204.209:2090?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20495116
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@217.145.79.21:2090?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20747921
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.109.139:2090?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20184780
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@45.39.255.4:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20993751
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.26.132:2090?encryption=none&host=fn.fifapes.monster&headerType=none&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20821971
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.62.190:2090?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20181681
