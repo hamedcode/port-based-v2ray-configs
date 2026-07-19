@@ -1,2 +1,0 @@
-vless://4610f6e6-d5da-409c-85da-dee776f47dc3@31.76.42.85:36543?encryption=none&security=reality&sni=s0.awsstatic.com&fp=firefox&pbk=KpyAa1bjLovihLAXa5o1nkPf3NLKlj64R88YatNL6gI&sid=b34f41089f1e&type=grpc&authority=&serviceName=custom_grpc_service&mode=gun#qoli_012
-vless://4610f6e6-d5da-409c-85da-dee776f47dc3@31.76.42.85:36543?encryption=none&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=KpyAa1bjLovihLAXa5o1nkPf3NLKlj64R88YatNL6gI&sid=b34f41089f1e&type=grpc&authority=&serviceName=custom_grpc_service&mode=gun#qoli_025
