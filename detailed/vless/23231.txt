@@ -1,4 +1,2 @@
 vless://d67f37da-8a7d-416e-a386-ea0a82317257@45.63.116.184:23231?encryption=none&security=none&type=tcp&headerType=none#@Ap_Ir6
-vless://d67f37da-8a7d-416e-a386-ea0a82317257@45.63.116.184:23231?security=none&encryption=none&headerType=none&type=tcp#@hex_proxy ³
 vless://d67f37da-8a7d-416e-a386-ea0a82317257@45.63.116.184:23231?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-vless://d67f37da-8a7d-416e-a386-ea0a82317257@45.63.116.184:23231?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS

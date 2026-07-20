@@ -1,4 +1,0 @@
-trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none&fp=edge#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
-trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none&fp=firefox#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
-trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=flb06181447.tmdsb.org&fp=firefox#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
-trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=flb06181447.tmdsb.org&fp=qq#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
