@@ -10,5 +10,5 @@ vless://c572947f-c5b6-4bd4-bc3f-018cfe7a4f23@46.62.240.221:2081/?encryption=none
 vless://c572947f-c5b6-4bd4-bc3f-018cfe7a4f23@46.62.240.221:2081?encryption=none&headerType=http&host=divarcdn.com&security=none&type=tcp#EPODONIOS
 vless://c572947f-c5b6-4bd4-bc3f-018cfe7a4f23@46.62.240.221:2081?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#EPODONIOS
 vless://c572947f-c5b6-4bd4-bc3f-018cfe7a4f23@46.62.240.221:2081?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#EPODONIOS
-vless://c572947f-c5b6-4bd4-bc3f-018cfe7a4f23@46.62.240.221:2081?encryption=none&headerType=http&host=divarcdn.com&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20411893
-vless://c572947f-c5b6-4bd4-bc3f-018cfe7a4f23@46.62.240.221:2081?encryption=none&headerType=http&host=divarcdn.com&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20614127
+vless://c572947f-c5b6-4bd4-bc3f-018cfe7a4f23@46.62.240.221:2081?encryption=none&headerType=http&host=divarcdn.com&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20307329
+vless://c572947f-c5b6-4bd4-bc3f-018cfe7a4f23@46.62.240.221:2081?encryption=none&headerType=http&host=divarcdn.com&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20178063
