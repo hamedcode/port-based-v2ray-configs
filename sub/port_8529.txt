@@ -7,6 +7,6 @@ vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@panel.podcastico.ir:8529?security=&
 vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@panel.podcastico.ir:8529?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@panel.podcastico.ir:8529?security=&type=tcp&headerType=http&host=play.google.com&encryption=none#EPODONIOS
 vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@panel.podcastico.ir:8529?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@5.75.193.5:8529?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20273065
-vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@5.75.193.5:8529?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20425394
-vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@5.75.193.5:8529?encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20240263
+vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@5.75.193.5:8529?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20672791
+vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@5.75.193.5:8529?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20819388
+vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@5.75.193.5:8529?encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20921002

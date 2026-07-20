@@ -1,0 +1,4 @@
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@176.109.85.48:14443?encryption=none&type=ws&security=tls&path=/&fp=chrome&sni=media.kinodrozd.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20384411
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@176.109.85.48:14443?encryption=none&type=ws&security=tls&path=/&fp=firefox&sni=media.kinodrozd.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20729769
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@176.109.85.48:14443?encryption=none&type=ws&security=tls&path=/&fp=ios&sni=media.kinodrozd.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20312474
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@176.109.85.48:14443?encryption=none&type=ws&security=tls&path=/&fp=safari&sni=media.kinodrozd.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20512909

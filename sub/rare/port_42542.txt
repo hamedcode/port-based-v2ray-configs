@@ -1,4 +1,4 @@
 vless://4f5a379d-45e5-49e3-9f0e-d1303ddc9628@sv3.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs : کانال تلگرام
-vless://4f5a379d-45e5-49e3-9f0e-d1303ddc9628@sv3.nonpath.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@configprxy
+vless://e9bef83e-0b41-4c60-b1bf-fab9821472d1@sv7.nonpath.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@vmesskhodam
 vless://4f5a379d-45e5-49e3-9f0e-d1303ddc9628@sv3.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
-vless://4f5a379d-45e5-49e3-9f0e-d1303ddc9628@sv3.nonpath.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+vless://e9bef83e-0b41-4c60-b1bf-fab9821472d1@sv7.nonpath.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
