@@ -1,5 +1,6 @@
-trojan://3632736327@43.164.129.171:1622?security=tls&sni=kr04231525.tmdsb.org&fp=edge&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20601586
-trojan://3632736327@43.164.129.171:1622?security=tls&sni=kr04231525.tmdsb.org&fp=qq&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20987370
-trojan://3632736327@43.164.129.171:1622?security=tls&sni=kr04231525.tmdsb.org&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20291007
-trojan://3632736327@43.164.129.171:1622?security=tls&sni=kr04231525.tmdsb.org&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20491193
-trojan://3632736327@43.164.129.171:1622?sni=kr04231525.tmdsb.org&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20578310
+trojan://3632736327@kr04231525.tmdsb.org:1622?sni=kr04231525.tmdsb.org&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://3632736327@43.164.129.171:1622?security=tls&sni=kr04231525.tmdsb.org&fp=edge&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20741105
+trojan://3632736327@43.164.129.171:1622?security=tls&sni=kr04231525.tmdsb.org&fp=qq&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20935289
+trojan://3632736327@43.164.129.171:1622?security=tls&sni=kr04231525.tmdsb.org&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20173022
+trojan://3632736327@43.164.129.171:1622?security=tls&sni=kr04231525.tmdsb.org&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20754719
+trojan://3632736327@43.164.129.171:1622?sni=kr04231525.tmdsb.org&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20178241
