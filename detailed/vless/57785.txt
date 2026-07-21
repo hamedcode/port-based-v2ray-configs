@@ -7,8 +7,6 @@ vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@209.250.238.60:57785?encryption=non
 vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@209.250.238.60:57785?encryption=none&security=none&type=tcp&headerType=none#@Ap_Ir6
 vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@209.250.238.60:57785?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@209.250.238.60:57785?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
-vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@209.250.238.60:57785?security=none&encryption=none&type=tcp&headerType=none#@Alpha_v2rayIP
-vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@209.250.238.60:57785?security=none&encryption=none&type=tcp&headerType=none#@Napsternetvirani
 vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@108.61.210.223:57785?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@108.61.210.223:57785?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@136.244.95.190:57785?encryption=none&security=none&type=tcp#EPODONIOS
@@ -16,4 +14,3 @@ vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@136.244.95.190:57785?encryption=non
 vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@136.244.95.190:57785?encryption=none&type=tcp#EPODONIOS
 vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@209.250.238.60:57785?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@209.250.238.60:57785?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@209.250.238.60:57785?security=none&encryption=none&type=tcp&headerType=none#EPODONIOS

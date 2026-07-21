@@ -1,7 +1,6 @@
 vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@panel.podcastico.ir:8529?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray
 vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@panel.podcastico.ir:8529?security=&type=tcp&headerType=http&host=play.google.com&encryption=none#@M4DVPN
 vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@panel.podcastico.ir:8529?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray
-vless://218fccd0-04b7-4fc6-bc6e-65e38daf49ed@art-game2.igatel.com:8529?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://218fccd0-04b7-4fc6-bc6e-65e38daf49ed@art-game2.igatel.com:8529?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Channel : @Daily_Configs
 vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@panel.podcastico.ir:8529?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@panel.podcastico.ir:8529?security=&type=tcp&headerType=http&host=play.google.com&encryption=none#EPODONIOS

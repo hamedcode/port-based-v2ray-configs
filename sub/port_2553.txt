@@ -8,5 +8,5 @@ vless://d8b42cd5-a149-4356-9e61-000000000000@82.109.242.198:2553?security=&encry
 vless://d8b42cd5-a149-4356-9e61-000000000000@82.109.242.198:2553?encryption=none&security=none&headerType=none&type=tcp#EPODONIOS
 vless://d8b42cd5-a149-4356-9e61-000000000000@82.109.242.198:2553?headerType=none&encryption=none&type=tcp&security=none#EPODONIOS
 vless://d8b42cd5-a149-4356-9e61-000000000000@82.109.242.198:2553?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://d8b42cd5-a149-4356-9e61-000000000000@82.109.242.198:2553?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20214099
-vless://d8b42cd5-a149-4356-9e61-000000000000@82.109.242.198:2553?encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20399947
+vless://d8b42cd5-a149-4356-9e61-000000000000@82.109.242.198:2553?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20500725
+vless://d8b42cd5-a149-4356-9e61-000000000000@82.109.242.198:2553?encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20111404
