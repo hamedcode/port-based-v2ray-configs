@@ -1,17 +1,12 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWE1zb3lnZzh0Y1RTWVNiVHI2dHRB@192.248.180.96:1080#Proxy_mtm
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.249.220:1080#@icv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.249.220:1080?#@AzarAndoozVPNbot
 ss://bm9uZTphY2FiYmNhLWJhYWMtY2FhYi1hZGNiLWFhYWNiY2NjYmJiYQ==@127.0.0.1:1080#@v2ray_configs_pools
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs :‌ کانال تلگرام
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?encryption=none&type=tcp&headerType=http&host=play.google.com#[1037] - Telegram : @V2All
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Channel id: @configprxy
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🟥اگه قطع شدی بیا اینجا: 💜Telegram: PeekConfig🚀💜🟥🟥
 vless://50414e45-4c5f-5a45-5553-13fe7db46a3e@zeus-panel-rdil7t.zeus-qm5lw3.workers.dev:1080?path=/stream/PANEL_ZEUS/50414e45&security=none&encryption=none&insecure=0&host=zeus-panel-rdil7t.zeus-qm5lw3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-rdil7t.zeus-qm5lw3.workers.dev#🌐 | TELEGRAMPeekConfig | ‎zeus-panel-rdil7t.zeus-qm5lw3.workers.dev | ‎1080
-vless://50414e45-4c5f-5a45-5553-3f36b669c910@zeus-panel-6i0xlg.zeus-9d6tjn.workers.dev:1080?path=/stream/PANEL_ZEUS/50414e45&security=none&encryption=none&insecure=0&host=zeus-panel-6i0xlg.zeus-9d6tjn.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-6i0xlg.zeus-9d6tjn.workers.dev#🌐 | TelegramPeekConfig | ‎zeus-panel-6i0xlg.zeus-9d6tjn.workers.dev | ‎1080
 vless://aabccba-abca-acba-adcb-acacbabcbcab@127.0.0.1:1080?security=tls&type=tcp#@v2ray_configs_pools-join-us-on-Telegram
-vless://bcabcaa-bcaa-acab-dabc-acabaaccbcbb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-vless://bccaaab-aacb-cbaa-adcb-babacaabcccb@127.0.0.1:1080?security=tls&type=tcp#@v2ray_configs_pools-join-us-on-Telegram
 vless://f2f723f5-b97d-4414-997c-d2925013af28@95.181.167.157:1080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=Bp5PnujrPK50eE_28vIWSyBjdIPLXCLGYPjRKx0pqgI&sid=845ac2739143b71d&type=tcp&headerType=none#🇫🇮FI_3754_@Surfboardv2ray
 vless://f7673cd7-f025-47dc-9251-46779643923e@subb.biscuitnazari.ir:1080?path=/asdw&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.eFSv0C7vFzdUHJpbdMSr75oVPmm_Hm0qRRyw0byjuio&insecure=0&host=md.biscuitnazari.ir&fp=chrome&type=ws&allowInsecure=0&sni=md.biscuitnazari.ir#@mtmvpn
 vmess://ewogICAgImFkZCI6ICJjbC5ub3J0aGJvb2t3YXkuc2hvcCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInN1Yi56aXJvbG9zdC5zYnMiLAogICAgImlkIjogIjVjMjFiMmNiLTlhZWUtNGQ4Mi04MGFjLWI2Nzc5ZTZiZmVjOSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcGkiLAogICAgInBvcnQiOiAxMDgwLAogICAgInBzIjogIvCfh67wn4e3SVItODcuMTA3LjEwOC4yMzUtMDY2MyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -21,7 +16,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.249.22
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.249.220:1080?#EPODONIOS
 ss://bm9uZTphY2FiYmNhLWJhYWMtY2FhYi1hZGNiLWFhYWNiY2NjYmJiYQ==@127.0.0.1:1080#EPODONIOS
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://50414e45-4c5f-5a45-5553-13fe7db46a3e@zeus-panel-rdil7t.zeus-qm5lw3.workers.dev:1080?path=/stream/PANEL_ZEUS/50414e45&security=none&encryption=none&insecure=0&host=zeus-panel-rdil7t.zeus-qm5lw3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-rdil7t.zeus-qm5lw3.workers.dev#EPODONIOS
@@ -31,6 +25,5 @@ vless://bcabcaa-bcaa-acab-dabc-acabaaccbcbb@127.0.0.1:1080?security=tls&type=tcp
 vless://bccaaab-aacb-cbaa-adcb-babacaabcccb@127.0.0.1:1080?security=tls&type=tcp#EPODONIOS
 vless://f2f723f5-b97d-4414-997c-d2925013af28@95.181.167.157:1080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=Bp5PnujrPK50eE_28vIWSyBjdIPLXCLGYPjRKx0pqgI&sid=845ac2739143b71d&type=tcp&headerType=none#EPODONIOS
 vless://f7673cd7-f025-47dc-9251-46779643923e@subb.biscuitnazari.ir:1080?path=/asdw&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.eFSv0C7vFzdUHJpbdMSr75oVPmm_Hm0qRRyw0byjuio&insecure=0&host=md.biscuitnazari.ir&fp=chrome&type=ws&allowInsecure=0&sni=md.biscuitnazari.ir#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.251.2:1080#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AA
-trojan://aacbacb-baac-caab-cdba-caccbabaabbc@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20718041
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@188.132.174.61:1080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20112000
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWE1zb3lnZzh0Y1RTWVNiVHI2dHRB@192.248.180.96:1080#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://aacbacb-baac-caab-cdba-caccbabaabbc@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20805910

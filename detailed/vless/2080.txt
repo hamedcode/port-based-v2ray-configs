@@ -1,2 +1,3 @@
 vless://e21db7f3-b00e-40a9-955f-28f7517c113d@217.18.94.23:2080?encryption=none&security=tls&type=tcp&headerType=none&host=g18.vcommunity.ir&sni=g18.vcommunity.ir&fp=chrome&alpn=http/1.1#🇮🇷IR-🚀@VPNine1
+vless://e21db7f3-b00e-40a9-955f-28f7517c113d@217.18.94.23:2080?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=g18.vcommunity.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=g18.vcommunity.ir#@vmess_ir
 vless://e21db7f3-b00e-40a9-955f-28f7517c113d@217.18.94.23:2080?encryption=none&security=tls&type=tcp&headerType=none&host=g18.vcommunity.ir&sni=g18.vcommunity.ir&fp=chrome&alpn=http/1.1#EPODONIOS
