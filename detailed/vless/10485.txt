@@ -6,18 +6,14 @@ vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?security=&encr
 vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?security=none&encryption=none&headerType=none&type=tcp#@vmess_ir
 vless://bf973a3b-b285-4369-8c01-1f1e50024a38@65.109.219.124:10485?security=&encryption=none&headerType=none&type=tcp#Channel id: @ShadowProxy66 🇫🇮
 vless://bf973a3b-b285-4369-8c01-1f1e50024a38@65.109.219.124:10485?security=&encryption=none&headerType=none&type=tcp#Channel id: @irconfiig 🇫🇮
-vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://bf973a3b-b285-4369-8c01-1f1e50024a38@65.109.219.124:10485?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40shadowproxy66%3A%3AFI
-vless://d86dbade-5267-4b20-8d1f-c14868de6b43@65.109.219.124:10485?security=&encryption=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
 vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?encryption=none&security=none&type=tcp#EPODONIOS
 vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://bf973a3b-b285-4369-8c01-1f1e50024a38@65.109.219.124:10485?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://d86dbade-5267-4b20-8d1f-c14868de6b43@65.109.219.124:10485?security=&encryption=none&headerType=&type=tcp#EPODONIOS
-vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20591096
-vless://bf973a3b-b285-4369-8c01-1f1e50024a38@65.109.219.124:10485?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20956707
-vless://d86dbade-5267-4b20-8d1f-c14868de6b43@65.109.219.124:10485?security=&encryption=none&headerType=&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20509628
-vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20988291
-vless://bf973a3b-b285-4369-8c01-1f1e50024a38@65.109.219.124:10485?encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20661097
-vless://d86dbade-5267-4b20-8d1f-c14868de6b43@65.109.219.124:10485?encryption=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20631874
+vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20399482
+vless://bf973a3b-b285-4369-8c01-1f1e50024a38@65.109.219.124:10485?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20829700
+vless://d86dbade-5267-4b20-8d1f-c14868de6b43@65.109.219.124:10485?security=&encryption=none&headerType=&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20183833
+vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20276074
+vless://bf973a3b-b285-4369-8c01-1f1e50024a38@65.109.219.124:10485?encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20240314
+vless://d86dbade-5267-4b20-8d1f-c14868de6b43@65.109.219.124:10485?encryption=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20487815

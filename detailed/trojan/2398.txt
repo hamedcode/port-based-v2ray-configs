@@ -1,8 +1,6 @@
-trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org&fp=firefox&path=%2f#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&fp=edge&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none&path=%2F&fp=firefox#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none&path=%2F&fp=ios#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none&path=%2F&fp=qq#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org&path=%2F&fp=firefox#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org&path=%2F&fp=ios#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org&path=%2F&fp=qq#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org&fp=firefox&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
+trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&fp=edge&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
+trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org&path=%2F&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
+trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org&path=%2F&fp=qq#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
+trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&path=%2F&fp=edge#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
+trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&path=%2F&fp=qq#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
