@@ -1,2 +1,0 @@
-trojan://f653ef08c54e21b3@13.114.31.41:3306?path=/gateway/connect&security=tls&host=TG.WangCai_1&type=ws&sni=TG.WangCai2#@v2ray_configs_pools-join-us-on-Telegram
-trojan://f653ef08c54e21b3@13.114.31.41:3306?path=/gateway/connect&security=tls&host=TG.WangCai_1&type=ws&sni=TG.WangCai2#EPODONIOS
