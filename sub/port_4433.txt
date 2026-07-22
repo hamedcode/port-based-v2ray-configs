@@ -1,8 +1,6 @@
-vless://0d5b3302-2429-45b4-b481-dc9e74b8635f@tr.farnooshjewelry.ir:4433?fp=chrome&pbk=b__oMmp81VIpsISs4A-OD2No9sI21yC8kvvbUAaw4AE&spx=/&security=reality&type=tcp&encryption=none&headerType=none&sni=www.cloudflare.com&sid=4fc7#@Napsternetvirani
-vless://0d5b3302-2429-45b4-b481-dc9e74b8635f@tr.farnooshjewelry.ir:4433?sid=4fc7&encryption=none&headerType=none&sni=www.cloudflare.com&spx=/&security=reality&pbk=b__oMmp81VIpsISs4A-OD2No9sI21yC8kvvbUAaw4AE&type=tcp&fp=chrome#@Alpha_v2rayIP
 vless://8a18b7b1-de0b-4d9d-88cb-cef4350402ac@tr.farnooshjewelry.ir:4433?security=reality&encryption=none&pbk=b__oMmp81VIpsISs4A-OD2No9sI21yC8kvvbUAaw4AE&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=4fc7#Proxy_mtm
 vless://00000000-0000-4000-8000-000000000000@84.247.129.205:4433?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40mpproxy%20%231%20%5Bfast%5D
 vless://0d5b3302-2429-45b4-b481-dc9e74b8635f@tr.farnooshjewelry.ir:4433?fp=chrome&pbk=b__oMmp81VIpsISs4A-OD2No9sI21yC8kvvbUAaw4AE&spx=/&security=reality&type=tcp&encryption=none&headerType=none&sni=www.cloudflare.com&sid=4fc7#EPODONIOS
 vless://0d5b3302-2429-45b4-b481-dc9e74b8635f@tr.farnooshjewelry.ir:4433?sid=4fc7&encryption=none&headerType=none&sni=www.cloudflare.com&spx=/&security=reality&pbk=b__oMmp81VIpsISs4A-OD2No9sI21yC8kvvbUAaw4AE&type=tcp&fp=chrome#EPODONIOS
 vless://8a18b7b1-de0b-4d9d-88cb-cef4350402ac@tr.farnooshjewelry.ir:4433?security=reality&encryption=none&pbk=b__oMmp81VIpsISs4A-OD2No9sI21yC8kvvbUAaw4AE&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=4fc7#EPODONIOS
-trojan://t1k5znTjT8@212.227.98.235:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=/trojan#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20964592
+trojan://t1k5znTjT8@212.227.98.235:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=/trojan#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20836965

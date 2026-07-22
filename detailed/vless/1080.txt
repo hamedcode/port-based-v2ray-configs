@@ -19,4 +19,4 @@ vless://50414e45-4c5f-5a45-5553-3f36b669c910@zeus-panel-6i0xlg.zeus-9d6tjn.worke
 vless://bccaaab-aacb-cbaa-adcb-babacaabcccb@127.0.0.1:1080?security=tls&type=tcp#EPODONIOS
 vless://f2f723f5-b97d-4414-997c-d2925013af28@95.181.167.157:1080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=Bp5PnujrPK50eE_28vIWSyBjdIPLXCLGYPjRKx0pqgI&sid=845ac2739143b71d&type=tcp&headerType=none#EPODONIOS
 vless://f7673cd7-f025-47dc-9251-46779643923e@subb.biscuitnazari.ir:1080?path=/asdw&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.eFSv0C7vFzdUHJpbdMSr75oVPmm_Hm0qRRyw0byjuio&insecure=0&host=md.biscuitnazari.ir&fp=chrome&type=ws&allowInsecure=0&sni=md.biscuitnazari.ir#EPODONIOS
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@188.132.174.61:1080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20192117
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@188.132.174.61:1080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20104312
