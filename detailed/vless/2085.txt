@@ -13,10 +13,8 @@ vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.132:2085?mode=gun&securit
 vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.132:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#@vmesskhodam
 vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.132:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#Channel id: @configprxy
 vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.132:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#telegram --> mtmvpn
-vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.120:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#@erfanandroid
 vless://23a373f4-7f8a-4b8c-b002-60f4cf3f2557@45.86.159.132:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
 vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.131:2085?mode=gun&security=none&encryption=none&fp=chrome&type=grpc&serviceName=vless#EPODONIOS
 vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.132:2085/?type=grpc&encryption=none&flow=&serviceName=vless#EPODONIOS
 vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.132:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#EPODONIOS
 vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.132:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
-vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.120:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
