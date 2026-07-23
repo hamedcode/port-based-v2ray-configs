@@ -1,8 +1,20 @@
 trojan://telegram-id-directvpn@13.36.245.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@v2ray_configs_pools-join-us-on-Telegram
+trojan://telegram-id-directvpn@13.41.220.188:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-directvpn@13.41.220.188:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧119371 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://telegram-id-directvpn@3.73.221.195:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-directvpn@3.73.221.195:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪119363 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://telegram-id-directvpn@44.196.17.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@v2ray_configs_pools-join-us-on-Telegram
+trojan://telegram-id-directvpn@44.196.17.15:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@52.210.192.198:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@v2ray_configs_pools-join-us-on-Telegram
+trojan://telegram-id-privatevpns@108.129.58.201:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@108.129.58.201:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪119351 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://telegram-id-privatevpns@18.133.209.215:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@v2ray_configs_pools-join-us-on-Telegram
 trojan://telegram-id-privatevpns@18.198.205.122:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@v2ray_configs_pools-join-us-on-Telegram
+trojan://telegram-id-privatevpns@51.21.36.169:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=tcp&sni=trojan.burgerip.co.uk#@GozargahAzad|🇸🇪
+trojan://telegram-id-privatevpns@51.21.36.169:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@51.21.36.169:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[1352] - Telegram : @V2All
+trojan://telegram-id-privatevpns@51.21.36.169:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@51.21.36.169:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪119392 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://telegram-id-directvpn@3.145.14.67:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.145.14.67-2668
 trojan://telegram-id-privatevpns@35.177.137.88:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-35.177.137.88-2718
 trojan://telegram-id-directvpn@35.91.162.93:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-35.91.162.93-2719
@@ -71,8 +83,13 @@ trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext
 trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-13.40.3.71-8754
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.112.204-8756
 trojan://telegram-id-directvpn@13.36.245.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
-trojan://telegram-id-directvpn@3.96.244.90:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#EPODONIOS
+trojan://telegram-id-directvpn@13.41.220.188:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
+trojan://telegram-id-directvpn@13.41.220.188:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
+trojan://telegram-id-directvpn@3.73.221.195:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
+trojan://telegram-id-directvpn@44.196.17.15:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
 trojan://telegram-id-directvpn@44.196.17.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
+trojan://telegram-id-directvpn@44.196.17.15:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
 trojan://telegram-id-directvpn@52.210.192.198:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
+trojan://telegram-id-privatevpns@108.129.58.201:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
 trojan://telegram-id-privatevpns@18.133.209.215:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#EPODONIOS
 trojan://telegram-id-privatevpns@18.198.205.122:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#EPODONIOS
