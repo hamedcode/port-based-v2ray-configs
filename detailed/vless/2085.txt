@@ -13,4 +13,4 @@ vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.131:2085?mode=gun&securit
 vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.132:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#EPODONIOS
 vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.132:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
 vless://2f03aff6-7774-4bdc-a04f-5feb5b3c21b0@81.31.211.170:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
-vless://157c2020-1c55-41d8-8431-6952fd4f4912@81.31.211.170:2085?encryption=none&type=grpc&serviceName=vless&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://2f03aff6-7774-4bdc-a04f-5feb5b3c21b0@81.31.211.170:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20730496
