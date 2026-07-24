@@ -9,10 +9,9 @@ vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.48:4100?path=/v1&security=
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@tn.tmn141246.ru:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&type=ws&sni=tn.tmn141246.ru#EPODONIOS
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=/v1&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#EPODONIOS
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#EPODONIOS
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.27:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?encryption=none&type=ws&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@77.222.35.36:4100?encryption=none&type=ws&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@168.222.140.233:4100?encryption=none&host=live.ok.ru&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20669222
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@168.222.140.233:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20938072
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20657012
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20179909
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?path=/v1&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20452940
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20716667
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20878298
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?path=/v1&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20596246
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20285550
