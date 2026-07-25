@@ -1,4 +1,2 @@
-vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?encryption=none&type=tcp&security=none&headerType=none#@Alpha_v2rayIP
-vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?security=none&encryption=none&type=tcp&headerType=none#@Napsternetvirani
-vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?encryption=none&type=tcp&security=none&headerType=none#EPODONIOS
-vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?security=none&encryption=none&type=tcp&headerType=none#EPODONIOS
+vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?security=none&encryption=none&headerType=none&type=tcp#@vmesc
+vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS

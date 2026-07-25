@@ -4,5 +4,5 @@ vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?encryption=non
 vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711/?encryption=none&flow=&host=snapp.ir&path=/&type=tcp&headerType=http#EPODONIOS
 vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#EPODONIOS
 vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#EPODONIOS
-vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20781080
-vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?encryption=none&headerType=http&host=snapp.ir&path=/&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20679299
+vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20509347
+vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?encryption=none&headerType=http&host=snapp.ir&path=/&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20574189
