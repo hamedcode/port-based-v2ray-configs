@@ -1,28 +1,23 @@
-trojan://telegram-id-directvpn@15.223.139.4:22222?security=tls&sni=trojan.burgerip.co.uk#🇨🇦121233 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://telegram-id-directvpn@16.16.50.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪121229 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://telegram-id-directvpn@176.34.252.143:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#@v2ray_configs_pools-join-us-on-Telegram
 trojan://telegram-id-directvpn@3.82.31.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@v2ray_configs_pools-join-us-on-Telegram
-trojan://telegram-id-directvpn@3.82.31.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[3242] - Telegram : @V2All
 trojan://telegram-id-directvpn@3.82.31.91:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#@v2ray_configs_pools-join-us-on-Telegram
-trojan://telegram-id-privatevpns@13.53.116.199:22222?security=tls&sni=trojan.burgerip.co.uk#🇸🇪120783 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://telegram-id-privatevpns@15.188.21.18:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-directvpn@51.21.34.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-directvpn@51.21.34.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪121375 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://telegram-id-privatevpns@13.41.235.27:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@GozargahAzad|🇬🇧
+trojan://telegram-id-privatevpns@13.41.235.27:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@13.41.235.27:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[3349] - Telegram : @V2All
+trojan://telegram-id-privatevpns@13.41.235.27:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧121455 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://telegram-id-privatevpns@15.188.21.18:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇫🇷121332 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://telegram-id-privatevpns@52.19.173.143:22222?security=tls&sni=trojan.burgerip.co.uk#@v2ray_configs_pools-join-us-on-Telegram
-trojan://telegram-id-privatevpns@52.47.97.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@52.47.97.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇫🇷121316 | ⚡️Telegram = t.me/SOSkeyNET
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.72.120:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@Hope_Net-join-us-on-Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.72.120:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🇸🇪121235 | ⚡️Telegram = t.me/SOSkeyNET
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.230.70.35:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@v2ray_configs_pools-join-us-on-Telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.230.70.35:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🇺🇸120920 | ⚡️Telegram = t.me/SOSkeyNET
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.26.249:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@GozargahAzad|🇸🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.26.249:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@Hope_Net-join-us-on-Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.26.249:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[3265] - Telegram : @V2All
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.26.249:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.26.249:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇸🇪121364 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.95.89:22222?encryption=none&security=none&type=tcp&headerType=none#🇫🇷121312 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.126.152:22222?security=&encryption=none&headerType=none&type=tcp#🚀t.me/iProxyChannel 12
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.22.60:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.181.25:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.181.25:22222?encryption=none&security=none&type=tcp#🇫🇷120755 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.58.127:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.69.79:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.69.79:22222?encryption=none&type=tcp&headerType=none#@M4Dvpn
@@ -35,7 +30,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?security=none&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@FreakConfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.229.237:22222?&type=tcp&headerType=none&path=/#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.229.237:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.31.143:22222?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.131.242:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
@@ -58,10 +52,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.175.251:22222?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.175.251:22222?encryption=none&security=none&type=tcp#🇩🇪120908 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.251.36:22222?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.160.106:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.160.106:22222?encryption=none&security=none&type=tcp#filembad-395
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.194.134:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.194.134:22222?encryption=none&security=none&type=tcp#🇫🇷121199 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.194.134:22222?encryption=none&security=none&type=tcp#🇫🇷FR-🚀@VPNine1
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.117.158:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.37.174:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.19.86:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
@@ -136,19 +127,16 @@ trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-13.40.3.71-8680
 trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-13.40.3.71-8682
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.112.204-8684
-trojan://telegram-id-directvpn@15.223.139.4:22222?security=tls&sni=trojan.burgerip.co.uk#EPODONIOS
-trojan://telegram-id-directvpn@16.16.50.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
 trojan://telegram-id-directvpn@176.34.252.143:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
 trojan://telegram-id-directvpn@3.82.31.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
 trojan://telegram-id-directvpn@3.82.31.91:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
-trojan://telegram-id-privatevpns@13.53.116.199:22222?security=tls&sni=trojan.burgerip.co.uk#EPODONIOS
+trojan://telegram-id-directvpn@51.21.34.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
+trojan://telegram-id-privatevpns@13.41.235.27:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
+trojan://telegram-id-privatevpns@13.41.235.27:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
 trojan://telegram-id-privatevpns@15.188.21.18:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#EPODONIOS
 trojan://telegram-id-privatevpns@52.19.173.143:22222?security=tls&sni=trojan.burgerip.co.uk#EPODONIOS
 trojan://telegram-id-privatevpns@52.47.97.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#EPODONIOS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.72.120:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#EPODONIOS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.72.120:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#EPODONIOS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.230.70.35:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#EPODONIOS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.26.249:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#EPODONIOS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.26.249:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.95.89:22222?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.126.152:22222?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -160,7 +148,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.69.79:22222?encryption=none&t
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.69.79:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.229.237:22222?&type=tcp&headerType=none&path=/#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.229.237:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.31.143:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.131.242:22222?encryption=none&security=none&type=tcp#EPODONIOS
@@ -184,8 +171,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.117.158:22222?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.37.174:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.19.86:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.19.86:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.22.60:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20979450
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.131.242:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20614614
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.252.91:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20729735
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.117.158:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20736202
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.131.242:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20316282
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.229.237:22222?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.229.237:22222?&type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.229.237:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20496297
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.131.242:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20400496
