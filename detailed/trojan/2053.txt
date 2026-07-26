@@ -17,7 +17,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-4075
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-219.94.250.108-4096
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.74.146-4147
-trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=/?proxyip=ts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#EPODONIOS
 trojan://Aimer@167.68.4.199:2053?path=/?proxyip=ts.hpc.tw&security=tls&insecure=0&host=epge.muarua.filegear-sg.me&type=ws&allowInsecure=0&sni=epge.muarua.filegear-sg.me#EPODONIOS
 trojan://Masir_Sefid@37.156.46.29:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#EPODONIOS
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#EPODONIOS

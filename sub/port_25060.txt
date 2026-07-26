@@ -3,6 +3,5 @@ vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@144.31.14.168:25060?encryption=none
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@144.31.14.168:25060?encryption=none&security=none&type=ws&path=/xray#🔵@chillguy_vpn
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@144.31.14.168:25060?path=/xray&security=none&encryption=none&type=ws#[🇳🇱]@NetliVPN
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@144.31.14.168:25060?path=/xray&security=none&encryption=none&type=ws#🔵@chillguy_vpn
-vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@144.31.14.168:25060?encryption=none&security=none&type=ws&path=/xray#EPODONIOS
-vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@144.31.14.168:25060?path=/xray&security=none&encryption=none&type=ws#EPODONIOS
+vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@144.31.14.168:25060?encryption=none&path=/xray&security=none&type=ws#EPODONIOS
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@144.31.14.168:25060?path=/xray&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
