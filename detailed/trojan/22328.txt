@@ -1,2 +1,4 @@
 trojan://Htbm5NChh4@136.244.101.16:22328?security=tls&headerType=http&type=tcp&sni=ne.atrinshops.ir#@v2ray_configs_pools-join-us-on-Telegram
+trojan://Htbm5NChh4@136.244.101.16:22328?security=tls&sni=ne.atrinshops.ir&type=tcp&headerType=http&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://Htbm5NChh4@136.244.101.16:22328?security=tls&headerType=http&type=tcp&sni=ne.atrinshops.ir#EPODONIOS
+trojan://Htbm5NChh4@136.244.101.16:22328?security=tls&sni=ne.atrinshops.ir&type=tcp&headerType=http&allowInsecure=1#EPODONIOS

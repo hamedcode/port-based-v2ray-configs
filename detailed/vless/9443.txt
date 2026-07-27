@@ -1,8 +1,7 @@
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#TEL;Father_vpn
-vless://27c1d725-629c-4e65-9271-d6f5df82c7e9@85.208.87.184:9443?security=reality&encryption=none&pbk=6RL8C_2Hi2awKka98Kkx62STPrDXSb25C5u66GIhXRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr-1.converter.darkpn.com&sid=b703abc44e905632#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://a52b446a-2bb2-477f-bf45-2bac6d5b686b@geo-1.biscuitnazari.ir:9443?security=reality&encryption=none&pbk=aJw9xFr6q48MQ2EAl0DeJunqw0X5hob0qUEMPeX-7k0&fp=chrome&spx=/9d918fbb86a5964&type=grpc&sni=play.google.com&sid=c72f2d50af#@icv2ray
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#EPODONIOS
-vless://27c1d725-629c-4e65-9271-d6f5df82c7e9@85.208.87.184:9443?security=reality&encryption=none&pbk=6RL8C_2Hi2awKka98Kkx62STPrDXSb25C5u66GIhXRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr-1.converter.darkpn.com&sid=b703abc44e905632#EPODONIOS
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#EPODONIOS
 vless://a52b446a-2bb2-477f-bf45-2bac6d5b686b@geo-1.biscuitnazari.ir:9443?security=reality&encryption=none&pbk=aJw9xFr6q48MQ2EAl0DeJunqw0X5hob0qUEMPeX-7k0&fp=chrome&spx=/9d918fbb86a5964&type=grpc&sni=play.google.com&sid=c72f2d50af#EPODONIOS
+vless://f390ecb1-8210-4cb7-9e49-628fd51dd06f@91.185.83.64:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5M0khPdwiXYhayuP4i76J1am-q85Sno7vGnqEnZ1ngI&security=reality&sid=ccaaaa&sni=muzgrape.space&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20783811
