@@ -1,2 +1,3 @@
-vless://c37e6820-1abf-44b0-a096-bb243f1ff497@83.217.223.103:49055?&type=tcp&headerType=none&path=/#EPODONIOS
-vless://c37e6820-1abf-44b0-a096-bb243f1ff497@83.217.223.103:49055?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20803214
+vless://c37e6820-1abf-44b0-a096-bb243f1ff497@83.217.223.103:49055?&type=tcp&headerType=none&path=%2F#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://c37e6820-1abf-44b0-a096-bb243f1ff497@83.217.223.103:49055?encryption=none&security=none&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20470350
+vless://c37e6820-1abf-44b0-a096-bb243f1ff497@83.217.223.103:49055?type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20282706

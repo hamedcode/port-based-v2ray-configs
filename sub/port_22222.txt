@@ -1,14 +1,8 @@
-trojan://telegram-id-directvpn@52.51.233.209:22222?sni=trojan.burgerip.co.uk#@v2ray_configs_pools-join-us-on-Telegram
-trojan://telegram-id-privatevpns@18.184.226.188:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@v2ray_configs_pools-join-us-on-Telegram
 trojan://telegram-id-privatevpns@3.127.87.230:22222?sni=trojan.burgerip.co.uk#@v2ray_configs_pools-join-us-on-Telegram
-trojan://telegram-id-privatevpns@34.248.90.245:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@35.177.124.248:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@v2ray_configs_pools-join-us-on-Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.62.171:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.62.171:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[5560] - Telegram : @V2All
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.62.171:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🇫🇷123891 | ⚡️Telegram = t.me/SOSkeyNET
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.71.96:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.71.96:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[5557] - Telegram : @V2All
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.71.96:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🇬🇧123896 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://telegram-id-privatevpns@54.76.221.195:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.7.185:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.4.122.2:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?encryption=none&security=none&type=tcp#⛲1@oneclickvpnkeys
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?encryption=none&security=none&type=tcp&headerType=none#@Napsternetvirani
@@ -23,53 +17,53 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?security=none&en
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz [🍉]
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?security=none&encryption=none&headerType=none&type=tcp#configprxy
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?security=&encryption=none&headerType=none&type=tcp#@filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?security=none&encryption=none&headerType=none&type=tcp#@M4Dvpn
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?security=none&encryption=none&headerType=none&type=tcp#@irconfiig ⭐
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&security=none&type=tcp&headerType=none#@hi_proxy_iran :👈کانال تلگرام
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&security=none&type=tcp&headerType=none#@meliproxyy
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&security=none&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#@Daily_Configs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?security=&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#🚀t.me/iProxyChannel 14
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 💟
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.69.79:22222?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@V2rayng_Fast
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.1.105:22222?&type=tcp&headerType=none&path=/#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.1.105:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.1.105:22222?encryption=none&security=none&type=tcp#🇫🇷123782 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.1.105:22222?encryption=none&security=none&type=tcp#🇫🇷FR-🚀@VPNine1
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.160.141:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?security=none&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?security=none&encryption=none&headerType=none&type=tcp#🇫🇷123867 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@V2rayng_Fast
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22222?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22222?encryption=none&security=none&type=tcp&headerType=none#@M4Dvpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22222?encryption=none&security=none&type=tcp&headerType=none#@meliproxyy
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.44.226:22222?security=none&encryption=none&headerType=none&type=tcp#@configprxy
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.48.2:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.48.2:22222?encryption=none&security=none&type=tcp#@filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.48.2:22222?encryption=none&security=none&type=tcp#🇫🇷124169 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.48.2:22222?encryption=none&security=none&type=tcp#🔵@chillguy_vpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22222?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22222?encryption=none&security=none&type=tcp&headerType=none#@M4Dvpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22222?encryption=none&security=none&type=tcp&headerType=none#@hi_proxy_iran :👈کانال تلگرام
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22222?encryption=none&security=none&type=tcp&headerType=none#@meliproxyy
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.88:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.165.158:22222?security=none&encryption=none&headerType=none&type=tcp#MTMVPN
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.201.235:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.159.175.14:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.123.240.236:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.195.2.243:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.195.2.243:22222?encryption=none&security=none&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.71.64:22222?security=none&encryption=none&headerType=none&type=tcp#Join mtmvpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.126.109.238:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.75.155.42:22222?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.251.36:22222?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.158.228:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#@GozargahAzad|🇩🇪
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.71.143:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.71.143:22222?encryption=none&security=none&type=tcp#@filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.71.143:22222?encryption=none&security=none&type=tcp#🇫🇷124083 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.71.143:22222?encryption=none&security=none&type=tcp#🇫🇷FR-🚀@VPNine1
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.71.143:22222?encryption=none&security=none&type=tcp#🔵@chillguy_vpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.158.228:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.158.228:22222?encryption=none&security=none&type=tcp#@filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.158.228:22222?encryption=none&security=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.158.228:22222?encryption=none&security=none&type=tcp#🇩🇪123933 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.207.25:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.19.86:22222?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.19.86:22222?security=none&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AFR
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40privatevpns%20%231%20%5Bfast%5D
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.1.105:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40privatevpns%20%232%20%5Bfast%5D
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.1.105:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40privatevpns%20%231%20%5Bfast%5D
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.71.143:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40privatevpns%20%232%20%5Bfast%5D
 trojan://telegram-id-directvpn@3.145.14.67:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.145.14.67-2675
 trojan://telegram-id-privatevpns@35.177.137.88:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-35.177.137.88-2725
 trojan://telegram-id-directvpn@35.91.162.93:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-35.91.162.93-2726
@@ -137,28 +131,25 @@ trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-13.40.3.71-8723
 trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-13.40.3.71-8725
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.112.204-8727
-trojan://telegram-id-directvpn@15.223.139.4:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#EPODONIOS
 trojan://telegram-id-directvpn@52.51.233.209:22222?sni=trojan.burgerip.co.uk#EPODONIOS
 trojan://telegram-id-privatevpns@18.184.226.188:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#EPODONIOS
 trojan://telegram-id-privatevpns@3.127.87.230:22222?sni=trojan.burgerip.co.uk#EPODONIOS
 trojan://telegram-id-privatevpns@34.248.90.245:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#EPODONIOS
 trojan://telegram-id-privatevpns@35.177.124.248:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#EPODONIOS
-trojan://telegram-id-privatevpns@51.20.112.180:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#EPODONIOS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.62.171:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#EPODONIOS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.71.96:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?headerType=none&encryption=none&security=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?encryption=none&security=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&security=none&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?security=&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.69.79:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.1.105:22222?encryption=none&secu#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.1.105:22222?encryption=none&secu`rity=**none&type=tcp#EPODONIOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.1.105:22222?&type=tcp&headerType=none&path=/#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.1.105:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.160.141:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -170,12 +161,15 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.88:22222?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.165.158:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.201.235:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.159.175.14:22222?encryption=none&security=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.192.255.62:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.123.240.236:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.71.64:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.126.109.238:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.75.155.42:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.251.36:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.158.228:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#EPODONIOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.158.228:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.207.25:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.19.86:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20974472
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22222?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20882376
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.1.105:22222?security=none&encryption=none&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20302748
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20534142
