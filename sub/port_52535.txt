@@ -6,9 +6,7 @@ vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535/?type=tcp&encry
 vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?encryption=none&security=none&type=tcp#EPODONIOS
 vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?#EPODONIOS
-vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20744463
-vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20220384
+vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20772588
+vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20799256

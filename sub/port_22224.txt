@@ -44,7 +44,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.251.36:22224?security=none&e
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.19.86:22224?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.19.86:22224?security=none&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AFR
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22224?encryption=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40NamiraConfigs%20%232%20%5Bfast%5D
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.118.222:22224?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22224?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22224?encryption=none&security=none&type=tcp#EPODONIOS
@@ -76,6 +75,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.75.155.42:22224?security=none&enc
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.251.36:22224?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.19.86:22224?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22224?encryption=none&security=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20966773
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20513037
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20233248
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22224?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22224?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20970805
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22224?encryption=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20611067
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20374475
