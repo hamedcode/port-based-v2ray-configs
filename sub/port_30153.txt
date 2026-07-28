@@ -11,6 +11,5 @@ vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=none&
 vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B8
 vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?path=%2f#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B8
-vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20591198
-vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?encryption=none&packetEncoding=xudp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20580870
-vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20600105
+vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20331413
+vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20582044
