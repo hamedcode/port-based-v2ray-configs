@@ -1,2 +1,1 @@
-vless://c37e6820-1abf-44b0-a096-bb243f1ff497@83.217.223.103:49055?encryption=none&security=none&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20541624
-vless://c37e6820-1abf-44b0-a096-bb243f1ff497@83.217.223.103:49055?type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20968961
+vless://c37e6820-1abf-44b0-a096-bb243f1ff497@83.217.223.103:49055?type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20794580
