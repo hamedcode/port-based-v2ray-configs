@@ -1,2 +1,4 @@
 vless://0dd2d418-8616-455f-892c-f8c405e5f6bf@176.124.200.40:445?security=none&encryption=none&headerType=none&type=tcp#@configprxy
+vless://0eab0265-1a13-49a1-ac5c-c171a523d804@201.24.115.184:445?security=&encryption=none&headerType=none&type=tcp#@icv2ray
 vless://0dd2d418-8616-455f-892c-f8c405e5f6bf@176.124.200.40:445?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://0eab0265-1a13-49a1-ac5c-c171a523d804@201.24.115.184:445?security=&encryption=none&headerType=none&type=tcp#EPODONIOS

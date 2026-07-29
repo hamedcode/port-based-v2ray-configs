@@ -1,7 +1,8 @@
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?allowInsecure=1&sni=hk.catxstar.com#%3E%3E%40v2nodes%3A%3AID
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-3214
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?allowInsecure=1&sni=hk.catxstar.com#EPODONIOS
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20056?sni=hk.catxstar.com&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20175706
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20056?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20907155
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20056?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20402589
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20056?security=tls&sni=hk.catxstar.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20773870
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20056?sni=hk.catxstar.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20530812
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20056?sni=hk.catxstar.com&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20490018
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20056?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20174419
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20056?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20315046
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20056?security=tls&sni=hk.catxstar.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20956995
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20056?sni=hk.catxstar.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20449555
