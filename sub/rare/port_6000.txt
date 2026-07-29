@@ -1,3 +1,2 @@
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
-vmess://eyJhZGQiOiIxNTYuMjM5LjQ3LjY5IiwiYWlkIjoiNjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJpZCI6IjBjZmMzMDlkLTNiOTAtNGU2NS04MDJjLTFjOWI4YTE1MjhkZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBvcnQiOiI2MDAwIiwicHMiOiJoYW1lZHA3MTo68J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
