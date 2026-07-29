@@ -2,7 +2,5 @@ vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?&type=tcp&heade
 vless://d1b9e7e9-9dc6-46b1-a1fb-85832cb23437@www.team-pluss.ir:10000?mode=auto&path=/events/user/dashboard&security=&encryption=none&extra={"xPaddingBytes":"100-1000","xPaddingObfsMode":true,"uplinkHTTPMethod":"POST"}&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=xhttp#Proxy_Se7en
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?&type=tcp&headerType=none&path=/#EPODONIOS
 vless://d1b9e7e9-9dc6-46b1-a1fb-85832cb23437@www.team-pluss.ir:10000?mode=auto&path=/events/user/dashboard&security=&encryption=none&extra={"xPaddingBytes":"100-1000","xPaddingObfsMode":true,"uplinkHTTPMethod":"POST"}&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=xhttp#EPODONIOS
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&type=tcp&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?&type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20680012
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20582517
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&type=tcp&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?&type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
