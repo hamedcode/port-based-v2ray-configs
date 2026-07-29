@@ -8,12 +8,10 @@ vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&secu
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#@meliproxyy
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#@vmesskhodam
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#Channel : @Daily_Configs
+vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#v2ray_configs_pool-545
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩
-vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=%2Fxray&security=none&encryption=none&type=ws#%3E%3E%40prrofile_purple%3A%3AES
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?encryption=none&host=5.180.173.248&path=/xray&security=none&type=ws#EPODONIOS
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?encryption=none&type=ws&path=/xray&packetEncoding=xudp#EPODONIOS
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#EPODONIOS
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#EPODONIOS
-vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=%2Fxray&security=none&encryption=none&type=ws#EPODONIOS
-vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=%2Fxray&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20363578
-vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20496674
+vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20163515
