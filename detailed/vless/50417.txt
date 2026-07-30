@@ -12,6 +12,8 @@ vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?&type=tcp&head
 vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?encryption=none&security=none&type=tcp#EPODONIOS
-vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?security=none&path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20925921
-vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20110223
+vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?security=&encryption=none&headerType=&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?encryption=none&path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20461276
+vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20967743
+vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20734420
