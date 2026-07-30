@@ -21,10 +21,10 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=no
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=fn.fifapes.monster&headerType=http&type=tcp#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=fn.fifapes.monster&headerType=none&fp=chrome&type=tcp#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#EPODONIOS
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.229.101:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20801083
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@195.211.124.137:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20878944
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.232.168:2090?encryption=none&security=none&alpn=http/1.1&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20563961
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@213.232.204.98:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20976496
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@109.248.163.242:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20351747
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.232.168:2090?encryption=none&security=none&alpn=http/1.1&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20459220

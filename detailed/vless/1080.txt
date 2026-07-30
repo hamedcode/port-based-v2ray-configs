@@ -15,3 +15,4 @@ vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel9.nanaweb.ir:1080?security=&en
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel9.nanaweb.ir:1080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://50414e45-4c5f-5a45-5553-bd98522d0938@z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev:1080?path=/stream/PANEL_ZEUS/50414e45&security=none&encryption=none&insecure=0&host=z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev#EPODONIOS
 vless://7b3e82c8-47bf-4f6f-ad7c-6d0a041edca2@turkey1.nanaweb.ir:1080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+vless://aacbcab-acba-acab-dcba-accccbababab@127.0.0.1:1080?security=tls&type=tcp#EPODONIOS
