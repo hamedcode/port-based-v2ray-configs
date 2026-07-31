@@ -1,3 +1,4 @@
 trojan://d1960ba9f0f6353353994fa844cf817b@43.199.32.78:40138?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-43.199.32.78-0448
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.58.27:40138?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-18.166.58.27-2415
 trojan://b490740312aedb5f9f6b84c7aebd08c0@35.77.80.32:40138?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.80.32-2418
+trojan://d1960ba9f0f6353353994fa844cf817b@3.114.9.167:40138?sni=www.nintendogames.net&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20451277
