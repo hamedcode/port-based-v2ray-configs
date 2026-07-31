@@ -3,13 +3,9 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.140.169:22224?security=none&e
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.118.222:22224?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.118.222:22224?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.118.222:22224?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@V2rayng_Fast
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22224?encryption=none&security=none&type=tcp#@filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22224?encryption=none&security=none&type=tcp#🇫🇷127757 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22224?encryption=none&security=none&type=tcp#🔵@chillguy_vpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22224?security=&encryption=none&headerType=&type=tcp#@filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22224?security=none&encryption=none&headerType=none&type=tcp#@filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22224?security=none&encryption=none&headerType=none&type=tcp#🇫🇷FR-🚀@VPNine1
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22224?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.197.216:22224?security=&encryption=none&headerType=none&type=tcp#@confiig_hub
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.197.216:22224?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.197.216:22224?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
@@ -33,11 +29,11 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224/?type=tcp&encrypt
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?encryption=none&security=none&type=tcp#@meliproxyy
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?encryption=none&security=none&type=tcp#🦄20@oneclickvpnkeys
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?security=none&encryption=none&headerType=none&type=tcp#🔵@irconfiig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.166.241:22224?encryption=none&security=none&type=tcp#@filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?type=tcp&encryption=none&headerType=none&security=none#@TGRVPN -join-us-on-Telegram
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.200.150:22224?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.200.150:22224?type=tcp&encryption=none&security=none&headerType=none#@Alpha_v2rayIP
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.168.93:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AFR
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AFR
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AFR
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.166.241:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AFR
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.140.169:22224?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.140.169:22224?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.118.222:22224?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -60,10 +56,9 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.136.17:22224?security=none&en
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224/?type=tcp&encryption=none&flow=#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.166.241:22224?encryption=none&security=none&type=tcp#EPODONIOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?type=tcp&encryption=none&headerType=none&security=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.200.150:22224?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.200.150:22224?type=tcp&encryption=none&security=none&headerType=none#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.168.93:22224?encryption=none&security=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20351703
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.168.93:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20695275
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20267789
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.166.241:22224?encryption=none&security=none&type=tcp#EPODONIOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20742377
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.166.241:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20123470

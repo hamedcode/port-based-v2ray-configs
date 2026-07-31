@@ -1,2 +1,3 @@
 vless://27a292ee-50aa-4232-93d2-4729a52ce5a2@gotveran.sav-savteam.ir:2005?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs
+vless://27a292ee-50aa-4232-93d2-4729a52ce5a2@gotveran.sav-savteam.ir:2005?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40red2ray%20%231%20%5Bfast%5D
 vless://27a292ee-50aa-4232-93d2-4729a52ce5a2@gotveran.sav-savteam.ir:2005?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
