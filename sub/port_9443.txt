@@ -1,6 +1,4 @@
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#TEL;Father_vpn
-vless://1e9d4dbf-706e-4d26-9714-dd5f365ef7c0@arme.biscuitnazari.ir:9443?fp=chrome&sni=play.google.com&type=grpc&security=reality&encryption=none&pbk=aJw9xFr6q48MQ2EAl0DeJunqw0X5hob0qUEMPeX-7k0&spx=/9890eb6a2ee1c04&sid=c72f2d50af&mode=gun#@Napsternetvirani
-vless://1e9d4dbf-706e-4d26-9714-dd5f365ef7c0@arme.biscuitnazari.ir:9443?type=grpc&encryption=none&fp=chrome&security=reality&sni=play.google.com&sid=c72f2d50af&pbk=aJw9xFr6q48MQ2EAl0DeJunqw0X5hob0qUEMPeX-7k0&spx=/9890eb6a2ee1c04&mode=gun#@Alpha_v2rayIP
 vless://7dfe2f33-54c5-43cf-a654-7c8919a266be@shopcar.rafeaftabsokhtegi.com:9443?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
 vless://7dfe2f33-54c5-43cf-a654-7c8919a266be@shopcar.rafeaftabsokhtegi.com:9443?security=&encryption=none&headerType=none&type=tcp#Channel id: @irconfiig 🇹🇷
 vless://7dfe2f33-54c5-43cf-a6584-7c8919a266be@shopcar.rafeaftabsokhtegi.com:9443?encryption=none&security=none&type=tcp&headerType=none#@Ap_Ir6

@@ -1,0 +1,4 @@
+vless://003825d0-502f-4948-bf4e-b2bedd6ba307@116.202.13.37:47116?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@FreakConfig
+vless://003825d0-502f-4948-bf4e-b2bedd6ba307@116.202.13.37:47116?headerType=http&host=play.google.com&path=/&security=none&type=tcp#EPODONIOS
+vless://003825d0-502f-4948-bf4e-b2bedd6ba307@116.202.13.37:47116?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+vless://42943732-9021-4255-a768-3713ead2b3fe@116.202.13.37:47116?headerType=http&host=play.google.com&path=/&security=none&type=tcp#EPODONIOS

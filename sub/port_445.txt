@@ -1,6 +1,6 @@
 vless://0eab0265-1a13-49a1-ac5c-c171a523d804@201.24.115.184:445?security=&encryption=none&headerType=none&type=tcp#@icv2ray
 vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:445?encryption=none&type=tcp&headerType=none#@meliproxyy
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.34:445#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-7240
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.74:445#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7276
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.34:445#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-7237
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.74:445#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7273
 vless://0eab0265-1a13-49a1-ac5c-c171a523d804@201.24.115.184:445?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:445?encryption=none&type=tcp&headerType=none#EPODONIOS
