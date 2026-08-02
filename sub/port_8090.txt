@@ -59,4 +59,4 @@ vless://4ca31b44-9188-4cc7-adc6-f940888e5282@s7.cnavippanel-tech-ips.xyz:8090?se
 vless://559ae2ad-1b64-4ffc-84d7-772af1d122bb@de-port.leperfume.ir:8090?encryption=none&type=ws&host=HesarWeb&path=/&packetEncoding=xudp#EPODONIOS
 vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s4.vip-canepanel.xyz:8090?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.21:8090#EPODONIOS
-vless://4ca31b44-9188-4cc7-adc6-f940888e5282@57.131.135.120:8090?security=none&type=tcp&headerType=http&path=/&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20684226
+vless://4ca31b44-9188-4cc7-adc6-f940888e5282@57.129.98.29:8090?security=none&type=tcp&headerType=http&path=/&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20158561
