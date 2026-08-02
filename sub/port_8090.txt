@@ -1,3 +1,6 @@
+vless://4ca31b44-9188-4cc7-adc6-f940888e5282@s7.cnavippanel-tech-ips.xyz:8090?security=none&encryption=none&host=icloud.com&headerType=http&type=tcp#рҹҮ©рҹҮӘ@FreakConfig
+vless://559ae2ad-1b64-4ffc-84d7-772af1d122bb@de-port.leperfume.ir:8090?encryption=none&type=ws&host=HesarWeb&path=/&packetEncoding=xudp#вҖў рҹҮ№рҹҮ· | рқ—§рқҳӮрқ—ҝрқ—ёрқ—ІрқҳҶ - @HesarWeb
+vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s4.vip-canepanel.xyz:8090?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.102:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.102-0039
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.135.18:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.18-0021
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.21:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0245
@@ -56,5 +59,3 @@ vless://559ae2ad-1b64-4ffc-84d7-772af1d122bb@de-port.leperfume.ir:8090?encryptio
 vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s4.vip-canepanel.xyz:8090?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.102:8090#EPODONIOS
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.135.18:8090#EPODONIOS
-vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@135.125.184.126:8090?security=none&type=tcp&headerType=http&path=/&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20722879
-vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@57.129.98.29:8090?security=none&type=tcp&headerType=http&path=/&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20739836
