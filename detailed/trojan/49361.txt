@@ -5,8 +5,8 @@ trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?allowInsecure=0&s
 trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?security=tls&sni=163.245.196.68.sslip.io#EPODONIOS
 trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?security=tls&sni=163.245.196.68.sslip.io#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?security=tls&sni=163.245.196.68.sslip.io&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?security=tls&sni=163.245.196.68.sslip.io&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20870027
-trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?security=tls&sni=163.245.196.68.sslip.io&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20370546
-trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?security=tls&sni=163.245.196.68.sslip.io&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20530944
-trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?sni=163.245.196.68.sslip.io&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20641035
-trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?sni=163.245.196.68.sslip.io&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20747889
+trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?security=tls&sni=163.245.196.68.sslip.io&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20366845
+trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?security=tls&sni=163.245.196.68.sslip.io&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20477148
+trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?security=tls&sni=163.245.196.68.sslip.io&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20737830
+trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?sni=163.245.196.68.sslip.io&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20442711
+trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?sni=163.245.196.68.sslip.io&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20181288
