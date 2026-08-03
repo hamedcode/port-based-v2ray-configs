@@ -1,8 +1,6 @@
-vless://aabccab-acba-caab-bacd-cabbaacbcabc@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-vless://aaccbab-abca-abca-bcda-accbabaccbab@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-vless://ababacc-baac-caab-cdab-cabccbcaaabb@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-vless://baabcca-aacb-aabc-cadb-cbbcbaacabca@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-vless://aabccab-acba-caab-bacd-cabbaacbcabc@127.0.0.1:2080?security=tls&type=tcp#EPODONIOS
-vless://aaccbab-abca-abca-bcda-accbabaccbab@127.0.0.1:2080?security=tls&type=tcp#EPODONIOS
-vless://ababacc-baac-caab-cdab-cabccbcaaabb@127.0.0.1:2080?security=tls&type=tcp#EPODONIOS
-vless://baabcca-aacb-aabc-cadb-cbbcbaacabca@127.0.0.1:2080?security=tls&type=tcp#EPODONIOS
+vless://acbbaac-bcaa-abac-dcab-cabbaabcabcc@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://cabaacb-aacb-aabc-dcba-bccbabaabcac@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://cabaacb-aacb-aabc-dcba-bccbabaabcac@127.0.0.1:2080?security=tls&type=tcp#[11894] - Telegram : @V2All
+vless://cabaacb-aacb-aabc-dcba-bccbabaabcac@127.0.0.1:2080?security=tls&type=tcp#[11895] - Telegram : @V2All
+vless://acbbaac-bcaa-abac-dcab-cabbaabcabcc@127.0.0.1:2080?security=tls&type=tcp#EPODONIOS
+vless://cabaacb-aacb-aabc-dcba-bccbabaabcac@127.0.0.1:2080?security=tls&type=tcp#EPODONIOS
