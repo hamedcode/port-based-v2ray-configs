@@ -15,10 +15,10 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#EPODONIOS
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.113.241:8882?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20610211
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@109.248.162.119:8882?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20659383
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.69.12:8882?encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20259683
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.62.68:8882?security=none&type=tcp&headerType=http&path=/&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20845010
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@45.38.139.91:8882?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20940768
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@45.38.139.91:8882?security=none&encryption=none&type=tcp&headerType=http&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20281209
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.236.34:8882?security=none&type=tcp&headerType=http&path=/&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20960186
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.115.128:8882?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20446601
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.107.68:8882?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20336061
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@188.130.154.173:8882?encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20876807
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.62.68:8882?security=none&type=tcp&headerType=http&path=/&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20560714
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@45.38.139.91:8882?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20191021
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@45.38.139.91:8882?security=none&encryption=none&type=tcp&headerType=http&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20782505
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.236.34:8882?security=none&type=tcp&headerType=http&path=/&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20743433
