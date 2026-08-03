@@ -1,12 +1,6 @@
 vless://49438e78-0148-a1d0-ffb5-63db11b86987@dl2dl2dl2.lornavps.ir:8855?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs
 vless://49438e78-0148-a1d0-ffb5-63db11b86987@dl2dl2dl2.lornavps.ir:8855?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray
-vless://49438e78-0148-a1d0-ffb5-63db11b86987@dl2dl2dl2.lornavps.ir:8855?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@hex_proxy вҒө
-vless://98b43330-232e-93f0-ecfa-e0fe2cfcf114@dl2dl2dl2.lornavps.ir:8855?security=none&type=tcp&headerType=http&encryption=none&path=/&host=play.google.com&fragment=10-100,100-200,tlshello&noise=rand:10-20,100-200#[11295] - Telegram : @V2All
-vless://98b43330-232e-93f0-ecfa-e0fe2cfcf114@dl2dl2dl2.lornavps.ir:8855?security=none&type=tcp&headerType=http&encryption=none&path=/&host=play.google.com&fragment=10-100,100-200,tlshello&noise=rand:10-20,100-200#рҹҮ«рҹҮ®131259 | вҡЎпёҸTelegram = t.me/SOSkeyNET
-vless://98b43330-232e-93f0-ecfa-e0fe2cfcf114@dl2dl2dl2.lornavps.ir:8855?security=none&type=tcp&headerType=http&encryption=none&path=/&host=play.google.com&fragment=10-100,100-200,tlshello&noise=rand:10-20,100-200#рҹҮ«рҹҮ®FI-рҹҡҖ@VPNine1
-vless://98b43330-232e-93f0-ecfa-e0fe2cfcf114@soskeynets.lornavps.ir:8855?security=none&type=tcp&headerType=http&encryption=none&path=/&host=play.google.com&fragment=10-100,100-200,tlshello&noise=rand:10-20,100-200#рҹҮ«рҹҮ®131259 | вҡЎпёҸTelegram = t.me/SOSkeyNET
+vless://49438e78-0148-a1d0-ffb5-63db11b86987@dl2dl2dl2.lornavps.ir:8855?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@hex_proxy ⁵
 vless://49438e78-0148-a1d0-ffb5-63db11b86987@dl2dl2dl2.lornavps.ir:8855?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://49438e78-0148-a1d0-ffb5-63db11b86987@dl2dl2dl2.lornavps.ir:8855?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://49438e78-0148-a1d0-ffb5-63db11b86987@dl2dl2dl2.lornavps.ir:8855?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://98b43330-232e-93f0-ecfa-e0fe2cfcf114@dl2dl2dl2.lornavps.ir:8855?security=none&type=tcp&headerType=http&encryption=none&path=/&host=play.google.com&fragment=10-100,100-200,tlshello&noise=rand:10-20,100-200#EPODONIOS
-vless://98b43330-232e-93f0-ecfa-e0fe2cfcf114@soskeynets.lornavps.ir:8855?security=none&type=tcp&headerType=http&encryption=none&path=/&host=play.google.com&fragment=10-100,100-200,tlshello&noise=rand:10-20,100-200#EPODONIOS
