@@ -1,13 +1,10 @@
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@31.172.67.215:4100?path=/v1&security=none&encryption=none&type=ws#@v2raybaaz ²
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@130.17.2.137:4100?path=/v1&security=none&encryption=none&type=ws#@Proxy_mtm 18
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?type=ws&security=none&path=/v1#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#%3E%3E%40configV2rayNG%3A%3AXX
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?path=%2Fv1&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3ADE
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#%3E%3E%40FreakConfig%3A%3ADE
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@77.222.35.36:4100?encryption=none&security=none&type=ws&path=/v1#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20%40NamiraConfigs%20%231%20%5Bmedium%5D
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@31.172.67.215:4100?path=/v1&security=none&encryption=none&type=ws#EPODONIOS
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@130.17.2.137:4100?path=/v1&security=none&encryption=none&type=ws#EPODONIOS
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?type=ws&security=none&path=/v1#EPODONIOS
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#EPODONIOS
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?path=%2Fv1&security=&encryption=none&type=ws#EPODONIOS
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#EPODONIOS
@@ -21,15 +18,13 @@ vless://155e8dd4-a559-407a-9ea8-13a5e829f066@31.172.67.215:4100?encryption=none&
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?encryption=none&path=/v1&security=none&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?path=%2Fv1&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20117681
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20909470
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=/v1&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20273982
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20857442
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?path=/v1&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20295610
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@81.85.78.78:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20106305
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@89.127.217.9:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20546557
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?path=%2Fv1&security=&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20757440
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?path=/v1&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20104173
-vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20545229
-vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@168.222.202.187:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20178553
-vless://e7299042-7d8f-440f-8368-2516b0e69341@201.51.0.38:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20534356
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@89.127.217.9:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20495554
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20975717
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?path=/v1&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20860415
+vless://e7299042-7d8f-440f-8368-2516b0e69341@201.51.0.38:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20479112
+vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20313653
+vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@168.222.202.187:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20657155
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?path=%2Fv1&security=&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20547029
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?path=/v1&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20374344
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20430371
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=/v1&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20485393
