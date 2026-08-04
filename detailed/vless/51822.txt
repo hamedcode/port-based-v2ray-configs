@@ -1,2 +1,4 @@
-vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?security=none&type=raw&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20389315
-vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20112397
+vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?security=none&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?security=none&type=raw&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20421875
+vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20939438
