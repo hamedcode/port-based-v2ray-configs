@@ -1,3 +1,2 @@
 vless://vpn_kurdnet@144.225.65.214:963?security=none&encryption=none&headerType=none&type=tcp#@tootffarangi🍓-21
-vless://vpn_kurdnet@144.225.65.214:963?encryption=none&security=none&type=tcp#EPODONIOS
-vless://vpn_kurdnet@144.225.65.214:963?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20395484
+vless://vpn_kurdnet@144.225.65.214:963?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
