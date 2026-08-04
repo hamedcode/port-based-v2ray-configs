@@ -2,8 +2,11 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.175.28:62145?&type=tcp&head
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.175.28:62145?&type=tcp&headerType=none&path=/#рҹҮЁрҹҮҙ132550 | вҡЎпёҸTelegram = t.me/SOSkeyNET
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.175.28:62145?&type=tcp&headerType=none&path=/#рҹ”ө@chillguy_vpn
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.214.172:62145?&type=tcp&headerType=none&path=/#@filembad
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.166.124:62145?#%3E%3E%40v2nodes%3A%3ANL
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.223.179:62145?type=tcp&headerType=none&path=/#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%7C%20VLESS%20%7C%20%40NamiraConfigs%20%231%20%5Bfast%5D
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.175.28:62145?&type=tcp&headerType=none&path=/#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.214.172:62145?&type=tcp&headerType=none&path=/#EPODONIOS
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.166.124:62145?#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.175.28:62145?&type=tcp&headerType=none&path=%2F#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B4
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.126:62145?&type=tcp&headerType=none&path=%2F#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B4
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.237.61:62145?&type=tcp&headerType=none&path=%2F#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B4
@@ -16,6 +19,14 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.162.154:62145?security=none
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.189:62145?security=none&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B4
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.223.179:62145?security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B4
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.180:62145?security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B4
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.229.153:62145?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20986654
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.162.154:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20400030
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.180:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20346722
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.166.124:62145#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20975000
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.166.124:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20687877
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.162.154:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20464735
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.189:62145?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20351505
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.175.28:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20406197
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.126:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20963240
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.223.179:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20186453
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.224.94:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20746839
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.229.153:62145?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20682499
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.214.172:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20260399
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.237.61:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20695974

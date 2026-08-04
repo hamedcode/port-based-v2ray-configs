@@ -57,10 +57,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.179.159.40:22222?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.179.159.40:22222?headerType=none&type=tcp&security=none&encryption=none#@Napsternetvirani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.140.10:22222?encryption=none&security=none&type=tcp#(S101)рҹҮ©рҹҮӘt.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@fr1.levikogjgfdd.ir:22222?security=&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#@icv2ray
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AFR
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AFR
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.127.219:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40privatevpns%20%231%20%5Bfast%5D
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.19.59:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40privatevpns%20%232%20%5Bfast%5D
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.157.78:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#EPODONIOS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.76.36:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#EPODONIOS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.203.175.41:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#EPODONIOS
@@ -101,6 +97,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.179.159.40:22222?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.179.159.40:22222?headerType=none&type=tcp&security=none&encryption=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.140.10:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@fr1.levikogjgfdd.ir:22222?security=&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20228325
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20951480
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20738279
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.19.59:22222?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20522590
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20618989
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.45.205:22222?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20842794
