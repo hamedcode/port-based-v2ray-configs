@@ -1,8 +1,6 @@
-vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#IPv6-@jd_vpn
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?security=&encryption=none&host=MTMVPN--MTMVPN--MTMVPN&headerType=http&type=tcp# @MTMVPN 4
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?security=none&encryption=none&host=bored_vpn--bored_vpn--bored_vpn&headerType=http&type=tcp#@bored_vpn
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?security=none&encryption=none&host=mehrosaboran--mehrosaboran--mehrosaboran&headerType=http&type=tcp#@mehrosaboran
-vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#EPODONIOS
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?security=&encryption=none&host=MTMVPN--MTMVPN--MTMVPN&headerType=http&type=tcp#EPODONIOS
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?security=none&encryption=none&host=bored_vpn--bored_vpn--bored_vpn&headerType=http&type=tcp#EPODONIOS
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?security=none&encryption=none&host=mehrosaboran--mehrosaboran--mehrosaboran&headerType=http&type=tcp#EPODONIOS
