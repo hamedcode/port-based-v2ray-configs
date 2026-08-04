@@ -14,5 +14,5 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=no
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&sni=/?&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&type=tcp&sni=%2F%3Fbia_telegram-tgrvpn#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&type=tcp&sni=%2F%3Fbia_telegram%40marambashi_marambashi_marambashi_marambashi#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@195.211.124.137:2090?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20842792
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.27.115:2090?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20742553
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@195.211.124.137:2090?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20590754
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.15.18.23:2090?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20107811
