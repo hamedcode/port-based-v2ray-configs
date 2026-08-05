@@ -15,18 +15,7 @@ vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&enc
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🤴8@SHAHSERVER1
 vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@159.69.192.171:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs
 vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@94.130.179.44:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@Proxy_mtm 12
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@128.140.114.57:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 15
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@159.69.192.171:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 19
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@159.69.193.221:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 20
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 16
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.47.127:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 13
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@168.119.156.100:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 17
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@62.238.51.180:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 23
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@62.238.53.197:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 21
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@62.238.55.96:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 24
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@62.238.63.51:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 22
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@91.99.119.155:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 14
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@94.130.179.44:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 18
+vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@94.130.179.44:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#ProxyMtpVPN-256
 vless://882ad889-423a-41d6-8145-5eeec13d2082@62.238.53.197:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://882ad889-423a-41d6-8145-5eeec13d2082@62.238.53.197:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@VEGAAS_VPN
 vless://882ad889-423a-41d6-8145-5eeec13d2082@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@VEGAAS_VPN
@@ -56,7 +45,6 @@ vless://9b2c31f4-dc67-4e5a-88d9-79d0a04cc2bd@46.225.220.111:1234?security=none&e
 vless://9b2c31f4-dc67-4e5a-88d9-79d0a04cc2bd@46.225.220.111:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://9b2c31f4-dc67-4e5a-88d9-79d0a04cc2bd@46.225.220.111:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@V2rayng_Fast
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#vpnsal
-vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@bored_vpn
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@mehrosaboran
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Channel : @Daily_Configs
@@ -75,13 +63,11 @@ vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@167.233.47.127:1234?security=none&e
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@167.233.47.127:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 👽
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@167.233.47.127:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@vmesc
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs
-vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 🇩🇪
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@meliproxyy
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcpconfigprxy
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.53.197:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@confiig_hub
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#MTMVPN 33
-vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮133697 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a733d1a0-6321-46ab-b525-f9da2b44b9c2@159.69.192.171:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://a733d1a0-6321-46ab-b525-f9da2b44b9c2@159.69.192.171:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#vpnsal
 vless://a733d1a0-6321-46ab-b525-f9da2b44b9c2@46.225.208.199:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
@@ -100,8 +86,6 @@ vless://caec7e57-ca9e-4738-a2c3-4ed513d83451@62.238.55.96:1234?security=none&enc
 vless://cf546c96-ed5e-46cc-b080-1cacf1770a5c@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@vmesc
 vless://cf546c96-ed5e-46cc-b080-1cacf1770a5c@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#MTMVPN 30
 vless://cf546c96-ed5e-46cc-b080-1cacf1770a5c@62.238.63.51:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@outline_ir
-vless://d96f912e-84c5-48e3-82f6-44541c21cd6a@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪133609 | ⚡️Telegram = t.me/SOSkeyNET
-vless://d96f912e-84c5-48e3-82f6-44541c21cd6a@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://db8dc0ce-d9ef-4362-b2b3-72e0532bf166@82.40.62.103:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🇩🇪All⁴ | @BigSmoke_Config
 vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@46.225.220.111:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@bored_vpn
 vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@46.225.220.111:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@configprxy
@@ -109,6 +93,8 @@ vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@46.225.220.111:1234?security=none&e
 vless://f0696c33-61de-42c7-ba69-c0b8cd57b79e@167.233.47.127:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://f0696c33-61de-42c7-ba69-c0b8cd57b79e@167.233.47.127:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@TEHRANARGO کانالمون ♥️
 vless://f0696c33-61de-42c7-ba69-c0b8cd57b79e@167.233.47.127:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@configprxy کانالمون ♥️
+vless://f0696c33-61de-42c7-ba69-c0b8cd57b79e@167.233.47.127:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Tel-@ProxyMtAlpha🫣 3
+vless://f0696c33-61de-42c7-ba69-c0b8cd57b79e@167.233.47.127:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://f0696c33-61de-42c7-ba69-c0b8cd57b79e@62.238.63.51:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://f0696c33-61de-42c7-ba69-c0b8cd57b79e@62.238.63.51:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@62.238.51.180:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@confiig_hub
@@ -117,7 +103,6 @@ vless://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?security=none&enc
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#kurdconfig
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇵🇱@FreakConfig
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇵🇱@V2rayng_Fast
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEiLCJhZGQiOiIxNTkuMjIzLjEzLjEwOSIsInBvcnQiOiIxMjM0IiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJhaWQiOiIwIiwic2N5IjoiYWVzLTEyOC1nY20iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoic3VwZXJ2cG4uc3VwZXIuY29tIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiYWxsb3dpbnNlY3VyZSI6IjEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://cf546c96-ed5e-46cc-b080-1cacf1770a5c@62.238.63.51:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20VLESS%20%7C%20%40outline_ir%20%231%20%5Bfast%5D
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20VLESS%20%7C%20%40outline_ir%20%232%20%5Bfast%5D
 vmess://ewogICAgImFkZCI6ICIxMDQuMTY4Ljg3LjE5MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjEwNC4xNjguODcuMTkwIiwKICAgICJpZCI6ICJkZjJiYzhmNC1mYzFhLTRmNGUtYjBlNS1mZDQ5MDU1YjMyYTkiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYmIiLAogICAgInBvcnQiOiAxMjM0LAogICAgInBzIjogIvCfh7rwn4e4VVMtMTA0LjE2OC44Ny4xOTAtMTM2OSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -131,18 +116,6 @@ vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=&encrypt
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@159.69.192.171:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@94.130.179.44:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@128.140.114.57:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@159.69.192.171:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@159.69.193.221:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.47.127:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@168.119.156.100:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@62.238.51.180:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@62.238.53.197:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@62.238.55.96:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@62.238.63.51:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@91.99.119.155:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@94.130.179.44:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
 vless://882ad889-423a-41d6-8145-5eeec13d2082@62.238.53.197:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://882ad889-423a-41d6-8145-5eeec13d2082@62.238.53.197:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://882ad889-423a-41d6-8145-5eeec13d2082@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
@@ -170,7 +143,6 @@ vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@167.233.47.127:1234?security=none&e
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@167.233.47.127:1234?security=none&encryption=none&host=play.google.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#EPODONIOS
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@167.233.47.127:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#EPODONIOS
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
-vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#EPODONIOS
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcpconfigprxy#EPODONIOS
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.53.197:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
@@ -187,7 +159,6 @@ vless://c6666ab2-c3e4-4504-bf2f-8b6672b00927@62.238.51.180:1234?security=none&en
 vless://caec7e57-ca9e-4738-a2c3-4ed513d83451@62.238.55.96:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#EPODONIOS
 vless://cf546c96-ed5e-46cc-b080-1cacf1770a5c@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://cf546c96-ed5e-46cc-b080-1cacf1770a5c@62.238.63.51:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://d96f912e-84c5-48e3-82f6-44541c21cd6a@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://db8dc0ce-d9ef-4362-b2b3-72e0532bf166@82.40.62.103:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@46.225.220.111:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://f0696c33-61de-42c7-ba69-c0b8cd57b79e@167.233.47.127:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
@@ -198,15 +169,17 @@ vless://f0696c33-61de-42c7-ba69-c0b8cd57b79e@62.238.63.51:1234?security=none&enc
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@62.238.51.180:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@62.238.53.197:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@159.69.192.171:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20228619
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@159.69.192.171:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20548221
-vless://a733d1a0-6321-46ab-b525-f9da2b44b9c2@159.69.192.171:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20203016
-vless://aa9dfeec-9933-4b41-9154-daae02003c3d@159.69.192.171:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20742614
-vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@167.233.47.127:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20674198
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.47.127:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20255431
-vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20513216
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@168.119.156.100:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20466445
-vless://a733d1a0-6321-46ab-b525-f9da2b44b9c2@62.238.55.96:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20554157
-vless://aa9dfeec-9933-4b41-9154-daae02003c3d@38.107.237.89:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20595377
-vless://a733d1a0-6321-46ab-b525-f9da2b44b9c2@46.225.208.199:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20496378
-vless://aa9dfeec-9933-4b41-9154-daae02003c3d@62.238.53.197:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20757637
+vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20904040
+vless://aa9dfeec-9933-4b41-9154-daae02003c3d@159.69.193.221:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20564799
+vless://d96f912e-84c5-48e3-82f6-44541c21cd6a@159.69.193.221:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20566799
+vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20303908
+vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@168.119.156.100:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20108175
+vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@167.233.47.127:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20907970
+vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.47.127:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20110326
+vless://f0696c33-61de-42c7-ba69-c0b8cd57b79e@167.233.47.127:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20986392
+vless://aa9dfeec-9933-4b41-9154-daae02003c3d@62.238.51.180:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20450182
+vless://aa9dfeec-9933-4b41-9154-daae02003c3d@62.238.53.197:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20557055
+vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@159.69.192.171:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20936064
+vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@159.69.192.171:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20287666
+vless://aa9dfeec-9933-4b41-9154-daae02003c3d@104.167.199.245:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20737537
+vless://aa9dfeec-9933-4b41-9154-daae02003c3d@159.69.192.171:1234?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20223124
