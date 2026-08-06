@@ -1,2 +1,3 @@
 vless://d98aaae1-b70d-4cf7-b16f-5b7aa715d232@63.184.141.43:42886?path=/&security=none&encryption=none&host=anten.ir&type=ws#configprxy
+vless://d98aaae1-b70d-4cf7-b16f-5b7aa715d232@63.184.141.43:42886?type=tcp&encryption=none&security=none
 vless://d98aaae1-b70d-4cf7-b16f-5b7aa715d232@63.184.141.43:42886?path=/&security=none&encryption=none&host=anten.ir&type=ws#EPODONIOS

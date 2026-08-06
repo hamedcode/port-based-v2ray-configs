@@ -1,3 +1,2 @@
 vless://22448df3-17f8-40a6-9199-babaca108b46@95.85.251.116:59631?encryption=none&security=reality&sni=google.com&fp=firefox&pbk=bymilcd_vnDoof7qAq4QpFTm-hMeFPZwXPTMFXdasSg&sid=4b&type=grpc#qol_044
 vless://22448df3-17f8-40a6-9199-babaca108b46@95.85.251.116:59631?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=bymilcd_vnDoof7qAq4QpFTm-hMeFPZwXPTMFXdasSg&sid=4b&type=grpc#qol_061
-vless://22448df3-17f8-40a6-9199-babaca108b46@95.85.251.116:59631/?type=grpc&encryption=none&flow=&sni=google.com&fp=firefox&security=reality&pbk=bymilcd_vnDoof7qAq4QpFTm-hMeFPZwXPTMFXdasSg&sid=4b#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
