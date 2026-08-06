@@ -1,1 +1,2 @@
 vless://0c946396-6336-40c3-a161-fcb6bec776ce@los.chihirokk.online:23253?encryption=none&flow=xtls-rprx-vision&security=tls&sni=los.chihirokk.online&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#qoli_194
+vless://0c946396-6336-40c3-a161-fcb6bec776ce@los.chihirokk.online:23253?security=tls&type=tcp&sni=los.chihirokk.online&fp=chrome&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8

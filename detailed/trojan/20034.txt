@@ -3,7 +3,7 @@ trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?all
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-2364
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034/?type=tcp&security=tls&sni=hk.catxstar.com&fp=chrome#EPODONIOS
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?allowInsecure=0&sni=hk.catxstar.com#EPODONIOS
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@157.254.38.210:20034?allowInsecure=0&sni=hk.catxstar.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20497678
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@157.254.38.210:20034?allowInsecure=0&sni=hk.catxstar.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20823907
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@157.254.38.210:20034?security=tls&sni=hk.catxstar.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20185823
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@157.254.38.210:20034?sni=hk.catxstar.com&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20251284
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls&sni=hk.catxstar.com&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@157.254.38.210:20034?allowInsecure=0&sni=hk.catxstar.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20290906
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@157.254.38.210:20034?allowInsecure=0&sni=hk.catxstar.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20316886
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@157.254.38.210:20034?security=tls&sni=hk.catxstar.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20380401
