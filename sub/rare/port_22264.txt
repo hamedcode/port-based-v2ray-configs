@@ -1,0 +1,2 @@
+vless://d71ce631-d4e6-4385-98a8-aa39473487d0@156.238.230.3:22264?encryption=none&flow=xtls-rprx-vision&security=reality&sni=academy.nvidia.com&fp=chrome&pbk=zVts3v2fSpuI92D5vyC8sZBplE_kPmPVLk0ihCoLYTE&sid=6ba85179e30d4fc2&type=tcp&headerType=none#qoli_172
+vless://d71ce631-d4e6-4385-98a8-aa39473487d0@156.238.230.3:22264?encryption=none&flow=xtls-rprx-vision&security=reality&sni=academy.nvidia.com&fp=chrome&pbk=zVts3v2fSpuI92D5vyC8sZBplE_kPmPVLk0ihCoLYTE&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=academy.nvidia.com&path=%2F#qoli_180
