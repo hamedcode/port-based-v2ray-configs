@@ -21,7 +21,8 @@ vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security
 vless://7b81a350-89c3-47da-a3a9-5f2b65313d03@snapp.ir:2052?path=/api/auth&security=none&encryption=none&host=api5.iraniandex.ir&type=httpupgrade#TEL;Father_vpn
 vless://916ad802-80bf-4369-9f79-27babbeb091b@84.47.232.14:2052?security=none&encryption=none&headerType=http&type=tcp#@V2rayi_net
 vless://949139db-dcd3-4da9-a510-6bf22d1f5cb6@varzesh3.com:2052?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#Brayirani
-vless://ba6016d9-cd7a-467f-9589-3e29708b11a1@172.67.136.166:2052?security=none&type=ws&host=Se1.vless.site.&path=TG@juzibaipiao-ж©ҳеӯҗеҲҶдә«#@Hope_Net-join-us-on-Telegram
+vless://bb83cd54-e6c0-441d-823a-71443ff34686@203.28.8.85:2052?path=/&security=none&encryption=none&host=tau.configs.sbs&type=ws
+vless://e05b67e6-09e4-44d6-b993-a30ec87c2bb0@164.38.155.84:2052?path=/playlist&security=&encryption=none&fm={  "tcp" : [    {      "type" : "fragment",      "settings"  {        "lengths" : [          "100-200"        ],        "packets" : "1-3",        "maxSplit" : "",        "delays" : [        ]      }    }  ]}&host=uigzz.pistania.ir&type=httpupgrade#🇹🇷🇩🇪Germany-1
 vless://e994e1a7-5d8b-5520-b9ed-6c05b83e4660@95.164.34.105:2052?path=/vless#Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&type=ws#@V2rayi_net
 vless://f30a9043-6685-4cb3-aff7-04df89a857b9@perplexity.ai:2052?encryption=none&security=none&type=ws&host=gerdooai.cafebario.ir&path=/#🇩🇪All⁹ | @BigSmoke_Config
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.17.25.173:2052?encryption=none&security=none&fp=chrome&type=ws&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy&path=/?ed#کانال تلگرام : Free_VPN_CH@
@@ -57,11 +58,11 @@ vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security
 vless://7b81a350-89c3-47da-a3a9-5f2b65313d03@snapp.ir:2052?path=/api/auth&security=none&encryption=none&host=api5.iraniandex.ir&type=httpupgrade#EPODONIOS
 vless://916ad802-80bf-4369-9f79-27babbeb091b@84.47.232.14:2052?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
 vless://949139db-dcd3-4da9-a510-6bf22d1f5cb6@varzesh3.com:2052?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#EPODONIOS
-vless://ba6016d9-cd7a-467f-9589-3e29708b11a1@172.67.136.166:2052?security=none&type=ws&host=Se1.vless.site.&path=TG@juzibaipiao-ж©ҳеӯҗеҲҶдә«#EPODONIOS
+vless://bb83cd54-e6c0-441d-823a-71443ff34686@203.28.8.85:2052?path=/&security=none&encryption=none&host=tau.configs.sbs&type=ws#EPODONIOS
+vless://e05b67e6-09e4-44d6-b993-a30ec87c2bb0@164.38.155.84:2052?path=/playlist&security=&encryption=none&fm={  "tcp" : [    {      "type" : "fragment",      "settings"  {        "lengths" : [          "100-200"        ],        "packets" : "1-3",        "maxSplit" : "",        "delays" : [        ]      }    }  ]}&host=uigzz.pistania.ir&type=httpupgrade#EPODONIOS
 vless://e994e1a7-5d8b-5520-b9ed-6c05b83e4660@95.164.34.105:2052?path=/vless#Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&type=ws#EPODONIOS
 vless://f30a9043-6685-4cb3-aff7-04df89a857b9@perplexity.ai:2052?encryption=none&security=none&type=ws&host=gerdooai.cafebario.ir&path=/#EPODONIOS
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.17.25.173:2052?encryption=none&security=none&fp=chrome&type=ws&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy&path=/?ed#EPODONIOS
 vless://telegram-id-ArV2ray@25.129.197.233:2052?mode=auto&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@ArFilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80&security=none&encryption=none&host=cdn-alman5.arfilter2.blog&type=xhttp#EPODONIOS
 vless://f3d6c244-772a-428f-b8fe-e2d632cd76e4@77.42.125.134:2052?encryption=none&security=none&type=httpupgrade&path=/mmdi&host=svn-panel-team.lorqino.ir#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://81e09a82-fe8d-4393-aefb-747322b20795@104.21.88.174:2052?path=/wss&security=none&encryption=none&host=nexo.xelviro.ir&type=httpupgrade#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://86442a2b-417d-426d-9b42-955573b5c6e4@172.67.215.44:2052?encryption=none&security=none&type=ws&host=ez-bfa272.ezaccess1d90628.workers.dev&path=/eyJqdW5rIjoiaUhoWE5FbWloZWY1MGxobSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjg5LjE2OS4zNC45OSJdfQ==?ed=2560#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20775117
