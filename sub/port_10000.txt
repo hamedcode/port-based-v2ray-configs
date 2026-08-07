@@ -1,17 +1,12 @@
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp&headerType=none#🇹🇼TW_633_@Surfboardv2ray
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.253:10000?type=tcp&headerType=none&path=/#🇺🇸US-🚀@VPNine1
-vless://d096c0b7-2205-478f-9e2f-0c8366e5a2b8@148.251.41.50:10000?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev&path=/&security=tls&sni=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev&type=ws#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZWRjNjZiOC05OWQ3LTRhMjEtODMxMC02MTg3MGU3Zjg3MGQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDAwMCIsInBzIjoiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000?#%3E%3E%40v2nodes%3A%3AJP
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ATW
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ATW
 vmess://ewogICAgImFkZCI6ICIyMC4yMDUuMTE1LjE0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjIwLjIwNS4xMTUuMTQwIiwKICAgICJpZCI6ICJkZTRjZWIzNi1iNzA4LTQ2NTgtODFiMi0yZjI2MTJlMzlhMjMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMTAwMDAsCiAgICAicHMiOiAi8J+HrfCfh7BISy0yMC4yMDUuMTE1LjE0MC0yMTEyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000?#EPODONIOS
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?&type=tcp&headerType=none&path=/#EPODONIOS
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.253:10000?type=tcp&headerType=none&path=/#EPODONIOS
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000?#EPODONIOS
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp#EPODONIOS
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&security=none&type=tcp#EPODONIOS
 vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZWRjNjZiOC05OWQ3LTRhMjEtODMxMC02MTg3MGU3Zjg3MGQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDAwMCIsInBzIjoiaGFtZWRwNzE6OvCfh7Lwn4e+Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
@@ -23,8 +18,8 @@ vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?&type=tcp&heade
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.252:10000?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20665217
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20708757
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20716047
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20142415
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20455728
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20439564
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20721755
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20586352
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20149961
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20706017

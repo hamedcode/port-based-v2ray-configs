@@ -1,3 +1,4 @@
 vless://56e45926-3e33-4f18-9b61-b293dadce5c6@164.92.138.76:53418?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Tel-@ProxyMtAlpha⛩️ 6
+vless://56e45926-3e33-4f18-9b61-b293dadce5c6@64.226.108.120:53418?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#ProxyMtpVPN-226
 vless://56e45926-3e33-4f18-9b61-b293dadce5c6@164.92.138.76:53418?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://56e45926-3e33-4f18-9b61-b293dadce5c6@167.99.83.94:53418?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+vless://56e45926-3e33-4f18-9b61-b293dadce5c6@64.226.108.120:53418?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
