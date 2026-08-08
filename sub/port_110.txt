@@ -6,6 +6,7 @@ vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?host=/?&encrypti
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?host=/?&encryption=none&headerType=none&security=none&type=tcp#@v2rayng3
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=&encryption=none&headerType=none&type=tcp#@filembad
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=&encryption=none&headerType=none&type=tcp#@meliproxyy
+vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#@filembad
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#@outline_ir
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#@vmess_ir
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=/?&headerType=none&type=tcp#@tootffarangi🍓-2
@@ -15,6 +16,7 @@ vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&en
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Telegram : @proxy_kafee
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=/?BIA_TELEGRAM@TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&headerType=none&type=tcp#@tootffarangi🍓-6
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&type=tcp#@ShadowFlux2 | کانال ما در تلگرام
+vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=play.google.com&headerType=none&type=tcp#@irconfiig
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&type=tcp&host=/?&encryption=none&headerType=none#@Alpha_v2rayIP
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?host=%2F%3F&encryption=none&headerType=none&security=none&type=tcp#%3E%3E%40V2rayNG3%3A%3ADE
 vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -27,6 +29,8 @@ vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&en
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#EPODONIOS
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=/?BIA_TELEGRAM@TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&headerType=none&type=tcp#EPODONIOS
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&type=tcp#EPODONIOS
+vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=play.google.com&headerType=none&type=tcp#EPODONIOS
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&type=tcp&host=/?&encryption=none&headerType=none#EPODONIOS
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?host=%2F%3F&encryption=none&headerType=none&security=none&type=tcp#EPODONIOS
-vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?host=%2F%3F&encryption=none&headerType=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20972763
+vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?host=%2F%3F&encryption=none&headerType=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20899286
+vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?host=/?&encryption=none&headerType=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20257981
