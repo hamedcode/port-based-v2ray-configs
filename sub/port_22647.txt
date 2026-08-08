@@ -24,5 +24,5 @@ vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?security=none&e
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.92:22647?path=/&security=none&encryption=none&type=ws#EPODONIOS
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=%2F&security=&encryption=none&type=ws#EPODONIOS
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=%2F&security=&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20196333
-vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=/&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20358978
+vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=%2F&security=&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20693378
+vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=/&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20391593

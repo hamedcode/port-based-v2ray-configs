@@ -5,4 +5,6 @@ vless://bcd2e4aa-81d1-4a8e-874a-27312de239a5@64.226.91.227:47587?encryption=none
 vless://bcd2e4aa-81d1-4a8e-874a-27312de239a5@165.232.35.128:47587?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://bcd2e4aa-81d1-4a8e-874a-27312de239a5@165.232.35.128:47587?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://bcd2e4aa-81d1-4a8e-874a-27312de239a5@64.226.91.227:47587?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
-vless://bcd2e4aa-81d1-4a8e-874a-27312de239a5@165.232.35.128:47587?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20237464
+vless://bcd2e4aa-81d1-4a8e-874a-27312de239a5@165.232.35.128:47587?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20358868
+vless://bcd2e4aa-81d1-4a8e-874a-27312de239a5@167.99.255.119:47587?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20612063
+vless://bcd2e4aa-81d1-4a8e-874a-27312de239a5@64.226.91.227:47587?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20981238
