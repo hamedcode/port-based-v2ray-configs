@@ -5,11 +5,9 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encr
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://6f436a44-f703-93da-7e45-615824a39d3b@admin.kermanshahi.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#MTMVPN 13
-vless://6f436a44-f703-93da-7e45-615824a39d3b@admin.kermanshahi.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#kurdconfig
 vless://6f436a44-f703-93da-7e45-615824a39d3b@admin.kermanshahi.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#🇸🇪@V2rayng_Fast
 vless://6f436a44-f703-93da-7e45-615824a39d3b@admin.kermanshahi.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#🤴‼️TELEGRAM@SHAHSERVER1🪽
 vless://6f436a44-f703-93da-7e45-615824a39d3b@sw1.levikogjgfdd.ir:1000?encryption=none&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=reality&fp=chrome&sni=knox.cdn-apple.com&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#🇸🇪 @V2RAYNG_IP
-vless://fc31868c-ca54-4da6-b64f-e8a8f198061f@91.107.174.135:1000?security=reality&encryption=none&pbk=xqlmWddryaShYnqVDlceZdvSxmwIZ6rJwpUEulJwNkA&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=d2952538#🇩🇪138362 | ⚡️Telegram = t.me/SOSkeyNET
 ss://YWVzLTEyOC1nY206cmtidmZtNG1neDd2ajY5eQ@[2a0e:97c0:3f0:1::15b2]:1000?plugin=obfs-local;obfs=http;obfs-host=#EPODONIOS
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.130.42:1000?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -18,4 +16,3 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encry
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://6f436a44-f703-93da-7e45-615824a39d3b@admin.kermanshahi.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#EPODONIOS
 vless://6f436a44-f703-93da-7e45-615824a39d3b@sw1.levikogjgfdd.ir:1000?encryption=none&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=reality&fp=chrome&sni=knox.cdn-apple.com&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#EPODONIOS
-vless://fc31868c-ca54-4da6-b64f-e8a8f198061f@91.107.174.135:1000?security=reality&encryption=none&pbk=xqlmWddryaShYnqVDlceZdvSxmwIZ6rJwpUEulJwNkA&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=d2952538#EPODONIOS

@@ -8,6 +8,7 @@ vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&enc
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🤴3@SHAHSERVER1
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🤴5@SHAHSERVER1
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🤴8@SHAHSERVER1
+vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@94.130.179.44:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#ProxyMtpVPN-289
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#V2ray_Alpha🤎 3
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 🇸🇪
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@168.119.156.100:1234/?encryption=none&flow=&host=play.google.com&path=/&type=tcp&headerType=http#channel_@networld_vpn
@@ -40,6 +41,7 @@ vless://5a01fefd-e1e3-4e4e-b9e0-f66668ce0449@46.225.220.111:1234?security=&encry
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@167.233.47.127:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@94.130.179.44:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#EPODONIOS
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@168.119.156.100:1234/?encryption=none&flow=&host=play.google.com&path=/&type=tcp&headerType=http#EPODONIOS

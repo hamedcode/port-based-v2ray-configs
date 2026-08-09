@@ -1,17 +1,13 @@
 vless://48eb563b-27ad-4158-a651-8b527e1db831@138.68.128.134:15458?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#🐻95@oneclickvpnkeys
 vless://48eb563b-27ad-4158-a651-8b527e1db831@144.126.193.243:15458?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs
 vless://48eb563b-27ad-4158-a651-8b527e1db831@144.126.193.243:15458?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@proxy_kafee
-vless://48eb563b-27ad-4158-a651-8b527e1db831@144.126.193.243:15458?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://48eb563b-27ad-4158-a651-8b527e1db831@144.126.193.243:15458?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@proxy_kafee
-vless://48eb563b-27ad-4158-a651-8b527e1db831@165.245.244.55:15458?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@freenettir
 vless://48eb563b-27ad-4158-a651-8b527e1db831@165.245.244.55:15458?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
 vless://48eb563b-27ad-4158-a651-8b527e1db831@165.245.244.55:15458?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2ray_phoenix
-vless://48eb563b-27ad-4158-a651-8b527e1db831@46.101.15.34:15458?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@freenettir
 vless://48eb563b-27ad-4158-a651-8b527e1db831@46.101.15.34:15458?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
 vless://48eb563b-27ad-4158-a651-8b527e1db831@46.101.15.34:15458?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2ray_phoenix
 vless://48eb563b-27ad-4158-a651-8b527e1db831@138.68.128.134:15458?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#EPODONIOS
 vless://48eb563b-27ad-4158-a651-8b527e1db831@144.126.193.243:15458?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
-vless://48eb563b-27ad-4158-a651-8b527e1db831@144.126.193.243:15458?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://48eb563b-27ad-4158-a651-8b527e1db831@144.126.193.243:15458?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://48eb563b-27ad-4158-a651-8b527e1db831@165.245.244.55:15458?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://48eb563b-27ad-4158-a651-8b527e1db831@46.101.15.34:15458?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
