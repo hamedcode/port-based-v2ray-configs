@@ -1,1 +1,2 @@
 vless://88652810-6723-4087-bc65-e7c65cb4fc90@95.85.228.84:31845?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QRfBKijY94gn30sQWyklYIr4UyEXpoqakbN7fY1R_DQ&security=reality&sid=4a1f967b1da8&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://88652810-6723-4087-bc65-e7c65cb4fc90@95.85.228.84:31845?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QRfBKijY94gn30sQWyklYIr4UyEXpoqakbN7fY1R_DQ&sid=4a1f967b1da8&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1

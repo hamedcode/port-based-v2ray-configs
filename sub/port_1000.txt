@@ -4,7 +4,6 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encr
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://5e7ca567-aef3-4e55-a64b-40910d7dd349@185.218.139.222:1000?encryption=none&fp=chrome&pbk=q-YV7OBxlU9S_9AbMyEvHzz7lI3o9beegLMN5HkXZgE&security=reality&sid=9f657918fe&sni=www.nvidia.com&spx=/uNgJtsZVoXi0q7Z&type=tcp#🇮🇷IR-🚀@VPNine1
 vless://6f436a44-f703-93da-7e45-615824a39d3b@admin.kermanshahi.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#MTMVPN 13
 vless://6f436a44-f703-93da-7e45-615824a39d3b@admin.kermanshahi.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#kurdconfig
 vless://6f436a44-f703-93da-7e45-615824a39d3b@admin.kermanshahi.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#🇸🇪@V2rayng_Fast
@@ -16,6 +15,5 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encr
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://5e7ca567-aef3-4e55-a64b-40910d7dd349@185.218.139.222:1000?encryption=none&fp=chrome&pbk=q-YV7OBxlU9S_9AbMyEvHzz7lI3o9beegLMN5HkXZgE&security=reality&sid=9f657918fe&sni=www.nvidia.com&spx=/uNgJtsZVoXi0q7Z&type=tcp#EPODONIOS
 vless://6f436a44-f703-93da-7e45-615824a39d3b@admin.kermanshahi.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#EPODONIOS
 vless://6f436a44-f703-93da-7e45-615824a39d3b@sw1.levikogjgfdd.ir:1000?encryption=none&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=reality&fp=chrome&sni=knox.cdn-apple.com&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#EPODONIOS
