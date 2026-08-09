@@ -9,8 +9,6 @@ vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=/v1&security
 vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#kurdconfig
 vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#🇷🇺@FreakConfig
 vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#🇷🇺@V2rayng_Fast
-vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@130.17.2.28:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@81.85.78.78:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@155.212.142.50:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#🇩🇪 V2RayyNGvpn
 vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@45.90.32.132:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#☑➜چنلمون: Express_freevpn@
 vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200?path=/v1&security=none&encryption=none&type=ws#@vmesskhodam
@@ -18,22 +16,20 @@ vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@185.247.16.117:2200?encryption=none
 vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200?encryption=none&host=rzd.ru&path=/v1&security=none&type=ws#🐻65@oneclickvpnkeys
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@130.17.2.27:2200/?type=ws&encryption=none&flow=&host=rzd.ru&path=/v1#channel_@networld_vpn
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.205:2200?path=/v1&security=none&encryption=none&type=ws#@hopev2ray❤️‍🔥
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@31.172.67.215:2200?type=ws&security=none&path=/v1&sni=tn.tmn141246.ru#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.233:2200?type=ws&security=none&path=/v1&sni=tn.tmn141246.ru#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://e7299042-7d8f-440f-8368-2516b0e69341@tn.tmn141246.ru:2200?encryption=none&type=ws&path=/v1&host=rzd.ru&security=none#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#%3E%3E%40v2ray_configs_pool%3A%3ARU
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1&security=none&encryption=none&type=ws#%3E%3E%40FreakConfig%3A%3AXX
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?path=%2Fv1&security=&encryption=none&host=77.222.46.162&type=ws#%3E%3E%40configV2rayNG%3A%3ARU
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1&security=none&encryption=none&type=ws#%3E%3E%40FreakConfig%3A%3ARU
-vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%3E%3E%40FreakConfig%3A%3ARU
+vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?encryption=none&host=rzd.ru&path=%2Fv1&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200/?type=ws&encryption=none&flow=&path=%2Fv1#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200/?type=ws&encryption=none&flow=&path=%2Fv1#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200/?type=ws&encryption=none&path=/v1#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20%40NamiraConfigs%20%231%20%5Bmedium%5D
+vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200/?type=ws&encryption=none&flow=&path=%2Fv1#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@185.247.16.117:2200?encryption=none&host=rzd.ru&path=%2Fv1&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#EPODONIOS
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#EPODONIOS
 vless://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?encryption=none&security=none&type=ws&path=/v1#EPODONIOS
 vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?encryption=none&host=rzd.ru&path=/v1&security=none&type=ws#EPODONIOS
 vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#EPODONIOS
-vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@130.17.2.28:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#EPODONIOS
-vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@81.85.78.78:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#EPODONIOS
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@155.212.142.50:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#EPODONIOS
 vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@45.90.32.132:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#EPODONIOS
 vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200?path=/v1&security=none&encryption=none&type=ws#EPODONIOS
@@ -41,13 +37,14 @@ vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@185.247.16.117:2200?encryption=none
 vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200?encryption=none&host=rzd.ru&path=/v1&security=none&type=ws#EPODONIOS
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@130.17.2.27:2200/?type=ws&encryption=none&flow=&host=rzd.ru&path=/v1#EPODONIOS
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.205:2200?path=/v1&security=none&encryption=none&type=ws#EPODONIOS
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@31.172.67.215:2200?type=ws&security=none&path=/v1&sni=tn.tmn141246.ru#EPODONIOS
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.233:2200?type=ws&security=none&path=/v1&sni=tn.tmn141246.ru#EPODONIOS
 vless://e7299042-7d8f-440f-8368-2516b0e69341@tn.tmn141246.ru:2200?encryption=none&type=ws&path=/v1&host=rzd.ru&security=none#EPODONIOS
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?path=%2Fv1&security=&encryption=none&host=77.222.46.162&type=ws#EPODONIOS
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1&security=none&encryption=none&type=ws#EPODONIOS
-vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#EPODONIOS
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?path=%2Fv1&security=&encryption=none&host=77.222.46.162&type=ws#EPODONIOS
+vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?encryption=none&host=rzd.ru&path=%2Fv1&security=none&type=ws#EPODONIOS
 vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200/?type=ws&encryption=none&flow=&path=%2Fv1#EPODONIOS
 vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200/?type=ws&encryption=none&flow=&path=%2Fv1#EPODONIOS
+vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@185.247.16.117:2200?encryption=none&host=rzd.ru&path=%2Fv1&security=none&type=ws#EPODONIOS
 vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200/?type=ws&encryption=none&flow=&path=/v1#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200/?type=ws&encryption=none&flow=&path=/v1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200?path=/v1&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
@@ -79,23 +76,25 @@ vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?encryption=none&t
 vless://e7299042-7d8f-440f-8368-2516b0e69341@tn.tmn141246.ru:2200?encryption=none&type=ws&path=/v1&host=rzd.ru&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.205:2200?path=/v1&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20625297
-vless://bee21918-0933-430c-904b-c941b92256ba@104.171.136.112:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20840173
-vless://a484645e-59df-4980-b649-92b71250ec60@104.171.137.148:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20793535
-vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200/?type=ws&encryption=none&flow=&path=%2Fv1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20812308
-vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200?type=ws&encryption=none&path=/v1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20998625
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.205:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20328997
-vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200/?type=ws&encryption=none&flow=&path=%2Fv1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20337973
-vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200?type=ws&encryption=none&path=/v1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20666552
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?path=%2Fv1&security=&encryption=none&host=77.222.46.162&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20568990
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?path=/v1&encryption=none&host=77.222.46.162&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20746792
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@155.212.142.50:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20277672
-vless://112912a9-cedf-485d-b8ed-d8f8d4774437@31.129.96.186:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20790552
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1&security=none&encryption=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20167535
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=/v1&security=none&encryption=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20755736
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20584592
-vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20185982
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20571581
-vless://31c2a8e8-0ab2-4f3f-8767-11f3a35d4228@72.56.7.195:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20121286
-vless://5502312d-b5cf-4652-8c59-4d670dd047be@104.171.137.109:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20992430
-vless://a2aa7759-ddac-4d02-bf9d-de62cbff9481@104.171.132.232:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20484725
+vless://43874ef1-1f74-4b8b-bc84-1d13caabd71b@104.171.137.176:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20819631
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@168.222.143.50:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20752253
+vless://31c2a8e8-0ab2-4f3f-8767-11f3a35d4228@72.56.7.195:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20993233
+vless://bee21918-0933-430c-904b-c941b92256ba@104.171.136.112:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20857900
+vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@185.247.16.117:2200?encryption=none&host=rzd.ru&path=%2Fv1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20224465
+vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?encryption=none&host=rzd.ru&path=%2Fv1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20520940
+vless://5502312d-b5cf-4652-8c59-4d670dd047be@104.171.137.109:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20628790
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.205:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20812039
+vless://112912a9-cedf-485d-b8ed-d8f8d4774437@31.129.96.186:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20771896
+vless://a484645e-59df-4980-b649-92b71250ec60@104.171.137.148:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20498243
+vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200/?type=ws&encryption=none&flow=&path=%2Fv1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20267753
+vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200?type=ws&encryption=none&path=/v1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20968349
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20252043
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20195702
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?path=%2Fv1&security=&encryption=none&host=77.222.46.162&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20807331
+vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200/?type=ws&encryption=none&flow=&path=%2Fv1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20560853
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20368768
+vless://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20321216
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=/v1&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20294145
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?path=/v1&encryption=none&host=77.222.46.162&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20256847
+vless://a2aa7759-ddac-4d02-bf9d-de62cbff9481@104.171.132.232:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20610962
+vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200?type=ws&encryption=none&path=/v1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20396748
