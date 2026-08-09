@@ -4,6 +4,5 @@ vless://1f5f2b12-7b91-4ddf-928b-d7362cf1aa43@164.90.185.67:59653?encryption=none
 vless://1f5f2b12-7b91-4ddf-928b-d7362cf1aa43@164.90.185.67:59653?encryption=none&type=tcp&headerType=http&host=play.google.com#%3E%3E%40freeland8%3A%3ADE
 vless://1f5f2b12-7b91-4ddf-928b-d7362cf1aa43@164.90.185.67:59653?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#EPODONIOS
 vless://1f5f2b12-7b91-4ddf-928b-d7362cf1aa43@164.90.185.67:59653?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
-vless://1f5f2b12-7b91-4ddf-928b-d7362cf1aa43@164.90.185.67:59653?encryption=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20281458
-vless://1f5f2b12-7b91-4ddf-928b-d7362cf1aa43@164.90.185.67:59653?encryption=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20104846
-vless://1f5f2b12-7b91-4ddf-928b-d7362cf1aa43@164.90.185.67:59653?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20349446
+vless://1f5f2b12-7b91-4ddf-928b-d7362cf1aa43@164.90.185.67:59653?encryption=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20124037
+vless://1f5f2b12-7b91-4ddf-928b-d7362cf1aa43@164.90.185.67:59653?encryption=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20603009
