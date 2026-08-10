@@ -11,4 +11,4 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004/?type=tcp&security=tls&sni=hk.catxstar.com&fp=ios#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com&fp=edge#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20004?sni=hk.catxstar.com&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20004?security=tls&sni=hk.catxstar.com&fp=qq&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20964023
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20004?security=tls&sni=hk.catxstar.com&fp=edge&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20318836
