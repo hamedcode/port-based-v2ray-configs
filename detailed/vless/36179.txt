@@ -7,8 +7,5 @@ vless://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:36179/?type=tcp&encr
 vless://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:36179?security=&encryption=none&headerType=&type=tcp#EPODONIOS
 vless://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:36179?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://c896406b-ccc4-4c37-8b8c-15964f32a9a2@65.109.208.236:36179?security=&encryption=none&headerType=&type=tcp#EPODONIOS
-vless://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:36179?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://c896406b-ccc4-4c37-8b8c-15964f32a9a2@65.109.208.236:36179?security=&encryption=none&headerType=&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:36179?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:36179?security=&encryption=none&headerType=&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20337111
-vless://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:36179?encryption=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20166358
+vless://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:36179?security=&encryption=none&headerType=&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20917457
+vless://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:36179?encryption=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20516433
