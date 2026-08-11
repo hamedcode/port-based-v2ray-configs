@@ -1,2 +1,3 @@
 vless://130e6aab-9eba-441e-9021-22cbccc72832@134.0.116.208:9877?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#🇫🇷
 vless://130e6aab-9eba-441e-9021-22cbccc72832@134.0.116.208:9877?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#EPODONIOS
+vless://130e6aab-9eba-441e-9021-22cbccc72832@134.0.116.208:9877?type=grpc&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&mode=multi&serviceName=grpc-tunnel&fp=firefox#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7

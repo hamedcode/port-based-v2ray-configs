@@ -2,7 +2,6 @@ vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@gr1.levikogjgfdd.ir:51822?encryptio
 vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@gr1.levikogjgfdd.ir:51822?security=none&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#@Selinc
 vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@gr1.levikogjgfdd.ir:51822?encryption=none&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=none#EPODONIOS
 vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@gr1.levikogjgfdd.ir:51822?security=none&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#EPODONIOS
-vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?security=none&type=raw&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20422732
-vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20918567
-vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?security=none&type=tcp&packetEncoding=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20788098
+vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?security=none&type=raw&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20432857
+vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20611278
+vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?security=none&type=tcp&packetEncoding=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20489452
