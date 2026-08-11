@@ -1,4 +1,2 @@
 vless://dc2a36c3-1eec-444e-abcd-d435adf0a74f@45.131.185.205:47504?headerType=none&type=tcp&security=none&encryption=none#@Capoit
-vless://dc2a36c3-1eec-444e-abcd-d435adf0a74f@45.131.185.205:47504?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://dc2a36c3-1eec-444e-abcd-d435adf0a74f@45.131.185.205:47504?headerType=none&type=tcp&security=none&encryption=none#EPODONIOS
-vless://dc2a36c3-1eec-444e-abcd-d435adf0a74f@45.131.185.205:47504?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS

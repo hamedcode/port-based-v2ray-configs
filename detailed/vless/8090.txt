@@ -1,0 +1,4 @@
+vless://271e3f7b-6afe-4104-b65b-afc2950f1638@51.75.91.250:8090?security=none&type=tcp&headerType=http&path=/&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20600019
+vless://8918b670-d08f-49c5-aeb7-e8159f365418@51.75.94.5:8090?security=none&type=tcp&headerType=http&path=/&host=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20679780
+vless://271e3f7b-6afe-4104-b65b-afc2950f1638@51.75.90.175:8090?security=none&type=tcp&headerType=http&path=/&host=icloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20967902
+vless://8918b670-d08f-49c5-aeb7-e8159f365418@57.129.98.249:8090?security=none&type=tcp&headerType=http&path=/&host=icloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20294982
