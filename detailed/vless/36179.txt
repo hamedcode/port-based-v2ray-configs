@@ -6,4 +6,3 @@ vless://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:36179/?type=tcp&encr
 vless://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:36179?security=&encryption=none&headerType=&type=tcp#EPODONIOS
 vless://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:36179?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://c896406b-ccc4-4c37-8b8c-15964f32a9a2@65.109.208.236:36179?security=&encryption=none&headerType=&type=tcp#EPODONIOS
-vless://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:36179?encryption=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20537991
