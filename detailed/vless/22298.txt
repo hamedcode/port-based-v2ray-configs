@@ -1,4 +1,2 @@
-vless://6d3b8cac-9d1c-4219-b282-581b76341060@157.245.43.172:22298/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#channel_@networld_vpn
 vless://6d3b8cac-9d1c-4219-b282-581b76341060@157.245.43.172:22298?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2ray_phoenix
-vless://6d3b8cac-9d1c-4219-b282-581b76341060@157.245.43.172:22298/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#EPODONIOS
 vless://6d3b8cac-9d1c-4219-b282-581b76341060@157.245.43.172:22298?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS

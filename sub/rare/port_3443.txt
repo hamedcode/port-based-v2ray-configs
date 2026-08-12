@@ -1,2 +1,0 @@
-vless://11b7e901-e970-4491-9c7d-13c153e39e5b@177.3.213.230:3443?type=grpc&security=tls&fp=edge&sni=get.wlrus.cfd#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://11b7e901-e970-4491-9c7d-13c153e39e5b@177.3.213.230:3443?encryption=none&security=tls&sni=get.wlrus.cfd&type=grpc#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
