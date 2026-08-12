@@ -2,6 +2,7 @@ vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@tri.montago-shop.ir:42538?encryptio
 vless://888193f6-6818-42f4-b223-64c9fd323b76@31.15.18.92:42538?encryption=none&type=tcp&headerType=none&host=play.google.com#vpnsal
 vless://a379c14c-20d0-4e87-a230-d5c971ecf404@trs.mobileemdad.top:42538?security=none&encryption=none&host=trs.mobileemdad.top&headerType=http&type=tcp#configprxy
 vless://a379c14c-20d0-4e87-a230-d5c971ecf404@trs.mobileemdad.top:42538?security=none&encryption=none&host=trs.mobileemdad.top&headerType=http&type=tcp#kurdconfig
+vless://08fcff42-a045-4660-99b4-c9d20e5e3264@tra.montago-shop.ir:42538?encryption=none&type=tcp&headerType=http&path=/&host=play.googleapis.com#EPODONIOS
 vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@tri.montago-shop.ir:42538?encryption=none&security=none&type=tcp&headerType=http&host=tra.montago-shop.ir&path=/#EPODONIOS
 vless://888193f6-6818-42f4-b223-64c9fd323b76@31.15.18.92:42538?encryption=none&type=tcp&headerType=none&host=play.google.com#EPODONIOS
 vless://a379c14c-20d0-4e87-a230-d5c971ecf404@trs.mobileemdad.top:42538?security=none&encryption=none&host=trs.mobileemdad.top&headerType=http&type=tcp#EPODONIOS

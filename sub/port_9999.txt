@@ -8,6 +8,6 @@ vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encrypt
 vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@217.60.99.49:9999?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@217.60.99.49:9999?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20610463
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@217.60.99.49:9999?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20529621
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@217.60.99.49:9999?encryption=none&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20687485
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@217.60.99.49:9999?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20787704
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@217.60.99.49:9999?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20464253
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@217.60.99.49:9999?encryption=none&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20522287
