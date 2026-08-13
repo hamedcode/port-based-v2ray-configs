@@ -42,8 +42,7 @@ trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&al
 trojan://ce433528-39fa-4711-bc0d-25a5b1579574@in-01.licom.ml:8443?allowInsecure=1#EPODONIOS
 trojan://humanity@93.183.89.112:8443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@109.71.241.236:8443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@144.31.50.78:8443?security=tls&alpn=h3,h2,http/1.1&insecure=0&host=ru.federal-usa.com&headerType=none&fp=randomized&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20532795
-trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@144.31.50.78:8443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20464556
-trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@144.31.50.77:8443?security=tls&sni=ru.federal-usa.com&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20910138
-trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@144.31.50.78:8443?security=tls&sni=ru.federal-usa.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20707843
-trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@144.31.50.78:8443?security=tls&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20350514
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@144.31.50.78:8443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20109749
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@144.31.50.77:8443?security=tls&sni=ru.federal-usa.com&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20317082
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@144.31.50.77:8443?security=tls&sni=ru.federal-usa.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20333787
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@144.31.50.77:8443?security=tls&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20907410

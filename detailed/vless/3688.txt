@@ -1,1 +1,2 @@
 vless://0d5e6a2c-4c90-4f25-abf9-f5e17f286a36@cu.riverveil.com:3688/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cu.riverveil.com&fp=chrome#KR
+vless://0d5e6a2c-4c90-4f25-abf9-f5e17f286a36@cu.riverveil.com:3688/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cu.riverveil.com&fp=chrome#EPODONIOS
