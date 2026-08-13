@@ -7,6 +7,5 @@ vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?encryption=none&s
 vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?encryption=none&security=none&type=tcp#EPODONIOS
 vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?&type=tcp&headerType=none&path=%2F#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20332540
-vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20890266
+vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20336309
+vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20660015
