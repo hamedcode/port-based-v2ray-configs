@@ -4,7 +4,6 @@ vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647?encryption=none&s
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?encryption=none&security=none&alpn=http/1.1&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20917340
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20235507
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647?fp=edge&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20985412
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?encryption=none&security=none&alpn=http/1.1&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20290073
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20454084
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20354332
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647?fp=edge&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20146942

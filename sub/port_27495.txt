@@ -7,7 +7,7 @@ vless://8c209515-6de9-4890-ad69-738dc52a8732@91.107.139.186:27495?security=&encr
 vless://27633813-aade-4dd1-9e22-5e114fe034cd@91.107.139.186:27495?security=&encryption=none&headerType=&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://27633813-aade-4dd1-9e22-5e114fe034cd@91.107.139.186:27495?security=none&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://8c209515-6de9-4890-ad69-738dc52a8732@91.107.139.186:27495?security=none&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://27633813-aade-4dd1-9e22-5e114fe034cd@91.107.139.186:27495?security=&encryption=none&headerType=&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20713745
-vless://8c209515-6de9-4890-ad69-738dc52a8732@91.107.139.186:27495?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20299037
-vless://27633813-aade-4dd1-9e22-5e114fe034cd@91.107.139.186:27495?encryption=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20282878
-vless://8c209515-6de9-4890-ad69-738dc52a8732@91.107.139.186:27495?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20931434
+vless://27633813-aade-4dd1-9e22-5e114fe034cd@91.107.139.186:27495?security=&encryption=none&headerType=&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20818025
+vless://8c209515-6de9-4890-ad69-738dc52a8732@91.107.139.186:27495?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20268517
+vless://27633813-aade-4dd1-9e22-5e114fe034cd@91.107.139.186:27495?encryption=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20193841
+vless://8c209515-6de9-4890-ad69-738dc52a8732@91.107.139.186:27495?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20446712

@@ -1,9 +1,6 @@
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682#🇯🇵141399 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682#🇯🇵JP-🚀@VPNine1
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682/?type=tcp&security=tls&allowInsecure=1#🇯🇵JP
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=1&sni=t11.qifei.app#%3E%3E%40v2nodes%3A%3AJP
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?security=tls&sni=t11.qifei.app#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.110.77-0242
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682#EPODONIOS
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682/?type=tcp&security=tls&allowInsecure=1#EPODONIOS
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=1&sni=t11.qifei.app#EPODONIOS
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?security=tls&sni=t11.qifei.app#EPODONIOS
@@ -12,11 +9,11 @@ trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682/?type=tcp&secu
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?sni=t11.qifei.app&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?sni=t11.qifei.app&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?sni=t11.qifei.app&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?sni=t11.qifei.app&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20305425
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?sni=t11.qifei.app&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20306455
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?allowInsecure=1&sni=t11.qifei.app#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20144395
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?allowInsecure=1&sni=t11.qifei.app#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20147894
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls&sni=t11.qifei.app&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20945108
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20811354
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?sni=t11.qifei.app&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20555176
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?sni=t11.qifei.app&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20564106
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?allowInsecure=1&sni=t11.qifei.app#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20115740
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?allowInsecure=1&sni=t11.qifei.app#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20752048
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls&sni=t11.qifei.app&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20341611
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20167598
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?sni=t11.qifei.app&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20827021
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?sni=t11.qifei.app&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20730205
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?sni=t11.qifei.app&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20535650
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?sni=t11.qifei.app&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20688627
