@@ -1,0 +1,6 @@
+vless://870541f4-b3a7-07d0-af4b-7588d36e2dac@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=search.setlisting.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20276752
+vless://870541f4-b3a7-07d0-af4b-7588d36e2dac@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&fp=ios&security=tls&sni=search.setlisting.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20190593
+vless://c968cbca-5d8d-07d0-8e4f-7e980f9eeec5@139.100.197.28:52006?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=ios&security=tls&sni=search.setlisting.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20817161
+vless://e500aaca-624e-07d0-a8e5-6c3dabb8bdf5@139.100.197.28:52006?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=ios&security=tls&sni=search.setlisting.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20156410
+vless://e500aaca-624e-07d0-a8e5-6c3dabb8bdf5@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=search.setlisting.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20438440
+vless://e500aaca-624e-07d0-a8e5-6c3dabb8bdf5@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=search.setlisting.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20504667
