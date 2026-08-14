@@ -1,1 +1,1 @@
-vless://4935bf38-dd83-454a-ba0f-6fa18c418fc0@192.204.33.111:56679?encryption=none&flow=xtls-rprx-vision&fp=&pbk=nXNWy2NMbCitk1oBQwEmbattbPeIC1vYpNrCahGFlRc&security=reality&sid=574fb961ca6be4&sni=www.tesla.com&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://4935bf38-dd83-454a-ba0f-6fa18c418fc0@192.204.33.111:56679?flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=nXNWy2NMbCitk1oBQwEmbattbPeIC1vYpNrCahGFlRc&sid=574fb961ca6be4&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F

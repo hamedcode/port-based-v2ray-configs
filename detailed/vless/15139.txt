@@ -1,11 +1,10 @@
 vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
-vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?security=none&encryption=none&headerType=none&type=tcp#🇫🇮@FreakConfig
 vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2ray_configs_pool%3A%3AFI
 vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20VLESS%20%7C%20%40NamiraConfigs%20%233%20%5Bmedium%5D
 vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20511549
-vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20569598
-vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20481436
+vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?encryption=none&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20414389
+vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20148999
+vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20479777
