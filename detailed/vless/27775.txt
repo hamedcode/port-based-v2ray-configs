@@ -1,9 +1,7 @@
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.217.238.49:27775?encryption=none&security=none&type=tcp&headerType=none#v2ray_configs_pool-169
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.217.238.49:27775?security=none&headerType=none&type=tcp&encryption=none#@Alpha_v2rayIP
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.217.238.49:27775?type=tcp&encryption=none&security=none&headerType=none#@Napsternetvirani
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@3.21.75.34:27775?headerType=none&type=tcp&encryption=none&security=none#@Alpha_v2rayIP
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@3.21.75.34:27775?headerType=none&type=tcp&security=none&encryption=none#@Napsternetvirani
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.217.238.49:27775?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.217.238.49:27775?security=none&headerType=none&type=tcp&encryption=none#EPODONIOS
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.217.238.49:27775?type=tcp&encryption=none&security=none&headerType=none#EPODONIOS
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@3.21.75.34:27775?headerType=none&type=tcp&encryption=none&security=none#EPODONIOS
