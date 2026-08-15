@@ -10,5 +10,5 @@ vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?encryption=none
 vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?encryption=none&security=none&type=tcp#EPODONIOS
 vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20155786
-vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20998125
+vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20694433
+vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20729605

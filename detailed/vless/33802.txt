@@ -11,5 +11,5 @@ vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?encryption=non
 vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?encryption=none&type=http&path=/&method=GET&packetEncoding=xudp#EPODONIOS
 vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?security=&encryption=none&headerType=http&type=tcp#EPODONIOS
 vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
-vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20385130
-vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20761188
+vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20714497
+vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20830911
