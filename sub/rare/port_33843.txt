@@ -1,4 +1,4 @@
-vless://d1b4fb49-f835-4c10-83e1-cb70238d39b5@deproxy2.lckdwn.ru:33843?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=deproxy2.lckdwn.ru&type=tcp#вҡӣпёҸ56@oneclickvpnkeys
+vless://d1b4fb49-f835-4c10-83e1-cb70238d39b5@deproxy2.lckdwn.ru:33843?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=deproxy2.lckdwn.ru&type=tcp#⚛️56@oneclickvpnkeys
 vless://c83ee688-8f37-4f4c-94a2-5d6384950b5d@64.188.64.141:33843?encryption=none&security=tls&sni=deproxy.lckdwn.ru&fp=firefox&insecure=0&allowInsecure=0&type=tcp&headerType=none#russia-today_060
 vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@94.183.209.43:33843?encryption=none&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=mFLIx6qO9qtNTKCHiRV6_M3LzLtff_TU03sHwA2A3x4&sid=ed9e5b70102767a8&spx=%2Fz7znmkwyv1tjco4&type=grpc&authority=&serviceName=grpc&mode=gun#russia-today_171
 vless://d1b4fb49-f835-4c10-83e1-cb70238d39b5@deproxy2.lckdwn.ru:33843?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=deproxy2.lckdwn.ru&type=tcp#EPODONIOS
