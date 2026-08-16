@@ -1,5 +1,0 @@
-vless://5f3900ef-b4a7-07d0-8a81-f2048e895a1a@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=search.setlisting.ru&fp=edge&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#russia-today_025
-vless://06e20338-4cc7-07d0-80c7-8dc095d3a8c5@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=search.setlisting.ru&fp=qq&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none #russia-today_026
-vless://9672a4b2-ea05-07d0-8ea9-5d479cd7114a@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=search.setlisting.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20329042
-vless://e056ef00-8622-07d0-86d2-68db9a113170@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=search.setlisting.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20675670
-vless://e7c4105c-baca-07d0-b1ea-b48af0c378bd@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=search.setlisting.ru&alpn=h2,http/1.1&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20256965
