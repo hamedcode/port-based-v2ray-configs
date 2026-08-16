@@ -1,2 +1,3 @@
 vless://14777bd9-56a5-46f6-a94f-826b4800dc05@176.108.240.241:9894?type=grpc&security=reality&fp=firefox&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&sni=dl.google.com&serviceName=grpc-tunnel#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://130e6aab-9eba-441e-9021-22cbccc72832@176.108.240.241:9894?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@82.202.141.237:9894?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GVNhQWxHlpnqLnhlOeFpagU1QLVVHBepBQN0YcPjXVg&security=reality&sni=www.io.ozone.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20433288
