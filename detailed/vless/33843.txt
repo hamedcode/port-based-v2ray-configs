@@ -1,2 +1,3 @@
 vless://c83ee688-8f37-4f4c-94a2-5d6384950b5d@64.188.64.141:33843?encryption=none&security=tls&sni=deproxy.lckdwn.ru&fp=firefox&insecure=0&allowInsecure=0&type=tcp&headerType=none#russia-today_060
 vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@94.183.209.43:33843?encryption=none&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=mFLIx6qO9qtNTKCHiRV6_M3LzLtff_TU03sHwA2A3x4&sid=ed9e5b70102767a8&spx=%2Fz7znmkwyv1tjco4&type=grpc&authority=&serviceName=grpc&mode=gun#russia-today_171
+vless://139aa859-0297-4235-82fb-41678653978e@205.172.59.52:33843?type=grpc&security=reality&fp=chrome&pbk=RA9NH_qGC2s6M4qRsEcTal72R407pHOo6xL5d9FhTQ0&sid=316dda&sni=timeline.www.cloudflare.com&serviceName=grpc&spx=/8yi2hg5esvood42#EPODONIOS

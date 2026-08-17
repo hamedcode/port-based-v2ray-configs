@@ -1,5 +1,5 @@
 vless://b0979c88-5a95-45c7-a46b-16b213b3e841@mgxui.peng.mom:26602?security=tls&type=tcp&allowInsecure=1&sni=mgxui.peng.mom&fp=chrome#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://b0979c88-5a95-45c7-a46b-16b213b3e841@mgxui.peng.mom:26602?security=tls&type=tcp&sni=mgxui.peng.mom&fp=chrome#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://b0979c88-5a95-45c7-a46b-16b213b3e841@23.138.12.138:26602?security=tls&type=tcp&packetEncoding=none&sni=mgxui.peng.mom&fp=chrome#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://b0979c88-5a95-45c7-a46b-16b213b3e841@23.138.12.138:26602?security=tls&type=raw&sni=mgxui.peng.mom&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20611201
-vless://b0979c88-5a95-45c7-a46b-16b213b3e841@23.138.12.138:26602?security=tls&type=tcp&packetEncoding=none&sni=mgxui.peng.mom&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20860457
+vless://b0979c88-5a95-45c7-a46b-16b213b3e841@23.138.12.138:26602?security=tls&type=raw&sni=mgxui.peng.mom&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20177823
+vless://b0979c88-5a95-45c7-a46b-16b213b3e841@23.138.12.138:26602?security=tls&type=tcp&packetEncoding=none&sni=mgxui.peng.mom&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20639071
