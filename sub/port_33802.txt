@@ -2,7 +2,6 @@ vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?encryption=non
 vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?encryption=none&type=http&path=/&method=GET&packetEncoding=xudp#• 🇳🇱 | 𝗡𝗲𝘁𝗵𝗲𝗿𝗹𝗮𝗻𝗱𝘀 - @HesarWeb
 vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?security=&encryption=none&headerType=http&type=tcp#@TEHRANARGO
 vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?security=&encryption=none&headerType=http&type=tcp#@configprxy
-vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?security=none&encryption=none&headerType=http&type=tcp#@FarazV2ray
 vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?security=none&encryption=none&headerType=http&type=tcp#@V2rayng_Fast
 vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?encryption=none&security=none&type=tcp&headerType=http#EPODONIOS
 vless://067f9572-78e2-4047-b7b2-34e71f132c52@178.62.198.117:33802?encryption=none&type=http&path=/&method=GET&packetEncoding=xudp#EPODONIOS
