@@ -1,3 +1,1 @@
-vless://9eb9de08-1b4b-4023-ae0d-cd28246b8778@82.40.62.221:27737?type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20194067
-vless://9eb9de08-1b4b-4023-ae0d-cd28246b8778@82.40.62.221:27737?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20736027
-vless://9eb9de08-1b4b-4023-ae0d-cd28246b8778@82.40.62.221:27737?security=none&type=tcp&packetEncoding=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20248158
+vless://9eb9de08-1b4b-4023-ae0d-cd28246b8778@82.40.62.221:27737?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20632126
