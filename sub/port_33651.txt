@@ -8,5 +8,3 @@ vless://99d6bdee-1d04-455e-8ad9-43fc14b544b4@94.237.93.20:33651?security=none&en
 vless://4bea7803-9942-4cf7-ae48-283878dc6c0d@94.237.93.20:33651?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://99d6bdee-1d04-455e-8ad9-43fc14b544b4@94.237.93.20:33651?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://99d6bdee-1d04-455e-8ad9-43fc14b544b4@94.237.93.20:33651?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://99d6bdee-1d04-455e-8ad9-43fc14b544b4@94.237.93.20:33651?security=none&type=tcp@freenettir&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20857442
-vless://99d6bdee-1d04-455e-8ad9-43fc14b544b4@94.237.93.20:33651?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20929408
