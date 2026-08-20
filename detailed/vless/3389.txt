@@ -2,6 +2,6 @@ vless://d024662a-397e-4fac-9643-8b7939e6bf33@94.237.124.107:3389/?type=tcp&encry
 vless://d024662a-397e-4fac-9643-8b7939e6bf33@94.237.124.107:3389?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🇳🇱
 vless://d024662a-397e-4fac-9643-8b7939e6bf33@94.237.124.107:3389/?type=tcp&encryption=none&flow=#EPODONIOS
 vless://d024662a-397e-4fac-9643-8b7939e6bf33@94.237.124.107:3389?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@199.247.30.30:3389?security=reality&type=tcp&sni=play.google.com&fp=firefox&sid=c6cbc90da6316b21&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20121461
-vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@199.247.27.202:3389?security=reality&type=tcp&sni=play.google.com&fp=chrome&sid=c6cbc90da6316b21&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20207940
-vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@91.107.146.232:3389?security=reality&type=tcp&sni=play.google.com&fp=chrome&sid=d55a6f43c645adb4&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20757067
+vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@91.107.146.232:3389?security=reality&type=tcp&sni=play.google.com&fp=chrome&sid=d55a6f43c645adb4&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20237460
+vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@199.247.27.202:3389?security=reality&type=tcp&sni=play.google.com&fp=chrome&sid=c6cbc90da6316b21&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20392719
+vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@199.247.30.30:3389?security=reality&type=tcp&sni=play.google.com&fp=firefox&sid=c6cbc90da6316b21&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20548054
