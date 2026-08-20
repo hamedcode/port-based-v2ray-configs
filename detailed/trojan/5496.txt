@@ -5,6 +5,5 @@ trojan://fg20mtCFHy@8.217.167.229:5496?security=tls&headerType=&type=tcp&sni=hyc
 trojan://fg20mtCFHy@8.217.167.229:5496/?type=tcp&security=tls&sni=hyctx.southbyte.xyz&allowInsecure=1&fp=android#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://fg20mtCFHy@8.217.167.229:5496/?type=tcp&security=tls&sni=hyctx.southbyte.xyz&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://fg20mtCFHy@8.217.167.229:5496?sni=hyctx.southbyte.xyz&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://fg20mtCFHy@8.217.167.229:5496?security=tls&sni=hyctx.southbyte.xyz&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20766588
-trojan://fg20mtCFHy@8.217.167.229:5496?sni=hyctx.southbyte.xyz&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20845432
-trojan://fg20mtCFHy@8.217.167.229:5496?sni=hyctx.southbyte.xyz&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20495548
+trojan://fg20mtCFHy@8.217.167.229:5496?security=tls&sni=hyctx.southbyte.xyz&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20212525
+trojan://fg20mtCFHy@8.217.167.229:5496?sni=hyctx.southbyte.xyz&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20196434

@@ -13,3 +13,7 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encry
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://97ee39cc-cb22-42fd-9476-0c1a5f5a9621@5.75.197.25:1000?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://97ee39cc-cb22-42fd-9476-0c1a5f5a9621@5.75.197.25:1000?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://97883b3a-f0b5-4e88-a61b-e9b24e18423d@45.154.98.72:1000?security=reality&type=raw&sni=sony.com&fp=chrome&flow=xtls-rprx-vision&sid=06cc092d6f372b5e&pbk=NLmekXQAhK-GC7wZhk2RcDHFI41iq6ojzZea1ppEazM&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20547306
+vless://97883b3a-f0b5-4e88-a61b-e9b24e18423d@45.154.98.72:1000?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=sony.com&fp=chrome&flow=xtls-rprx-vision&sid=06cc092d6f372b5e&pbk=NLmekXQAhK-GC7wZhk2RcDHFI41iq6ojzZea1ppEazM#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20175725
+vless://97883b3a-f0b5-4e88-a61b-e9b24e18423d@45.154.98.72:1000?security=reality&type=tcp&sni=sony.com&fp=chrome&flow=xtls-rprx-vision&sid=06cc092d6f372b5e&pbk=NLmekXQAhK-GC7wZhk2RcDHFI41iq6ojzZea1ppEazM&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20635501
+vless://97883b3a-f0b5-4e88-a61b-e9b24e18423d@45.154.98.72:1000?security=reality&type=tcp&sni=www.sony.com&fp=chrome&flow=xtls-rprx-vision&sid=06cc092d6f372b5e&pbk=NLmekXQAhK-GC7wZhk2RcDHFI41iq6ojzZea1ppEazM&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20337010
