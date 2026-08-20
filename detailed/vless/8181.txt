@@ -1,3 +1,2 @@
 vless://f9a8edf6-9dda-4f5c-9268-03fb883fc6b2@fr.vmax-panel.ir:8181?encryption=mlkem768x25519plus.native.0rtt.YJ_YRUFINCLPY5_zrNOcS8SfCcdVq0QPy-9x3epNO3M&security=none&type=tcp&headerType=http&path=/&host=mangaarabics.com#🇫🇷 France
-vless://ea19215e-b063-4eaf-9652-62d6ef67d932@tun.ultranv.ir:8181?encryption=none&security=tls&type=ws&headerType=none&path=live&host=tls.codmaxx.ir&sni=tls.codmaxx.ir#EPODONIOS
 vless://f9a8edf6-9dda-4f5c-9268-03fb883fc6b2@fr.vmax-panel.ir:8181?encryption=mlkem768x25519plus.native.0rtt.YJ_YRUFINCLPY5_zrNOcS8SfCcdVq0QPy-9x3epNO3M&security=none&type=tcp&headerType=http&path=/&host=mangaarabics.com#EPODONIOS

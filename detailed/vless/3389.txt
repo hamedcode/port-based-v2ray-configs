@@ -1,8 +1,4 @@
-vless://50b9918d-8197-4278-876a-5939400998b8@94.237.91.161:3389?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@Daily_Configs
-vless://50b9918d-8197-4278-876a-5939400998b8@94.237.91.161:3389?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@configprxy
 vless://d024662a-397e-4fac-9643-8b7939e6bf33@94.237.124.107:3389/?type=tcp&encryption=none&flow=#荷兰
 vless://d024662a-397e-4fac-9643-8b7939e6bf33@94.237.124.107:3389?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🇳🇱
-vless://50b9918d-8197-4278-876a-5939400998b8@94.237.91.161:3389?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#EPODONIOS
-vless://50b9918d-8197-4278-876a-5939400998b8@94.237.91.161:3389?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#EPODONIOS
 vless://d024662a-397e-4fac-9643-8b7939e6bf33@94.237.124.107:3389/?type=tcp&encryption=none&flow=#EPODONIOS
 vless://d024662a-397e-4fac-9643-8b7939e6bf33@94.237.124.107:3389?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
