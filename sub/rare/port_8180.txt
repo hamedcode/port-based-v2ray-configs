@@ -1,0 +1,2 @@
+vless://...@example.ir:8180?security=none&encryption=none&type=tcp
+vless://...@example.ir:8180?security=none&encryption=none&type=tcp#EPODONIOS
