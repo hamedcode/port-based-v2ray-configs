@@ -1,8 +1,4 @@
-ss://2022-blake3-chacha20-poly1305:1MX/11eaRm2ObfaODRKi4ZNAWWxrsaPFCKtiyssCJMs=@129.151.84.137:61312#🍏21@oneclickvpnkeys
-ss://2022-blake3-chacha20-poly1305:dBzhdBpUjjungwbNFFQOLIrxd9SYfqP4Qt2l29/2uYo=@129.151.65.200:61312#🍏24@oneclickvpnkeys
 ss://2022-blake3-chacha20-poly1305:fr5M3Mv/8HIcozWHJCfI8SeuOYixEodurkiYtFmanP8=@129.151.66.31:61312#🍏35@oneclickvpnkeys
-ss://2022-blake3-chacha20-poly1305:sC1RiQOK5Ts5zgUYDwB/AGFbqjpytI0/AczgkgCCnew=@129.151.77.35:61312#🍏27@oneclickvpnkeys
-ss://2022-blake3-chacha20-poly1305:wh/mzP9iT6c54QgTLig1SPpUQ0j2kv9x6Fm8CQF7zFo=@130.61.102.33:59924#🍏2@oneclickvpnkeys
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cVBQVTRjR1U1OWhqUm5PeU5UamFjQT09QHNkLWJqLmJ4LXhiLnh5ejo2MjUxMA#🌍 BJ-HK-IEPL北京IEPL万兆中转香港
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cVBQVTRjR1U1OWhqUm5PeU5UamFjQT09QHNkLXN6LmJ4LXhiLnh5ejo2MjYxMA#🌍 SZ-HK-IEPL深圳IEPL万兆中转香港
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cVBQVTRjR1U1OWhqUm5PeU5UamFjQT09QHNkLXNoLmJ4LXhiLnh5ejo2Mjc0MA#🌍 SD-HK-IEPL上海IEPL万兆中转香港
@@ -16,7 +12,9 @@ trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&ho
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#‌
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#@v2rayngzendegimamad🕊️
 vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#🍏39@oneclickvpnkeys
+vmess://3935c2dc-dbb0-43f7-b367-fe89abe87fdf@173.249.209.146:20086?encryption=auto&path=/&security=none&type=ws#🐦‍🔥77@oneclickvpnkeys
 vmess://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?encryption=auto&security=tls&type=tcp#🐦‍🔥61@oneclickvpnkeys
+vmess://959a8caf-4cea-43d0-a548-3628e7ddfafc@165.154.195.38:35034?encryption=auto&security=none&type=tcp#🐦‍🔥84@oneclickvpnkeys
 vmess://9e5c6ebf-35f9-49a3-9f12-cba2b7cdbccb@43.228.126.187:47630?encryption=auto&security=none&type=tcp#🐦‍🔥72@oneclickvpnkeys
 vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#🐦‍🔥64@oneclickvpnkeys
 vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto&security=none&type=tcp#🐦‍🔥69@oneclickvpnkeys
@@ -25,31 +23,18 @@ vmess://eyJ2IjoiMiIsInBzIjoiQFYycmF5TkdWUE4gPiDaqdin2YbZgduM2q8g2LHYp9uM2q8iLCJh
 vmess://eyJhZGQiOiJ3d3cudHJ1ZS50aCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZDdwdTVtenI5YzRiMC5jbG91ZGZyb250Lm5ldCIsImlkIjoiYTE1MGQ1NTQtZTk2Mi00NjMyLTgyOWYtZWU1ODNhZGEzZjk1IiwibmV0Ijoid3MiLCJwYXRoIjoiL2h0dW4iLCJwb3J0IjoiODAiLCJwcyI6IkQtMDYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=#泰国
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto&security=none&type=tcp#🍏90@oneclickvpnkeys
 trojan://fHngvzC1ut#YqsV4X@212.193.18.121:21936?security=tls&sni=ya.ru#%F0%9F%87%AB%F0%9F%87%AEFI-212.193.18.121-0788
-ss://2022-blake3-chacha20-poly1305:1MX/11eaRm2ObfaODRKi4ZNAWWxrsaPFCKtiyssCJMs=@129.151.84.137:61312#EPODONIOS
-ss://2022-blake3-chacha20-poly1305:dBzhdBpUjjungwbNFFQOLIrxd9SYfqP4Qt2l29/2uYo=@129.151.65.200:61312#EPODONIOS
 ss://2022-blake3-chacha20-poly1305:fr5M3Mv/8HIcozWHJCfI8SeuOYixEodurkiYtFmanP8=@129.151.66.31:61312#EPODONIOS
-ss://2022-blake3-chacha20-poly1305:sC1RiQOK5Ts5zgUYDwB/AGFbqjpytI0/AczgkgCCnew=@129.151.77.35:61312#EPODONIOS
-ss://2022-blake3-chacha20-poly1305:wh/mzP9iT6c54QgTLig1SPpUQ0j2kv9x6Fm8CQF7zFo=@130.61.102.33:59924#EPODONIOS
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cVBQVTRjR1U1OWhqUm5PeU5UamFjQT09QHNkLWJqLmJ4LXhiLnh5ejo2MjUxMA#EPODONIOS
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cVBQVTRjR1U1OWhqUm5PeU5UamFjQT09QHNkLXN6LmJ4LXhiLnh5ejo2MjYxMA#EPODONIOS
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cVBQVTRjR1U1OWhqUm5PeU5UamFjQT09QHNkLXNoLmJ4LXhiLnh5ejo2Mjc0MA#EPODONIOS
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cVBQVTRjR1U1OWhqUm5PeU5UamFjQT09QHNkLXNoLmJ4LXhiLnh5ejo2Mjc4MA#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSnRDZmpQSUhuTEN6RGlh@20.164.205.35:443@freenettirвҒ·#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640@freenettir В№#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSnRDZmpQSUhuTEN6RGlh@20.164.205.35:443@freenettir⁷#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640@freenettir ¹#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJRQDgyLjM4LjMxLjE3Njo4MDgw#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
-vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#рҹҚҸ39@oneclickvpnkeys
-vmess://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?encryption=auto&security=tls&type=tcp#рҹҗҰвҖҚрҹ”Ҙ61@oneclickvpnkeys
-vmess://9e5c6ebf-35f9-49a3-9f12-cba2b7cdbccb@43.228.126.187:47630?encryption=auto&security=none&type=tcp#рҹҗҰвҖҚрҹ”Ҙ72@oneclickvpnkeys
-vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#рҹҗҰвҖҚрҹ”Ҙ64@oneclickvpnkeys
-vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto&security=none&type=tcp#рҹҗҰвҖҚрҹ”Ҙ69@oneclickvpnkeys
-vmess://ebca559c-a4a1-4062-9453-6412d8ff5255@216.128.176.166:28809?encryption=auto&path=/ebca559c-a4a1-4062-9453-6412d8ff5255&security=none&type=ws#рҹҚҸ99@oneclickvpnkeys
-vmess://eyJ2IjoiMiIsInBzIjoiQFYycmF5TkdWUE4gPiDaqdin2YbZgduM2q8g2LHYp9uM2q8iLCJhZGQiOiIxNzIuNjYuNDQuOTciLCJwb3J0IjoiMjA1MiIsImlkIjoiODBjNmE0ZTQtM2I5OS00YWU4LTk2ODEtYzI0ZDU1MWU0NDRkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwdXBncmFkZSIsInR5cGUiOiJub25lIiwiaG9zdCI6IlBvbDEubE9vbE9vbG9PbE9vLkNPTS4iLCJwYXRoIjoiL2VkPT8yMDQ4IiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9#@CfoX_SerVer рҹҢҗ
-vmess://eyJhZGQiOiJ3d3cudHJ1ZS50aCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZDdwdTVtenI5YzRiMC5jbG91ZGZyb250Lm5ldCIsImlkIjoiYTE1MGQ1NTQtZTk2Mi00NjMyLTgyOWYtZWU1ODNhZGEzZjk1IiwibmV0Ijoid3MiLCJwYXRoIjoiL2h0dW4iLCJwb3J0IjoiODAiLCJwcyI6IkQtMDYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=#жі°еӣҪ
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto&security=none&type=tcp#рҹҚҸ90@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJRQDgyLjM4LjMxLjE3Njo4MDgw#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFhQDE5My4yOS4xMzkuMjM0OjgwODA=#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE1LjIwNC4yNDYuMTMyOjczMDc=#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
@@ -62,7 +47,7 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDIxMy4yMDIuMjA4LjE5OTo3MDAx#hamedp71%3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDE5My4yOS4xMzkuMjA0OjgwODA=#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDE5My4yOS4xMzkuMTUxOjgwODA=#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE2NS4xNDAuMjE2LjE0MiIsICJwb3J0IjogNDQzLCAiaWQiOiAiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiIsICJwcyI6ICLwn4+z77iPIFNoYXRha1ZQTiAxOTk3MTciLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20199717
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4zNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAxODAsICJwcyI6ICLwn4+z77iPIFNoYXRha1ZQTiAyNjc3MDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20267703
-vmess://eyJhZGQiOiAiMjE2LjEwNi4xODUuMTQxIiwgImFpZCI6ICIwIiwgImFscG4iOiBudWxsLCAiZnAiOiBudWxsLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5hbWUiOiAi8J+HuvCfh7ggVVMgNjciLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIyMzI0LCAic2N5IjogbnVsbCwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogbnVsbCwgInRscyI6ICIiLCAidHlwZSI6IG51bGwsICJ2IjogbnVsbCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDc2MzY4MCJ9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20763680
-vmess://eyJhZGQiOiAiMjMuOTUuMjQ4LjEwNSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiA0NDMsICJwcyI6ICLwn4+z77iPIFNoYXRha1ZQTiA2MTA3ODAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20610780
+vmess://eyJhZGQiOiAiMjE2LjEwNi4xODUuMTQxIiwgImFpZCI6ICIwIiwgImFscG4iOiBudWxsLCAiZnAiOiBudWxsLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5hbWUiOiAi8J+HuvCfh7ggVVMgNjciLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIyMzI0LCAic2N5IjogbnVsbCwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogbnVsbCwgInRscyI6ICIiLCAidHlwZSI6IG51bGwsICJ2IjogbnVsbCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDI2NzA3NyJ9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20267077
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE2NS4xNDAuMjE2LjE0MiIsICJwb3J0IjogNDQzLCAiaWQiOiAiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiIsICJwcyI6ICLwn4+z77iPIFNoYXRha1ZQTiA2Njg1ODIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20668582
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4zNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAxODAsICJwcyI6ICLwn4+z77iPIFNoYXRha1ZQTiA3NjgxMjkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20768129
+vmess://eyJhZGQiOiAiMjMuOTUuMjQ4LjEwNSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiA0NDMsICJwcyI6ICLwn4+z77iPIFNoYXRha1ZQTiAzMTk1NTEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20319551
