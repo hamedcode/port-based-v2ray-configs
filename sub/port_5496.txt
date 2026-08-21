@@ -1,7 +1,5 @@
 trojan://fg20mtCFHy@8.217.167.229:5496/?type=tcp&security=tls&sni=hyctx.southbyte.xyz&allowInsecure=1#香港-08
-trojan://fg20mtCFHy@8.217.167.229:5496?security=tls&headerType=&type=tcp&sni=hyctx.southbyte.xyz#🇭🇰|HK|@wxgqlfx|234
 trojan://fg20mtCFHy@8.217.167.229:5496/?type=tcp&security=tls&sni=hyctx.southbyte.xyz&allowInsecure=1#EPODONIOS
-trojan://fg20mtCFHy@8.217.167.229:5496?security=tls&headerType=&type=tcp&sni=hyctx.southbyte.xyz#EPODONIOS
 trojan://fg20mtCFHy@8.217.167.229:5496/?type=tcp&security=tls&sni=hyctx.southbyte.xyz&allowInsecure=1&fp=android#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://fg20mtCFHy@8.217.167.229:5496/?type=tcp&security=tls&sni=hyctx.southbyte.xyz&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://fg20mtCFHy@8.217.167.229:5496?sni=hyctx.southbyte.xyz&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0

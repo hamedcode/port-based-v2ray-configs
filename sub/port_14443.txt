@@ -1,8 +1,0 @@
-vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?encryption=none&spx=&flow=xtls-rprx-vision&fp=chrome&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&security=reality&sid=0dacf3306f&sni=rutube.ru&type=tcp#@Ap_Ir6
-vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?encryption=none&spx=&flow=xtls-rprx-vision&fp=chrome&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&security=reality&sid=0dacf3306f&sni=rutube.ru&type=tcp#EPODONIOS
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?alpn=http/1.1&encryption=none&fp=chrome&host=mws.tunnelgate.org&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20514569
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?alpn=http/1.1&encryption=none&fp=chrome&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20743496
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?alpn=http/1.1&encryption=none&fp=firefox&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20351211
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?encryption=none&fp=chrome&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20248358
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?encryption=none&fp=firefox&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20843194
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?encryption=none&host=mws.tunnelgate.org&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20586485
