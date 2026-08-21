@@ -1,6 +1,5 @@
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=disagreedebut.net&type=tcp#[25709] - Telegram : @V2All
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=disagreedebut.net&fp=chrome&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=disagreedebut.net#@FarazV2ray
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=disagreedebut.net#@V2rayng_Fast
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=disagreedebut.net#All--@V2rayAlpha--10
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=disagreedebut.net#MTMVPN 14
@@ -13,5 +12,3 @@ vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.33:18443?encryption=none
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=disagreedebut.net&type=tcp#EPODONIOS
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=disagreedebut.net&fp=chrome&type=tcp&headerType=none#EPODONIOS
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=disagreedebut.net#EPODONIOS
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=disagreedebut.net&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20168583
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=disagreedebut.net&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20607071

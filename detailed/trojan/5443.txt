@@ -1,1 +1,3 @@
-trojan://fg20mtCFHy@47.86.107.20:5443?security=tls&sni=hytfes.southbyte.xyz&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20800940
+trojan://fg20mtCFHy@172.237.3.17:5443/?type=tcp&security=tls&sni=www.bing.com&allowInsecure=1&fp=chrome#日本
+trojan://fg20mtCFHy@172.237.3.17:5443/?type=tcp&security=tls&sni=www.bing.com&allowInsecure=1&fp=chrome#EPODONIOS
+trojan://fg20mtCFHy@47.86.107.20:5443?security=tls&sni=hytfes.southbyte.xyz&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20492869

@@ -1,7 +1,0 @@
-vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@xiweini.dpdns.org:30100/?type=tcp&encryption=none&flow=&security=tls&sni=xiweini.dpdns.org&alpn=h2,http/1.1&fp=chrome#香港
-vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@xiweini.dpdns.org:30100/?type=tcp&encryption=none&flow=&security=tls&sni=xiweini.dpdns.org&alpn=h2,http/1.1&fp=chrome#EPODONIOS
-vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@xiweini.dpdns.org:30100/?type=tcp&encryption=none&flow=&security=tls&sni=xiweini.dpdns.org&alpn=h2,http/1.1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@xiweini.dpdns.org:30100?security=tls&type=tcp&sni=xiweini.dpdns.org&fp=chrome#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@223.122.123.74:30100?security=tls&type=tcp&sni=xiweini.dpdns.org&fp=firefox&encryption=none#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@223.122.123.74:30100?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=xiweini.dpdns.org&fp=firefox#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@xiweini.dpdns.org:30100?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=xiweini.dpdns.org&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
