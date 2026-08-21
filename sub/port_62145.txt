@@ -8,5 +8,3 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.180.13.47:62145?encryption=none
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.36.56:62145?encryption=none&security=none&type=tcp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.155:62145?&type=tcp&headerType=none&path=%2F#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B4
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.126:62145?security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B4
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.36.56:62145?allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20177018
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.36.56:62145?allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20651893
