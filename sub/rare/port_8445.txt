@@ -1,1 +1,2 @@
 vless://fd6011da-5c16-463d-8aaf-ff35c1b95a74@85.192.61.16:8445?encryption=none&security=reality&sni=reels.frkn.org&fp=chrome&pbk=ZXvgBIvhN87thoELQot4o6b6Fe9n_wATxfobHRAwgys&sid=0498897564df&type=grpc&authority=&serviceName=grpc&mode=gun#b_161
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl6.unlockvpn.online:8445?security=tls&type=ws&path=%2Fapi%2Fv1%2Fdevices%2Fe1971f0b19%2Ftelemetry&host=nl6.unlockvpn.online&alpn=http%2F1.1&sni=nl6.unlockvpn.online&fp=firefox#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1

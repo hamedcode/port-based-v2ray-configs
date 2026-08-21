@@ -2,4 +2,5 @@ vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?encryption=none&
 vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?path=/host&security=none&encryption=none&host=www.filimo.com&type=httpupgrade#@Begoo_VPN ²⁷⁶
 vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?encryption=none&host=www.filimo.com&path=/host&security=none&type=httpupgrade#EPODONIOS
 vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?path=/host&security=none&encryption=none&host=www.filimo.com&type=httpupgrade#EPODONIOS
-vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?path=/host&security=none&encryption=none&host=www.filimo.com&type=httpupgrade#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?encryption=none&host=www.filimo.com&path=/host&security=none&type=httpupgrade#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?encryption=none&type=httpupgrade&host=www.filimo.com&path=%2Fhost&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
