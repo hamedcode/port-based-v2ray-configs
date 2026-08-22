@@ -13,6 +13,7 @@ vless://139aa859-0297-4235-82fb-41678653978e@205.172.59.52:33843?mode=gun&securi
 vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843/?type=tcp&encryption=none&flow=&security=tls&sni=deproxy2.lckdwn.ru&fp=chrome#EPODONIOS
 vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?encryption=none&fp=chrome&security=tls&sni=deproxy2.lckdwn.ru&type=tcp#EPODONIOS
 vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?encryption=none&security=tls&sni=deproxy2.lckdwn.ru&fp=chrome&allowinsecure=0&type=tcp&headerType=none#EPODONIOS
+vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?encryption=none&security=tls&sni=deproxy2.lckdwn.ru&fp=chrome&type=tcp&headerType=none#EPODONIOS
 vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=deproxy2.lckdwn.ru#EPODONIOS
 vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?encryption=none&fp=firefox&security=tls&sni=deproxy2.lckdwn.ru&type=tcp#EPODONIOS
 vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=deproxy2.lckdwn.ru#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F

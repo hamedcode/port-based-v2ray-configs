@@ -143,7 +143,7 @@ vless://be32aec6-9dde-4365-b574-2e0023462084@141.11.45.214:8080?path=/&security=
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=/&security=none&encryption=none&type=ws#EPODONIOS
 vless://c164613c-ab89-4b34-a1d7-d526fadcd5b6@de-11.th3store.ir:8080?encryption=mlkem768x25519plus.native.0rtt.xv7sk1D2Us-JXkjuqIRno-kcLA8kqeKy6seL9gXGB2M&security=none&type=httpupgrade&host=de-11.th3store.ir&path=/play#EPODONIOS
 vless://c164613c-ab89-4b34-a1d7-d526fadcd5b6@de-11.th3store.ir:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.xv7sk1D2Us-JXkjuqIRno-kcLA8kqeKy6seL9gXGB2M&host=de-11.th3store.ir&type=httpupgrade#EPODONIOS
-vless://c164613c-ab89-4b34-a1d7-d526fadcd5b6@de-11.th3store.ir:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.xv7sk1D2Us-JXkjuqIRno-kcLA8kqeKy6seL9gXGB2M&host=de-11.th3store.ir&type=httpupgrade@freenettir В№#EPODONIOS
+vless://c164613c-ab89-4b34-a1d7-d526fadcd5b6@de-11.th3store.ir:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.xv7sk1D2Us-JXkjuqIRno-kcLA8kqeKy6seL9gXGB2M&host=de-11.th3store.ir&type=httpupgrade@freenettir ¹#EPODONIOS
 vless://c4b5eaa0-c6e0-400c-bcaf-2bf30b50a0df@188.114.98.44:8080?path=/?ed=2080&security=none&encryption=none&host=1.vexogf.ir&type=httpupgrade#EPODONIOS
 vless://ce71b8c2-54a4-4dd0-b780-a4521b16f2fb@connecto1.kolman.com.de:8080/?type=ws&encryption=none&flow=&host=1.sidin.com.de&path=/eQ7EK5s88mh1QkQrKDwYqh6Dbhd#EPODONIOS
 vless://ce71b8c2-54a4-4dd0-b780-a4521b16f2fb@connecto1.kolman.com.de:8080?encryption=none&host=1.sidin.com.de&path=/eQ7EK5s88mh1QkQrKDwYqh6Dbhd&security=none&type=ws#EPODONIOS

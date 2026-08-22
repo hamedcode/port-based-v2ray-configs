@@ -15,5 +15,4 @@ vless://daf386b8-d5a7-43ad-83d7-bb9b31bb4270@164.90.171.176:55397?security=none&
 vless://2b9889fd-c379-46a0-88bf-0b1c13df2de1@164.90.171.176:55397?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#EPODONIOS
 vless://2b9889fd-c379-46a0-88bf-0b1c13df2de1@164.90.171.176:55397?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#EPODONIOS
 vless://daf386b8-d5a7-43ad-83d7-bb9b31bb4270@164.90.171.176:55397?encryption=none&type=tcp&headerType=http&host=zula.ir#EPODONIOS
-vless://daf386b8-d5a7-43ad-83d7-bb9b31bb4270@164.90.171.176:55397?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#EPODONIOS
 vless://daf386b8-d5a7-43ad-83d7-bb9b31bb4270@164.90.171.176:55397?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#EPODONIOS
