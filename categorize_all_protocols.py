@@ -15,6 +15,8 @@ import math
 import shutil # For deleting directories
 import sys # For exiting with an error code
 
+from liveness.pipeline import run_liveness_pipeline
+
 # ---------------- Config ----------------
 SOURCES = {
     "barry-far": "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
@@ -46,7 +48,11 @@ MARKERS = {
     "stats": ("<!-- START-STATS -->", "<!-- END-STATS -->"),
     "links": ("<!-- START-LINKS -->", "<!-- END-LINKS -->"),
     "sources": ("<!-- START-SOURCES -->", "<!-- END-SOURCES -->"),
+    "liveness": ("<!-- START-LIVENESS -->", "<!-- END-LIVENESS -->"),
 }
+
+TOP100_FILENAME = "top100.txt"
+CLASH_FILENAME = "clash.yaml"
 
 # ---------------- Helpers ----------------
 def safe_filename(s):
@@ -191,6 +197,29 @@ for proto, ports in proto_port_links.items():
         with open(os.path.join(dirpath, f"{safe_filename(port)}.txt"), "w", encoding="utf-8") as f:
             f.write("\n".join(links))
 
+# ---------------- Liveness testing (TCP -> WireGuard -> xray-knife -> top100/clash) ----------------
+print("Running liveness pipeline (TCP check, then real test via WireGuard)...")
+liveness_result = {}
+try:
+    liveness_result = run_liveness_pipeline(list(seen))
+except Exception as e:
+    print(f"  WARNING: liveness pipeline crashed, skipping top100/clash outputs: {e}")
+    liveness_result = {
+        "top_configs": [], "clash_yaml": "", "top100_txt": "",
+        "l3_tested": False, "tcp_stable_count": 0, "l3_alive_count": 0,
+        "tunnel_used": None,
+    }
+
+if liveness_result.get("top100_txt"):
+    with open(os.path.join(SUB_DIR, TOP100_FILENAME), "w", encoding="utf-8") as f:
+        f.write(liveness_result["top100_txt"])
+    print(f"  Wrote {SUB_DIR}/{TOP100_FILENAME} ({len(liveness_result['top_configs'])} configs)")
+
+if liveness_result.get("clash_yaml"):
+    with open(os.path.join(SUB_DIR, CLASH_FILENAME), "w", encoding="utf-8") as f:
+        f.write(liveness_result["clash_yaml"])
+    print(f"  Wrote {SUB_DIR}/{CLASH_FILENAME}")
+
 print("Generating README content...")
 protocols_all = sorted(protocol_links.keys(), key=lambda p: (PREFERRED.index(p) if p in PREFERRED else len(PREFERRED), p))
 stats_table_md = md_table_from_rows(
@@ -285,6 +314,39 @@ stats_block = f"{MARKERS['stats'][0]}\n_Last update: {now_ts}_\n\n{stats_table_m
 links_block = f"{MARKERS['links'][0]}\n### By Port\n{port_table_md}\n\n### By Protocol\n{proto_table_md}\n\n### By Protocol & Port (Common Ports)\n{pp_table_html}\n{MARKERS['links'][1]}"
 sources_block = f"{MARKERS['sources'][0]}\n{side_by_side_html}\n{MARKERS['sources'][1]}"
 
+# --- Liveness block ---
+_top_count = len(liveness_result.get("top_configs") or [])
+_tcp_stable = liveness_result.get("tcp_stable_count", 0)
+_l3_tested = liveness_result.get("l3_tested", False)
+_l3_alive = liveness_result.get("l3_alive_count", 0)
+_tunnel = liveness_result.get("tunnel_used")
+
+if _l3_tested:
+    _method_line = f"Real proxy test via WireGuard tunnel `{_tunnel}` (xray-knife)"
+    _extra_line = f"- Passed real test: **{_l3_alive}** / {_tcp_stable} (TCP-stable)"
+else:
+    _method_line = "TCP handshake only (WireGuard tunnel unavailable this run — fallback mode)"
+    _extra_line = ""
+
+_liveness_rows = [
+    ["TCP-stable (3 rounds)", _tcp_stable],
+    ["Top100 configs", _top_count],
+]
+liveness_table_md = md_table_from_rows(["Metric", "Value"], _liveness_rows)
+
+_top100_link = f"[top100.txt]({RAW_URL_BASE}/{SUB_DIR}/{TOP100_FILENAME})"
+_clash_link = f"[clash.yaml]({RAW_URL_BASE}/{SUB_DIR}/{CLASH_FILENAME})"
+
+liveness_block = (
+    f"{MARKERS['liveness'][0]}\n"
+    f"**Method:** {_method_line}\n\n"
+    f"{liveness_table_md}\n"
+    + (f"\n{_extra_line}\n" if _extra_line else "")
+    + f"\n- {_top100_link} — top {_top_count} configs, sorted by speed\n"
+    f"- {_clash_link} — ready-to-import Clash/Mihomo config (top {_top_count} only)\n"
+    f"{MARKERS['liveness'][1]}"
+)
+
 print("Updating README.md...")
 try:
     with open(README_PATH, "r", encoding="utf-8") as f:
@@ -301,6 +363,14 @@ try:
     readme_text = re.sub(f"{re.escape(MARKERS['stats'][0])}.*?{re.escape(MARKERS['stats'][1])}", stats_block, readme_text, flags=re.S)
     readme_text = re.sub(f"{re.escape(MARKERS['links'][0])}.*?{re.escape(MARKERS['links'][1])}", links_block, readme_text, flags=re.S)
     readme_text = re.sub(f"{re.escape(MARKERS['sources'][0])}.*?{re.escape(MARKERS['sources'][1])}", sources_block, readme_text, flags=re.S)
+    if MARKERS['liveness'][0] in readme_text:
+        readme_text = re.sub(f"{re.escape(MARKERS['liveness'][0])}.*?{re.escape(MARKERS['liveness'][1])}", liveness_block, readme_text, flags=re.S)
+    else:
+        # اگه مارکرِ liveness توی README قدیمی نبود، بعد از بلوکِ sources اضافه‌اش می‌کنیم
+        readme_text = readme_text.replace(
+            MARKERS['sources'][1],
+            f"{MARKERS['sources'][1]}\n\n## \U0001F7E2 Live Configs (Tested)\n{liveness_block}",
+        )
     
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(readme_text)
