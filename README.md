@@ -26,7 +26,7 @@ This repository contains a collection of V2Ray configurations, aggregated from v
 ## 📊 Config Stats
 
 <!-- START-STATS -->
-_Last update: 2026-08-22 09:08:09 GMT+3:30_
+_Last update: 2026-08-22 09:22:45 GMT+3:30_
 
 | Protocol | 80 | 443 | 2053 | 8880 | 2087 | 2096 | 8443 | Total |
 |---|---|---|---|---|---|---|---|---|
@@ -118,7 +118,7 @@ If the WireGuard tunnel is unavailable for a run, the pipeline falls back to TCP
 
 | Metric | Value |
 |---|---|
-| TCP-stable (3 rounds) | 12469 |
+| TCP-stable (3 rounds) | 12567 |
 | Top100 configs | 100 |
 
 - [top100.txt](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/top100.txt) — top 100 configs, sorted by speed
