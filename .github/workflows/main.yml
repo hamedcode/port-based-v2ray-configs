@@ -13,6 +13,7 @@ permissions:
 jobs:
   build_and_push:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout main branch
         uses: actions/checkout@v4
@@ -22,13 +23,78 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install requests pyyaml
+
+      # ── وایرگارد: برای مرحله‌ی ۲ (تست واقعی از پشتِ تونلِ پروتون) ─────────
+      - name: 🔒 Install WireGuard tools
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y wireguard-tools
+
+      # ── نصبِ xray-knife: ابزارِ آزمونِ واقعیِ پروکسی (لایه‌ی ۳) ─────────────
+      # نسخه و checksum ثابت (pin) شده‌اند تا خروجیِ CSV غافلگیرمان نکند و
+      # آرشیوِ دانلودشده تأیید شود، نه فقط به نامِ نسخه اعتماد شود.
+      - name: 📦 Restore xray-knife cache
+        uses: actions/cache@v4
+        with:
+          path: .cache/xray-knife
+          key: xray-knife-10.1.1-linux-64-a3b10a40ccaf423d96836f9606ffec8b2e5f4fce36375eac1aadc10ba9c58034
+
+      - name: 📦 Install xray-knife (pinned + checksum verified)
+        env:
+          XRAY_KNIFE_VERSION: "10.1.1"
+          XRAY_KNIFE_ASSET: "Xray-knife-linux-64.zip"
+          XRAY_KNIFE_ZIP_SHA256: "39696103eb99b4cb55ae5d2c2456210d826f4bbcf0f89e298a05fb5fb82f09e5"
+          XRAY_KNIFE_BIN_SHA256: "a3b10a40ccaf423d96836f9606ffec8b2e5f4fce36375eac1aadc10ba9c58034"
+        run: |
+          set -euo pipefail
+          mkdir -p .cache "$HOME/.local/bin"
+          BIN=".cache/xray-knife"
+
+          if [ ! -f "$BIN" ]; then
+            URL="https://github.com/lilendian0x00/xray-knife/releases/download/v${XRAY_KNIFE_VERSION}/${XRAY_KNIFE_ASSET}"
+            echo "→ downloading $URL"
+            curl -fsSL --retry 3 --retry-delay 2 --max-time 300 -o /tmp/xk.zip "$URL"
+
+            GOT_ZIP="$(sha256sum /tmp/xk.zip | cut -d' ' -f1)"
+            if [ "$GOT_ZIP" != "$XRAY_KNIFE_ZIP_SHA256" ]; then
+              echo "::error::xray-knife archive checksum mismatch"
+              exit 1
+            fi
+            echo "  ✓ archive sha256 verified"
+
+            unzip -q -o -j /tmp/xk.zip xray-knife -d /tmp/xkbin
+            mv /tmp/xkbin/xray-knife "$BIN.tmp"
+            mv "$BIN.tmp" "$BIN"
+          else
+            echo "→ using cached binary"
+          fi
+
+          GOT_BIN="$(sha256sum "$BIN" | cut -d' ' -f1)"
+          if [ "$GOT_BIN" != "$XRAY_KNIFE_BIN_SHA256" ]; then
+            echo "::error::xray-knife binary checksum mismatch (corrupt cache or tampered release)"
+            rm -f "$BIN"
+            exit 1
+          fi
+          echo "  ✓ binary sha256 verified"
+
+          install -m 755 "$BIN" "$HOME/.local/bin/xray-knife"
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
 
       - name: Run Python script to generate all files and stats
+        env:
+          WG_CONFIGS: ${{ secrets.WG_CONFIGS }}
         run: python categorize_all_protocols.py
+
+      # همیشه اجرا می‌شه، حتی اگه مرحله‌ی بالا شکست بخوره — تا اگه وایرگارد
+      # وسطِ کار قطع شده باشه، namespace/اینترفیس یتیم روی ران‌ر نمونه.
+      - name: 🧹 Cleanup WireGuard namespace (always)
+        if: always()
+        run: |
+          sudo ip netns delete wgtest 2>/dev/null || true
 
       # --- مرحله جدید اشکال‌زدایی ---
       - name: 🧐 DEBUG - List generated files
