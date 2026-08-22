@@ -315,24 +315,33 @@ links_block = f"{MARKERS['links'][0]}\n### By Port\n{port_table_md}\n\n### By Pr
 sources_block = f"{MARKERS['sources'][0]}\n{side_by_side_html}\n{MARKERS['sources'][1]}"
 
 # --- Liveness block ---
-_top_count = len(liveness_result.get("top_configs") or [])
+_unique_count = len(seen)
 _tcp_stable = liveness_result.get("tcp_stable_count", 0)
 _l3_tested = liveness_result.get("l3_tested", False)
 _l3_alive = liveness_result.get("l3_alive_count", 0)
+_top_count = len(liveness_result.get("top_configs") or [])
 _tunnel = liveness_result.get("tunnel_used")
+
+_tcp_pct = f"{(_tcp_stable / _unique_count * 100):.1f}%" if _unique_count else "0%"
 
 if _l3_tested:
     _method_line = f"Real proxy test via WireGuard tunnel `{_tunnel}` (xray-knife)"
-    _extra_line = f"- Passed real test: **{_l3_alive}** / {_tcp_stable} (TCP-stable)"
+    _l3_pct = f"{(_l3_alive / _tcp_stable * 100):.1f}%" if _tcp_stable else "0%"
+    _liveness_rows = [
+        ["Unique configs checked", _unique_count],
+        ["Stage 1 — TCP-stable (3 rounds)", f"{_tcp_stable} ({_tcp_pct})"],
+        ["Stage 2 — Passed real test via WireGuard", f"{_l3_alive} ({_l3_pct} of stage 1)"],
+        ["Included in top100.txt / clash.yaml", _top_count],
+    ]
 else:
-    _method_line = "TCP handshake only (WireGuard tunnel unavailable this run — fallback mode)"
-    _extra_line = ""
+    _method_line = "TCP handshake only (WireGuard tunnel unavailable this run — fallback mode, stage 2 skipped)"
+    _liveness_rows = [
+        ["Unique configs checked", _unique_count],
+        ["Stage 1 — TCP-stable (3 rounds)", f"{_tcp_stable} ({_tcp_pct})"],
+        ["Included in top100.txt / clash.yaml", _top_count],
+    ]
 
-_liveness_rows = [
-    ["TCP-stable (3 rounds)", _tcp_stable],
-    ["Top100 configs", _top_count],
-]
-liveness_table_md = md_table_from_rows(["Metric", "Value"], _liveness_rows)
+liveness_table_md = md_table_from_rows(["Stage", "Result"], _liveness_rows)
 
 _top100_link = f"[top100.txt]({RAW_URL_BASE}/{SUB_DIR}/{TOP100_FILENAME})"
 _clash_link = f"[clash.yaml]({RAW_URL_BASE}/{SUB_DIR}/{CLASH_FILENAME})"
@@ -341,9 +350,8 @@ liveness_block = (
     f"{MARKERS['liveness'][0]}\n"
     f"**Method:** {_method_line}\n\n"
     f"{liveness_table_md}\n"
-    + (f"\n{_extra_line}\n" if _extra_line else "")
-    + f"\n- {_top100_link} — top {_top_count} configs, sorted by speed\n"
-    f"- {_clash_link} — ready-to-import Clash/Mihomo config (top {_top_count} only)\n"
+    f"\n- {_top100_link}\n"
+    f"- {_clash_link}\n"
     f"{MARKERS['liveness'][1]}"
 )
 
