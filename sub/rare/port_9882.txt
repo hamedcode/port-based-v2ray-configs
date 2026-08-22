@@ -1,2 +1,2 @@
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@91.224.87.22:9882?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#a_0176
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@80.78.246.205:9882?encryption=none&security=reality&sni=dl.google.com&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#b_164
+vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@91.224.87.22:9882?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#a_0176
