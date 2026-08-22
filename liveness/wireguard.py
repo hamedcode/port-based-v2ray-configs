@@ -94,6 +94,37 @@ def teardown_namespace(verbose=True):
         subprocess.run(["sudo", "ip", "netns", "delete", NS_NAME], check=False)
         if verbose:
             print(f"[wireguard] namespace {NS_NAME} پاک شد")
+    subprocess.run(["sudo", "rm", "-rf", f"/etc/netns/{NS_NAME}"], check=False)
+
+
+def _split_csv(value):
+    return [v.strip() for v in value.split(",") if v.strip()]
+
+
+def _setup_dns(dns_value, verbose=True):
+    """
+    `ip netns exec` اگه `/etc/netns/<NS_NAME>/resolv.conf` وجود داشته باشه،
+    خودکار bind-mount می‌کنه روی `/etc/resolv.conf` داخل namespace. بدونِ
+    این، namespace هیچ DNS resolver ای نداره و هر دامنه‌ای (از جمله
+    health-check و بعداً هاست‌های vmess/vless دامنه‌ای) fail می‌شه.
+    """
+    servers = _split_csv(dns_value) if dns_value else []
+    if not servers:
+        servers = ["1.1.1.1", "9.9.9.9"]  # fallback اگه کانفیگ DNS نداشت
+
+    content = "".join(f"nameserver {s}\n" for s in servers)
+    _run(["sudo", "mkdir", "-p", f"/etc/netns/{NS_NAME}"])
+
+    fd, tmp_path = tempfile.mkstemp(prefix="resolv_", suffix=".conf")
+    try:
+        with os.fdopen(fd, "w") as f:
+            f.write(content)
+        _run(["sudo", "cp", tmp_path, f"/etc/netns/{NS_NAME}/resolv.conf"])
+    finally:
+        os.remove(tmp_path)
+
+    if verbose:
+        print(f"[wireguard]   DNS تنظیم شد: {', '.join(servers)}")
 
 
 def _write_conf(name, body):
@@ -121,6 +152,11 @@ def bring_up_one(name, conf_body, verbose=True, health_timeout=8):
         # loopback داخل namespace لازمه وگرنه بعضی ابزارها گیر می‌کنن
         _run(["sudo", "ip", "netns", "exec", NS_NAME, "ip", "link", "set", "lo", "up"])
 
+        address, dns = _extract_interface_fields(conf_body)
+        # باید قبل از اولین `ip netns exec` که به DNS نیاز داره (همین‌جا
+        # health-check، بعداً xray-knife) تنظیم بشه.
+        _setup_dns(dns, verbose=verbose)
+
         # wg-quick از namespace فعلی می‌خونه نه از namespace هدف، پس دستی
         # اینترفیس رو می‌سازیم و بعد می‌بریمش داخل namespace.
         _run(["sudo", "ip", "link", "add", WG_IFACE, "type", "wireguard"])
@@ -128,16 +164,19 @@ def bring_up_one(name, conf_body, verbose=True, health_timeout=8):
 
         # تنظیم کلید/پیر با wg syncconf داخل namespace
         # (wg-quick معادلِ دستیِ ساده: setconf + address + route + دی‌ان‌اس)
-        address, dns = _extract_interface_fields(conf_body)
         stripped_conf = _strip_interface_extra_fields(conf_body)
         stripped_path = _write_conf(name + "_stripped", stripped_conf)
 
         _run(["sudo", "ip", "netns", "exec", NS_NAME,
               "wg", "setconf", WG_IFACE, stripped_path])
 
+        # Address می‌تونه چند مقدار با کاما جدا باشه (مثلاً IPv4 + IPv6،
+        # نمونه‌ی معمولِ کانفیگ‌های پروتون)؛ `ip address add` هر بار فقط
+        # یه آدرس قبول می‌کنه، پس جدا-جدا اضافه می‌شن.
         if address:
-            _run(["sudo", "ip", "netns", "exec", NS_NAME,
-                  "ip", "address", "add", address, "dev", WG_IFACE])
+            for addr in _split_csv(address):
+                _run(["sudo", "ip", "netns", "exec", NS_NAME,
+                      "ip", "address", "add", addr, "dev", WG_IFACE])
 
         _run(["sudo", "ip", "netns", "exec", NS_NAME,
               "ip", "link", "set", WG_IFACE, "up"])
@@ -173,8 +212,10 @@ def bring_up_one(name, conf_body, verbose=True, health_timeout=8):
 def _extract_interface_fields(conf_body):
     address = None
     dns = None
-    for line in conf_body.splitlines():
-        line = line.strip()
+    for raw_line in conf_body.splitlines():
+        line = raw_line.split("#", 1)[0].strip()  # حذفِ کامنتِ انتهای خط (اگه بود)
+        if not line or "=" not in line:
+            continue
         if line.lower().startswith("address"):
             address = line.split("=", 1)[1].strip()
         elif line.lower().startswith("dns"):

@@ -3,14 +3,19 @@
 """
 liveness/pipeline.py — رهبرِ کل فرایند: TCP → وایرگارد → xray-knife → top100/clash
 
-این تابع طوری نوشته شده که اگه هرجایی شکست خورد، بقیه‌ی خروجی‌های
-categorize_all_protocols.py (که این پروژه قبلاً هم داشت) خراب نشن:
+این ماژول عمداً به دو تابعِ جدا شکسته شده (نه یه تابعِ یکپارچه)، چون
+categorize_all_protocols.py باید *قبل از نوشتنِ هر فایلی* (sub/, detailed/)
+بدونه کدوم کانفیگ‌ها از مرحله‌ی TCP رد شدن — تا کانفیگ‌های مرده اصلاً وارد
+مخزن نشن، نه اینکه فقط از top100 حذف بشن.
 
-  - اگه WG_CONFIGS ست نشده باشه → کل مرحله‌ی liveness رد می‌شه، فقط یه
-    پیام هشدار چاپ می‌شه (workflow fail نمی‌شه).
-  - اگه هیچ‌کدوم از تونل‌های وایرگارد بالا نیومدن → به‌جای شکستِ کامل،
-    از top100 بر اساسِ تأخیرِ TCP (مرحله ۱) استفاده می‌شه و توی خروجی
-    مشخص می‌شه که تست L3 انجام نشده.
+  run_tcp_stage(configs)        → فقط مرحله‌ی ۱ (ارزون، همیشه اجرا می‌شه)
+  run_l3_and_build(stable, ...) → مرحله‌ی ۲+۳ (وایرگارد + xray-knife) روی
+                                    همون لیستِ فیلترشده‌ی مرحله‌ی ۱
+
+هردو طوری نوشته شدن که اگه جایی شکست خورد، بقیه‌ی پایپ‌لاین خراب نشه:
+  - اگه WG_CONFIGS ست نشده یا هیچ تونلی بالا نیومد → به‌جای fail کامل، از
+    تأخیرِ TCP برای رتبه‌بندیِ top100 استفاده می‌شه و توی خروجی مشخص می‌شه
+    که تستِ L3 انجام نشده.
   - namespace همیشه توی finally پاک می‌شه، حتی اگه وسط کار خطا بده.
 """
 
@@ -22,66 +27,70 @@ from . import xray_knife_test
 from . import clash_builder
 
 
-def run_liveness_pipeline(
-    unique_configs,
+def run_tcp_stage(unique_configs, *, rounds=3, concurrency=300, verbose=True):
+    """
+    مرحله‌ی ۱: TCP سه‌دوره‌ای، مستقیم از IP ران‌ر.
+
+    برمی‌گردونه: لیستِ کانفیگ‌هایی که در همه‌ی دورها پورت‌شون باز بوده
+    (یعنی «زنده»‌های مرحله‌ی ۱؛ همینا هستن که وارد sub/detailed می‌شن).
+    """
+    stable_map = tcp_check.check_liveness(
+        list(unique_configs), rounds=rounds, concurrency=concurrency, verbose=verbose
+    )
+    return list(stable_map.keys())
+
+
+def run_l3_and_build(
+    stable_configs,
     *,
     wg_configs_secret=None,
-    tcp_rounds=3,
-    tcp_concurrency=300,
     top_n=100,
     verbose=True,
 ):
     """
+    مرحله‌ی ۲+۳: تلاش برای بالا آوردنِ تونلِ وایرگارد + تستِ واقعی با
+    xray-knife، روی کانفیگ‌هایی که از مرحله‌ی ۱ (run_tcp_stage) رد شدن.
+
     برمی‌گردونه dict شامل:
       top_configs: لیستِ (cfg, delay_ms) برای top100 نهایی
-      clash_yaml: رشته‌ی YAML آماده برای نوشتن
-      top100_txt: رشته‌ی متنِ ساده آماده برای نوشتن
-      l3_tested: bool — آیا تست واقعی (xray-knife از پشتِ وایرگارد) انجام شد
-      tcp_stable_count: تعداد کانفیگ‌های پایدار در مرحله‌ی TCP
-      l3_alive_count: تعداد کانفیگ‌هایی که واقعاً کار کردن (اگه L3 انجام شده باشه)
-      tunnel_used: اسمِ تونلِ وایرگاردی که استفاده شد (یا None)
+      clash_yaml / top100_txt: رشته‌های آماده برای نوشتن
+      l3_tested: bool — آیا تستِ واقعی انجام شد
+      l3_alive_count: تعدادِ کانفیگ‌هایی که واقعاً کار کردن
+      tunnel_used: اسمِ تونلِ استفاده‌شده (یا None)
     """
-    unique_configs = list(unique_configs)
+    stable_configs = list(stable_configs)
     result = {
         "top_configs": [],
         "clash_yaml": "",
         "top100_txt": "",
         "l3_tested": False,
-        "tcp_stable_count": 0,
         "l3_alive_count": 0,
         "tunnel_used": None,
     }
 
-    # ── مرحله ۱: TCP (مستقیم از IP ران‌ر) ──────────────────────────────
-    stable_map = tcp_check.check_liveness(
-        unique_configs, rounds=tcp_rounds, concurrency=tcp_concurrency, verbose=verbose
-    )
-    result["tcp_stable_count"] = len(stable_map)
-    stable_configs = list(stable_map.keys())
-
     if not stable_configs:
         if verbose:
-            print("[pipeline] هیچ کانفیگی از مرحله‌ی TCP رد نشد؛ liveness pipeline متوقف شد.")
+            print("[pipeline] هیچ کانفیگِ پایداری برای مرحله‌ی L3 نیست.")
         return result
 
-    wg_secret = wg_configs_secret if wg_configs_secret is not None else os.environ.get("WG_CONFIGS", "")
-    if not wg_secret.strip():
+    def _tcp_only_fallback(reason):
         if verbose:
-            print("[pipeline] WG_CONFIGS ست نشده؛ از تأخیرِ TCP برای رتبه‌بندیِ top100 استفاده می‌شه (بدون تست L3).")
-        top = sorted(stable_map.items(), key=lambda kv: kv[1] if kv[1] is not None else 1e9)[:top_n]
-        # stable_map مقادیرش True هست نه تأخیر (چون check_liveness فقط پایداری رو برمی‌گردونه)
-        # پس با تأخیرِ دورِ آخر جایگزین می‌کنیم؛ در نبودش، ترتیبِ اصلی حفظ می‌شه.
+            print(f"[pipeline] {reason} برمی‌گردیم به رتبه‌بندیِ TCP-only.")
         result["top_configs"] = [(cfg, 0.0) for cfg in stable_configs[:top_n]]
         result["top100_txt"] = clash_builder.build_top100_txt(result["top_configs"])
         try:
             result["clash_yaml"] = clash_builder.build_clash_yaml(
                 result["top_configs"],
-                header_comment="# هشدار: این خروجی فقط بر اساسِ TCP handshake ساخته شده (بدون تستِ L3)\n",
+                header_comment=f"# هشدار: {reason} این خروجی فقط بر اساسِ TCP handshake است (بدونِ تستِ L3)\n",
             )
         except Exception as e:
             if verbose:
                 print(f"[pipeline] ساختِ clash.yaml شکست خورد: {e}")
         return result
+
+    wg_secret = wg_configs_secret if wg_configs_secret is not None else os.environ.get("WG_CONFIGS", "")
+    if not wg_secret.strip():
+        return _tcp_only_fallback("WG_CONFIGS ست نشده؛")
 
     # ── مرحله ۲: وایرگارد ────────────────────────────────────────────
     tunnel_name = None
@@ -92,19 +101,7 @@ def run_liveness_pipeline(
             print(f"[pipeline] راه‌اندازیِ وایرگارد با خطا مواجه شد: {e}")
 
     if not tunnel_name:
-        if verbose:
-            print("[pipeline] هیچ تونلِ وایرگاردی بالا نیومد؛ برمی‌گردیم به رتبه‌بندیِ TCP-only.")
-        result["top_configs"] = [(cfg, 0.0) for cfg in stable_configs[:top_n]]
-        result["top100_txt"] = clash_builder.build_top100_txt(result["top_configs"])
-        try:
-            result["clash_yaml"] = clash_builder.build_clash_yaml(
-                result["top_configs"],
-                header_comment="# هشدار: تونل وایرگارد بالا نیومد؛ این خروجی فقط بر اساسِ TCP است\n",
-            )
-        except Exception as e:
-            if verbose:
-                print(f"[pipeline] ساختِ clash.yaml شکست خورد: {e}")
-        return result
+        return _tcp_only_fallback("هیچ تونلِ وایرگاردی بالا نیومد؛")
 
     result["tunnel_used"] = tunnel_name
 
@@ -125,19 +122,7 @@ def run_liveness_pipeline(
         wireguard.teardown(verbose=verbose)
 
     if not alive_map:
-        if verbose:
-            print("[pipeline] تستِ L3 هیچ کانفیگِ زنده‌ای برنگردوند؛ برمی‌گردیم به رتبه‌بندیِ TCP-only.")
-        result["top_configs"] = [(cfg, 0.0) for cfg in stable_configs[:top_n]]
-        result["top100_txt"] = clash_builder.build_top100_txt(result["top_configs"])
-        try:
-            result["clash_yaml"] = clash_builder.build_clash_yaml(
-                result["top_configs"],
-                header_comment="# هشدار: تستِ L3 نتیجه‌ای نداد؛ این خروجی فقط بر اساسِ TCP است\n",
-            )
-        except Exception as e:
-            if verbose:
-                print(f"[pipeline] ساختِ clash.yaml شکست خورد: {e}")
-        return result
+        return _tcp_only_fallback("تستِ L3 هیچ کانفیگِ زنده‌ای برنگردوند؛")
 
     top = clash_builder.get_top_n(alive_map, n=top_n)
     result["top_configs"] = top
@@ -151,4 +136,22 @@ def run_liveness_pipeline(
         if verbose:
             print(f"[pipeline] ساختِ clash.yaml شکست خورد: {e}")
 
+    return result
+
+
+def run_liveness_pipeline(unique_configs, *, wg_configs_secret=None, tcp_rounds=3,
+                           tcp_concurrency=300, top_n=100, verbose=True):
+    """
+    Wrapper راحت برای فراخوانیِ هر دو مرحله پشتِ‌سرِهم (وقتی نیازی به
+    فیلترکردنِ خروجی‌های دیگه قبل از L3 نیست). categorize_all_protocols.py
+    از این استفاده نمی‌کنه (چون باید بینِ دو مرحله فیلتر کنه)؛ این فقط برای
+    استفاده‌ی مستقیم/تست نگه داشته شده.
+    """
+    stable_configs = run_tcp_stage(
+        unique_configs, rounds=tcp_rounds, concurrency=tcp_concurrency, verbose=verbose
+    )
+    result = run_l3_and_build(
+        stable_configs, wg_configs_secret=wg_configs_secret, top_n=top_n, verbose=verbose
+    )
+    result["tcp_stable_count"] = len(stable_configs)
     return result

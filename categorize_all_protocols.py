@@ -15,7 +15,7 @@ import math
 import shutil # For deleting directories
 import sys # For exiting with an error code
 
-from liveness.pipeline import run_liveness_pipeline
+from liveness.pipeline import run_tcp_stage, run_l3_and_build
 
 # ---------------- Config ----------------
 SOURCES = {
@@ -145,23 +145,33 @@ if total_fetched == 0:
     print("\nERROR: No configs were fetched from any source. Aborting workflow.")
     sys.exit(1)
 
-print("Deduplicating and categorizing...")
+print("Deduplicating...")
 seen = set()
+for cfg, src in all_items:
+    seen.add(cfg)
+unique_count = len(seen)
+print(f"Unique configs: {unique_count}, duplicates removed: {total_fetched - unique_count}")
+
+# ---------------- Liveness — stage 1 (TCP, direct from runner) ----------------
+# این عمداً *قبل* از نوشتنِ هر فایلی اجرا می‌شه: کانفیگ‌هایی که پورت‌شون
+# اصلاً باز نیست اینجا حذف می‌شن و اصلاً وارد sub/ یا detailed/ نمی‌شن، نه
+# اینکه فقط از top100 بیرون بمونن.
+print("Running liveness stage 1 (TCP check, direct from runner)...")
+alive_configs = run_tcp_stage(list(seen))
+tcp_stable_count = len(alive_configs)
+print(f"  {tcp_stable_count}/{unique_count} configs passed TCP; the rest are excluded from this repo entirely.")
+
+print("Categorizing live configs...")
 protocol_links = defaultdict(list)
 port_links = defaultdict(list)
 proto_port_links = defaultdict(lambda: defaultdict(list))
-for cfg, src in all_items:
-    if cfg in seen:
-        continue
-    seen.add(cfg)
+for cfg in alive_configs:
     proto, port = extract_info(cfg)
     key_proto = proto or "OTHER"
     key_port = port or "unknown"
     protocol_links[key_proto].append(cfg)
     port_links[key_port].append(cfg)
     proto_port_links[key_proto][key_port].append(cfg)
-unique_count = len(seen)
-print(f"Unique configs: {unique_count}, duplicates removed: {total_fetched - unique_count}")
 
 print("Cleaning up old directories...")
 if os.path.exists(SUB_DIR):
@@ -197,16 +207,16 @@ for proto, ports in proto_port_links.items():
         with open(os.path.join(dirpath, f"{safe_filename(port)}.txt"), "w", encoding="utf-8") as f:
             f.write("\n".join(links))
 
-# ---------------- Liveness testing (TCP -> WireGuard -> xray-knife -> top100/clash) ----------------
-print("Running liveness pipeline (TCP check, then real test via WireGuard)...")
+# ---------------- Liveness — stage 2+3 (WireGuard + xray-knife -> top100/clash) ----------------
+print("Running liveness stage 2 (real test via WireGuard)...")
 liveness_result = {}
 try:
-    liveness_result = run_liveness_pipeline(list(seen))
+    liveness_result = run_l3_and_build(alive_configs)
 except Exception as e:
-    print(f"  WARNING: liveness pipeline crashed, skipping top100/clash outputs: {e}")
+    print(f"  WARNING: liveness L3 stage crashed, skipping top100/clash outputs: {e}")
     liveness_result = {
         "top_configs": [], "clash_yaml": "", "top100_txt": "",
-        "l3_tested": False, "tcp_stable_count": 0, "l3_alive_count": 0,
+        "l3_tested": False, "l3_alive_count": 0,
         "tunnel_used": None,
     }
 
@@ -285,6 +295,7 @@ summary_rows = [
     ["Total Fetched", total_fetched],
     ["Unique Configs", unique_count],
     ["Duplicates Removed", total_fetched - unique_count],
+    ["Published (passed TCP check)", tcp_stable_count],
 ]
 sources_table_html = html_table_from_rows(["Source", "Fetched Lines"], sources_rows)
 summary_table_html = html_table_from_rows(["Metric", "Value"], summary_rows)
@@ -316,30 +327,25 @@ sources_block = f"{MARKERS['sources'][0]}\n{side_by_side_html}\n{MARKERS['source
 
 # --- Liveness block ---
 _unique_count = len(seen)
-_tcp_stable = liveness_result.get("tcp_stable_count", 0)
+_tcp_stable = tcp_stable_count
 _l3_tested = liveness_result.get("l3_tested", False)
 _l3_alive = liveness_result.get("l3_alive_count", 0)
-_top_count = len(liveness_result.get("top_configs") or [])
 _tunnel = liveness_result.get("tunnel_used")
 
 _tcp_pct = f"{(_tcp_stable / _unique_count * 100):.1f}%" if _unique_count else "0%"
 
 if _l3_tested:
     _method_line = f"Real proxy test via WireGuard tunnel `{_tunnel}` (xray-knife)"
-    _l3_pct = f"{(_l3_alive / _tcp_stable * 100):.1f}%" if _tcp_stable else "0%"
-    _liveness_rows = [
-        ["Unique configs checked", _unique_count],
-        ["Stage 1 — TCP-stable (3 rounds)", f"{_tcp_stable} ({_tcp_pct})"],
-        ["Stage 2 — Passed real test via WireGuard", f"{_l3_alive} ({_l3_pct} of stage 1)"],
-        ["Included in top100.txt / clash.yaml", _top_count],
-    ]
+    _stage2_value = f"{_l3_alive} ({(_l3_alive / _tcp_stable * 100):.1f}% of stage 1)" if _tcp_stable else "0"
 else:
-    _method_line = "TCP handshake only (WireGuard tunnel unavailable this run — fallback mode, stage 2 skipped)"
-    _liveness_rows = [
-        ["Unique configs checked", _unique_count],
-        ["Stage 1 — TCP-stable (3 rounds)", f"{_tcp_stable} ({_tcp_pct})"],
-        ["Included in top100.txt / clash.yaml", _top_count],
-    ]
+    _method_line = "WireGuard tunnel unavailable this run — stage 2 did not run (fallback: TCP-only ranking used)"
+    _stage2_value = "0 (did not run)"
+
+_liveness_rows = [
+    ["Unique configs checked", _unique_count],
+    ["Stage 1 — TCP-stable (3 rounds)", f"{_tcp_stable} ({_tcp_pct})"],
+    ["Stage 2 — Passed real test via WireGuard", _stage2_value],
+]
 
 liveness_table_md = md_table_from_rows(["Stage", "Result"], _liveness_rows)
 
