@@ -2,6 +2,7 @@ vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017/?encryption=no
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪DE_2460_@Surfboardv2ray
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@Capoit
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@Selinc
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@V2rayng_Fast
@@ -24,7 +25,7 @@ vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017/?encryption=no
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#EPODONIOS
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#EPODONIOS
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20317775
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20326891
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20233526
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20289040
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20641539
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20950344
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20496040
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20496883

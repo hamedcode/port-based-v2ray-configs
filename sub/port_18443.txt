@@ -1,4 +1,3 @@
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=disagreedebut.net&type=tcp#[25709] - Telegram : @V2All
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=disagreedebut.net&fp=chrome&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=disagreedebut.net#MTMVPN 14
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=disagreedebut.net#bisto4_service
@@ -7,6 +6,5 @@ vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=no
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.33:18443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=disagreedebut.net&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none&path=%2F#b_096
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.33:18443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=disagreedebut.net&fp=firefox&insecure=0&allowInsecure=0&type=tcp&headerType=none#a_1593
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.33:18443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=disagreedebut.net&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#a_1866
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=disagreedebut.net&type=tcp#EPODONIOS
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=disagreedebut.net&fp=chrome&type=tcp&headerType=none#EPODONIOS
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=disagreedebut.net#EPODONIOS

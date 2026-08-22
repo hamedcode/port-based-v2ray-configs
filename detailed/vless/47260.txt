@@ -1,4 +1,2 @@
 vless://dbe453d8-112d-4bad-b353-3ccf60044a23@164.90.191.172:47260/?type=tcp&encryption=none&flow=#德国
-vless://dbe453d8-112d-4bad-b353-3ccf60044a23@164.90.191.172:47260?security=none&encryption=none&headerType=none&type=tcp#@Iran_v2ray1
 vless://dbe453d8-112d-4bad-b353-3ccf60044a23@164.90.191.172:47260/?type=tcp&encryption=none&flow=#EPODONIOS
-vless://dbe453d8-112d-4bad-b353-3ccf60044a23@164.90.191.172:47260?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
