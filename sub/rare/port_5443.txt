@@ -1,3 +1,2 @@
 vless://d71aecee-ef16-418e-baf5-2b2458122d5a@194.31.223.87:5443?encryption=none&security=tls&sni=de.wlrus.cfd&fp=firefox&insecure=0&allowInsecure=0&type=tcp&headerType=none#b_078
-vless://3a1ccc1e-e0f6-4836-94b8-8405b36e03be@46.243.235.177:5443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=w42qluNCHvJAkqCCjg_BHu7eTr2qRQYn93OKUSfmHEI&security=reality&sni=max.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20541557
-vless://3a1ccc1e-e0f6-4836-94b8-8405b36e03be@46.243.235.177:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=w42qluNCHvJAkqCCjg_BHu7eTr2qRQYn93OKUSfmHEI&security=reality&sni=max.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20786603
+vless://3a1ccc1e-e0f6-4836-94b8-8405b36e03be@46.243.235.177:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=w42qluNCHvJAkqCCjg_BHu7eTr2qRQYn93OKUSfmHEI&security=reality&sni=max.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20520033
