@@ -1,1 +1,1 @@
-trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com#%F0%9F%87%AE%F0%9F%87%B7IR-2.144.21.112-1411
+trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20805564
