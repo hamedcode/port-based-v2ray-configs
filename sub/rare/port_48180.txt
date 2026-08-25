@@ -1,2 +1,2 @@
-trojan://b1bbf963-f4bc-482d-81b8-597e51c1b7b9@64.23.155.51:48180/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
 trojan://b1bbf963-f4bc-482d-81b8-597e51c1b7b9@64.23.155.51:48180/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#美国
+trojan://b1bbf963-f4bc-482d-81b8-597e51c1b7b9@64.23.155.51:48180/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
