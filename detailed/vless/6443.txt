@@ -1,3 +1,1 @@
-vless://d34a3c99-5ea8-488b-8df4-a20af43b740b@79.174.92.85:6443?mode=gun&security=reality&encryption=none&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&fp=chrome&type=grpc&serviceName=grpc&sni=iv.kommersant.ru&sid=bad5722c72a0#EPODONIOS
-vless://d34a3c99-5ea8-488b-8df4-a20af43b740b@79.174.92.85:6443?mode=gun&security=reality&encryption=none&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&fp=chrome&type=grpc&serviceName=grpc&sni=iv.kommersant.ru&sid=bad5722c72a0#@Napsternetvirani
 vless://d34a3c99-5ea8-488b-8df4-a20af43b740b@79.174.92.85:6443?encryption=none&security=reality&sni=iv.kommersant.ru&fp=firefox&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&sid=bad5722c72a0&type=grpc&authority=&serviceName=grpc&mode=gun#c_11
