@@ -1,0 +1,1 @@
+vless://bc384878-f259-4558-97eb-ca3d0d365474@tr.iran1406.sbs:8522?security=tls&type=xhttp&headerType=&path=/api/v1/ef712a49ec63b6792c39a9d23efa23113972b71e/events&host=tr.iran1406.sbs&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=tr.iran1406.sbs&fp=chrome#EPODONIOS
