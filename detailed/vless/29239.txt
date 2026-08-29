@@ -1,0 +1,3 @@
+vless://14155d8d-14f7-4105-984b-f477e3880943@104.105.202.38:29239/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.sony.com&fp=chrome&security=reality&pbk=KGI60DoZFcBFTq4yrjFE5C4QitMypVH4HJlkM9VqB1M&sid=fd7069bcd5853169#EPODONIOS
+vless://14155d8d-14f7-4105-984b-f477e3880943@104.105.202.38:29239/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.sony.com&fp=chrome&security=reality&pbk=KGI60DoZFcBFTq4yrjFE5C4QitMypVH4HJlkM9VqB1M&sid=fd7069bcd5853169#法国
+vless://14155d8d-14f7-4105-984b-f477e3880943@104.105.202.38:29239?security=reality&type=tcp&sni=www.sony.com&fp=firefox&flow=xtls-rprx-vision&sid=fd7069bcd5853169&pbk=KGI60DoZFcBFTq4yrjFE5C4QitMypVH4HJlkM9VqB1M#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
