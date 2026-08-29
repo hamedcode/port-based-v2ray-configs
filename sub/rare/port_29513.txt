@@ -1,1 +1,1 @@
-vless://462d3997-8745-4f4a-ac9a-07349a211cf0@172.233.156.118:29513?security=reality&encryption=none&pbk=B6t3rGQObWmOZnhzMwbzbW2cS0xdIgjhpfEWtvhmiSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=eb92ec5ea76bbad2#EPODONIOS
+vless://462d3997-8745-4f4a-ac9a-07349a211cf0@172.233.156.118:29513?security=reality&type=tcp&sni=www.sony.com&fp=firefox&flow=xtls-rprx-vision&sid=eb92ec5ea76bbad2&pbk=B6t3rGQObWmOZnhzMwbzbW2cS0xdIgjhpfEWtvhmiSY&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
