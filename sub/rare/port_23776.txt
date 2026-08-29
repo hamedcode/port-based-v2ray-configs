@@ -1,0 +1,2 @@
+vless://5086262e-8381-483d-bc2e-d6867439928e@173.255.242.235:23776?security=reality&encryption=none&pbk=rDDl9UktPqt5eBQtF_0npmVNjatgwmUc5QLcaI9LVjE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=5fa3f40a7cf1b9#EPODONIOS
+vless://5086262e-8381-483d-bc2e-d6867439928e@173.255.242.235:23776?security=reality&type=tcp&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&sid=5fa3f40a7cf1b9&pbk=rDDl9UktPqt5eBQtF_0npmVNjatgwmUc5QLcaI9LVjE&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20115782
