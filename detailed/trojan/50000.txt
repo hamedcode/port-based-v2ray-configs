@@ -1,7 +1,16 @@
-trojan://c9618d0e-edc9-46f5-a948-96a3781fc3e9@38.55.199.26:50000?security=tls&sni=hk200m.jiasu.asia#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20543690
-trojan://0e2e0e96-5beb-4f91-8f88-24f60451e745@43.165.185.191:50000?allowInsecure=0&peer=jp200m.jiasu.asia&sni=jp200m.jiasu.asia#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20160761
-trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@43.165.185.191:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20613183
-trojan://fd3f82cc-bf25-4d3a-a379-09834800ade9@43.165.185.191:50000?security=tls&sni=jp200m.jiasu.asia&fp=chrome&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20602220
-trojan://24ef7cf6-9997-4886-9ef7-9e8233c6766f@43.165.185.191:50000?security=tls&sni=jp200m.jiasu.asia#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20580538
-trojan://5259333f-7f21-47a1-80fa-2a0c23db8e4f@43.165.185.191:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20246393
 trojan://0e2e0e96-5beb-4f91-8f88-24f60451e745@38.55.199.26:50000?allowInsecure=0&peer=hk200m.jiasu.asia&sni=hk200m.jiasu.asia#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20237022
+trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | C58E82
+trojan://d9ac7c6d-9ca8-4e1b-af9f-d268f69249b5@43.165.185.191:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | A57A79
+trojan://5259333f-7f21-47a1-80fa-2a0c23db8e4f@43.165.185.191:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20308291
+trojan://d9ac7c6d-9ca8-4e1b-af9f-d268f69249b5@43.165.185.191:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20475569
+trojan://5259333f-7f21-47a1-80fa-2a0c23db8e4f@jp200m.jiasu.asia:50000?security=tls&sni=jp200m.jiasu.asia&fp=chrome#JP 🇯🇵 | @Raydikalx | EFDFD6
+trojan://fd3f82cc-bf25-4d3a-a379-09834800ade9@43.165.185.191:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20774278
+trojan://d9ac7c6d-9ca8-4e1b-af9f-d268f69249b5@43.165.185.191:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20540958
+trojan://5259333f-7f21-47a1-80fa-2a0c23db8e4f@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://24ef7cf6-9997-4886-9ef7-9e8233c6766f@38.55.199.26:50000?security=tls&sni=hk200m.jiasu.asia#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20937521
+trojan://c9618d0e-edc9-46f5-a948-96a3781fc3e9@38.55.199.26:50000?security=tls&sni=hk200m.jiasu.asia#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20543690
+trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@43.165.185.191:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 7DCC8C
+trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@43.165.185.191:50000?sni=jp200m.jiasu.asia&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20431191
+trojan://fd3f82cc-bf25-4d3a-a379-09834800ade9@43.165.185.191:50000?security=tls&sni=jp200m.jiasu.asia&fp=chrome&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20602220
+trojan://fd3f82cc-bf25-4d3a-a379-09834800ade9@jp200m.jiasu.asia:50000?security=tls&sni=jp200m.jiasu.asia&fp=chrome&path=/#JP 🇯🇵 | @Raydikalx | D6A1BC
+trojan://fd3f82cc-bf25-4d3a-a379-09834800ade9@43.165.185.191:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 3BD1FF
