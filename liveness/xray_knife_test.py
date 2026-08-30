@@ -112,8 +112,18 @@ def run_real_test(configs, netns_exec_prefix, *, test_url=None, threads=None,
                 f"xray-knife exited 0 but wrote no output file.\n--- output ---\n{output[-2000:]}"
             )
 
-        with open(out_path, encoding="utf-8", errors="replace") as handle:
-            rows = list(csv.DictReader(handle))
+        # بعضی کانفیگ‌های خراب/بدفرمت (مثلاً remark با کاراکترِ کنترلی) باعث
+        # می‌شن xray-knife یه بایتِ NUL توی CSV بنویسه؛ اگه بدونِ پاک‌سازی به
+        # csv.DictReader بدیم، همون یه ردیفِ خراب کلِ فایل رو fail می‌کنه و
+        # نتیجه‌ی چند هزار کانفیگِ سالمِ دیگه هم دور ریخته می‌شه. پس اول
+        # باینری می‌خونیم و NUL ها رو حذف می‌کنیم.
+        with open(out_path, "rb") as handle:
+            raw = handle.read()
+        nul_count = raw.count(b"\x00")
+        if nul_count and verbose:
+            print(f"[xray_knife]   هشدار: {nul_count} بایتِ NUL توی خروجیِ CSV پاک شد (احتمالاً یه remark خراب)")
+        text = raw.replace(b"\x00", b"").decode("utf-8", errors="replace")
+        rows = list(csv.DictReader(io.StringIO(text)))
 
     finally:
         for p in (in_path, out_path):
