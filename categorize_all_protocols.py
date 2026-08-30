@@ -24,6 +24,7 @@ SOURCES = {
     "yebekhe": "https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/config.txt",
     "mahdibland": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
     "Epodonios": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
+    "0xRadikal": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs.txt",
     "Rayan-Config": "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
     "Hamedp-71": "https://raw.githubusercontent.com/hamedp-71/Sub_Checker_Creator/refs/heads/main/final.txt",
     "ConfigForge-V2Ray": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/all.txt",
