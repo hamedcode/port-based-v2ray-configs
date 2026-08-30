@@ -1,2 +1,2 @@
 vless://dd28ba19-c082-4472-96d8-a5c03d9cbacb@13.213.249.57:52786?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.nvidia.com&fp=firefox&pbk=fBqmk4loQ6gWLiRk5NpwoRnAGl55PDr66fWEpkNM6Hs&sid=cb344f105044fc&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://dd28ba19-c082-4472-96d8-a5c03d9cbacb@13.213.249.57:52786?security=reality&type=tcp&allowInsecure=1&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision&sid=cb344f105044fc&pbk=fBqmk4loQ6gWLiRk5NpwoRnAGl55PDr66fWEpkNM6Hs#SG 🇸🇬 | @Raydikalx | B9D68E
+vless://dd28ba19-c082-4472-96d8-a5c03d9cbacb@13.213.249.57:52786?security=reality&type=raw&sni=www.nvidia.com&fp=firefox&flow=xtls-rprx-vision&sid=cb344f105044fc&pbk=fBqmk4loQ6gWLiRk5NpwoRnAGl55PDr66fWEpkNM6Hs#SG 🇸🇬 | @Raydikalx | B9D68E
