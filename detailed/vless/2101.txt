@@ -1,0 +1,2 @@
+vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?type=grpc&security=tls&fp=firefox&sni=132-243-223-227.sslip.io&serviceName=fi-grpc-test#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20708512
+vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=fi-grpc-test&allowInsecure=0&sni=132-243-223-227.sslip.io#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20450933

@@ -1,2 +1,3 @@
 trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#Unknown
+trojan://HutaoCloud@185.220.238.77:11543?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20855166
 trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
