@@ -1,12 +1,9 @@
-trojan://8539b07d-4a48-46ca-8ce7-f961f4e35b0c@hk200m.jiasu.asia:50000?allowInsecure=0&peer=hk200m.jiasu.asia&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | 4E45EB
-trojan://fd3f82cc-bf25-4d3a-a379-09834800ade9@43.165.185.191:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20774278
-trojan://b454c830-7d58-4072-89a5-e0715e3e0b87@hk200m.jiasu.asia:50000?allowInsecure=0&peer=hk200m.jiasu.asia&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | 2D7110
 trojan://252c2daf-9b6f-469c-87ad-2db956c86607@hk200m.jiasu.asia:50000?allowInsecure=0&peer=hk200m.jiasu.asia&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | 0958B7
-trojan://24ef7cf6-9997-4886-9ef7-9e8233c6766f@38.55.199.26:50000?security=tls&sni=hk200m.jiasu.asia#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20937521
-trojan://0e2e0e96-5beb-4f91-8f88-24f60451e745@38.55.199.26:50000?allowInsecure=0&peer=hk200m.jiasu.asia&sni=hk200m.jiasu.asia#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20237022
+trojan://b454c830-7d58-4072-89a5-e0715e3e0b87@hk200m.jiasu.asia:50000?allowInsecure=0&peer=hk200m.jiasu.asia&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | 2D7110
+trojan://fd43209f-d9d6-42aa-9bd9-6ecb7f171164@jp200m.jiasu.asia:50000?allowInsecure=0&peer=jp200m.jiasu.asia&sni=jp200m.jiasu.asia#JP 🇯🇵 | @Raydikalx | 48F92F
+trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@43.165.185.191:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 7DCC8C
+trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@43.165.185.191:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20173887
+trojan://8539b07d-4a48-46ca-8ce7-f961f4e35b0c@hk200m.jiasu.asia:50000?allowInsecure=0&peer=hk200m.jiasu.asia&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | 4E45EB
+trojan://252c2daf-9b6f-469c-87ad-2db956c86607@38.55.199.26:50000?allowInsecure=0&peer=hk200m.jiasu.asia&sni=hk200m.jiasu.asia#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20322162
+trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@43.165.185.191:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20698458
 trojan://8539b07d-4a48-46ca-8ce7-f961f4e35b0c@jp200m.jiasu.asia:50000?allowInsecure=0&peer=jp200m.jiasu.asia&sni=jp200m.jiasu.asia#JP 🇯🇵 | @Raydikalx | 8F9330
-trojan://5259333f-7f21-47a1-80fa-2a0c23db8e4f@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=android&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 079920
-trojan://c9618d0e-edc9-46f5-a948-96a3781fc3e9@38.55.199.26:50000?security=tls&sni=hk200m.jiasu.asia#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20543690
-trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@43.165.185.191:50000?sni=jp200m.jiasu.asia&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20384229
-trojan://c9618d0e-edc9-46f5-a948-96a3781fc3e9@43.165.185.191:50000?security=tls&sni=jp200m.jiasu.asia#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20880980
-trojan://5259333f-7f21-47a1-80fa-2a0c23db8e4f@43.165.185.191:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 3608AB
