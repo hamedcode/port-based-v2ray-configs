@@ -1,6 +1,0 @@
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.18.205:440?security=none&type=tcp&headerType=http&path=%2F&host=store.steampowered.com&encryption=none#DE 🇩🇪 | @Raydikalx | 0E46D6
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.127.244:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#Server%20367
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.18.205:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#Server%20246
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.127.244:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#DE 🇩🇪 | @Raydikalx | 78106D
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.127.244:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#EPODONIOS
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.18.205:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#DE 🇩🇪 | @Raydikalx | A70BD6

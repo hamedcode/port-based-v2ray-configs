@@ -1,1 +1,2 @@
 vless://85dd8227-0f12-4826-a712-6313211774b5@43.217.16.8:21874?security=reality&type=tcp&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=42e853a5559e1032&pbk=75sTDYJk8ylA97-aBhAlF1tU4OaCfdOaOSIBshPW7Bs#MY 🇲🇾 | @Raydikalx | 536AE4
+vless://85dd8227-0f12-4826-a712-6313211774b5@43.217.16.8:21874/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=firefox&security=reality&pbk=75sTDYJk8ylA97-aBhAlF1tU4OaCfdOaOSIBshPW7Bs&sid=42e853a5559e1032#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
