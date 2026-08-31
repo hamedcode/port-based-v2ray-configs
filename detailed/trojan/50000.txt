@@ -1,8 +1,7 @@
-trojan://d9ac7c6d-9ca8-4e1b-af9f-d268f69249b5@43.165.185.191:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | A57A79
-trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@43.165.185.191:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://d9ac7c6d-9ca8-4e1b-af9f-d268f69249b5@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://b454c830-7d58-4072-89a5-e0715e3e0b87@hk200m.jiasu.asia:50000?allowInsecure=0&peer=hk200m.jiasu.asia&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | 2D7110
-trojan://252c2daf-9b6f-469c-87ad-2db956c86607@hk200m.jiasu.asia:50000?allowInsecure=0&peer=hk200m.jiasu.asia&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | 0958B7
-trojan://8539b07d-4a48-46ca-8ce7-f961f4e35b0c@jp200m.jiasu.asia:50000?allowInsecure=0&peer=jp200m.jiasu.asia&sni=jp200m.jiasu.asia#JP 🇯🇵 | @Raydikalx | 8F9330
 trojan://252c2daf-9b6f-469c-87ad-2db956c86607@jp200m.jiasu.asia:50000?allowInsecure=0&peer=jp200m.jiasu.asia&sni=jp200m.jiasu.asia#JP 🇯🇵 | @Raydikalx | 8983A0
+trojan://8539b07d-4a48-46ca-8ce7-f961f4e35b0c@jp200m.jiasu.asia:50000?allowInsecure=0&peer=jp200m.jiasu.asia&sni=jp200m.jiasu.asia#JP 🇯🇵 | @Raydikalx | 8F9330
+trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@43.165.185.191:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20463902
+trojan://8539b07d-4a48-46ca-8ce7-f961f4e35b0c@hk200m.jiasu.asia:50000?allowInsecure=0&peer=hk200m.jiasu.asia&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | 4E45EB
+trojan://d9ac7c6d-9ca8-4e1b-af9f-d268f69249b5@43.165.185.191:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | A57A79
+trojan://fd3f82cc-bf25-4d3a-a379-09834800ade9@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | CF3B99
