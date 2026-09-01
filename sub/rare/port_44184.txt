@@ -1,3 +1,1 @@
-trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?sni=v2jp.k1.ssnss.live&allowInsecure=1&type=tcp#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?sni=v2jp.k1.ssnss.live&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?sni=v2jp.k1.ssnss.live&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?security=tls&sni=v2jp.k1.ssnss.live#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.152.252-5205
