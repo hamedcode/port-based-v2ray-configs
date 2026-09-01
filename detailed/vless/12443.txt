@@ -1,2 +1,1 @@
-vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.185:12443?security=reality&type=tcp&sni=special.aeternavpn.space&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c3d4&pbk=-6SjfnZXAYm69euKQ3XNhq0nC7No7YE4qfdc2qx0Xwo#DE 🇩🇪 | @Raydikalx | 96C9B5
-vless://74f73fb2-49cc-4744-bd37-97c5f83963ab@31.77.220.163:12443?security=reality&flow=xtls-rprx-vision&sni=fr.aeternavpn.space&fp=qq&pbk=BfWH0Semc11YkTslIO_Igss921A5J3JMmq_i2FaZxDo&sid=a1b2c3d4#DE 🇩🇪 | @Raydikalx | 3D8535
+vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.185:12443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-6SjfnZXAYm69euKQ3XNhq0nC7No7YE4qfdc2qx0Xwo&security=reality&sid=a1b2c3d4&sni=special.aeternavpn.space&type=tcp#DE 🇩🇪 | @Raydikalx | 96C9B5

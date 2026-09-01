@@ -1,6 +1,5 @@
-vless://7bdfad05-e335-4394-8299-5d127cf5802a@d5g36fh5.helpower.ir:2036?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#EPODONIOS
-vless://f2ca6ce3-ba4e-4c33-a913-e3560f28e90e@sv3.helpower.ir:2036?encryption=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&security=none#EPODONIOS
-vless://f2ca6ce3-ba4e-4c33-a913-e3560f28e90e@sv3.helpower.ir:2036?encryption=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&security=none# @MIGAVPNPRO
-vless://7bdfad05-e335-4394-8299-5d127cf5802a@sv3.helpower.ir:2036?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@B2Hub
 vless://7bdfad05-e335-4394-8299-5d127cf5802a@sv3.helpower.ir:2036?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#EPODONIOS
+vless://f2ca6ce3-ba4e-4c33-a913-e3560f28e90e@sv3.helpower.ir:2036?encryption=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&security=none# @MIGAVPNPRO
+vless://7bdfad05-e335-4394-8299-5d127cf5802a@d5g36fh5.helpower.ir:2036?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#EPODONIOS
+vless://7bdfad05-e335-4394-8299-5d127cf5802a@sv3.helpower.ir:2036?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@B2Hub
 vless://7bdfad05-e335-4394-8299-5d127cf5802a@d5g36fh5.helpower.ir:2036?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@B2Hub
