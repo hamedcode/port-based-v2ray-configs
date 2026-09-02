@@ -1,0 +1,2 @@
+vless://da249715-4a6f-4873-ac3d-260f2b6e0065@45.33.107.60:10974?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&security=reality&pbk=rQHsnXffkul9uYK50Efqzu-KBZ6ZwKNZts86r8u3iEw&sid=a727f329ba2a22#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20795238
+vless://da249715-4a6f-4873-ac3d-260f2b6e0065@45.33.107.60:10974?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&pbk=rQHsnXffkul9uYK50Efqzu-KBZ6ZwKNZts86r8u3iEw&sid=a727f329ba2a22&type=tcp&headerType=none#qoli_060
