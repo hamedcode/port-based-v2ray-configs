@@ -1,5 +1,5 @@
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
-vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
+vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#🇹🇷@FreakConfig
