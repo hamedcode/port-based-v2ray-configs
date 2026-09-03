@@ -1,3 +1,2 @@
-ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#[035487] - 🇳🇱 The Netherlands | @freenettir
-ss://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:8443?security=none&encryption=none&type=ws#[035492] - 🇩🇪 Germany | @freenettir
-ss://47bd0b60-29ca-4755-a314-9f1ef398657e@104.16.245.154:8443?path=/&security=tls&encryption=none&host=hong2333.pages.dev&fp=chrome&type=ws&sni=hong2333.pages.dev#EPODONIOS
+ss://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=server10.coin.name.ng&type=ws&sni=server10.coin.name.ng#[035673] - 🇨🇦 Canada | @freenettir
+ss://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=server10.coin.name.ng&type=ws&sni=server10.coin.name.ng#EPODONIOS
