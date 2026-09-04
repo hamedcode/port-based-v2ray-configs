@@ -1,4 +1,4 @@
-vless://61344a01-5e77-45ad-9f0b-243eedff1dd3@de-node.official-happ.online:22886?security=none&encryption=none&headerType=none&type=tcp#@Azaranv2ray
+vless://61344a01-5e77-45ad-9f0b-243eedff1dd3@de-node.official-happ.online:22886/?type=tcp&encryption=none&flow=#EPODONIOS
 vless://61344a01-5e77-45ad-9f0b-243eedff1dd3@de-node.official-happ.online:22886/?type=tcp&encryption=none&flow=#德国
 vless://61344a01-5e77-45ad-9f0b-243eedff1dd3@de-node.official-happ.online:22886?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://61344a01-5e77-45ad-9f0b-243eedff1dd3@de-node.official-happ.online:22886/?type=tcp&encryption=none&flow=#EPODONIOS
+vless://61344a01-5e77-45ad-9f0b-243eedff1dd3@de-node.official-happ.online:22886?security=none&encryption=none&headerType=none&type=tcp#@Azaranv2ray
