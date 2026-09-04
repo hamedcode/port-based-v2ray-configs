@@ -1,2 +1,2 @@
-trojan://319182a3-9ca5-456e-9acd-54e0df11b0be@172.237.81.74:46262/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#马来西亚
 trojan://319182a3-9ca5-456e-9acd-54e0df11b0be@172.237.81.74:46262/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
+trojan://319182a3-9ca5-456e-9acd-54e0df11b0be@172.237.81.74:46262/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#马来西亚

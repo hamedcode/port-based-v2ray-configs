@@ -1,49 +1,33 @@
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&host=live.ok.ru&path=/v1&security=none#EPODONIOS
-vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?path=/v1&security=none&encryption=none&type=ws#EPODONIOS
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20687683
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?path=%2Fv1&sni=live.ok.ru&type=ws#RU 🇷🇺 | @Raydikalx | 2EF040
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20791269
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#EPODONIOS
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100?path=%2Fv1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | 25B785
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20594911
-vless://ed1fd11d-cbf7-4a73-9e98-c7f332b37117@188.225.25.113:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#RU 🇷🇺 | @Raydikalx | 5ED0F5
-vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.233:4100?encryption=none&type=ws&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?type=ws&security=none&path=/v1#%3E%3E%40ShadowsocksM%3A%3ARU
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&host=live.ok.ru&path=/v1&security=none#🇷🇺 @V2RAYNG_IP ✅
-vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?type=ws&security=none&path=/v1#EPODONIOS
-vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20941062
-vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?path=/v1&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20226997
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20894789
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://6bd3e20b-4be0-41df-a1e0-5c147cc8fbfc@77.222.53.158:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#EPODONIOS
-vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?path=/v1&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?type=ws&security=none&path=/v1#RU 🇷🇺 | @Raydikalx | 3C2856
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#RU 🇷🇺 | @Raydikalx | 478B06
-vless://9c2307ba-7972-4ea5-a199-f2c80049be7f@81.200.146.190:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20144574
-vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.240:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#RU 🇷🇺 | @Raydikalx | C8407F
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.240:4100?fp=edge&path=%2Fv1&sni=live.ok.ru&type=ws#RU 🇷🇺 | @Raydikalx | BE763F
 vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&path=%2Fv1&security=none&type=ws#EPODONIOS
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#🇷🇺 RU
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#%3E%3E%40v2nodes%3A%3ARU
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#%3E%3E%40v2nodes%3A%3AXX
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#EPODONIOS
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?type=ws&security=none&path=/v1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20359179
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#EPODONIOS
-vless://6bd3e20b-4be0-41df-a1e0-5c147cc8fbfc@77.222.53.158:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#🇷🇺RU-🚀@VPNine1
-vless://5181e3af-4a0c-47d7-8beb-7e4fa4786cdd@201.24.51.241:4100?encryption=none&type=ws&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#RU 🇷🇺 | @Raydikalx | C9C4C6
-vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.233:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#RU 🇷🇺 | @Raydikalx | D19BD1
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?path=%2Fv1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | 3B62DA
+vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.233:4100?encryption=none&type=ws&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://6bd3e20b-4be0-41df-a1e0-5c147cc8fbfc@77.222.53.158:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#کانال ما
-vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?path=/v1&security=none&encryption=none&type=ws#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#EPODONIOS
-vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&path=%2Fv1&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://6bd3e20b-4be0-41df-a1e0-5c147cc8fbfc@77.222.53.158:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#🇷🇺160794 | ⚡️Telegram = t.me/SOSkeyNET
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20575110
-vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#RU 🇷🇺 | @Raydikalx | 0273D8
-vless://39e0f41b-180b-4f7e-a607-37b135f0fd83@200.165.234.45:4100?encryption=none&host=live.ok.ru&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20577789
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#EPODONIOS
+vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&path=%2Fv1&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://6bd3e20b-4be0-41df-a1e0-5c147cc8fbfc@77.222.53.158:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#🇷🇺RU-🚀@VPNine1
+vless://7b2ce6b0-6d2b-4926-b7bf-6247eb1a0050@188.225.47.234:4100?encryption=none&type=ws&host=live.ok.ru&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru&fp=chrome#EPODONIOS
+vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#🇷🇺 RU
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20346458
+vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#%3E%3E%40v2nodes%3A%3ARU
+vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20639117
+vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20686887
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#%3E%3E%40v2nodes%3A%3ARU
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#EPODONIOS
 vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%3E%3E%40v2rayNG_Matsuri%3A%3ARU
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://5181e3af-4a0c-47d7-8beb-7e4fa4786cdd@201.24.51.241:4100?encryption=none&type=ws&host=live.ok.ru&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20531562
+vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://6bd3e20b-4be0-41df-a1e0-5c147cc8fbfc@77.222.53.158:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#🇷🇺160794 | ⚡️Telegram = t.me/SOSkeyNET
+vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#EPODONIOS
+vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#EPODONIOS
+vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&host=live.ok.ru&path=/v1&security=none#🇷🇺 @V2RAYNG_IP ✅
+vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&path=%2Fv1&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?path=/v1&security=none&encryption=none&type=ws#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20142518
+vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&type=ws&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&host=live.ok.ru&path=/v1&security=none#EPODONIOS
+vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.240:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru&fp=edge#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20686755
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#EPODONIOS
