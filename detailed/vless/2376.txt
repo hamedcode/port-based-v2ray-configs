@@ -1,0 +1,2 @@
+vless://be3a80da-9bda-44b7-97ea-8794b88633d8@mashinbazi.athforce.ir:2376?security=none&encryption=none&host=my.mashinbazi.athforce.ir&headerType=http&type=tcp#EPODONIOS
+vless://be3a80da-9bda-44b7-97ea-8794b88633d8@mashinbazi.athforce.ir:2376?encryption=none&security=none&type=tcp&headerType=http&host=my.mashinbazi.athforce.ir#EPODONIOS
