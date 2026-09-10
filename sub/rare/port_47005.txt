@@ -1,1 +1,2 @@
-vless://0764541b-3e57-4b47-954b-51e996fae5fc@45.144.50.231:47005?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&sni=akamai.com#PL 🇵🇱 | @Raydikalx | F6498E
+vless://0764541b-3e57-4b47-954b-51e996fae5fc@45.144.50.231:47005?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=akamai.com#EPODONIOS
+vless://0764541b-3e57-4b47-954b-51e996fae5fc@45.144.50.231:47005?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=akamai.com#🔵@chillguy_vpn
