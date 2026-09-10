@@ -1,3 +1,0 @@
-vless://7185254b-3b87-4073-9a0e-81093eac435b@core.hac163.com:6386?security=none&encryption=mlkem768x25519plus.native.0rtt.nXRHYT2mMfgY3MxtLcyc89i0YRqqj3y7Zety3O2ipVU&host=amp-api-edge.apps.apple.com&headerType=none&type=tcp#Channel : @Daily_Configs
-vless://7185254b-3b87-4073-9a0e-81093eac435b@core.hac163.com:6386?security=none&encryption=mlkem768x25519plus.native.0rtt.nXRHYT2mMfgY3MxtLcyc89i0YRqqj3y7Zety3O2ipVU&host=amp-api-edge.apps.apple.com&headerType=none&type=tcp#Channel : @proxy_kafee
-vless://7185254b-3b87-4073-9a0e-81093eac435b@core.hac163.com:6386?security=&encryption=mlkem768x25519plus.native.0rtt.nXRHYT2mMfgY3MxtLcyc89i0YRqqj3y7Zety3O2ipVU&host=amp-api-edge.apps.apple.com&headerType=none&type=tcp#@ICV2RAY
