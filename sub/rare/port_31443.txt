@@ -1,3 +1,0 @@
-vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@185.207.66.70:31443?security=reality&encryption=none&pbk=2L85nJmWlabsRGWcDrG968Bw-gAPk6Fl5ERJer9LYC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=43989f5e2e34d4a8#EPODONIOS
-vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@185.207.66.70:31443?security=reality&encryption=none&pbk=2L85nJmWlabsRGWcDrG968Bw-gAPk6Fl5ERJer9LYC0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=43989f5e2e34d4a8#EPODONIOS
-vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@185.207.66.70:31443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2L85nJmWlabsRGWcDrG968Bw-gAPk6Fl5ERJer9LYC0&security=reality&sid=43989f5e2e34d4a8&sni=www.google.com&type=tcp#EPODONIOS
