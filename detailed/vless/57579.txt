@@ -1,1 +1,2 @@
 vless://960e6852-9d2b-48bb-b1cf-5cb27ec27473@turkyea.vanguardia.ir:57579?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cdn-edge34.secure-global-network.example.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=turkyea.vanguardia.ir#@NETMelliAnti
+vless://960e6852-9d2b-48bb-b1cf-5cb27ec27473@turkyea.vanguardia.ir:57579?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cdn-edge34.secure-global-network.example.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=turkyea.vanguardia.ir#EPODONIOS
