@@ -1,2 +1,0 @@
-vless://77def4e6-6f8a-47b5-9b4f-e51c61bced9e@45.136.175.60:5223?security=reality&encryption=none&pbk=b32ehIZ13spBF7bsVjn2VEPgVVjSYTIZ3BH9QYSNSxI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=2f044875971f417b#EPODONIOS
-vless://77def4e6-6f8a-47b5-9b4f-e51c61bced9e@45.136.175.60:5223?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=b32ehIZ13spBF7bsVjn2VEPgVVjSYTIZ3BH9QYSNSxI&sid=2f044875971f417b&allowInsecure=1#filembad-248

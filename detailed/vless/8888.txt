@@ -1,2 +1,0 @@
-vless://21fdc3f7-15fd-479b-b567-e19503508693@adm.moshtaaf.ir:8888?security=tls&alpn=h2,http/1.1,h3&encryption=mlkem768x25519plus.native.0rtt.tgs0B80injVaKMOp10d2ww_SdomhvyyLqd4ptl19Ahc&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=adm.moshtaaf.ir#EPODONIOS
-vless://608f3899-3147-4510-b6f9-0edc8eeecf2d@adm.moshtaaf.ir:8888?security=tls&alpn=h2,http/1.1,h3&encryption=mlkem768x25519plus.native.0rtt.tgs0B80injVaKMOp10d2ww_SdomhvyyLqd4ptl19Ahc&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=adm.moshtaaf.ir#EPODONIOS
