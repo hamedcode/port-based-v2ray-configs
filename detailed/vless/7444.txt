@@ -1,5 +1,5 @@
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@136.148.71.152:7444?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de777.lavivas.org#NL 🇳🇱 | @Raydikalx | 85B24D
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@185.121.179.105:7444?sni=de777.lavivas.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://44e1105d-b46e-402f-933b-eaa136fcbb24@185.121.179.105:7444?security=tls&flow=xtls-rprx-vision&sni=de777.lavivas.org&type=tcp#NL 🇳🇱 | @Raydikalx | 61D7A9
 vless://44e1105d-b46e-402f-933b-eaa136fcbb24@de777.lavivas.org:7444?encryption=none&flow=xtls-rprx-vision&security=tls&sni=de777.lavivas.org&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://44e1105d-b46e-402f-933b-eaa136fcbb24@185.121.179.105:7444?sni=de777.lavivas.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://44e1105d-b46e-402f-933b-eaa136fcbb24@de777.lavivas.org:7444?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=de777.lavivas.org#NL 🇳🇱 | @Raydikalx | B1C8DD
-vless://44e1105d-b46e-402f-933b-eaa136fcbb24@136.148.71.152:7444?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de777.lavivas.org#NL 🇳🇱 | @Raydikalx | 85B24D

@@ -1,5 +1,5 @@
 vless://6c7614ff-88c9-47cd-a66c-103741109d00@185.189.58.195:38353?encryption=none&security=tls&sni=185.189.58.195&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#@Daily_Configs
+vless://6c7614ff-88c9-47cd-a66c-103741109d00@185.189.58.195:38353?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=185.189.58.195#EPODONIOS
+vless://6c7614ff-88c9-47cd-a66c-103741109d00@185.189.58.195:38353?encryption=none&security=tls&sni=185.189.58.195&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#[ 🇩🇪 ] | @Cfox_SerVer
 vless://6c7614ff-88c9-47cd-a66c-103741109d00@185.189.58.195:38353?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=185.189.58.195#[ 🇩🇪 ] | @Cfox_SerVer
 vless://6c7614ff-88c9-47cd-a66c-103741109d00@185.189.58.195:38353?encryption=none&security=tls&sni=185.189.58.195&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#EPODONIOS
-vless://6c7614ff-88c9-47cd-a66c-103741109d00@185.189.58.195:38353?encryption=none&security=tls&sni=185.189.58.195&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#[ 🇩🇪 ] | @Cfox_SerVer
-vless://6c7614ff-88c9-47cd-a66c-103741109d00@185.189.58.195:38353?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=185.189.58.195#EPODONIOS
