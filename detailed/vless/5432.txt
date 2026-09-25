@@ -1,4 +1,0 @@
-vless://6caa9944-1c60-48db-bee1-7d7a8239364b@195.200.18.214:5432?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#EPODONIOS
-vless://cc01f435-d561-4525-bf1f-7a9876d33207@2.26.53.224:5432?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#@FarazV2ray
-vless://cc01f435-d561-4525-bf1f-7a9876d33207@2.26.53.224:5432?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#EPODONIOS
-vless://cc01f435-d561-4525-bf1f-7a9876d33207@2.26.53.224:5432?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#@V2raySamanbot
