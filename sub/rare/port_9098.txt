@@ -1,0 +1,2 @@
+vless://9730ec36-a1d8-4cae-a246-fde2678be5df@service.erisrtg.ir:9098?encryption=none&security=none&type=grpc&headerType=none&mode=gun#kurdconfig
+vless://9730ec36-a1d8-4cae-a246-fde2678be5df@service.erisrtg.ir:9098?encryption=none&security=none&type=grpc&headerType=none&mode=gun#EPODONIOS
