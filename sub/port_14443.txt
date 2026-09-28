@@ -1,5 +1,6 @@
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?alpn=http/1.1&encryption=none&fp=android&path=/ws&security=tls&sni=media-se.compressor.work&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20970752
 vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?alpn=http/1.1&encryption=none&fp=android&path=/ws&security=tls&sni=media-se.compressor.work&type=ws#RU 🇷🇺 | @Raydikalx | A13F39
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@media-se.compressor.work:14443?encryption=none&security=tls&type=ws&sni=media-se.compressor.work&alpn=http%2F1.1&path=%2Fws&fp=safari#RU 🇷🇺 | @Raydikalx | E71F11
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=media-se.compressor.work#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?encryption=none&type=ws&path=%2Fws&security=tls&alpn=http%2F1.1&fp=chrome&sni=media-se.compressor.work#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=media-se.compressor.work#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?encryption=none&fp=random&host=['']&path=/ws&security=tls&sni=media-se.compressor.work&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20952663
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@media-se.compressor.work:14443?encryption=none&security=tls&type=ws&sni=media-se.compressor.work&alpn=http%2F1.1&path=%2Fws&fp=safari#RU 🇷🇺 | @Raydikalx | E71F11
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?alpn=http/1.1&encryption=none&fp=android&path=/ws&security=tls&sni=media-se.compressor.work&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20801328
