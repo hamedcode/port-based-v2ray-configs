@@ -1,0 +1,3 @@
+vless://452f869f-7720-47c3-a175-b6673e31d3e8@us-vpnstore.rovilo.ir:20018?security=none&encryption=none&host=connectivitycheck.android.com&headerType=http&type=tcp#US 🇺🇸 | @Raydikalx | D6FE01
+vless://452f869f-7720-47c3-a175-b6673e31d3e8@tr-irancell4.xelfona.ir:20018?security=none&encryption=none&host=connectivitycheck.android.com&headerType=http&type=tcp#TR 🇹🇷 | @Raydikalx | D31B30
+vless://452f869f-7720-47c3-a175-b6673e31d3e8@us-vpnstore.rovilo.ir:20018?security=none&type=tcp&headerType=http&path=%2F&host=connectivitycheck.android.com&method=GET#US 🇺🇸 | @Raydikalx | 64869F
