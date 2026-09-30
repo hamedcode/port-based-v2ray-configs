@@ -1,3 +1,2 @@
-vless://fd3b5215-287b-4f16-84d9-6b5854dea110@us.netease.uz:8444?encryption=none&security=tls&sni=us.netease.uz&alpn=h2,http/1.1&fp=chrome&type=tcp&headerType=none#US 🇺🇸 | @Raydikalx | 28D7DC
-vless://8ce93aad-eb19-4876-857b-fd0628b3c1ed@77.110.103.49:8444?fp=chrome&host=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&type=ws#NL 🇳🇱 | @Raydikalx | C81D35
 vless://fd3b5215-287b-4f16-84d9-6b5854dea110@179.253.244.112:8444?type=tcp&security=tls&fp=firefox&sni=us.netease.uz#US 🇺🇸 | @Raydikalx | 86425B
+vless://fd3b5215-287b-4f16-84d9-6b5854dea110@us.netease.uz:8444?encryption=none&security=tls&sni=us.netease.uz&alpn=h2,http/1.1&fp=chrome&type=tcp&headerType=none#US 🇺🇸 | @Raydikalx | 28D7DC
