@@ -1,4 +1,4 @@
 vless://43b15d01-8cc5-40ea-b42a-cb1a727224dc@153.76.185.155:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#@irdusti(22)🇨🇿
-vless://b24348cd-38f3-483c-aff4-f5355f254f0a@153.76.185.160:3090?encryption=none&type=grpc&serviceName=vless&packetEncoding=xudp#EPODONIOS
 vless://b24348cd-38f3-483c-aff4-f5355f254f0a@153.76.185.160:3090?encryption=none&type=grpc&serviceName=vless&packetEncoding=xudp#• 🇬🇪 | Georgia - @HesarWeb
+vless://b24348cd-38f3-483c-aff4-f5355f254f0a@153.76.185.160:3090?encryption=none&type=grpc&serviceName=vless&packetEncoding=xudp#EPODONIOS
 vless://43b15d01-8cc5-40ea-b42a-cb1a727224dc@153.76.185.155:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#EPODONIOS
