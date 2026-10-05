@@ -1,0 +1,6 @@
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s128.okgg.top:10829?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=u695098u3b5ab61cs124.gogocs.xyz&type=tcp#EPODONIOS
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s128.okgg.top:10829/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=u695098u3b5ab61cs124.gogocs.xyz&alpn=h2,http/1.1&fp=chrome#EPODONIOS
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s128.okgg.top:10829?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=u695098u3b5ab61cs124.gogocs.xyz#EPODONIOS
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s128.okgg.top:10829?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=u695098u3b5ab61cs124.gogocs.xyz&type=tcp#EPODONIOS
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@193.142.59.180:10829/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=u695098u3b5ab61cs124.gogocs.xyz&allowInsecure=1#EPODONIOS
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@193.142.59.180:10829?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=u695098u3b5ab61cs124.gogocs.xyz&type=tcp#EPODONIOS

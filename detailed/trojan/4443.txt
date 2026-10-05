@@ -1,5 +1,7 @@
-trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?sni=grape-test-italy.dynuddns.net&peer=grape-test-italy.dynuddns.net&security=tls#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?fp=firefox&security=tls&sni=grape-test-italy.dynuddns.net&type=tcp#DE 🇩🇪 | @Raydikalx | 8314FC
-trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?sni=grape-test-italy.dynuddns.net&allowInsecure=1&type=tcp#DE 🇩🇪 | @Raydikalx | A99B83
+trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?allowInsecure=1&sni=grape-test-italy.dynuddns.net#EPODONIOS
 trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?fp=firefox&security=tls&sni=grape-test-italy.dynuddns.net&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?sni=grape-test-italy.dynuddns.net&type=tcp&fp=firefox#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?security=tls&sni=grape-test-italy.dynuddns.net&type=tcp&headerType=none#DE 🇩🇪 | @Raydikalx | 8314FC
+trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?sni=grape-test-italy.dynuddns.net&peer=grape-test-italy.dynuddns.net&security=tls#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?security=tls&sni=grape-test-italy.dynuddns.net&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20722971
+trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?allowInsecure=1&sni=grape-test-italy.dynuddns.net#DE 🇩🇪 | @Raydikalx | A99B83

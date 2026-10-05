@@ -1,10 +1,7 @@
-trojan://f26ffb73-695c-4ec2-b26a-ea949e95bf4c@45.76.218.34:32676?type=tcp&security=tls&fp=firefox&sni=lazeno.vip#JP 🇯🇵 | @Raydikalx | 51BF69
-trojan://f26ffb73-695c-4ec2-b26a-ea949e95bf4c@45.76.218.34:32676?sni=lazeno.vip&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://bc9a73f5-e0d1-4832-9687-8f27d2173ee1@45.76.218.34:32676?sni=lazeno.vip&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | B1EA5C
-trojan://6a77ffdb-1799-43de-b17b-57868378d040@45.76.218.34:32676?sni=lazeno.vip&allowInsecure=1&type=tcp#JP 🇯🇵 | @Raydikalx | 9EF387
-trojan://c82b5791-56f9-4072-a27b-db90edb1a65d@45.76.218.34:32676?sni=lazeno.vip&allowInsecure=1&type=tcp#JP 🇯🇵 | @Raydikalx | 044CE4
-trojan://f26ffb73-695c-4ec2-b26a-ea949e95bf4c@45.76.218.34:32676?sni=lazeno.vip&allowInsecure=1&type=tcp#JP 🇯🇵 | @Raydikalx | CA5975
-trojan://c82b5791-56f9-4072-a27b-db90edb1a65d@45.76.218.34:32676?type=tcp&security=tls&fp=firefox&sni=lazeno.vip#JP 🇯🇵 | @Raydikalx | 523D36
+trojan://6a77ffdb-1799-43de-b17b-57868378d040@45.76.218.34:32676?sni=lazeno.vip&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 9EF387
 trojan://bc9a73f5-e0d1-4832-9687-8f27d2173ee1@45.76.218.34:32676?type=tcp&security=tls&fp=firefox&sni=lazeno.vip#JP 🇯🇵 | @Raydikalx | 071232
-trojan://6a77ffdb-1799-43de-b17b-57868378d040@45.76.218.34:32676?sni=lazeno.vip&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://f26ffb73-695c-4ec2-b26a-ea949e95bf4c@45.76.218.34:32676?sni=lazeno.vip&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://c82b5791-56f9-4072-a27b-db90edb1a65d@45.76.218.34:32676?type=tcp&security=tls&fp=firefox&sni=lazeno.vip#JP 🇯🇵 | @Raydikalx | 523D36
+trojan://f26ffb73-695c-4ec2-b26a-ea949e95bf4c@45.76.218.34:32676?type=tcp&security=tls&fp=firefox&sni=lazeno.vip#JP 🇯🇵 | @Raydikalx | 51BF69
 trojan://c82b5791-56f9-4072-a27b-db90edb1a65d@45.76.218.34:32676?sni=lazeno.vip&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://6a77ffdb-1799-43de-b17b-57868378d040@45.76.218.34:32676?sni=lazeno.vip&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
