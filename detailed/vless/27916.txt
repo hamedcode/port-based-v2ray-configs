@@ -1,1 +1,3 @@
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.255.157.234:27916?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&sid=6772eb2b7a&sni=cdn-dynmedia-1.microsoft.com#HK 🇭🇰 | @Raydikalx | B4560B
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@103.30.76.37:27916?security=reality&sni=cdn-dynmedia-1.microsoft.com&fp=random&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&sid=6772eb2b7a&flow=xtls-rprx-vision&type=tcp&encryption=none#HK 🇭🇰 | @Raydikalx | 4CF190
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?encryption=none&security=reality&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&sid=6772eb2b7a&sni=cdn-dynmedia-1.microsoft.com&fp=random&type=tcp&flow=xtls-rprx-vision#HK 🇭🇰 | @Raydikalx | 690015
