@@ -1,10 +1,5 @@
-vless://0773c95e-21b5-4c6f-a471-3a48ed43521f@213.182.201.11:3090?mode=multi&security=none&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&type=grpc&serviceName=vless#EPODONIOS
-vless://d6d100e7-c74a-4ce5-8643-c1f8947807c5@213.182.201.10:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#EPODONIOS
-vless://0773c95e-21b5-4c6f-a471-3a48ed43521f@213.182.201.11:3090?mode=multi&security=none&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&type=grpc&serviceName=vless#filembad-60
-vless://d6d100e7-c74a-4ce5-8643-c1f8947807c5@104.143.219.14:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
+vless://f411e28f-1f4d-498d-913e-9ad8b7fdaea3@213.182.201.131:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
 vless://c3c65000-7c1a-40b6-bf10-74da14f76f6a@213.182.201.15:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
-vless://d6d100e7-c74a-4ce5-8643-c1f8947807c5@213.182.201.10:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#🐦35@oneclickvpnkeys
-vless://d6d100e7-c74a-4ce5-8643-c1f8947807c5@104.143.219.14:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#@tootffarangi🍓-11
-vless://0773c95e-21b5-4c6f-a471-3a48ed43521f@213.182.201.11:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
-vless://0773c95e-21b5-4c6f-a471-3a48ed43521f@213.182.201.11:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#🇪🇸193687 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c3c65000-7c1a-40b6-bf10-74da14f76f6a@213.182.201.15:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#@tootffarangi🍓-9
+vless://d6d100e7-c74a-4ce5-8643-c1f8947807c5@104.143.219.14:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
+vless://d6d100e7-c74a-4ce5-8643-c1f8947807c5@104.143.219.14:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#@tootffarangi🍓-11
