@@ -1,6 +1,6 @@
-trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@m3.mincreaft.com:5443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=m3.mincreaft.com#EPODONIOS
-vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@193.233.217.20:5443?encryption=none&security=reality&sni=files.nyx53.shop&fp=random&pbk=m95xufOq7mmISN572WqkK0Bzmzb3hDfpr6WNp76xfyc&type=grpc&authority=&serviceName=grpc&mode=gun#qol_481
-vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@193.233.222.86:5443?encryption=none&security=reality&sni=files.nyx53.shop&fp=random&pbk=m95xufOq7mmISN572WqkK0Bzmzb3hDfpr6WNp76xfyc&type=grpc&authority=&serviceName=grpc&mode=gun#qol_483
-trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@m2.mincreaft.com:5443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=m2.mincreaft.com#EPODONIOS
 trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@m3.mincreaft.com:5443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=m3.mincreaft.com#@tootffarangi🍓-10
 trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@m2.mincreaft.com:5443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=m2.mincreaft.com#@tootffarangi🍓-5
+vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@193.233.217.20:5443?encryption=none&security=reality&sni=files.nyx53.shop&fp=random&pbk=m95xufOq7mmISN572WqkK0Bzmzb3hDfpr6WNp76xfyc&type=grpc&authority=&serviceName=grpc&mode=gun#qol_481
+trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@m3.mincreaft.com:5443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=m3.mincreaft.com#EPODONIOS
+trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@m2.mincreaft.com:5443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=m2.mincreaft.com#EPODONIOS
+vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@193.233.222.86:5443?encryption=none&security=reality&sni=files.nyx53.shop&fp=random&pbk=m95xufOq7mmISN572WqkK0Bzmzb3hDfpr6WNp76xfyc&type=grpc&authority=&serviceName=grpc&mode=gun#qol_483
