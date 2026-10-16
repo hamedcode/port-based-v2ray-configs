@@ -1,7 +1,7 @@
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&sni=45.138.100.248&type=tcp#US 🇺🇸 | @Raydikalx | 7B03AB
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&type=tcp#US 🇺🇸 | @Raydikalx | 9551EE
-vless://f37f88ef-c57e-0268-9b16-659ff67530b7@2.56.126.43:10443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#10385@proxy_online_net
+vless://f37f88ef-c57e-0114-9b16-659ff67530b7@167.94.163.63:10443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#10384@proxy_online_net
 vless://f37f88ef-c57e-0268-9b16-659ff67530b7@2.56.126.43:10443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#EPODONIOS
 vless://f37f88ef-c57e-0114-9b16-659ff67530b7@167.94.163.63:10443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#EPODONIOS
 vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?path=%2F&security=none&sni=45.138.100.248&type=tcp#US 🇺🇸 | @Raydikalx | 1FB1DB
-vless://f37f88ef-c57e-0114-9b16-659ff67530b7@167.94.163.63:10443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#10384@proxy_online_net
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&sni=45.138.100.248&type=tcp#US 🇺🇸 | @Raydikalx | 7B03AB
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?&sni=178.94.25.73&type=tcp&headerType=none&path=%2F#SG 🇸🇬 | @Raydikalx | 54AE5D
+vless://f37f88ef-c57e-0268-9b16-659ff67530b7@2.56.126.43:10443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#10385@proxy_online_net
