@@ -1,11 +1,8 @@
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp&sni=45.138.100.248#@filembad
-vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:10443?security=none&sni=5.253.29.254&type=tcp#IN 🇮🇳 | @Raydikalx | ED7D03
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp&sni=45.138.100.248#US 🇺🇸 | @Raydikalx | 7B03AB
-vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:10443?path=%2F&security=none&sni=5.253.29.254&type=tcp#IN 🇮🇳 | @Raydikalx | BAA3B0
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp&sni=45.138.100.248#EPODONIOS
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp&sni=45.138.100.248#🇺🇸US-🚀@VPNine1
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&type=tcp#US 🇺🇸 | @Raydikalx | 9551EE
 vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?path=%2F&security=none&sni=45.138.100.248&type=tcp#US 🇺🇸 | @Raydikalx | 1FB1DB
 vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp#@filembad
-vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?security=none&type=tcp#AT 🇦🇹 | @Raydikalx | 321AA8
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp&sni=45.138.100.248#@filembad
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?sni=45.138.100.248#US 🇺🇸 | @Raydikalx | 7B03AB
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp&sni=45.138.100.248#EPODONIOS
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
