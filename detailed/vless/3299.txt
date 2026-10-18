@@ -1,1 +1,1 @@
-vless://666d00ea-21ee-4bec-b529-b428421927b8@pl1-gkvut.vpvr4ib84nuv6hdkt.ru:3299?security=reality&encryption=none&pbk=pEpkw28cuSWPSJdoOO51OhwYoTpX7pSE_DeURMAUNS8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl1-gkvut.vpvr4ib84nuv6hdkt.ru&sid=749278bdbdd70ed6#EPODONIOS
+vless://666d00ea-21ee-4bec-b529-b428421927b8@pl1-gkvut.vpvr4ib84nuv6hdkt.ru:3299?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl1-gkvut.vpvr4ib84nuv6hdkt.ru&fp=firefox&pbk=pEpkw28cuSWPSJdoOO51OhwYoTpX7pSE_DeURMAUNS8&sid=749278bdbdd70ed6&type=tcp&headerType=none#qol_436
