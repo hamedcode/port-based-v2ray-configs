@@ -1,5 +1,7 @@
-vless://392fcc7e-b995-11f1-a6b7-1b2272a86bd5@89.218.15.90:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&host=kz1.vpnjantit.com&type=ws&allowInsecure=0&sni=kz1.vpnjantit.com#EPODONIOS
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&type=tcp#GB 🇬🇧 | @Raydikalx | B253BB
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp#EPODONIOS
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp#🌍35@oneclickvpnkeys
+vless://c6362720-0931-4b91-b187-d8ecf3149734@82.47.63.24:10002?security=none&type=tcp#PL 🇵🇱 | @Raydikalx | DFF7A5
 vless://392fcc7e-b995-11f1-a6b7-1b2272a86bd5@89.218.15.90:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&host=kz1.vpnjantit.com&type=ws&allowInsecure=0&sni=kz1.vpnjantit.com#🇵🇱@ELiV2Ray
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp#EPODONIOS
+vless://392fcc7e-b995-11f1-a6b7-1b2272a86bd5@89.218.15.90:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&host=kz1.vpnjantit.com&type=ws&allowInsecure=0&sni=kz1.vpnjantit.com#EPODONIOS
+vless://c6362720-0931-4b91-b187-d8ecf3149734@212.74.39.236:10002?security=none&type=tcp#GB 🇬🇧 | @Raydikalx | 3DB805
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&type=tcp#GB 🇬🇧 | @Raydikalx | B253BB
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp#🌍35@oneclickvpnkeys
