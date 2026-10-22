@@ -1,0 +1,2 @@
+vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=firefox&security=reality&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99#JP 🇯🇵 | @Raydikalx | 644ED5
+vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?flow=xtls-rprx-vision&fp=random&host=github.com&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&security=reality&sid=6caead99&sni=github.com&type=tcp#JP 🇯🇵 | @Raydikalx | 6F44EA
