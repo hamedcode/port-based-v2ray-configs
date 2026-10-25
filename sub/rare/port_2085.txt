@@ -1,0 +1,2 @@
+vless://39a62048-aa1a-442c-8b38-a87f0df17098@80.243.228.130:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#@VPsave
+vless://39a62048-aa1a-442c-8b38-a87f0df17098@80.243.228.130:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#EPODONIOS
