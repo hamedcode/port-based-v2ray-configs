@@ -1,4 +1,7 @@
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?&sni=45.138.100.248&type=tcp&headerType=none&path=%2F#US 🇺🇸 | @Raydikalx | 1FB1DB
 vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?fp=chrome&security=none&sni=45.138.100.248&type=tcp#US 🇺🇸 | @Raydikalx | 7B03AB
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?path=%2F&security=none&sni=45.138.100.248&type=tcp#US 🇺🇸 | @Raydikalx | 1FB1DB
 vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&type=tcp#US 🇺🇸 | @Raydikalx | 9551EE
+vless://0869a7d7-b8e8-42be-8bca-84b0ab07744a@185.156.72.106:10443?flow=xtls-rprx-vision&fp=firefox&pbk=XNfikFybWtjJjWU7-QBGrr-D9YUW0uSK_sR7mDDUmRU&security=reality&sid=6ba85179&sni=stackoverflow.com&type=tcp#FR 🇫🇷 | @Raydikalx | 878C3E
+vless://0869a7d7-b8e8-42be-8bca-84b0ab07744a@89.185.82.151:10443?flow=xtls-rprx-vision&fp=firefox&pbk=XNfikFybWtjJjWU7-QBGrr-D9YUW0uSK_sR7mDDUmRU&security=reality&sid=6ba85179&sni=stackoverflow.com&type=tcp#MK 🇲🇰 | @Raydikalx | E332D0
+vless://0869a7d7-b8e8-42be-8bca-84b0ab07744a@78.153.139.247:10443?flow=xtls-rprx-vision&fp=firefox&pbk=XNfikFybWtjJjWU7-QBGrr-D9YUW0uSK_sR7mDDUmRU&security=reality&sid=6ba85179&sni=stackoverflow.com&type=tcp#FI 🇫🇮 | @Raydikalx | 29DC5F
 vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?path=%2F&security=none&type=tcp#US 🇺🇸 | @Raydikalx | 4AFFF8
