@@ -1,5 +1,0 @@
-vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:10443?security=none&sni=5.253.29.254&type=tcp#IN 🇮🇳 | @Raydikalx | ED7D03
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?path=%2F&security=none&sni=45.138.100.248&type=tcp#US 🇺🇸 | @Raydikalx | 1FB1DB
-vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:10443?type=tcp#IN 🇮🇳 | @Raydikalx | 31EBA9
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?path=%2F&security=none&type=tcp#US 🇺🇸 | @Raydikalx | 4AFFF8
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?fp=chrome&security=none&type=tcp#US 🇺🇸 | @Raydikalx | 9551EE
