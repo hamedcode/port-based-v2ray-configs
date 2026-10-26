@@ -1,0 +1,3 @@
+vless://fe807398-5b97-4426-ac38-fbbc1ad91485@port.irantech.online:20841?sid=dc55697c0f2b1946&pbk=JCo_8L_8LTDbOBjJfPZuteZzv5r3QxeEaeL7635p33k&flow=xtls-rprx-vision&headerType=none&encryption=none&type=tcp&sni=dl.google.com&security=reality&fp=chrome#EPODONIOS
+vless://fe807398-5b97-4426-ac38-fbbc1ad91485@port.irantech.online:20841?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dl.google.com&fp=chrome&pbk=JCo_8L_8LTDbOBjJfPZuteZzv5r3QxeEaeL7635p33k&sid=dc55697c0f2b1946&type=tcp&headerType=none#EPODONIOS
+vless://fe807398-5b97-4426-ac38-fbbc1ad91485@port.irantech.online:20841?security=reality&encryption=none&pbk=JCo_8L_8LTDbOBjJfPZuteZzv5r3QxeEaeL7635p33k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=dc55697c0f2b1946#EPODONIOS
