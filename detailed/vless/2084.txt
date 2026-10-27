@@ -1,0 +1,5 @@
+vless://95d31eef-d6bc-4f0e-90c5-f74851704cdd@ar.vipsharifi.ir:2084?security=tls&type=ws&path=%2FEd%2F&host=ar.vipsharifi.ir&alpn=http%2F1.1&sni=ar.vipsharifi.ir&fp=chrome&encryption=none#IR 🇮🇷 | @Raydikalx | 856280
+vless://95d31eef-d6bc-4f0e-90c5-f74851704cdd@ar.vipsharifi.ir:2084?path=Ed/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ar.vipsharifi.ir&fp=chrome&type=ws&allowInsecure=0&sni=ar.vipsharifi.ir#EPODONIOS
+vless://95d31eef-d6bc-4f0e-90c5-f74851704cdd@ar.vipsharifi.ir:2084?encryption=none&security=tls&sni=ar.vipsharifi.ir&alpn=http/1.1&fp=chrome&type=ws&host=ar.vipsharifi.ir&path=Ed/&headers={  "Host": "ar.vipsharifi.ir"}#EPODONIOS
+vless://95d31eef-d6bc-4f0e-90c5-f74851704cdd@ar.vipsharifi.ir:2084?host=ar.vipsharifi.ir&path=Ed%2F&security=tls&sni=ar.vipsharifi.ir&type=ws#IR 🇮🇷 | @Raydikalx | C72454
+vless://95d31eef-d6bc-4f0e-90c5-f74851704cdd@ar.vipsharifi.ir:2084?encryption=none&security=tls&sni=ar.vipsharifi.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=ar.vipsharifi.ir&path=Ed/#EPODONIOS
