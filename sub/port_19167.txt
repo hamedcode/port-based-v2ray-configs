@@ -1,6 +1,6 @@
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#EPODONIOS
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@mx001.zestapp778.com:19167?security=tls&sni=mx001.zestapp778.com&type=tcp#MX 🇲🇽 | @Raydikalx | E482C0
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@mx001.zestapp778.com:19167?security=tls&type=tcp#MX 🇲🇽 | @Raydikalx | 933758
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?security=tls&encryption=none&headerType=&type=tcp&sni=mx001.zestapp778.com#MX 🇲🇽 | @Raydikalx | 8345C5
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?path=%2F&security=tls&sni=mx001.zestapp778.com&type=tcp#MX 🇲🇽 | @Raydikalx | B976CE
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#🇲🇽@FreakConfig
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?security=tls&encryption=none&headerType=&type=tcp&sni=mx001.zestapp778.com#MX 🇲🇽 | @Raydikalx | 8345C5
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@mx001.zestapp778.com:19167?fp=chrome&security=tls&sni=mx001.zestapp778.com&type=tcp#MX 🇲🇽 | @Raydikalx | E482C0
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#EPODONIOS
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#kurdconfig

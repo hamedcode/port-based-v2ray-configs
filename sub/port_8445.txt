@@ -1,5 +1,0 @@
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8445?security=tls&type=grpc&mode=gun&serviceName=beru-pl&alpn=h2%2Chttp%2F1.1&sni=ru1.radiolumens.uk&fp=firefox#RU 🇷🇺 | @Raydikalx | 695569
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=chrome&security=tls#@VPsave
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?fp=chrome&security=tls&serviceName=beru-pl&sni=ru1.radiolumens.uk&type=grpc#RU 🇷🇺 | @Raydikalx | AF9384
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8445?security=tls&sni=ru1.radiolumens.uk&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=beru-pl&fp=firefox#RU 🇷🇺 | @Raydikalx | 1EB2E0
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?security=tls&type=grpc&mode=gun&serviceName=beru-pl&sni=ru1.radiolumens.uk&fp=chrome#RU 🇷🇺 | @Raydikalx | BE7BC8
