@@ -1,7 +1,7 @@
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@155.117.5.208:10000?security=none&type=tcp#FR 🇫🇷 | @Raydikalx | 1DEC53
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&type=raw#DE 🇩🇪 | @Raydikalx | F6403A
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&encryption=none&headerType=none&type=tcp#YFZ 136 @Outline_Vpn
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?security=none&type=raw#DE 🇩🇪 | @Raydikalx | 5BA3B0
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@168.222.43.53:10000?security=none&sni=168.222.43.53&type=tcp#DE 🇩🇪 | @Raydikalx | A6FD05
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@155.117.5.208:10000?security=none&type=tcp#FR 🇫🇷 | @Raydikalx | 1DEC53
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?security=none&type=tcp#DE 🇩🇪 | @Raydikalx | 5BA3B0
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@168.222.43.53:10000?security=none&type=tcp#DE 🇩🇪 | @Raydikalx | F8D7E9
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&type=tcp#DE 🇩🇪 | @Raydikalx | F6403A
