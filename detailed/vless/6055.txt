@@ -1,0 +1,2 @@
+vless://3a24f714-5585-4103-9291-6ae21f11c10d@torwe.dtgitar.com:6055?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#@VPsave
+vless://3a24f714-5585-4103-9291-6ae21f11c10d@torwe.dtgitar.com:6055?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2ray_phoenix
