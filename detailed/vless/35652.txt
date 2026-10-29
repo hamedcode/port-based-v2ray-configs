@@ -1,1 +1,2 @@
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@au001.zestapp778.com:35652?security=tls&type=tcp&sni=au001.zestapp778.com&fp=chrome#AU 🇦🇺 | @Raydikalx | E3FA3D
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@au001.zestapp778.com:35652?security=tls&type=tcp#AU 🇦🇺 | @Raydikalx | 3CEBCE
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@au001.zestapp778.com:35652?fp=chrome&host=au001.zestapp778.com&path=%2F&security=tls&sni=au001.zestapp778.com&type=tcp#AU 🇦🇺 | @Raydikalx | 2470B3
