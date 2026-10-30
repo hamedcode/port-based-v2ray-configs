@@ -1,2 +1,1 @@
-vless://ddc27ad2-631e-4431-b380-0045547acef4@217.16.31.218:5003?type=grpc&security=tls&fp=firefox&sni=de1.frost-api.com&mode=gun&serviceName=media.playback.v1.SessionGateway#RU 🇷🇺 | @Raydikalx | F59D03
 vless://ddc27ad2-631e-4431-b380-0045547acef4@node6.frost-api.com:5003?type=grpc&security=tls&fp=firefox&sni=de1.frost-api.com&mode=gun&serviceName=media.playback.v1.SessionGateway&echf=none#RU 🇷🇺 | @Raydikalx | E8262E
