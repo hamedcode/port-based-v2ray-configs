@@ -1,2 +1,1 @@
-trojan://Pass-Client-1@171.22.119.74:8446?security=tls&type=grpc&serviceName=grpc-video-call#%F0%9F%87%A8%F0%9F%87%BECY-171.22.119.74-0673
-trojan://Pass-Client-1@171.22.119.74:8446?security=tls#%F0%9F%87%A8%F0%9F%87%BECY-171.22.119.74-2724
+trojan://Pass-Client-1@171.22.119.74:8446?security=tls&type=grpc&serviceName=grpc-video-call#%F0%9F%87%A8%F0%9F%87%BECY-171.22.119.74-0552
