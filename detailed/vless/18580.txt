@@ -1,3 +1,4 @@
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us007.zestapp778.com:18580?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=us007.zestapp778.com#Channel id: @ConfigV2RayNG 🇺🇸
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?encryption=none&security=tls&sni=us007.zestapp778.com&fp=firefox&type=tcp&headerType=none#q_106
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?security=tls&type=tcp&sni=us007.zestapp778.com&fp=firefox#US 🇺🇸 | @Raydikalx | BB2350
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us007.zestapp778.com:18580?security=tls&type=tcp&sni=us007.zestapp778.com&fp=chrome#US 🇺🇸 | @Raydikalx | 185C7C
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us007.zestapp778.com:18580?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=us007.zestapp778.com#Channel id: @ConfigV2RayNG 🇺🇸
