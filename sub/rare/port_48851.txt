@@ -1,2 +1,4 @@
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 10B57A
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#KR 🇰🇷 | @Raydikalx | CFC3AB
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&security=tls&sni=kr002.zestapp778.com&fp=chrome#KR 🇰🇷 | @Raydikalx | CFC3AB
+trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&fp=firefox&sni=kr002.zestapp778.com#KR 🇰🇷 | @Raydikalx | 6FD10F
+trojan://5t6i121em5lkmsmk@158.247.255.150:48851?sni=kr002.zestapp778.com&type=tcp&fp=firefox#KR 🇰🇷 | @Raydikalx | FBD378
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 10B57A

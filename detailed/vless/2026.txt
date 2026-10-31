@@ -1,0 +1,5 @@
+vless://c4cdca6c-a9a8-4024-98d5-cdd64f5e0b80@ser1.plasmoon.ir:2026?encryption=none&security=tls&type=tcp&headerType=none&sni=tun1.plasmoon.ir&fp=chrome&alpn=http/1.1#@tootffarangi🍓
+vless://c4cdca6c-a9a8-4024-98d5-cdd64f5e0b80@ser2.plasmoon.ir:2026?alpn=http/1.1&encryption=none&sni=tun2.plasmoon.ir&type=tcp&security=tls&fp=chrome&insecure=0&allowInsecure=0&headerType=none#@tootffarangi🍓
+vless://c4cdca6c-a9a8-4024-98d5-cdd64f5e0b80@ser2.plasmoon.ir:2026?alpn=http/1.1&encryption=none&sni=tun2.plasmoon.ir&type=tcp&security=tls&fp=chrome&insecure=0&allowInsecure=0&headerType=none#🇮🇷203741 | ⚡️Telegram = t.me/SOSkeyNET
+vless://c4cdca6c-a9a8-4024-98d5-cdd64f5e0b80@ser1.plasmoon.ir:2026?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=tun1.plasmoon.ir#@tootffarangi🍓
+vless://c4cdca6c-a9a8-4024-98d5-cdd64f5e0b80@ser1.plasmoon.ir:2026?type=tcp&headerType=none&alpn=http/1.1&fp=chrome&encryption=none&sni=tun1.plasmoon.ir&insecure=0&allowInsecure=0&security=tls#@tootffarangi🍓
