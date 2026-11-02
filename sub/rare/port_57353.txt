@@ -1,3 +1,2 @@
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?security=tls&sni=in001.zestapp778.com#ID 🇮🇩 | @Raydikalx | E1822C
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp&security=tls&fp=chrome&sni=in001.zestapp778.com#ID 🇮🇩 | @Raydikalx | 8281C8
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp&security=tls&fp=chrome&sni=in001.zestapp778.com#🇮🇩 Join+Telegram:@Farah_VPN 🇮🇩
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?allowInsecure=1&sni=in001.zestapp778.com&fp=firefox&security=tls#ID 🇮🇩 | @Raydikalx | E1822C
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#ID 🇮🇩 | @Raydikalx | 8281C8
