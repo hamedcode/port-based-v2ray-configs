@@ -1,7 +1,7 @@
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?path=%2F&security=none&type=tcp#US 🇺🇸 | @Raydikalx | 4AFFF8
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?fp=chrome&security=none&sni=45.138.100.248&type=tcp#US 🇺🇸 | @Raydikalx | 7B03AB
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?sni=178.172.227.124&type=tcp#BY 🇧🇾 | @Raydikalx | FC263B
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?security=none&type=tcp#BY 🇧🇾 | @Raydikalx | BB53C0
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?path=%2F&security=none&sni=45.138.100.248&type=tcp#US 🇺🇸 | @Raydikalx | 1FB1DB
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?path=%2F&security=none&type=tcp#US 🇺🇸 | @Raydikalx | 4AFFF8
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?sni=178.172.227.124&type=tcp#BY 🇧🇾 | @Raydikalx | FC263B
 vless://0d607d84-0ae0-4b9c-a4f3-1766ab456e02@kz.bitpunch.icu:10443?security=reality&pbk=aNu3oMtcBnoDdRyef5zveVGswCkJow71NBiJ9GrGfSQ&fp=chrome&type=raw&flow=xtls-rprx-vision&sni=tengrinews.kz&sid=10#@VPsave
 vless://0d607d84-0ae0-4b9c-a4f3-1766ab456e02@kz.bitpunch.icu:10443?security=reality&pbk=aNu3oMtcBnoDdRyef5zveVGswCkJow71NBiJ9GrGfSQ&fp=chrome&type=raw&flow=xtls-rprx-vision&sni=tengrinews.kz&sid=10#KZ 🇰🇿 | @Raydikalx | 2D5B5E
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?path=%2F&security=none&sni=45.138.100.248&type=tcp#US 🇺🇸 | @Raydikalx | 1FB1DB
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?fp=chrome&security=none&sni=45.138.100.248&type=tcp#US 🇺🇸 | @Raydikalx | 7B03AB
