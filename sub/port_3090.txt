@@ -1,7 +1,0 @@
-vless://5386cd46-5736-4451-b9ab-81cecf23c85c@213.182.201.52:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#⚡9@oneclickvpnkeys
-vless://5386cd46-5736-4451-b9ab-81cecf23c85c@213.182.201.81:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#⚡3@oneclickvpnkeys
-vless://5386cd46-5736-4451-b9ab-81cecf23c85c@213.182.201.147:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#⚡4@oneclickvpnkeys
-vless://3770fa16-e793-4aa1-94f6-7e07c5d67c5d@213.182.201.104:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#@V2ray_confiig
-vless://81c649ee-3cb1-4fd7-b856-a71a135a398b@213.182.201.162:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#⚡2@oneclickvpnkeys
-vless://81c649ee-3cb1-4fd7-b856-a71a135a398b@213.182.201.161:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#⚡6@oneclickvpnkeys
-vless://63ca6075-2955-4a71-b491-bcbd2ceee3b2@213.182.201.140:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#@VPsave
