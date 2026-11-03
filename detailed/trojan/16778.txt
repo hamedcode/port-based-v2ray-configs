@@ -1,4 +1,5 @@
-trojan://5t6i121em5lkmsmk@fr001.zestapp778.com:16778?security=tls&type=tcp#FR 🇫🇷 | @Raydikalx | 957256
+trojan://5t6i121em5lkmsmk@fr001.zestapp778.com:16778?allowInsecure=1&sni=fr001.zestapp778.com&type=tcp#FR 🇫🇷 | @Raydikalx | F8A04C
 trojan://5t6i121em5lkmsmk@fr001.zestapp778.com:16778?allowInsecure=1&insecure=1&security=tls&fp=chrome&type=tcp&headerType=none#Channel : @Daily_Configs
 trojan://5t6i121em5lkmsmk@fr001.zestapp778.com:16778?allowInsecure=1&fp=chrome#🎃38@oneclickvpnkeys
 trojan://5t6i121em5lkmsmk@108.61.177.57:16778?security=tls&fp=firefox&sni=fr001.zestapp778.com#FR 🇫🇷 | @Raydikalx | 6E5D35
+trojan://5t6i121em5lkmsmk@fr001.zestapp778.com:16778?allowInsecure=1&fp=chrome#FR 🇫🇷 | @Raydikalx | 0F2379
