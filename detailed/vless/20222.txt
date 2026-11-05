@@ -1,3 +1,1 @@
-vless://541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb@51.75.118.5:20222?encryption=none&security=none&type=xhttp&host=51.75.118.5&path=/parham-confing-xh&mode=auto#@FXxNET⚡️
-vless://541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb@51.75.118.5:20222?encryption=none&security=none&type=grpc&serviceName=parham-confing-grpc#@FXxNET⚡️
-vless://541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb@51.75.118.5:20222?encryption=none&security=none&type=httpupgrade&path=/parham-confing-hu?u=6991fbdd-51e0-4970-b159-f9af46890c43-beda239a407a7eed66f791c6#@FXxNET⚡️
+vless://541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb@51.75.118.5:20222?encryption=none&security=none&type=ws&host=51.75.118.5&path=%2Fparham-confing-ws%3Fu%3D6991fbdd-51e0-4970-b159-f9af46890c43-beda239a407a7eed66f791c6#FR 🇫🇷 | @Raydikalx | 0D84E4
