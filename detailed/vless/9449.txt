@@ -1,1 +1,1 @@
-vless://57b61e1c-5768-479f-972b-816c131a6b16@185.86.147.184:9449?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SsPslLCfw2CGDmCs17gTLRSUOsOfv0KgnuLnkyTqCzA&security=reality&sid=62002c0a685ac208&sni=passport.yandex.ru&spx=/&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20656235
+vless://806f01fe-5c7b-4465-aacc-09140c941ec6@185.86.147.184:9449/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=passport.yandex.ru&fp=chrome&security=reality&pbk=SsPslLCfw2CGDmCs17gTLRSUOsOfv0KgnuLnkyTqCzA&sid=62002c0a685ac208#channel_@networld_vpn
