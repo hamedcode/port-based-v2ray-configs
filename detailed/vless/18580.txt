@@ -1,4 +1,6 @@
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?fp=firefox&security=tls&sni=us007.zestapp778.com&type=raw#US 🇺🇸 | @Raydikalx | BB2350
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?encryption=none&security=tls&sni=us007.zestapp778.com&fp=firefox&type=tcp&headerType=none#q_106
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580/?type=tcp&encryption=none&flow=&security=tls&sni=us007.zestapp778.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?security=tls&encryption=none&insecure=0&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=us007.zestapp778.com#Tel@V2rayng_Fast 🇮🇹
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?security=tls&type=raw&sni=us007.zestapp778.com&fp=firefox#US 🇺🇸 | @Raydikalx | BB2350
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?encryption=none&security=tls&sni=us007.zestapp778.com&fp=firefox&type=tcp&headerType=none#q_106
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?security=tls&encryption=none&insecure=0&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=us007.zestapp778.com#Tel@MARAMBASHI 🇮🇹
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?security=tls&type=tcp&packetEncoding=xudp&sni=us007.zestapp778.com&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
