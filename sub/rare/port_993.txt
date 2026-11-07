@@ -1,2 +1,1 @@
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@192.240.96.12:993?encryption=none&fp=firefox&host=us2-ws.gacvpn.site&path=/static/js/vendor.2e12e7f4.js?ed=2048&security=tls&sni=us2-ws.gacvpn.site&type=ws#US 🇺🇸 | @Raydikalx | 3AECC1
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?fp=chrome&flow=xtls-rprx-vision&pbk=JeVpfwIwteGa8xfysPJUzrbHgmOPyLGomRqyH8Pi7W0&encryption=none&security=reality&sni=download.nvidia.com&type=tcp&headerType=none#@v2rayng3
