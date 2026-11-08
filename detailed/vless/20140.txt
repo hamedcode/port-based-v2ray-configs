@@ -1,0 +1,8 @@
+vless://ca01d94c-238b-42db-9302-054335319068@51.75.118.79:20140?security=none&encryption=none&type=tcp#@tootffarangi🍓
+vless://ca01d94c-238b-42db-9302-054335319068@51.75.118.79:20140?path=/bp-up&security=none&encryption=none&type=httpupgrade#@tootffarangi🍓
+vless://ca01d94c-238b-42db-9302-054335319068@51.75.118.79:20140?serviceName=bpgrpc&security=none&encryption=none&type=grpc#@tootffarangi🍓
+vless://ca01d94c-238b-42db-9302-054335319068@51.75.118.79:20140?serviceName=bpgrpc&security=none&encryption=none&type=grpc#@FXxNET⚡️
+vless://ca01d94c-238b-42db-9302-054335319068@51.75.118.79:20140?security=none&encryption=none&type=tcp#@FXxNET⚡️
+vless://ca01d94c-238b-42db-9302-054335319068@51.75.118.79:20140?path=/bp-vless&security=none&encryption=none&type=ws#@FXxNET⚡️
+vless://ca01d94c-238b-42db-9302-054335319068@51.75.118.79:20140?path=/bp-up&security=none&encryption=none&type=httpupgrade#@FXxNET⚡️
+vless://ca01d94c-238b-42db-9302-054335319068@51.75.118.79:20140?path=/bp-vless&security=none&encryption=none&type=ws#@tootffarangi🍓
