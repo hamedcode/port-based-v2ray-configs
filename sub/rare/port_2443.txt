@@ -1,2 +1,2 @@
-vless://664d2284-e0ad-4de4-9752-a0e12a29840e@88.216.182.15:2443?encryption=none&security=tls&flow=xtls-rprx-vision&type=tcp&sni=gie54.enterquality.online&fp=chrome#@VPsave
 vless://664d2284-e0ad-4de4-9752-a0e12a29840e@78.17.215.59:2443?encryption=none&security=tls&flow=xtls-rprx-vision&type=tcp&sni=per94.enterquality.online&fp=chrome#@VPsave
+vless://664d2284-e0ad-4de4-9752-a0e12a29840e@88.216.182.15:2443?encryption=none&security=tls&flow=xtls-rprx-vision&type=tcp&sni=gie54.enterquality.online&fp=chrome#@VPsave
