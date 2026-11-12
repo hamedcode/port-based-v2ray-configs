@@ -1,4 +1,6 @@
 vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=online.shop.ir.eeso.cc#telegram:@pirozi_ArGaP
 vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=online.shop.ir.eeso.cc&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=online.shop.ir.eeso.cc#@v2ray_phoenix
-vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?security=tls&sni=online.shop.ir.eeso.cc&type=tcp#DE 🇩🇪 | @Raydikalx | B23472
+vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?security=tls&type=tcp&allowInsecure=1&sni=online.shop.ir.eeso.cc&fp=chrome#DE 🇩🇪 | @Raydikalx | B23472
+vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=online.shop.ir.eeso.cc&fp=chrome&encryption=none#DE 🇩🇪 | @Raydikalx | 21B7A4
+vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?allowInsecure=1&encryption=none&security=tls&sni=online.shop.ir.eeso.cc&type=tcp#🫆14@oneclickvpnkeys

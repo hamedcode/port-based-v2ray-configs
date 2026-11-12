@@ -1,6 +1,6 @@
-vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@xjpp.zjlo.top:36442?security=tls&type=raw&sni=xjpp.zjlo.top&flow=xtls-rprx-vision&fp=chrome#SG 🇸🇬 | @Raydikalx | DB4BC5
-vless://b743c868-b35c-4d91-b88b-d9efd7060b5c@xjpp.zjlo.top:36442?security=tls&sni=xjpp.zjlo.top&fp=chrome&flow=xtls-rprx-vision&type=tcp#SG 🇸🇬 | @Raydikalx | 2506E9
 vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&type=tcp#SG 🇸🇬 | @Raydikalx | 6FD090
+vless://b743c868-b35c-4d91-b88b-d9efd7060b5c@xjpp.zjlo.top:36442?security=tls&sni=xjpp.zjlo.top&fp=chrome&flow=xtls-rprx-vision&type=tcp#SG 🇸🇬 | @Raydikalx | 2506E9
 vless://2633cbab-e901-4f5a-9a0f-18ff319d0d70@xjpp.zjlo.top:36442?security=tls&sni=xjpp.zjlo.top&fp=chrome&flow=xtls-rprx-vision&type=tcp#SG 🇸🇬 | @Raydikalx | E82F55
+vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@xjpp.zjlo.top:36442?security=tls&type=raw&sni=xjpp.zjlo.top&flow=xtls-rprx-vision&fp=chrome#SG 🇸🇬 | @Raydikalx | DB4BC5
 vless://c6624b96-e346-490b-9145-74c2543a9483@140.245.62.225:36442?flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&fp=firefox&encryption=none&type=tcp#SG 🇸🇬 | @Raydikalx | FCE4D6
 vless://c6624b96-e346-490b-9145-74c2543a9483@xjpp.zjlo.top:36442?security=tls&sni=xjpp.zjlo.top&fp=chrome&flow=xtls-rprx-vision&type=tcp#SG 🇸🇬 | @Raydikalx | D131DE
