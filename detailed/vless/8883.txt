@@ -1,1 +1,2 @@
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:8883?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=vDVvkf5fv8QywL2zrBWYLhkBdrQCDW7dq8fh-YeBnBY&sid=ebdd94f3e17a4620&sni=calculator.aws#US 🇺🇸 | @Raydikalx | 1DC02E
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:8883?security=reality&encryption=none&pbk=vDVvkf5fv8QywL2zrBWYLhkBdrQCDW7dq8fh-YeBnBY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=calculator.aws&sid=ebdd94f3e17a4620#US 🇺🇸 | @Raydikalx | 1DC02E
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:8883?security=reality&encryption=none&pbk=vDVvkf5fv8QywL2zrBWYLhkBdrQCDW7dq8fh-YeBnBY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=calculator.aws&sid=ebdd94f3e17a4620#Channel id: @ConfigV2RayNG 🇺🇸

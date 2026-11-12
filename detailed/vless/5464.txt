@@ -1,1 +1,2 @@
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:5464?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Dv_9FO1focQJCvcUOspkZ5AGoZ4CxbTUp7dVKzt9LVA&sid=d07e9dcda8&sni=api.adidas.com#US 🇺🇸 | @Raydikalx | 3594AC
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:5464?security=reality&encryption=none&pbk=Dv_9FO1focQJCvcUOspkZ5AGoZ4CxbTUp7dVKzt9LVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.adidas.com&sid=d07e9dcda8#US 🇺🇸 | @Raydikalx | 3594AC
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:5464?security=reality&encryption=none&pbk=Dv_9FO1focQJCvcUOspkZ5AGoZ4CxbTUp7dVKzt9LVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.adidas.com&sid=d07e9dcda8#Channel id: @ConfigV2RayNG 🇺🇸

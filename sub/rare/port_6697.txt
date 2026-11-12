@@ -1,1 +1,1 @@
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:6697?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=qeuzgTUkTLMVZZ3AclsA1_Qn_xX9NFDzuNzJnotcMWY&sid=e718c0495c85dab2&sni=www.aboutamazon.sg#US 🇺🇸 | @Raydikalx | C2C46B
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:6697?security=reality&encryption=none&pbk=qeuzgTUkTLMVZZ3AclsA1_Qn_xX9NFDzuNzJnotcMWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.aboutamazon.sg&sid=e718c0495c85dab2#Channel id: @ConfigV2RayNG 🇺🇸
