@@ -1,3 +1,4 @@
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353/?type=tcp&encryption=none&flow=&security=tls&sni=in001.zestapp778.com&fp=firefox#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#ID 🇮🇩 | @Raydikalx | 8281C8
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353/?type=tcp&encryption=none&flow=&security=tls&sni=in001.zestapp778.com&fp=firefox#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?security=tls&type=tcp&sni=in001.zestapp778.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353/?type=tcp&encryption=none&flow=&security=tls&sni=in001.zestapp778.com&fp=firefox#ID 🇮🇩 | @Raydikalx | E1822C
