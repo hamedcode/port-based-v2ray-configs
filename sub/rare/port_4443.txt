@@ -1,3 +1,0 @@
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@lv3.nexfile.net:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=lv3.nexfile.net#@ConfigV2RayNG
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@lv3.nexfile.net:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=lv3.nexfile.net#YFZ 374 @Outline_Vpn
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.240:4443?type=xhttp&security=tls&fp=chrome&sni=lv3.nexfile.net&path=/api/v1/sync/&host=lv3.nexfile.net#@VPsave

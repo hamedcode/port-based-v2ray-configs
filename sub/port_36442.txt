@@ -1,10 +1,17 @@
-vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?encryption=none&flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&type=tcp&headerType=none#qoli_017
+vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#Channel id: @ConfigV2RayNG 🇸🇬
 vless://2633cbab-e901-4f5a-9a0f-18ff319d0d70@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#Channel id: @ConfigV2RayNG 🇸🇬
-vless://2633cbab-e901-4f5a-9a0f-18ff319d0d70@xjpp.zjlo.top:36442?encryption=none&flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&fp=chrome&type=tcp&headerType=none#qoli_026
-vless://c6624b96-e346-490b-9145-74c2543a9483@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#Channel id: @ConfigV2RayNG 🇸🇬
-vless://b743c868-b35c-4d91-b88b-d9efd7060b5c@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#Channel id: @ConfigV2RayNG 🇸🇬
-vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@xjpp.zjlo.top:36442?encryption=none&flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&fp=chrome&type=tcp&headerType=none#qoli_025
-vless://b743c868-b35c-4d91-b88b-d9efd7060b5c@xjpp.zjlo.top:36442?encryption=none&flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&fp=chrome&type=tcp&headerType=none#qoli_027
-vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=xjpp.zjlo.top&fp=firefox&type=tcp&headerType=none#qoli_016
-vless://c6624b96-e346-490b-9145-74c2543a9483@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#Channel id: @ConfigV2RayNG 🇸🇬
 vless://c6624b96-e346-490b-9145-74c2543a9483@140.245.62.225:36442?encryption=none&flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&fp=firefox&type=tcp&headerType=none#qoli_018
+vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@xjpp.zjlo.top:36442?encryption=none&flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&fp=chrome&type=tcp&headerType=none#qoli_025
+vless://c6624b96-e346-490b-9145-74c2543a9483@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#SG 🇸🇬 | @Raydikalx | FCE4D6
+vless://2633cbab-e901-4f5a-9a0f-18ff319d0d70@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#SG 🇸🇬 | @Raydikalx | E82F55
+vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@xjpp.zjlo.top:36442?security=tls&type=raw&sni=xjpp.zjlo.top&flow=xtls-rprx-vision&fp=chrome#SG 🇸🇬 | @Raydikalx | DB4BC5
+vless://b743c868-b35c-4d91-b88b-d9efd7060b5c@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#SG 🇸🇬 | @Raydikalx | 2506E9
+vless://b743c868-b35c-4d91-b88b-d9efd7060b5c@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#Channel id: @ConfigV2RayNG 🇸🇬
+vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?encryption=none&flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&type=tcp&headerType=none#qoli_017
+vless://c6624b96-e346-490b-9145-74c2543a9483@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#SG 🇸🇬 | @Raydikalx | D131DE
+vless://c6624b96-e346-490b-9145-74c2543a9483@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#Channel id: @ConfigV2RayNG 🇸🇬
+vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=xjpp.zjlo.top&fp=firefox&type=tcp&headerType=none#qoli_016
+vless://b743c868-b35c-4d91-b88b-d9efd7060b5c@xjpp.zjlo.top:36442?encryption=none&flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&fp=chrome&type=tcp&headerType=none#qoli_027
+vless://2633cbab-e901-4f5a-9a0f-18ff319d0d70@xjpp.zjlo.top:36442?encryption=none&flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&fp=chrome&type=tcp&headerType=none#qoli_026
+vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#SG 🇸🇬 | @Raydikalx | 6FD090
+vless://c6624b96-e346-490b-9145-74c2543a9483@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#Channel id: @ConfigV2RayNG 🇸🇬
