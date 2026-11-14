@@ -1,5 +1,6 @@
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@lv3.nexfile.net:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=lv3.nexfile.net#LV 🇱🇻 | @Raydikalx | 5E738C
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.240:4443?type=xhttp&security=tls&fp=chrome&sni=lv3.nexfile.net&path=/api/v1/sync/&host=lv3.nexfile.net#@VPsave
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.240:4443?type=xhttp&security=tls&fp=chrome&sni=lv3.nexfile.net&path=/api/v1/sync/&host=lv3.nexfile.net#LV 🇱🇻 | @Raydikalx | 0D8395
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@lv3.nexfile.net:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=lv3.nexfile.net#@ConfigV2RayNG
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@lv3.nexfile.net:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=lv3.nexfile.net#YFZ 374 @Outline_Vpn
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?encryption=none&security=tls&sni=bl1.nexfile.net&fp=chrome&type=xhttp&path=%2Fapi%2Fv1%2Fsync%2F&mode=auto#qoli_047
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.80.175:4443?encryption=none&fp=chrome&path=/api/v1/sync/&security=tls&sni=swo2.nexfile.net&type=xhttp#US 🇺🇸 | @Raydikalx | 41F078
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@de-apix.locallynet.org:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=de-apix.locallynet.org&alpn=h2,http/1.1#🇩🇪214195 | ⚡️Telegram = t.me/SOSkeyNET
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.80.175:4443?encryption=none&fp=chrome&path=/api/v1/sync/&security=tls&sni=swo2.nexfile.net&type=xhttp#@VPsave
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@de-apix.locallynet.org:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=de-apix.locallynet.org&alpn=h2,http/1.1#🇩🇪214244 | ⚡️Telegram = t.me/LonUp_M

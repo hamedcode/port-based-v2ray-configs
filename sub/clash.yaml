@@ -7,46 +7,71 @@ log-level: info
 proxies:
 - name: cfg-001
   type: vless
-  server: 51.158.206.97
-  port: 23576
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  server: 104.17.72.206
+  port: 443
+  uuid: 06ef598c-1555-4887-b3f9-08214a2f6792
   tls: true
-  network: tcp
+  network: ws
   udp: true
-  servername: fuck.rkn
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: '01'
+  servername: 2026.hhhhh.eu.org
+  ws-opts:
+    path: /222.167.202.31:7443
+    headers:
+      Host: 2026.hhhhh.eu.org
 - name: cfg-002
   type: vless
-  server: tg.riotvpn.eu
+  server: 167.82.64.46
   port: 443
-  uuid: a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a
+  uuid: 5ea68468-d58b-42e6-b433-9ea9cfbcac09
   tls: true
-  network: tcp
+  network: xhttp
   udp: true
-  servername: ads.x5.ru
+  servername: community.fastly.steamstatic.com
   client-fingerprint: chrome
-  reality-opts:
-    public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho
-    short-id: 2f49bccf11150ef2
 - name: cfg-003
-  type: vless
-  server: sundaylanzgem.site
-  port: 443
-  uuid: 50a87e21-f0e2-4b53-a787-91adfe748f63
-  tls: true
-  network: tcp
+  type: ss
+  server: 82.38.31.182
+  port: 8080
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
   udp: true
-  servername: sundaylanzgem.site
-  client-fingerprint: qq
-  reality-opts:
-    public-key: -BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20
-    short-id: ''
 - name: cfg-004
+  type: ss
+  server: 156.146.38.167
+  port: 443
+  cipher: aes-128-gcm
+  password: shadowsocks
+  udp: true
+- name: cfg-005
+  type: trojan
+  server: 66.163.118.244
+  port: 443
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  udp: true
+  sni: api.discovergreatjobsandadvanceyourcareer.com
+- name: cfg-006
+  type: trojan
+  server: 216.152.147.152
+  port: 443
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  udp: true
+- name: cfg-007
   type: vmess
-  server: 162.251.61.46
+  server: 104.19.47.80
+  port: 2086
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  udp: true
+  ws-opts:
+    path: github.com/Alvin9999
+    headers:
+      Host: ip14.freegradely.xyz
+- name: cfg-008
+  type: vmess
+  server: 162.251.62.35
   port: 1270
   uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
   alterId: 0
@@ -55,679 +80,360 @@ proxies:
   network: tcp
   udp: true
   servername: xmfhlpy.com
-- name: cfg-005
-  type: vless
-  server: 104.21.60.73
-  port: 443
-  uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e
-  tls: true
-  network: ws
-  udp: true
-  servername: fs.qicai99.com
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: fs.qicai99.com
-- name: cfg-006
-  type: vmess
-  server: 156.245.232.239
-  port: 35043
-  uuid: b15e481d-17e4-41a8-84c2-23d4f0514d9a
-  alterId: 0
-  cipher: auto
-  tls: false
-  network: ws
-  udp: true
-  ws-opts:
-    path: /
-    headers:
-      Host: 156.245.232.239
-- name: cfg-007
-  type: vmess
-  server: 172.67.200.107
-  port: 8443
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  cipher: auto
-  tls: true
-  network: ws
-  udp: true
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: 172.67.200.107
-- name: cfg-008
-  type: trojan
-  server: 104.18.22.208
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.multiplydose.com
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: 104.18.22.208
 - name: cfg-009
-  type: vmess
-  server: 172.67.142.191
-  port: 443
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  alterId: 0
-  cipher: auto
-  tls: true
-  network: ws
-  udp: true
-  ws-opts:
-    path: linkvws
-    headers:
-      Host: edeen.makeup
-- name: cfg-010
-  type: vmess
-  server: 104.17.4.149
-  port: 443
-  uuid: b3a21def-5fcc-47a8-a6a0-a34e29d5288a
-  alterId: 0
-  cipher: auto
-  tls: true
-  network: ws
-  udp: true
-  ws-opts:
-    path: /wss51068
-    headers:
-      Host: 104.17.4.149
-- name: cfg-011
-  type: vless
-  server: websaitiran.zorfel.ir
-  port: 443
-  uuid: 1c02c869-7538-4e49-acb0-11d2f64846f0
-  tls: true
-  network: xhttp
-  udp: true
-  servername: cdn.akamai.steamstatic.com
-  client-fingerprint: chrome
-- name: cfg-012
   type: vless
   server: 146.75.59.186
-  port: 443
-  uuid: 64ce5faf-427b-4dd1-926c-6b7ced6b8c38
-  tls: true
-  network: ws
-  udp: true
-  servername: cdn.akamai.steamstatic.com
-  ws-opts:
-    path: /
-    headers:
-      Host: copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.
-- name: cfg-013
-  type: vmess
-  server: de.zhou-yufan.com
-  port: 443
-  uuid: f38e591d-d13a-4c30-9763-6be3ad65f3ec
-  alterId: 0
-  cipher: auto
-  tls: true
-  network: tcp
-  udp: true
-  servername: de.zhou-yufan.com
-- name: cfg-014
-  type: ss
-  server: 57.131.4.13
-  port: 8080
-  cipher: chacha20-ietf-poly1305
-  password: mx81glqbtlwuhcjo
-  udp: true
-- name: cfg-015
-  type: vless
-  server: 2.59.21.188
-  port: 443
-  uuid: 218b7565-b3ca-432e-924d-9654ee980dbe
-  tls: true
-  network: tcp
-  udp: true
-  servername: tg-lovers-free.com
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: _0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I
-    short-id: f00f58383241c807
-- name: cfg-016
-  type: vless
-  server: 3h-kazakhstan1.09vpn.com
-  port: 8443
-  uuid: 2424febb-43cb-488d-bdd1-401e923c8e48
-  tls: true
-  network: ws
-  udp: true
-  ws-opts:
-    path: /vless/
-    headers:
-      Host: 3h-kazakhstan1.09vpn.com
-- name: cfg-017
-  type: vmess
-  server: 146.59.70.146
-  port: 443
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  alterId: 0
-  cipher: auto
-  tls: true
-  network: ws
-  udp: true
-  ws-opts:
-    path: linkvws
-    headers:
-      Host: yichueng.org
-- name: cfg-018
-  type: vless
-  server: 199.232.78.159
   port: 443
   uuid: 8d2cbffd-43d0-458d-906b-7c54b7b51f38
   tls: true
   network: ws
   udp: true
   servername: cdn.akamai.steamstatic.com
-  client-fingerprint: chrome
   ws-opts:
-    path: /
+    path: /?Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN
     headers:
-      Host: netherboijji.global.ssl.fastly.net.
-- name: cfg-019
-  type: vless
-  server: get.jarbook.net
-  port: 443
-  uuid: dd5bed0b-ee77-481b-9f2c-250a632ddd9f
-  tls: true
-  network: tcp
-  udp: true
-  servername: get.jarbook.net
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs
-    short-id: c6f97313
-- name: cfg-020
-  type: ss
-  server: 194.87.233.93
-  port: 46190
-  cipher: chacha20-ietf-poly1305
-  password: 2Ef8X21WALqK7H6N8A78j5WYtzZ999PP8rF8DaLsb5LLyDLQpf5dGVAjdA3mj1wudigKXTt5heYU9jmaBbfxXBJJAqhPHkxe
-  udp: true
-- name: cfg-021
-  type: vless
-  server: 146.75.59.186
-  port: 443
-  uuid: 97e0ea78-67ae-4984-8a14-a7d1a51e58de
-  tls: true
-  network: ws
-  udp: true
-  servername: cdn.akamai.steamstatic.com
-  ws-opts:
-    path: /
-    headers:
-      Host: copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.
-- name: cfg-022
-  type: ss
-  server: 82.38.31.202
-  port: 8080
-  cipher: chacha20-ietf-poly1305
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  udp: true
-- name: cfg-023
+      Host: ukoijji.global.ssl.fastly.net
+- name: cfg-010
   type: vmess
-  server: s1.connect.bloroxy.net
-  port: 1159
-  uuid: 2f1a500f-4ee9-4fef-ba53-0808ccf86b94
-  alterId: 0
-  cipher: auto
-  tls: false
-  network: tcp
-  udp: true
-- name: cfg-024
-  type: ss
-  server: 82.110.60.9
-  port: 19999
-  cipher: aes-256-gcm
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  udp: true
-- name: cfg-025
-  type: vless
-  server: render.com
-  port: 2095
-  uuid: 685b5831-59a3-4d14-9afe-199880ae43a0
-  tls: false
-  network: httpupgrade
-  udp: true
-- name: cfg-026
-  type: vless
-  server: 50.6.54.163
-  port: 443
-  uuid: dbf3f074-3b18-43f3-b82a-debd8c879c69
-  tls: true
-  network: tcp
-  udp: true
-  servername: www.apple.com
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: 2vd1kmOeZpjjDpgN75FMhwFRzPjNfzvLoUM5LlLrm2U
-    short-id: 26b26357bfcd59a1
-- name: cfg-027
-  type: vless
-  server: 157.22.185.68
-  port: 2058
-  uuid: 4ad9f982-b56a-444a-9684-35ce51307a36
-  tls: true
-  network: tcp
-  udp: true
-  servername: www.cloudflare.com
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s
-    short-id: 937255313d6ce673
-- name: cfg-028
-  type: ss
-  server: 15.235.164.133
-  port: 19999
-  cipher: aes-256-gcm
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  udp: true
-- name: cfg-029
-  type: vless
-  server: ru7e2bab87cc39.eu-cdn539.com
-  port: 443
-  uuid: e75ad2eb-6c1f-45ce-8023-f5f10875df66
-  tls: true
-  network: tcp
-  udp: true
-  servername: ru7e2bab87cc39.eu-cdn539.com
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4
-    short-id: 3992cc7fb9fcbe58
-- name: cfg-030
-  type: vmess
-  server: 47.244.120.197
-  port: 23026
-  uuid: b9de1bc9-baa7-41ac-86f7-ccd59695cb21
+  server: 104.19.40.58
+  port: 8880
+  uuid: 57e0cb4d-eae5-48ec-8091-149dc2b309e0
   alterId: 0
   cipher: auto
   tls: false
   network: ws
   udp: true
   ws-opts:
+    path: /d/65dd503.TG.WangCai2.WangCai_8:107690
+    headers:
+      Host: 104.19.40.58
+- name: cfg-011
+  type: vless
+  server: www.speedtest.net
+  port: 443
+  uuid: 157cb924-2adc-4f4e-9d54-ba105b6dff30
+  tls: true
+  network: ws
+  udp: true
+  servername: vip.hackers855.sbs
+  client-fingerprint: chrome
+  ws-opts:
     path: /
     headers:
-      Host: 47.244.120.197
-- name: cfg-031
-  type: vless
-  server: 5.253.30.168
-  port: 443
-  uuid: b0a6163d-a8a4-432c-91de-cf1ee6a91027
-  tls: true
-  network: tcp
-  udp: true
-  servername: www.ikea.com
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: pzL-sRds-39y5dcuMOSouVqiXSzOLWV36fBr1o8bYUA
-    short-id: c9e51a7f34
-- name: cfg-032
+      Host: vip.hackers855.sbs
+- name: cfg-012
   type: ss
-  server: 79.127.184.104
+  server: 167.17.67.171
   port: 19999
   cipher: aes-256-gcm
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   udp: true
-- name: cfg-033
+- name: cfg-013
   type: vless
-  server: 155.212.240.10
+  server: 185.227.137.69
   port: 443
-  uuid: f27b6f65-6e59-4f89-b929-afa397ca587f
-  tls: true
-  network: ws
-  udp: true
-  servername: n.bitpulse.me
-  client-fingerprint: chrome
-  ws-opts:
-    path: /019bcbad-3813-7cce-8786-3ac0e418f128?ed
-    headers:
-      Host: n.bitpulse.me
-- name: cfg-034
-  type: vless
-  server: 15.236.176.177
-  port: 22223
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-  tls: false
-  network: tcp
-  udp: true
-- name: cfg-035
-  type: vless
-  server: pl4.soshelper.space
-  port: 2053
-  uuid: 3a7849e7-8ef6-492f-860d-54dd6aae400a
-  tls: true
-  network: xhttp
-  udp: true
-  servername: pl4.soshelper.space
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE
-    short-id: e06e30590f288e0f
-- name: cfg-036
-  type: ss
-  server: 67.220.73.178
-  port: 19999
-  cipher: aes-256-gcm
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  udp: true
-- name: cfg-037
-  type: trojan
-  server: 169.197.140.171
-  port: 443
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  udp: true
-  sni: cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com
-- name: cfg-038
-  type: vless
-  server: pl3.fox-lisa.ru
-  port: 443
-  uuid: ccb8ff48-3934-4250-b4ec-bb76b95d154f
+  uuid: ea1dfd55-0ff7-4e42-970b-fb2725b1d7db
   tls: true
   network: tcp
   udp: true
-  servername: pl3.fox-lisa.ru
+  servername: www.digiturunc.com
   client-fingerprint: chrome
   reality-opts:
-    public-key: NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs
-    short-id: 027af64166562b09
-- name: cfg-039
+    public-key: D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU
+    short-id: d211e464747fdf2c
+- name: cfg-014
   type: vless
-  server: 47.253.226.114
-  port: 443
-  uuid: 055a1ce8-2a16-4a0d-a2c2-22826c9b2413
-  tls: true
-  network: tcp
-  udp: true
-  servername: www.cloudflare.com
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc
-    short-id: ''
-- name: cfg-040
-  type: vless
-  server: ee.subv.ru
-  port: 443
-  uuid: 90157e25-cee1-4217-921e-91f300bc1a24
-  tls: true
-  network: tcp
-  udp: true
-  servername: dvizhok.su
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs
-    short-id: 428ef87fd47a3a32
-- name: cfg-041
-  type: vless
-  server: 200.102.183.5
-  port: 8443
-  uuid: 664f65f4-33b3-43a3-b9e5-68192d1d428e
-  tls: true
-  network: tcp
-  udp: true
-  servername: 68r2nrw6avta71yq.cdn.cachefleet.com
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: N8QooY7tm45gPX-9AQVg8ZYCCYqqfaiX8NGM96IvTBI
-    short-id: ''
-- name: cfg-042
-  type: vless
-  server: 199.232.78.160
-  port: 443
-  uuid: 97e0ea78-67ae-4984-8a14-a7d1a51e58de
-  tls: true
-  network: ws
-  udp: true
-  servername: cdn.akamai.steamstatic.com
-  ws-opts:
-    path: /
-    headers:
-      Host: copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.
-- name: cfg-043
-  type: vless
-  server: discord.gg
-  port: 443
-  uuid: a75cb418-c1d6-476a-9464-ad1bd5181e3c
-  tls: true
-  network: ws
-  udp: true
-  servername: de.vpncustomize.Website
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: e.vpncustomize.Website
-- name: cfg-044
-  type: ss
-  server: 82.38.31.218
-  port: 8080
-  cipher: chacha20-ietf-poly1305
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  udp: true
-- name: cfg-045
-  type: trojan
-  server: 104.16.240.177
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.cordweave.com
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.cordweave.com
-- name: cfg-046
-  type: vless
-  server: 153.56.229.218
-  port: 443
-  uuid: ba0dbd83-3569-46dc-bc3d-ef6e58ffc97b
-  tls: true
-  network: tcp
-  udp: true
-  servername: 71b840t.de7.h1clayd.click
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: 3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE
-    short-id: e572b6579ea525d4
-- name: cfg-047
-  type: trojan
-  server: 66.163.114.126
-  port: 443
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  udp: true
-  sni: resources.findconnectwithemployersandbuildprofessionalnetwork.com
-- name: cfg-048
-  type: trojan
-  server: 146.75.57.120
-  port: 443
-  password: MiTiVPN
-  udp: true
-  sni: firefox.com
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: mitivpn--mitivpn.ac.ir
-- name: cfg-049
-  type: vless
-  server: 46.250.242.104
+  server: fs.qicai99.com
   port: 443
   uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e
   tls: true
   network: ws
   udp: true
   servername: fs.qicai99.com
+  client-fingerprint: chrome
   ws-opts:
-    path: /fp=chrome
+    path: /
     headers:
       Host: fs.qicai99.com
-- name: cfg-050
-  type: ss
-  server: 15.204.247.244
-  port: 4444
-  cipher: aes-256-gcm
-  password: pKEW8JPByTVTLtM
-  udp: true
-- name: cfg-051
-  type: trojan
-  server: 104.18.45.38
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.trusteeforward.com
+- name: cfg-015
+  type: vmess
+  server: get.tech
+  port: 80
+  uuid: 8763e625-929a-43da-b7bf-7e7bc2e57615
+  alterId: 0
+  cipher: auto
+  tls: false
   network: ws
+  udp: true
   ws-opts:
-    path: /assignment
+    path: /shared
     headers:
-      Host: www.trusteeforward.com
-- name: cfg-052
+      Host: lv.awsbest.com
+- name: cfg-016
   type: vless
-  server: 185.209.42.72
-  port: 2084
-  uuid: ca39b355-b488-9297-918f-9d011d075ba2
-  tls: true
-  network: xhttp
-  udp: true
-  servername: www.aparat.com
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: yeEgcP0ehhicUQZdFGJBhLuU3wsEMSRyg8l2voakZBs
-    short-id: 2f567c6d
-- name: cfg-053
-  type: trojan
-  server: kr1.sanfen001.pics
+  server: 162.159.198.1
   port: 443
-  password: 8800c518-e68a-4441-a45c-cd67855784c8
-  udp: true
-- name: cfg-054
-  type: vless
-  server: v1au.mateflora.com
-  port: 443
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
+  uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e
   tls: true
-  network: tcp
+  network: ws
   udp: true
-  servername: www.apple.com
+  servername: fs.qicai99.com
   client-fingerprint: chrome
-  reality-opts:
-    public-key: 7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo
-    short-id: 54cca3c1c1c7
-- name: cfg-055
-  type: trojan
-  server: mx001.zestapp778.com
-  port: 15083
-  password: 5t6i121em5lkmsmk
-  udp: true
-- name: cfg-056
-  type: trojan
-  server: 216.152.156.81
-  port: 443
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  udp: true
-  sni: www.healthcarejobshubenhancemedicalprofessionalskillstoday.com
-- name: cfg-057
-  type: trojan
-  server: 216.106.186.32
-  port: 443
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  udp: true
-  sni: blog.findlocaljobnetworkandbuildcommunityconnections.com
-  skip-cert-verify: true
-- name: cfg-058
-  type: vless
-  server: 15.204.97.206
-  port: 23576
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-  tls: true
-  network: tcp
-  udp: true
-  servername: fuck.rkn
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: '01'
-- name: cfg-059
-  type: vless
-  server: 45.91.138.179
-  port: 443
-  uuid: 11f21602-47aa-42e2-9149-69120f2e6df6
-  tls: true
-  network: tcp
-  udp: true
-  servername: us05.shifor01.life
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: 36sTeaLdaAjQQxxzh492XihoPi2YxmttQyncmLuxYHE
-    short-id: 169fc2df88419465
-- name: cfg-060
-  type: vless
-  server: 15.204.97.206
-  port: 23576
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-  tls: true
-  network: tcp
-  udp: true
-  servername: fuck.rkn
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: '01'
-- name: cfg-061
+  ws-opts:
+    path: /?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed
+    headers:
+      Host: fs.qicai99.com
+- name: cfg-017
   type: ss
-  server: 193.29.139.223
+  server: 82.38.31.219
   port: 8080
   cipher: chacha20-ietf-poly1305
   password: k1dBOmOB4oqi7Ump37a1bQ
   udp: true
-- name: cfg-062
+- name: cfg-018
+  type: ss
+  server: 51.79.228.131
+  port: 19999
+  cipher: aes-256-gcm
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  udp: true
+- name: cfg-019
   type: vless
-  server: f1.greewebservices.ir
+  server: wwww.qarvian.ir
   port: 443
-  uuid: a7e9fc98-25a2-4801-961c-7a6ed9d69328
+  uuid: 97e0ea78-67ae-4984-8a14-a7d1a51e58de
+  tls: true
+  network: ws
+  udp: true
+  servername: cdn.akamai.steamstatic.com
+  ws-opts:
+    path: /
+    headers:
+      Host: copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.
+- name: cfg-020
+  type: vmess
+  server: 172.64.150.57
+  port: 8080
+  uuid: e3fa5050-67f5-4625-a778-5d9283f4334f
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  udp: true
+  ws-opts:
+    path: /m3
+    headers:
+      Host: 172.64.150.57
+- name: cfg-021
+  type: vless
+  server: dey.lnmarketplace.net
+  port: 443
+  uuid: 3536e1fa-0850-44d1-b123-925ce12476cf
   tls: true
   network: xhttp
   udp: true
-  servername: default.ssl.fastly.net
+  servername: dey.lnmarketplace.net
   client-fingerprint: chrome
-- name: cfg-063
+- name: cfg-022
   type: vless
-  server: sundaylanzgem.site
+  server: dey.lnmarketplace.net
+  port: 443
+  uuid: 3536e1fa-0850-44d1-b123-925ce12476cf
+  tls: true
+  network: xhttp
+  udp: true
+  client-fingerprint: chrome
+- name: cfg-023
+  type: vless
+  server: 46.28.67.55
+  port: 443
+  uuid: d1a6a033-fdbd-46a6-a177-3370ba042b9f
+  tls: true
+  network: tcp
+  udp: true
+  servername: www.cloudflare.com
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU
+    short-id: d06d78e974491b6e
+- name: cfg-024
+  type: vmess
+  server: 162.251.60.97
+  port: 1270
+  uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
+  alterId: 0
+  cipher: auto
+  tls: true
+  network: tcp
+  udp: true
+  servername: xmfhlpy.com
+- name: cfg-025
+  type: vmess
+  server: 141.101.122.233
+  port: 2095
+  uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  udp: true
+  ws-opts:
+    path: /hgcefomn
+    headers:
+      Host: 141.101.122.233
+- name: cfg-026
+  type: vless
+  server: 87.199.205.28
+  port: 443
+  uuid: 501a2da5-cb22-4a3f-915e-e3b821d1d62d
+  tls: true
+  network: tcp
+  udp: true
+  servername: vkvd754.okcdn.ru
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw
+    short-id: b7cd177731793b1e
+- name: cfg-027
+  type: trojan
+  server: 193.108.119.15
+  port: 443
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  udp: true
+  sni: courses.iloverussia2026.com
+- name: cfg-028
+  type: vless
+  server: ov-france1.09vpn.com
+  port: 80
+  uuid: f5c47e9c-914a-4a91-a81e-a5a77bc10fc1
+  tls: false
+  network: ws
+  udp: true
+  ws-opts:
+    path: /vless/
+    headers:
+      Host: OV-France1.09vpn.com
+- name: cfg-029
+  type: ss
+  server: 216.106.178.169
+  port: 19999
+  cipher: aes-256-gcm
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  udp: true
+- name: cfg-030
+  type: vless
+  server: hollandlanzerotte.xyz
   port: 443
   uuid: 50a87e21-f0e2-4b53-a787-91adfe748f63
   tls: true
   network: tcp
   udp: true
-  servername: sundaylanzgem.site
+  servername: hollandlanzerotte.xyz
   client-fingerprint: chrome
   reality-opts:
-    public-key: -BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20
+    public-key: EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc
     short-id: ''
-- name: cfg-064
-  type: vmess
-  server: 172.67.70.22
+- name: cfg-031
+  type: vless
+  server: 167.82.67.27
   port: 443
-  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  uuid: 77b269b6-a70d-4bd4-a5b7-506b0b629a2c
+  tls: true
+  network: ws
+  udp: true
+  servername: cdn.akamai.steamstatic.com
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: looamamaaboijji.global.ssl.fastly.net
+- name: cfg-032
+  type: vless
+  server: 2.31.100.78
+  port: 13060
+  uuid: 679d0fcc-4c72-4073-8f1d-311b69ef72b5
+  tls: false
+  network: tcp
+  udp: true
+- name: cfg-033
+  type: vmess
+  server: 23.227.38.39
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
   alterId: 0
   cipher: auto
   tls: true
   network: ws
   udp: true
   ws-opts:
-    path: /AUIKN8AU
+    path: /5QNROSRV
     headers:
-      Host: 172.67.70.22
-- name: cfg-065
+      Host: oplg1.zhujicn2.com
+- name: cfg-034
+  type: trojan
+  server: 188.253.12.93
+  port: 47909
+  password: 4f4d1167-ef14-4304-9bce-0740472503ef
+  udp: true
+  sni: is.01.naiun.bilibili.com
+- name: cfg-035
   type: vless
-  server: 199.232.78.159
+  server: 57.129.41.216
+  port: 80
+  uuid: 7d90f043-ed7f-40c9-ac2f-352987904958
+  tls: false
+  network: ws
+  udp: true
+  ws-opts:
+    path: /vless/
+    headers:
+      Host: OV-Germany1.09vpn.com
+- name: cfg-036
+  type: vless
+  server: fbi.gov
+  port: 80
+  uuid: 493da04d-dca2-4306-acaf-f3005ea69392
+  tls: false
+  network: ws
+  udp: true
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: mtn.dgclix.ir
+- name: cfg-037
+  type: vmess
+  server: 141.101.115.111
   port: 443
-  uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d
+  uuid: f33957e8-372e-4fba-99ed-f4db32cce9e5
+  alterId: 0
+  cipher: auto
+  tls: true
+  network: ws
+  udp: true
+  ws-opts:
+    path: /ray
+    headers:
+      Host: fr2.cfcdn4.xyz
+- name: cfg-038
+  type: vless
+  server: 172.67.74.177
+  port: 443
+  uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e
+  tls: true
+  network: ws
+  udp: true
+  servername: fs.qicai99.com
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: fs.qicai99.com
+- name: cfg-039
+  type: vless
+  server: wwww.qarvian.ir
+  port: 443
+  uuid: 97e0ea78-67ae-4984-8a14-a7d1a51e58de
   tls: true
   network: ws
   udp: true
@@ -736,79 +442,480 @@ proxies:
     path: /
     headers:
       Host: copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.
-- name: cfg-066
+- name: cfg-040
   type: vless
-  server: 199.232.78.160
-  port: 443
-  uuid: 46cb8a26-0712-4e85-89bf-2538a2788652
-  tls: true
-  network: ws
-  udp: true
-  servername: firefox.com
-  ws-opts:
-    path: /
-    headers:
-      Host: copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.
-- name: cfg-067
-  type: vless
-  server: fbi.gov
-  port: 443
-  uuid: 93a7dcd7-9bba-4594-8de8-cc67726f877c
-  tls: true
-  network: ws
-  udp: true
-  servername: hamrah.dgclix.ir
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: fbi.gov
-- name: cfg-068
-  type: vless
-  server: static.66.192.105.178.clients.your-server.de.savfasf.ir
-  port: 41432
-  uuid: b96d7e04-4526-49e6-9862-80b78beb8430
-  tls: false
-  network: tcp
-  udp: true
-- name: cfg-069
-  type: vless
-  server: 4ba60e69c4fd291e.web.vipercloud.ir
-  port: 40287
-  uuid: 9517e5e2-c4e9-425d-9355-0a8a9cfbf330
-  tls: true
-  network: tcp
-  udp: true
-  servername: ask.w-ert.org
-  client-fingerprint: chrome
-- name: cfg-070
-  type: vless
-  server: 172.67.204.84
-  port: 80
-  uuid: e1a928be-e289-4aef-b92e-4106fabdf42f
+  server: 5.178.109.174
+  port: 14430
+  uuid: 80de563a-cac8-40ea-8cb0-4cb082dd92f9
   tls: false
   network: ws
   udp: true
   ws-opts:
-    path: /?ed=2048
+    path: /vless
     headers:
-      Host: mahi.kosnanatfilterchi.eu.org
-- name: cfg-071
+      Host: 5.178.109.174
+- name: cfg-041
   type: vless
-  server: 201.58.189.105
-  port: 2083
-  uuid: d7ddade6-b7a0-4cab-a910-d5d5c378d98a
+  server: 172.64.152.23
+  port: 2095
+  uuid: dca945d2-6d9b-434f-8754-3626a6a75e21
+  tls: false
+  network: httpupgrade
+  udp: true
+- name: cfg-042
+  type: vless
+  server: pl3.fox-lisa.ru
+  port: 443
+  uuid: ccb8ff48-3934-4250-b4ec-bb76b95d154f
+  tls: true
+  network: tcp
+  udp: true
+  servername: pl3.fox-lisa.ru
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs
+    short-id: 027af64166562b09
+- name: cfg-043
+  type: ss
+  server: dns24.m3hrzd.ir
+  port: 1349
+  cipher: chacha20-ietf-poly1305
+  password: byX4-DV0C42PLFTWQhMTAQ63mZ8qrDRB
+  udp: true
+- name: cfg-044
+  type: ss
+  server: 156.146.38.167
+  port: 443
+  cipher: aes-128-gcm
+  password: shadowsocks
+  udp: true
+- name: cfg-045
+  type: trojan
+  server: 167.88.61.85
+  port: 443
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  udp: true
+  sni: resources.browseseniorrolesandenhanceyourcareertoday.com
+- name: cfg-046
+  type: vless
+  server: ir2f2.artativa.ir
+  port: 1320
+  uuid: aab735db-4b69-4296-8e80-a190cded89ca
+  tls: true
+  network: tcp
+  udp: true
+  servername: soft98.ir
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: KZLp_cZajilUYAQ8guKDfeG_gJWKhqBV3d3ZL23PwDk
+    short-id: 9995846367252a27
+- name: cfg-047
+  type: vless
+  server: 78.159.250.83
+  port: 8443
+  uuid: 37af0181-5598-4aad-a040-d926bcb65757
+  tls: true
+  network: xhttp
+  udp: true
+  servername: earlytrain.net
+  client-fingerprint: chrome
+- name: cfg-048
+  type: vless
+  server: base.hosamobenl.co.uk
+  port: 443
+  uuid: 667016ca-f02e-4b5f-bfc3-3d8ed81e9bec
+  tls: true
+  network: tcp
+  udp: true
+  servername: base.hosamobenl.co.uk
+- name: cfg-049
+  type: vless
+  server: f1.greewebservices.ir
+  port: 443
+  uuid: 1ca12389-0d86-4197-a79a-49d24539ce05
+  tls: true
+  network: xhttp
+  udp: true
+  servername: cdn.akamai.steamstatic.com
+  client-fingerprint: chrome
+- name: cfg-050
+  type: vmess
+  server: 169.197.142.22
+  port: 18000
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: tcp
+  udp: true
+- name: cfg-051
+  type: ss
+  server: 149.40.57.134
+  port: 19999
+  cipher: aes-256-gcm
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  udp: true
+- name: cfg-052
+  type: trojan
+  server: 66.163.122.46
+  port: 443
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  udp: true
+  sni: searchnationwidecareerchangehelperandguidancetoday.com
+- name: cfg-053
+  type: vmess
+  server: 104.17.254.241
+  port: 8080
+  uuid: 4bb242a7-68db-4bb8-850a-0c112941f0cb
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  udp: true
+  ws-opts:
+    path: /13111/Nextlife
+    headers:
+      Host: n1w3napp4.clockdeny.eu
+- name: cfg-054
+  type: vless
+  server: yx.l110.us.ci
+  port: 443
+  uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e
+  tls: true
+  network: ws
+  udp: true
+  servername: fs.qicai99.com
+  ws-opts:
+    path: /fp
+    headers:
+      Host: fs.qicai99.com
+- name: cfg-055
+  type: vmess
+  server: 38.128.66.241
+  port: 1270
+  uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
+  alterId: 0
+  cipher: auto
+  tls: true
+  network: tcp
+  udp: true
+  servername: xmfhlpy.com
+- name: cfg-056
+  type: vless
+  server: 51.158.206.97
+  port: 23576
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  tls: true
+  network: tcp
+  udp: true
+  servername: fuck.rkn
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: ''
+- name: cfg-057
+  type: vless
+  server: 104.31.16.65
+  port: 2096
+  uuid: 281a5a7c-6530-4cd6-b0f2-a2666e6c3b36
   tls: true
   network: grpc
   udp: true
-  servername: dl.google.com
+  servername: tel.v-2rayngvpn.sbs
+  grpc-opts:
+    grpc-service-name: ''
+- name: cfg-058
+  type: ss
+  server: 202.50.253.63
+  port: 19999
+  cipher: aes-256-gcm
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  udp: true
+- name: cfg-059
+  type: vmess
+  server: 172.104.78.98
+  port: 443
+  uuid: 927094d3-d678-4763-8591-e240d0bcae87
+  alterId: 0
+  cipher: auto
+  tls: true
+  network: ws
+  udp: true
+  ws-opts:
+    path: /chat
+    headers:
+      Host: 172.104.78.98
+- name: cfg-060
+  type: vless
+  server: chatgpt.com
+  port: 443
+  uuid: c0dd2b42-41b1-4e9e-9876-e708b4204a6f
+  tls: true
+  network: ws
+  udp: true
+  servername: sk.subgift.cyou
+  client-fingerprint: unsafe
+  ws-opts:
+    path: /t.me-SubGift
+    headers:
+      Host: sk.subgift.cyou
+- name: cfg-061
+  type: vless
+  server: 45.144.112.55
+  port: 443
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+  tls: true
+  network: tcp
+  udp: true
+  servername: yahoo.com
   client-fingerprint: chrome
   reality-opts:
-    public-key: B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4
-    short-id: 8bd80253
-  grpc-opts:
-    grpc-service-name: google.storage.v2.Storage
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+- name: cfg-062
+  type: vmess
+  server: 38.64.138.135
+  port: 1270
+  uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
+  alterId: 0
+  cipher: auto
+  tls: true
+  network: tcp
+  udp: true
+  servername: xmfhlpy.com
+- name: cfg-063
+  type: vless
+  server: 5.253.42.164
+  port: 40443
+  uuid: e99ba96d-dec8-42eb-be53-19e71eef7cab
+  tls: true
+  network: tcp
+  udp: true
+  servername: deepl.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw
+    short-id: 68a8
+- name: cfg-064
+  type: vless
+  server: 195.206.235.121
+  port: 443
+  uuid: 4201786b-d99b-4147-a5f0-20d47acddb81
+  tls: true
+  network: tcp
+  udp: true
+  servername: 7aa271t.es1.h1clayd.click
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE
+    short-id: 42426c882c5fcd41
+- name: cfg-065
+  type: vless
+  server: 104.21.41.243
+  port: 443
+  uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e
+  tls: true
+  network: ws
+  udp: true
+  servername: fs.qicai99.com
+  client-fingerprint: chrome
+  ws-opts:
+    path: /?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
+    headers:
+      Host: fs.qicai99.com
+- name: cfg-066
+  type: vless
+  server: 104.24.196.20
+  port: 443
+  uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e
+  tls: true
+  network: ws
+  udp: true
+  servername: fs.qicai99.com
+  ws-opts:
+    path: /?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
+    headers:
+      Host: fs.qicai99.com
+- name: cfg-067
+  type: vless
+  server: 172.64.155.209
+  port: 8443
+  uuid: e8c61352-444f-4154-ba34-9d3141154a8d
+  tls: true
+  network: ws
+  udp: true
+  servername: maple.adaspoloandco.com
+  client-fingerprint: chrome
+  ws-opts:
+    path: /uploader.php
+    headers:
+      Host: maple.adaspoloandco.com
+- name: cfg-068
+  type: vless
+  server: 51.158.206.20
+  port: 23576
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  tls: true
+  network: tcp
+  udp: true
+  servername: fuck.rkn
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: '01'
+- name: cfg-069
+  type: vmess
+  server: 129.154.61.196
+  port: 800
+  uuid: a915b1d6-cf28-4dc8-e4b4-e09c48c37ec0
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: tcp
+  udp: true
+- name: cfg-070
+  type: vless
+  server: 46.29.161.126
+  port: 8080
+  uuid: FastKey_632672
+  tls: false
+  network: ws
+  udp: true
+  ws-opts:
+    path: /api
+    headers:
+      Host: google.com
+- name: cfg-071
+  type: ss
+  server: 172.99.189.142
+  port: 19999
+  cipher: aes-256-gcm
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  udp: true
 - name: cfg-072
+  type: vless
+  server: 2.59.21.188
+  port: 443
+  uuid: 2c114179-04b4-4958-b260-7030d12887de
+  tls: true
+  network: tcp
+  udp: true
+  servername: tg-lovers-free.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: _0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I
+    short-id: f00f58383241c807
+- name: cfg-073
+  type: vless
+  server: 51.158.206.93
+  port: 23576
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  tls: true
+  network: tcp
+  udp: true
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: ''
+- name: cfg-074
+  type: vless
+  server: 104.17.107.134
+  port: 8443
+  uuid: 99c3a53c-28b3-463f-89d7-63f04505eb32
+  tls: true
+  network: xhttp
+  udp: true
+  servername: www.66913.ir
+- name: cfg-075
+  type: vmess
+  server: dog-us.kunlun01dns.com
+  port: 21009
+  uuid: 9464ca40-dd75-3742-a628-d931a9f413b2
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: tcp
+  udp: true
+- name: cfg-076
+  type: vless
+  server: 51.158.206.103
+  port: 23576
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  tls: true
+  network: tcp
+  udp: true
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: '01'
+- name: cfg-077
+  type: vless
+  server: 51.158.206.20
+  port: 23576
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  tls: true
+  network: tcp
+  udp: true
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: ''
+- name: cfg-078
+  type: ss
+  server: 15.204.246.111
+  port: 5498
+  cipher: aes-256-gcm
+  password: lGqs95QkFHo2NV
+  udp: true
+- name: cfg-079
+  type: trojan
+  server: 158.247.253.243
+  port: 443
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  udp: true
+  sni: connectgraduateswithjobopeningsandgrowprofessionally.com
+  skip-cert-verify: true
+- name: cfg-080
+  type: trojan
+  server: 167.82.64.7
+  port: 443
+  password: MiTiVPN
+  udp: true
+  sni: cdn.akamai.steamstatic.com
+  network: ws
+  ws-opts:
+    path: /---@MiTiVPN---@MiTiVPN
+    headers:
+      Host: MiTiVPN-1-mitivpn.ac.ir
+- name: cfg-081
+  type: vless
+  server: 146.75.57.111
+  port: 443
+  uuid: 97e0ea78-67ae-4984-8a14-a7d1a51e58de
+  tls: true
+  network: ws
+  udp: true
+  servername: cdn.akamai.steamstatic.com
+  ws-opts:
+    path: /
+    headers:
+      Host: copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.
+- name: cfg-082
+  type: vless
+  server: 172.64.155.33
+  port: 443
+  uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e
+  tls: true
+  network: ws
+  udp: true
+  servername: fs.qicai99.com
+  ws-opts:
+    path: /?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
+    headers:
+      Host: fs.qicai99.com
+- name: cfg-083
   type: vless
   server: 62.210.91.2
   port: 23576
@@ -821,319 +928,177 @@ proxies:
   reality-opts:
     public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
     short-id: '01'
-- name: cfg-073
-  type: trojan
-  server: 169.197.140.224
-  port: 443
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  udp: true
-  sni: resources.discoverfreshgraduatejobsstartyourprofessionaljourney.com
-- name: cfg-074
-  type: trojan
-  server: 167.82.64.120
-  port: 443
-  password: MiTiVPN
-  udp: true
-  sni: firefox.com
-  network: ws
-  ws-opts:
-    path: /?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
-    headers:
-      Host: mitivpn--mitivpn.ac.ir
-- name: cfg-075
+- name: cfg-084
   type: vless
-  server: 15.204.97.206
-  port: 23576
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-  tls: true
-  network: tcp
-  udp: true
-  servername: fuck.rkn
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: '01'
-- name: cfg-076
-  type: vless
-  server: 104.24.223.66
-  port: 8080
-  uuid: 2b59f595-bc0e-4642-a542-e8e0fc8926b6
+  server: 95.129.234.108
+  port: 8443
+  uuid: b229d38c-35ec-4a0b-9c86-8fceba243d6c
   tls: false
-  network: ws
+  network: tcp
   udp: true
-  ws-opts:
-    path: /Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080
-    headers:
-      Host: join-to.vmessorg.Community.
-- name: cfg-077
+- name: cfg-085
   type: vless
-  server: 51.38.71.147
-  port: 443
-  uuid: fda89998-7e9a-4494-857a-cd0d00661b58
-  tls: true
-  network: ws
-  udp: true
-  servername: uk1.connectsuite.org
-  client-fingerprint: firefox
-  ws-opts:
-    path: /cdn-cgi/ws
-    headers:
-      Host: uk1.connectsuite.org
-- name: cfg-078
-  type: vless
-  server: 212.227.235.66
-  port: 2053
-  uuid: ead0dd61-d398-40ad-80d6-a0e1e516d7d3
+  server: 200.96.106.2
+  port: 9889
+  uuid: 0dcefe19-a42a-4d57-96be-83dcbffd425f
   tls: true
   network: tcp
   udp: true
-  servername: www.apple.com
+  servername: tiktok2.transitbp2systems.com
   client-fingerprint: chrome
   reality-opts:
-    public-key: 7Y6Xb5Ql_03K25x8yKUSOKI2JTOMyv2nyCcFza90uxk
-    short-id: 29e8dcd2b37aaa7f
-- name: cfg-079
-  type: ss
-  server: 216.105.168.18
-  port: 443
-  cipher: chacha20-ietf-poly1305
-  password: bQZl7HDxSabr1FurTYQHFU
-  udp: true
-- name: cfg-080
+    public-key: GPwEGfRBoztNbcAvfX4ojY9FJ1vaMD3v21tnIrN2xyE
+    short-id: ''
+- name: cfg-086
   type: vless
-  server: web-production-de397.up.railway.app
+  server: 162.159.198.1
   port: 443
-  uuid: b6f5e6e1-0719-41df-8ace-3c8d5b40034f
+  uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e
   tls: true
   network: ws
   udp: true
-  servername: web-production-de397.up.railway.app
+  servername: fs.qicai99.com
   client-fingerprint: chrome
   ws-opts:
-    path: /ws/b6f5e6e1-0719-41df-8ace-3c8d5b40034f
+    path: /fp=chrome
     headers:
-      Host: web-production-de397.up.railway.app
-- name: cfg-081
-  type: trojan
-  server: 216.152.155.54
-  port: 443
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  udp: true
-  sni: learn.nextjobopportunityandclaimyouridealrole.com
-- name: cfg-082
+      Host: fs.qicai99.com
+- name: cfg-087
   type: ss
-  server: 169.197.140.247
+  server: 82.38.31.186
+  port: 8080
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  udp: true
+- name: cfg-088
+  type: vless
+  server: 199.232.78.159
+  port: 443
+  uuid: 64ce5faf-427b-4dd1-926c-6b7ced6b8c38
+  tls: true
+  network: ws
+  udp: true
+  servername: cdn.akamai.steamstatic.com
+  ws-opts:
+    path: /
+    headers:
+      Host: copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.
+- name: cfg-089
+  type: vless
+  server: 199.232.78.160
+  port: 443
+  uuid: 64ce5faf-427b-4dd1-926c-6b7ced6b8c38
+  tls: true
+  network: ws
+  udp: true
+  servername: cdn.akamai.steamstatic.com
+  ws-opts:
+    path: /
+    headers:
+      Host: copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.
+- name: cfg-090
+  type: ss
+  server: 38.22.17.219
   port: 19999
   cipher: aes-256-gcm
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   udp: true
-- name: cfg-083
-  type: trojan
-  server: 170.101.101.237
-  port: 443
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  udp: true
-  sni: cdn.explorecreativejobsandenhanceyourcareerportfolio.com
-- name: cfg-084
-  type: vless
-  server: 13.140.56.100
-  port: 14430
-  uuid: 68512eac-cd53-4de3-8d1e-08f6e04af1a9
-  tls: false
-  network: ws
-  udp: true
-  servername: 13.140.56.100
-  ws-opts:
-    path: /vless
-    headers:
-      Host: 13.140.56.100
-- name: cfg-085
-  type: vless
-  server: 167.17.69.171
-  port: 443
-  uuid: 00144519-7e0d-476b-8d28-435576af9262
-  tls: true
-  network: tcp
-  udp: true
-  servername: www.cloudflare.com
-  reality-opts:
-    public-key: ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk
-    short-id: 0990d22f
-- name: cfg-086
-  type: vless
-  server: ww13.levikogjgfdd.ir
-  port: 23576
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-  tls: true
-  network: tcp
-  udp: true
-  servername: fuck.rkn
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: '01'
-- name: cfg-087
-  type: vless
-  server: assets.onecloudtraining.com
-  port: 443
-  uuid: 0ad875ef-b751-46e3-aa89-e1ae20e43bcc
-  tls: true
-  network: xhttp
-  udp: true
-  servername: assets.onecloudtraining.com
-  client-fingerprint: chrome
-- name: cfg-088
-  type: vless
-  server: 172.67.219.21
-  port: 443
-  uuid: 49c0ae46-767c-47d1-9703-8740e0c4b15a
-  tls: true
-  network: ws
-  udp: true
-  servername: flat-night-edd0.hosein9saleazhuongooyeh87.workers.dev
-  client-fingerprint: chrome
-  ws-opts:
-    path: /eyJqdW5rIjoiZU1pQlVqNTBYVmpTeDlCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19
-    headers:
-      Host: flat-night-edd0.hosein9saleazhuongooyeh87.workers.dev
-- name: cfg-089
-  type: vless
-  server: 198.16.113.218
-  port: 8443
-  uuid: 98a24806-141a-43d3-b094-bd66c4eb93b8
-  tls: true
-  network: tcp
-  udp: true
-  servername: www.apple.com
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: 8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE
-    short-id: 69984b9e02545831
-- name: cfg-090
-  type: ss
-  server: 185.226.172.8
-  port: 8008
-  cipher: aes-256-gcm
-  password: XKFKl2rULjIp74
-  udp: true
 - name: cfg-091
-  type: vmess
-  server: 172.64.152.150
-  port: 443
-  uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd
-  alterId: 0
-  cipher: auto
-  tls: true
-  network: ws
-  udp: true
-  ws-opts:
-    path: /dongtaiwang.com
-    headers:
-      Host: 172.64.152.150
-  servername: clash6.ssr-free.xyz
-- name: cfg-092
-  type: ss
-  server: 82.38.31.165
-  port: 443
-  cipher: chacha20-ietf-poly1305
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  udp: true
-- name: cfg-093
-  type: vmess
-  server: 104.31.16.32
-  port: 80
-  uuid: 8abe9496-5e24-4e49-b566-dcf86116017d
-  alterId: 0
-  cipher: auto
-  tls: false
-  network: ws
-  udp: true
-  ws-opts:
-    path: /i99LgvSaslbsPLLQQ7j6Z
-    headers:
-      Host: 104.31.16.32
-- name: cfg-094
   type: vless
-  server: wwww.qarvian.ir
+  server: static.235.252.201.195.clients.your-server.de
+  port: 443
+  uuid: 310bf38e-fffc-4847-8e24-d3b3e4609e34
+  tls: true
+  network: tcp
+  udp: true
+  servername: static.251.198.75.5.clients.your-server.de
+  client-fingerprint: chrome
+- name: cfg-092
+  type: vless
+  server: 144.31.140.125
+  port: 8443
+  uuid: f5e70ce3-cfb4-4df1-b25c-d19bfae627c0
+  tls: true
+  network: tcp
+  udp: true
+  servername: twitch.tv
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: wgyw3OxZw4HEzedNdY_eHdcVkrtT7GEeZSHfzcZ8iDo
+    short-id: 168c15efac9df5fd
+- name: cfg-093
+  type: vless
+  server: 146.75.59.186
   port: 443
   uuid: 97e0ea78-67ae-4984-8a14-a7d1a51e58de
   tls: true
   network: ws
   udp: true
   servername: cdn.akamai.steamstatic.com
-  client-fingerprint: chrome
   ws-opts:
-    path: /
+    path: /?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
     headers:
-      Host: copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.
+      Host: copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.
+- name: cfg-094
+  type: trojan
+  server: 188.114.97.6
+  port: 443
+  password: mitivpn
+  udp: true
+  sni: global.fastly.com.mitivpn-a.site
+  network: ws
+  ws-opts:
+    path: /?mitivpn
+    headers:
+      Host: sdasdfgv.global.ssl.fastly.net.mitivpn-a.site
 - name: cfg-095
-  type: vless
-  server: 199.232.78.159
+  type: ss
+  server: 141.98.101.178
   port: 443
-  uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d
-  tls: true
-  network: ws
+  cipher: aes-128-gcm
+  password: shadowsocks
   udp: true
-  servername: cdn.akamai.steamstatic.com
-  ws-opts:
-    path: /
-    headers:
-      Host: copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.
 - name: cfg-096
-  type: vless
-  server: sundaylanzgem.site
-  port: 443
-  uuid: 50a87e21-f0e2-4b53-a787-91adfe748f63
-  tls: true
-  network: tcp
-  udp: true
-  servername: sundaylanzgem.site
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: -BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20
-    short-id: ''
-- name: cfg-097
-  type: vless
-  server: 140.245.62.225
-  port: 36442
-  uuid: 5269e0b4-0dff-4f97-e0c7-83130bacb009
-  tls: true
-  network: tcp
-  udp: true
-  servername: xjpp.zjlo.top
-- name: cfg-098
-  type: vless
-  server: 49.12.68.40
-  port: 8443
-  uuid: c4128967-9ba4-445d-a7aa-d38b4fed547a
-  tls: true
-  network: tcp
-  udp: true
-  servername: static.40.68.12.49.clients.your-server.de
-  client-fingerprint: chrome
-- name: cfg-099
   type: vmess
-  server: 172.64.153.150
+  server: 172.67.169.131
   port: 443
-  uuid: bf4619e4-01dc-48ca-be08-0976b54968ce
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
   alterId: 0
   cipher: auto
   tls: true
   network: ws
   udp: true
   ws-opts:
-    path: /dongtaiwang.com
+    path: /AUIKN8AU
     headers:
-      Host: lg5.zhujicn2.com
+      Host: oplg1.cfcdn2.xyz
+- name: cfg-097
+  type: trojan
+  server: 66.163.118.166
+  port: 443
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  udp: true
+  sni: learn.discovergreatjobsandadvanceyourcareer.com
+- name: cfg-098
+  type: ss
+  server: 152.53.1.57
+  port: 8388
+  cipher: chacha20-ietf-poly1305
+  password: AdawffFMHymlasRb0VOP3HFf7sTG5sJx
+  udp: true
+- name: cfg-099
+  type: trojan
+  server: 170.101.101.237
+  port: 443
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  udp: true
+  sni: cdn.explorecreativejobsandenhanceyourcareerportfolio.com
 - name: cfg-100
-  type: vmess
-  server: 169.197.142.22
-  port: 18000
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-  alterId: 0
-  cipher: auto
-  tls: false
-  network: tcp
+  type: ss
+  server: 82.38.31.182
+  port: 8080
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
   udp: true
 proxy-groups:
 - name: PROXY

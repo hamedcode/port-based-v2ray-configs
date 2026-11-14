@@ -1,0 +1,2 @@
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@5.59.204.26:51443?alpn=h2,h3,http/1.1&host=lv.nebulaguard.org&path=/trojan/&security=tls&sni=lv.nebulaguard.org&type=ws#@VPsave
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@5.59.204.26:51443?security=tls&sni=lv.nebulaguard.org&alpn=h2,h3,http/1.1&fp=chrome&type=ws&host=lv.nebulaguard.org&path=/trojan/#@VPsave
