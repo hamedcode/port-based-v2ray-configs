@@ -1,8 +1,8 @@
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.80.175:4443?encryption=none&fp=chrome&path=/api/v1/sync/&security=tls&sni=swo2.nexfile.net&type=xhttp#@VPsave
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.80.175:4443?encryption=none&fp=chrome&path=/api/v1/sync/&security=tls&sni=swo2.nexfile.net&type=xhttp#US 🇺🇸 | @Raydikalx | 41F078
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@swo2.nexfile.net:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&host=swo2.nexfile.net&fp=chrome&type=xhttp&sni=swo2.nexfile.net#@v2ray_phoenix
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@swo2.nexfile.net:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&host=swo2.nexfile.net&fp=chrome&type=xhttp&allowInsecure=0&sni=swo2.nexfile.net#@meliproxyy
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?encryption=none&security=tls&sni=bl1.nexfile.net&fp=chrome&type=xhttp&path=%2Fapi%2Fv1%2Fsync%2F&mode=auto#qoli_047
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@swo2.nexfile.net:4443?mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&encryption=none&insecure=0&host=swo2.nexfile.net&fp=chrome&type=xhttp&allowInsecure=0&sni=swo2.nexfile.net#US 🇺🇸 | @Raydikalx | 7F1B58
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@swo2.nexfile.net:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&host=swo2.nexfile.net&fp=chrome&type=xhttp&allowInsecure=0&sni=swo2.nexfile.net#@ICV2RAY
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?encryption=none&security=tls&sni=bl1.nexfile.net&fp=chrome&type=xhttp&path=%2Fapi%2Fv1%2Fsync%2F&mode=auto#qoli_047
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.80.175:4443?encryption=none&fp=chrome&path=/api/v1/sync/&security=tls&sni=swo2.nexfile.net&type=xhttp#US 🇺🇸 | @Raydikalx | 41F078
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.80.175:4443?encryption=none&fp=chrome&path=/api/v1/sync/&security=tls&sni=swo2.nexfile.net&type=xhttp#@VPsave
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@swo2.nexfile.net:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&host=swo2.nexfile.net&fp=chrome&type=xhttp&allowInsecure=0&sni=swo2.nexfile.net#@MIGMIGVPNSHOP
