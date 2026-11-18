@@ -1,0 +1,1 @@
+vless://89573ddc-bc74-49d3-a1bf-96c293d07cea@ide.vipvirtualnet.eu:9990?security=tls&alpn=h2,http/1.1,h3&encryption=none&authority=/Ox-Secure&insecure=0&fp=chrome&type=grpc&serviceName=Aparat-stream&allowInsecure=0&sni=ide.vipvirtualnet.eu#@ConfigV2RayNG
