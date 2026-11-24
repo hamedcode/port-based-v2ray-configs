@@ -1,2 +1,1 @@
 vless://748fd766-274b-4026-8bfe-034ed4ffe58f@sv.fn.clients.fimrel.ir:29086?encryption=mlkem768x25519plus.native.0rtt.9ifdcMCsJ-bMvc9ealWuadeq1_iASTHy8hetUix-nTM&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=sv.fn.clients.fimrel.ir#⚡️ @v2rayToXIC_bot 🇫🇮
-vless://748fd766-274b-4026-8bfe-034ed4ffe58f@sv.fn.clients.fimrel.ir:29086?security=tls&encryption=mlkem768x25519plus.native.0rtt.9ifdcMCsJ-bMvc9ealWuadeq1_iASTHy8hetUix-nTM&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sv.fn.clients.fimrel.ir#@ConfigV2RayNG

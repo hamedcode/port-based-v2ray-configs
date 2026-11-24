@@ -1,2 +1,1 @@
 vless://32ea050a-1981-4ed2-b63f-77e0f53c4b65@cdn4.velmoradigital.store:2443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cdn4.velmoradigital.store#@TEHRANARGO 🍁
-vless://32ea050a-1981-4ed2-b63f-77e0f53c4b65@89.41.182.79:2443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn4.velmoradigital.store&allowInsecure=1&fp=chrome&packetEncoding=xudp#🇷🇴19@exclavevpn
