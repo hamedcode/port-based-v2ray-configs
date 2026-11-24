@@ -1,0 +1,2 @@
+vless://8b7a8f61-74c0-491f-bbba-ea153edb1a4b@185.71.216.94:2093?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://8b7a8f61-74c0-491f-bbba-ea153edb1a4b@185.71.216.95:2093?security=reality&encryption=none&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=8a9725533854a7e8#@meliproxyy
