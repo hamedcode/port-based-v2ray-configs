@@ -1,8 +1,5 @@
-vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?sni=djj.zjlo.top&flow=xtls-rprx-vision&fp=firefox&security=tls#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?sni=djj.zjlo.top&flow=xtls-rprx-vision&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?security=tls&type=tcp&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision&encryption=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://f67b1159-a61f-4ae4-9844-0701b716a290@djj.zjlo.top:23169?security=tls&type=tcp&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://9da605d3-f5f7-4135-f806-450f036f9351@155.248.175.201:23169?security=tls&type=tcp&packetEncoding=none&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://f67b1159-a61f-4ae4-9844-0701b716a290@155.248.175.201:23169?security=tls&type=tcp&sni=djj.zjlo.top&fp=firefox&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?sni=djj.zjlo.top&flow=xtls-rprx-vision&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?sni=djj.zjlo.top&flow=xtls-rprx-vision&fp=chrome&security=tls#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
-vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?sni=djj.zjlo.top&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20914735
+vless://3eb053cb-d6f8-4b31-8180-222e1cc6f8ff@djj.zjlo.top:23169?security=tls&type=raw&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision#JP 🇯🇵 | @Raydikalx | A1D5B6
+vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?sni=djj.zjlo.top&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20686773
+vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=djj.zjlo.top#@ConfigV2RayNG
