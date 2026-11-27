@@ -1,2 +1,1 @@
 vless://d131b694-e9ce-4de5-b4eb-ecd24d5eac54@irann.qarlumo.ir:7555?encryption=mlkem768x25519plus.native.0rtt.F89o37wmkxmwORAe5QXEqdjX7DO7wnXnBRsmnwkFuS0&security=tls&type=ws&headerType=none&path=/host&host=tur.qarlumo.ir&sni=tur.qarlumo.ir#@VPsave
-vless://d131b694-e9ce-4de5-b4eb-ecd24d5eac54@irann.qarlumo.ir:7555?encryption=mlkem768x25519plus.native.0rtt.F89o37wmkxmwORAe5QXEqdjX7DO7wnXnBRsmnwkFuS0&security=tls&type=ws&headerType=none&path=/host&host=tur.qarlumo.ir&sni=tur.qarlumo.ir#@V2rayNPVTConfig
