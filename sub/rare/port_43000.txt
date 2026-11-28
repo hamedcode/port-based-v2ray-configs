@@ -1,3 +1,2 @@
-vless://01e61db7-9e0b-4431-a995-a5288a01b951@147.45.66.208:43000?security=reality&encryption=none&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=147.45.66.208&sid=4d3d8e15#@ICV2RAY
-vless://01e61db7-9e0b-4431-a995-a5288a01b951@147.45.66.208:43000?security=reality&encryption=none&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=147.45.66.208&sid=4d3d8e15#@v2ray_phoenix
 vless://4a923161-156f-4914-8cac-762fb2433bfb@45.91.54.162:43000?security=reality&encryption=none&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=45.91.54.162&sid=ee4ea980#@V2raySaman
+vless://01e61db7-9e0b-4431-a995-a5288a01b951@147.45.66.208:43000?security=reality&encryption=none&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=147.45.66.208&sid=4d3d8e15#@v2ray_phoenix
